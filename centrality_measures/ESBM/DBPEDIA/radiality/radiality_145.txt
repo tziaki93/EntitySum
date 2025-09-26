@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/Category:Musicians_from_Milan	0.3381530343007916
+http://dbpedia.org/resource/Category:Italian_classical_composers	0.3941929133858268
+http://dbpedia.org/resource/Category:1760_deaths	0.3695928019379398
+http://dbpedia.org/resource/Category:Italian_male_classical_composers	0.4357405140758874
+http://dbpedia.org/resource/Category:18th-century_classical_composers	0.41029581252401076
+http://dbpedia.org/resource/Category:Italian_male_composers	0.40065024384144055
+http://dbpedia.org/resource/Category:1680s_births	0.3418329243571962
+http://dbpedia.org/resource/Category:Peruvian_composers	0.3305478180129991
+http://dbpedia.org/resource/Category:Baroque_composers	0.3286490922145861
+Roque Ceruti	0.2825646000529147
+Roque	89.0
+Ceruti	1068.0
+http://www.wikidata.org/entity/Q215627	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/ontology/Agent	0.0
+http://www.wikidata.org/entity/Q5	0.0
+http://schema.org/Person	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/ontology/Person	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+1683	33.03092783505155
+1760	0.26316221765913755
+Italian composer	0.23780895123580495
+Italian composer	0.23780895123580495
+Ceruti, Roque	0.0
+Roque Ceruti	0.2825646000529147
+1760	0.26316221765913755
+1683	33.03092783505155

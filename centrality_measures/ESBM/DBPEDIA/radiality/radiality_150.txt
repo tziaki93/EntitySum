@@ -1,0 +1,50 @@
+United Kingdom	0.3398940787484517
+22px|link=Kingdom of Holland	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.2968383466524021
+http://dbpedia.org/class/yago/Activity100407535	0.513010375325333
+http://dbpedia.org/class/yago/Abstraction100002137	0.2815862365424581
+http://dbpedia.org/ontology/MilitaryConflict	0.38684232143134656
+http://dbpedia.org/class/yago/NavalBattle100958477	0.34217146178664776
+http://dbpedia.org/class/yago/Attack100972621	0.3382314404122951
+http://dbpedia.org/class/yago/Event100029378	0.30206030978322107
+http://www.wikidata.org/entity/Q1656682	0.2815862365424581
+http://dbpedia.org/class/yago/Penetration100975452	0.33529093697504053
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.2815862365424581
+http://dbpedia.org/class/yago/Operation100955060	0.40875044277681466
+http://dbpedia.org/class/yago/NavalBattlesInvolvingTheUnitedKingdom	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.292362778507657
+http://dbpedia.org/class/yago/NavalBattlesOfTheNapoleonicWars	0.0
+http://dbpedia.org/ontology/Event	0.2815862365424581
+http://dbpedia.org/class/yago/MilitaryRaids	0.0
+http://schema.org/Event	0.2815862365424581
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.38083342075814797
+http://dbpedia.org/class/yago/Foray100976953	0.33349793388034304
+http://dbpedia.org/class/yago/GroupAction101080366	0.4062554644968
+http://dbpedia.org/class/yago/NavalBattlesInvolvingTheNetherlands	0.0
+http://www.w3.org/2002/07/owl#Thing	0.2925635514960207
+http://dbpedia.org/class/yago/Conflict100958896	0.38340517573333155
+http://dbpedia.org/class/yago/Act100030358	0.43338490160574644
+http://dbpedia.org/class/yago/ConflictsIn1807	0.0
+http://dbpedia.org/class/yago/Battle100953559	0.3514045493321609
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.2815862365424581
+None	0.33434326765882
+British victory	0.33417526821091714
+http://dbpedia.org/resource/Dutch_East_Indies	0.3442066919256769
+http://dbpedia.org/resource/Gresik_Regency	0.33711375908588764
+http://dbpedia.org/resource/Java	0.3459294303565012
+Raid on Griessie	0.33295053273613895
+http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth	0.33876869356933437
+Raid on Griessie	0.33295053273613895
+http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg	0.3378353487704767
+1807-12-11	0.3329543500277072
+http://dbpedia.org/resource/Napoleonic_Wars	0.3919555148654941
+http://dbpedia.org/resource/Archibald_Cochrane_(Royal_Navy_officer)	0.33296707496512584
+http://dbpedia.org/resource/Category:Military_raids	0.33315042197077754
+http://dbpedia.org/resource/Category:Naval_battles_involving_the_Netherlands	0.3333869063677291
+http://dbpedia.org/resource/Category:Naval_battles_of_the_Napoleonic_Wars	0.3332969900074982
+http://dbpedia.org/resource/Category:1807_in_Asia	0.3333626688145341
+http://dbpedia.org/resource/Category:Naval_battles_involving_the_United_Kingdom	0.3335183607843888
+http://dbpedia.org/resource/Category:Conflicts_in_1807	0.33343666817841716
+Twoships of the line, twofrigates and four smaller ships	0.0
+Two out of commissionships of the lineand shore defences	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg?width=300	0.3329537138063673

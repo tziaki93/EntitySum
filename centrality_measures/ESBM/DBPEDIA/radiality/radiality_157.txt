@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Animal	0.2907867797601638
+http://dbpedia.org/resource/Gonyosoma	0.46064031876940187
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/class/yago/Snake101726692	0.34581470982104034
+http://dbpedia.org/class/yago/Chordate101466257	0.6886830028573903
+http://dbpedia.org/class/yago/Diapsid101661818	0.36745668745668747
+http://dbpedia.org/class/yago/LivingThing100004258	0.33615945765462674
+http://dbpedia.org/class/yago/Reptile101661091	0.48975369458128076
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/class/yago/ColubridSnake101727646	0.3368257006614888
+http://www.w3.org/2002/07/owl#Thing	0.3648909034187877
+http://dbpedia.org/class/yago/Colubrids	0.0
+http://dbpedia.org/ontology/Eukaryote	0.32893028180081224
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.33615945765462674
+http://dbpedia.org/class/yago/Whole100003553	0.33615945765462674
+http://dbpedia.org/ontology/Animal	0.28289122687210566
+http://dbpedia.org/class/yago/Object100002684	0.33615945765462674
+http://dbpedia.org/class/yago/Animal100015388	0.44728880090879436
+http://dbpedia.org/class/yago/Vertebrate101471682	0.6897341172797752
+http://dbpedia.org/ontology/Reptile	0.3737242740343953
+http://dbpedia.org/ontology/Species	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.33615945765462674
+http://dbpedia.org/resource/Squamata	0.4901581354072942
+http://dbpedia.org/resource/Snake	0.3872249269717624
+http://dbpedia.org/resource/Colubridae	0.4808473592571097
+http://dbpedia.org/resource/Chordate	0.3514657663788456
+http://dbpedia.org/resource/Category:Colubrids	0.33610263604939106
+http://dbpedia.org/resource/Reptile	0.3731281666353913
+Gonyosoma hodgsoni	0.31671245968223627
+Gonyosoma hodgsoni	0.31671245968223627
+Elaphe hodgsoni	0.0
