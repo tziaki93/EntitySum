@@ -1,0 +1,5 @@
+Chang <http://data.linkedmdb.org/resource/movie/genre> Indie (Film Genre).
+Chang <http://data.linkedmdb.org/resource/movie/cinematographer> Ernest B. Schoedsack (Cinematographer).
+Chang director Merian C. Cooper (Director).
+Chang <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Chang <http://data.linkedmdb.org/resource/movie/producer> Merian C. Cooper (Producer).

@@ -1,0 +1,10 @@
+Chang <http://data.linkedmdb.org/resource/movie/genre> Indie (Film Genre).
+Ernest B. Schoedsack (Director) <http://xmlns.com/foaf/0.1/made> Chang.
+Chang <http://data.linkedmdb.org/resource/movie/writer> Achmed Abdullah (Writer).
+Chang <http://data.linkedmdb.org/resource/movie/cinematographer> Ernest B. Schoedsack (Cinematographer).
+Chang <http://data.linkedmdb.org/resource/movie/runtime> 64.
+Chang director Merian C. Cooper (Director).
+Chang <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Chang <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en>.
+film_film_distributor_relationship #4642 <http://data.linkedmdb.org/resource/movie/film_of_distributor> Chang.
+Chang <http://data.linkedmdb.org/resource/movie/producer> Merian C. Cooper (Producer).
