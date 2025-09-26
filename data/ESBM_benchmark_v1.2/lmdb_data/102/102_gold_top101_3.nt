@@ -1,0 +1,10 @@
+Megaville <http://www.w3.org/2000/01/rdf-schema#label> Megaville.
+Megaville <http://data.linkedmdb.org/resource/movie/film_cut> Film Cut #18945.
+Megaville <http://data.linkedmdb.org/resource/movie/editor> Pietro Scalia (Editor).
+Megaville <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Megaville <http://data.linkedmdb.org/resource/movie/story_contributor> Philip K. Dick (Film Story Contributor).
+Megaville <http://purl.org/dc/terms/title> Megaville.
+Megaville <http://data.linkedmdb.org/resource/movie/film_story_contributor> Philip K. Dick (Film Story Contributor).
+Megaville <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville>.
+Megaville <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en>.
+Megaville <http://data.linkedmdb.org/resource/movie/runtime> 95.

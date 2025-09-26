@@ -1,0 +1,10 @@
+Men in White <http://data.linkedmdb.org/resource/movie/producer> Monta Bell (Producer).
+Men in White actor Jean Hersholt (Actor).
+Men in White <http://www.w3.org/2000/01/rdf-schema#label> Men in White.
+Men in White <http://data.linkedmdb.org/resource/movie/story_contributor> Sidney Kingsley (Film Story Contributor).
+Men in White <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047968f5>.
+Men in White <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Men in White director Ryszard BolesÅawski (Director).
+Men in White <http://data.linkedmdb.org/resource/movie/writer> Waldemar Young (Writer).
+Ryszard BolesÅawski (Director) <http://xmlns.com/foaf/0.1/made> Men in White.
+Men in White <http://data.linkedmdb.org/resource/movie/genre> Drama (Film Genre).

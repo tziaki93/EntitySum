@@ -1,0 +1,10 @@
+Briana Loves Jenna director Jay Grdina (Director).
+Briana Loves Jenna <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Briana Loves Jenna actor Jenna Jameson (Actor).
+Briana Loves Jenna actor Shay Sweet (Actor).
+Briana Loves Jenna actor Briana Banks (Actor).
+Briana Loves Jenna <http://data.linkedmdb.org/resource/movie/performance> performance #70953.
+Briana Loves Jenna <http://data.linkedmdb.org/resource/movie/performance> performance #72536.
+Jay Grdina (Director) <http://xmlns.com/foaf/0.1/made> Briana Loves Jenna.
+Briana Loves Jenna <http://data.linkedmdb.org/resource/movie/producer> Jay Grdina (Producer).
+Briana Loves Jenna <http://data.linkedmdb.org/resource/movie/producer> Jenna Jameson (Producer).

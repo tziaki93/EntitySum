@@ -1,0 +1,5 @@
+Megaville actor Billy Zane (Actor).
+Megaville <http://www.w3.org/2000/01/rdf-schema#label> Megaville.
+Megaville <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Megaville <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en>.
+Megaville <http://data.linkedmdb.org/resource/movie/runtime> 95.
