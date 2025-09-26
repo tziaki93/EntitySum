@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/World_War_II	2.4269291665328917e-05
+1941-10-22	0.0003136339993659913
+http://dbpedia.org/resource/Admiral	0.03936989871729177
+Convoy HX 156	9.420440395778824e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg	0.00048802360382312813
+25pxGermany	0.0002480898265089168
+25pxUnited Kingdom	0.0002832693011993314
+http://dbpedia.org/resource/Atlantic_Ocean	0.14038678559473747
+Convoy HX.156	9.420440395778824e-06
+16 escorts	1.5300377681579254e-05
+52 merchant ships	9.420440395778824e-06
+http://dbpedia.org/ontology/MilitaryConflict	0.28836897663901373
+http://schema.org/Event	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.7049936689103118e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/SocietalEvent	1.0097715462093049e-05
+http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II	0.000693297623198847
+http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300	0.0002134683962350026

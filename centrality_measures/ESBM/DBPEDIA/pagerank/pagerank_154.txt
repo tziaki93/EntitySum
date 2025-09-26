@@ -1,0 +1,70 @@
+http://dbpedia.org/resource/Mike_Fratello	0.0008565135274342394
+http://dbpedia.org/resource/Angela_Atwood	0.0002985961043563994
+Borough of North Haledon	2.439151119135589e-06
+North Haledon, New Jersey	3.845540317947757e-06
+http://dbpedia.org/resource/Borough_(New_Jersey)	0.0007970332651373337
+Mayor	0.17007033119397597
+Clerk	0.0028856204201581238
+http://commons.wikimedia.org/wiki/Special:FilePath/North_haledon_nj.png	7.249229198009705e-06
+940.8537399362322	Key not found
+940.9	Key not found
+9059778.409955328	Key not found
+9061000.0	Key not found
+-74.18528	Key not found
+40.96362	Key not found
+North Haledon, New Jersey	3.845540317947757e-06
+8945818.933100544	Key not found
+8946000.0	Key not found
+http://dbpedia.org/resource/United_States	6.9999700340152155e-06
+http://dbpedia.org/resource/Gérard_Debaets	9.530722213202533e-05
+http://dbpedia.org/resource/Eastern_Time_Zone	0.05570871313451491
+http://dbpedia.org/class/yago/YagoGeoEntity	8.14775942432936e-06
+http://dbpedia.org/class/yago/Borough108540532	0.004599416565113562
+http://www.w3.org/2002/07/owl#Thing	1.467713041585706e-05
+http://dbpedia.org/class/yago/GeographicalArea108574314	6.298072493347782e-06
+http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1901	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	4.195916134832969e-06
+http://dbpedia.org/ontology/Location	5.67456519493647e-06
+http://dbpedia.org/class/yago/Location100027167	8.14775942432936e-06
+http://dbpedia.org/ontology/Place	5.67456519493647e-06
+http://schema.org/Place	5.67456519493647e-06
+http://dbpedia.org/class/yago/Region108630985	8.14775942432936e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.7612976475481786e-05
+http://dbpedia.org/class/yago/Site108651247	3.494018594165535e-06
+http://dbpedia.org/class/yago/Tract108673395	4.972667654269036e-06
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	8.614112331962097e-06
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.4673429338456158e-05
+http://dbpedia.org/class/yago/District108552138	3.852654711507922e-06
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.1087306561354987e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	5.148497304970224e-06
+http://dbpedia.org/class/yago/Object100002684	1.4673429338456158e-05
+http://dbpedia.org/ontology/Settlement	5.521320973911714e-06
+http://dbpedia.org/class/yago/BoroughsInPassaicCounty,NewJersey	Key not found
+-5	0.1159777775554042
+-4	0.048976419520664685
+8417	0.0008115755541333565
+http://dbpedia.org/resource/Category:Populated_places_established_in_1901	0.00029664145483296014
+http://dbpedia.org/resource/Category:Boroughs_in_Passaic_County,_New_Jersey	3.0453432743416145e-05
+http://dbpedia.org/resource/Category:North_Haledon,_New_Jersey	2.3643587143406408e-05
+http://dbpedia.org/resource/Category:Borough_form_of_New_Jersey_government	0.0003606439730836855
+http://dbpedia.org/resource/Category:1901_establishments_in_New_Jersey	4.596463890049818e-05
+92.0496	Key not found
+http://dbpedia.org/resource/Nellie_Pou	0.0004054738041946258
+07508, 07538	5.510015205939224e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/North_haledon_nj.png?width=300	7.249229198009705e-06
+http://dbpedia.org/resource/Mary_Help_of_Christians_Academy_(New_Jersey)	0.0002509584938702841
+1901-03-20	6.513130199310579e-05
+http://dbpedia.org/resource/Franklin_Lakes_Nature_Preserve	0.0001568197306053465
+http://dbpedia.org/resource/Eastern_Christian_High_School	0.0002788260866484601
+40.963618 -74.185281	2.439151119135589e-06
+http://dbpedia.org/resource/Borough_(New_Jersey)	0.0007970332651373337
+1.27	Key not found
+113959.476854784	Key not found
+115000.0	Key not found
+http://dbpedia.org/resource/New_Jersey	0.07367094512267444
+http://dbpedia.org/resource/Passaic_County,_New_Jersey	0.00211505449896694
+973	0.00020145434983186278
+http://www.northhaledon.com	Key not found
+13	Key not found
+271	0.01865162422239046

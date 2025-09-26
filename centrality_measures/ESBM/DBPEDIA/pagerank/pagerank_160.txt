@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/Chordate	0.02445045480590402
+http://dbpedia.org/resource/Nemacheilidae	0.0066285762330598455
+http://dbpedia.org/resource/Cypriniformes	0.008768294611914343
+http://dbpedia.org/ontology/Eukaryote	2.1250166706084468e-05
+http://www.w3.org/2002/07/owl#Thing	5.893804605614095e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/ontology/Fish	0.2772106744789686
+http://www.wikidata.org/entity/Q729	Key not found
+http://www.wikidata.org/entity/Q152	0.03131537559349531
+http://dbpedia.org/ontology/Animal	3.547900832524828e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/resource/Actinopterygii	0.04410688837301889
+http://dbpedia.org/resource/Schistura	0.005784855560627121
+http://dbpedia.org/resource/Animal	2.0557567033489373e-05
+Schistura jarutanini	1.8410084503318925e-05
+VU	0.011969043690113626
+Schistura jarutanini	1.8410084503318925e-05
+IUCN2.3	0.02327296054355888
+http://dbpedia.org/resource/Maurice_Kottelat	0.008748358556826126
+http://dbpedia.org/resource/Category:Cave_fish	0.0018307166780197042
+http://dbpedia.org/resource/Category:Schistura	0.002229264490312085
+http://dbpedia.org/resource/Category:Fish_of_Southeast_Asia	0.0017460506590444725
+http://dbpedia.org/resource/Category:Fish_of_Thailand	0.0068242413026027935

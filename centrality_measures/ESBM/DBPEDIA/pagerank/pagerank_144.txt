@@ -1,0 +1,64 @@
+http://dbpedia.org/resource/British_rule_in_Burma	0.004155054607307672
+http://dbpedia.org/resource/Yangon_Region	0.0026572786423416854
+http://dbpedia.org/resource/Insein_Township	0.0006207003260223714
+1888-04-24	0.00010180552166976063
+http://dbpedia.org/resource/Bamar_people	0.0023533796772384815
+http://commons.wikimedia.org/wiki/Special:FilePath/Pe_Maung_Tin.jpg?width=300	1.434792763561959e-05
+http://dbpedia.org/resource/Glass_Palace_Chronicle	0.00040810523564970783
+Pe Maung Tin	4.7920618345826076e-06
+http://dbpedia.org/resource/Mon_people	0.0037444217654137935
+Ba Tin	4.7920618345826076e-06
+1888	0.014851412038004183
+http://dbpedia.org/resource/Bamar_people	0.0023533796772384815
+http://dbpedia.org/resource/Anglicanism	0.03656358400742569
+http://dbpedia.org/resource/Bachelor_of_Arts	0.18252368900042765
+http://dbpedia.org/resource/Master_of_Arts	0.05785219911041881
+http://dbpedia.org/resource/University_of_Calcutta	0.008834526303626092
+http://dbpedia.org/resource/University_of_Yangon	0.0018141762339928178
+http://commons.wikimedia.org/wiki/Special:FilePath/Pe_Maung_Tin.jpg	1.434792763561959e-05
+http://dbpedia.org/resource/Category:University_of_Calcutta_alumni	0.005732813957069079
+http://dbpedia.org/resource/Category:Linguists_from_Myanmar	7.149442590127675e-05
+http://dbpedia.org/resource/Category:People_from_Yangon_Region	0.00022709522610095178
+http://dbpedia.org/resource/Category:1973_deaths	0.022851628139233394
+http://dbpedia.org/resource/Category:Burmese_studies_scholars	0.00011972206832673587
+http://dbpedia.org/resource/Category:Presidents_of_Burma_Research_Society	Key not found
+http://dbpedia.org/resource/Category:Burmese_Anglicans	5.5571892174772015e-05
+http://dbpedia.org/resource/Category:1888_births	0.024707833714272244
+http://dbpedia.org/resource/Category:Burmese_people_of_Mon_descent	0.00024433159381378783
+http://dbpedia.org/resource/Category:Burmese_writers	0.0005551380151199304
+http://dbpedia.org/resource/Category:University_of_Yangon_alumni	0.0006586847374668559
+http://dbpedia.org/resource/Category:Burmese_educators	8.159768082527287e-05
+Burma scholar	1.0800453266105406e-05
+Burma scholar	1.0800453266105406e-05
+http://dbpedia.org/resource/Tee_Tee_Luce	0.0003072999268385914
+http://dbpedia.org/resource/Teacher	0.03295647554020066
+http://dbpedia.org/resource/Pe_Maung_Tin__1	6.613381503115792e-06
+http://dbpedia.org/resource/Pali	0.007750298155184218
+http://schema.org/Person	5.030774280078532e-06
+http://dbpedia.org/class/yago/BurmeseStudiesScholars	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	5.030774280078532e-06
+http://dbpedia.org/class/yago/Whole100003553	8.427168090745466e-06
+http://dbpedia.org/class/yago/Organism100004475	5.030774280078532e-06
+http://dbpedia.org/class/yago/YagoLegalActor	1.4962711888626863e-05
+http://dbpedia.org/class/yago/Intellectual109621545	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	7.779527702224479e-06
+http://www.wikidata.org/entity/Q5	5.030774280078532e-06
+http://dbpedia.org/ontology/Person	8.911778550382402e-06
+http://xmlns.com/foaf/0.1/Person	5.030774280078532e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	2.4850768274557753e-05
+http://www.w3.org/2002/07/owl#Thing	4.903599551205297e-05
+http://dbpedia.org/class/yago/CausalAgent100007347	5.030774280078532e-06
+http://dbpedia.org/class/yago/Person100007846	5.030774280078532e-06
+http://dbpedia.org/ontology/Agent	7.779527702224479e-06
+http://dbpedia.org/class/yago/Scholar110557854	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	5.030774280078532e-06
+http://dbpedia.org/class/yago/BurmeseWriters	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.831522447667636e-05
+http://dbpedia.org/class/yago/Communicator109610660	Key not found
+http://dbpedia.org/class/yago/Object100002684	1.831522447667636e-05
+http://dbpedia.org/class/yago/Writer110794014	Key not found
+http://www.wikidata.org/entity/Q215627	5.030774280078532e-06
+http://dbpedia.org/resource/Tee_Tee_Luce	0.0003072999268385914
+Pe Maung Tin	4.7920618345826076e-06
+1973	0.06722836957067133
+1973-03-22	0.00030085783513574503

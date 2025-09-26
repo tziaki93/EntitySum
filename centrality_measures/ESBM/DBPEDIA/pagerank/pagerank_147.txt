@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Sri_Lankan_Civil_War	0.007218084336384227
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.3329047856302875e-05
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	5.311771186556209e-06
+http://schema.org/Event	5.311771186556209e-06
+http://www.w3.org/2002/07/owl#Thing	1.3329047856302875e-05
+http://dbpedia.org/class/yago/GroupAction101080366	0.12441287694881353
+http://dbpedia.org/class/yago/Battle100953559	0.024809797719033685
+http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar	Key not found
+http://dbpedia.org/class/yago/Act100030358	8.005946738853623e-06
+http://www.wikidata.org/entity/Q1656682	5.311771186556209e-06
+http://dbpedia.org/class/yago/Conflict100958896	0.03664854763775833
+http://dbpedia.org/class/yago/Abstraction100002137	5.311771186556209e-06
+http://dbpedia.org/class/yago/Event100029378	8.005946738853623e-06
+http://dbpedia.org/ontology/SocietalEvent	7.947487394582068e-06
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.029328766938957685
+http://dbpedia.org/ontology/Event	5.311771186556209e-06
+http://dbpedia.org/ontology/MilitaryConflict	0.0925131830645118
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	5.311771186556209e-06
+http://dbpedia.org/class/yago/ConflictsIn2006	Key not found
+Sri Lankan Army victory	2.0516849980235567e-05
+Battle of Sampur	3.8462581401329385e-06
+33 killed (SLA claim)	3.8462581401329385e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg	9.66714352465509e-05
+2006-08-28	0.000729133001638833
+http://dbpedia.org/resource/Sri_Lanka	0.12514028888003695
+http://dbpedia.org/resource/Sampur,_Trincomalee	0.0002953267790744158
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300	8.3502811944707e-05
+18pxMilitary of Sri Lanka	4.38848953099178e-05
+Liberation Tigers of Tamil Eelam	0.00011756153336690981
+http://dbpedia.org/resource/Category:Conflicts_in_2006	0.00022078756449108957
+http://dbpedia.org/resource/Category:2006_in_Sri_Lanka	5.088383610872419e-05
+http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV	3.2578851408004766e-05
+Battle of Sampur	3.8462581401329385e-06
