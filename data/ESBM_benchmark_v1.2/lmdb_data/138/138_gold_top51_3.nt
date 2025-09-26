@@ -1,0 +1,5 @@
+Rod Daily (Actor) <http://data.linkedmdb.org/resource/movie/actor_netflix_id> .
+Rod Daily (Actor) <http://data.linkedmdb.org/resource/movie/actor_nytimes_id> .
+Rod Daily (Actor) <http://data.linkedmdb.org/resource/movie/actor_name> Rod Daily.
+Rod Daily (Actor) <http://data.linkedmdb.org/resource/movie/actor_actorid> 62725.
+Rod Daily (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> actor.
