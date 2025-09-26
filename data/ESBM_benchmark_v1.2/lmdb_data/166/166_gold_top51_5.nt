@@ -1,0 +1,5 @@
+Soldier actor Michael Chiklis (Actor).
+Soldier <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Soldier <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en>.
+Soldier <http://data.linkedmdb.org/resource/movie/initial_release_date> 1998-10-23.
+Soldier <http://purl.org/dc/terms/title> Soldier.

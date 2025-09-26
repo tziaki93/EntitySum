@@ -1,0 +1,10 @@
+LOC Kargil <http://purl.org/dc/terms/date> 2003.
+LOC Kargil <http://data.linkedmdb.org/resource/movie/writer> J.P. Dutta (Writer).
+LOC Kargil <http://data.linkedmdb.org/resource/movie/country> India (Country).
+J. P. Dutta (Director) <http://xmlns.com/foaf/0.1/made> LOC Kargil.
+LOC Kargil <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008dd9e3>.
+LOC Kargil <http://data.linkedmdb.org/resource/movie/producer> Bindiya Goswami (Producer).
+LOC Kargil director J.P. Dutta (Director).
+LOC Kargil <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+LOC Kargil <http://data.linkedmdb.org/resource/movie/music_contributor> Anu Malik (Music Contributor).
+LOC Kargil <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/>.

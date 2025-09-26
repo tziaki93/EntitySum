@@ -1,0 +1,5 @@
+LOC Kargil <http://data.linkedmdb.org/resource/movie/country> India (Country).
+LOC Kargil <http://www.w3.org/2004/02/skos/core#subject> Indo-Pak Wars (Film Subject).
+LOC Kargil <http://data.linkedmdb.org/resource/movie/initial_release_date> 2003.
+LOC Kargil <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+LOC Kargil <http://purl.org/dc/terms/title> LOC Kargil.

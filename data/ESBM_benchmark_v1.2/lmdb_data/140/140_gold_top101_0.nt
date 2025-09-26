@@ -1,0 +1,10 @@
+Ringo Lam (Director) <http://www.w3.org/2000/01/rdf-schema#label> Ringo Lam (Director).
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> Undeclared War.
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> Aces Go Places 4.
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> Full Contact.
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> City on Fire.
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> Triangle.
+Ringo Lam (Director) <http://xmlns.com/foaf/0.1/made> Prison on Fire.
+Ringo Lam (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+Ringo Lam (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> director.
+Ringo Lam (Director) <http://data.linkedmdb.org/resource/movie/director_name> Ringo Lam.

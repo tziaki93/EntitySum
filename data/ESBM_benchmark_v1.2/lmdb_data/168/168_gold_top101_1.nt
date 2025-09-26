@@ -1,0 +1,10 @@
+LOC Kargil <http://data.linkedmdb.org/resource/movie/writer> J.P. Dutta (Writer).
+LOC Kargil <http://data.linkedmdb.org/resource/movie/country> India (Country).
+LOC Kargil actor Divya Dutta (Actor).
+LOC Kargil actor Ajay Devgan (Actor).
+LOC Kargil <http://data.linkedmdb.org/resource/movie/producer> Bindiya Goswami (Producer).
+LOC Kargil <http://www.w3.org/2000/01/rdf-schema#label> LOC Kargil.
+LOC Kargil <http://data.linkedmdb.org/resource/movie/initial_release_date> 2003.
+LOC Kargil director J.P. Dutta (Director).
+LOC Kargil <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+LOC Kargil <http://data.linkedmdb.org/resource/movie/music_contributor> Anu Malik (Music Contributor).

@@ -1,0 +1,10 @@
+Soldier <http://data.linkedmdb.org/resource/movie/genre> Adventure (Film Genre).
+Soldier actor Michael Chiklis (Actor).
+Soldier actor Jason Scott Lee (Actor).
+Soldier actor Gary Busey (Actor).
+Soldier actor Sean Pertwee (Actor).
+Soldier <http://www.w3.org/2000/01/rdf-schema#label> Soldier.
+Soldier director Paul W. S. Anderson (Director).
+Soldier <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en>.
+Soldier <http://data.linkedmdb.org/resource/movie/writer> David Peoples (Writer).
+Soldier <http://purl.org/dc/terms/date> 1998-10-23.
