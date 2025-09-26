@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/Category:Musicians_from_Milan	0.0007271248527895875	0.0007271248527897657
+http://dbpedia.org/resource/Category:Italian_classical_composers	0.017366013978837334	0.017366013978841716
+http://dbpedia.org/resource/Category:1760_deaths	0.0002111406641055663	0.0002111406641057637
+http://dbpedia.org/resource/Category:Italian_male_classical_composers	0.024428034642911718	0.024428034642917585
+http://dbpedia.org/resource/Category:18th-century_classical_composers	0.0004174109811802214	0.0004174109811801844
+http://dbpedia.org/resource/Category:Italian_male_composers	0.0015189871544082105	0.001518987154408406
+http://dbpedia.org/resource/Category:1680s_births	0.00014397425690722003	0.0001439742569072495
+http://dbpedia.org/resource/Category:Peruvian_composers	8.080335965558035e-05	8.080335965560554e-05
+http://dbpedia.org/resource/Category:Baroque_composers	8.05931763124035e-05	8.059317631240702e-05
+Roque Ceruti	1.9785829964759277e-05	1.978582996476487e-05
+Roque	-1.577926697208524e-20	-6.16346083284495e-18
+Ceruti	-5.7735494360313645e-21	-3.2091738155964154e-20
+http://www.wikidata.org/entity/Q215627	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://schema.org/Person	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+1683	-2.2274015503643998e-19	-2.4054586182678953e-18
+1760	6.294429195727732e-06	6.294429195821602e-06
+Italian composer	1.7907910072633505e-05	1.790791007263767e-05
+Italian composer	1.7907910072633505e-05	1.790791007263767e-05
+Ceruti, Roque	Key not found
+Roque Ceruti	1.9785829964759277e-05	1.978582996476487e-05
+1760	6.294429195727732e-06	6.294429195821602e-06
+1683	-2.2274015503643998e-19	-2.4054586182678953e-18

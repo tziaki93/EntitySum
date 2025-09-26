@@ -1,0 +1,32 @@
+http://dbpedia.org/ontology/SportsEvent	0.002476924867217972	0.0024769248669766967
+http://www.wikidata.org/entity/Q500834	0.0014060177382969137	0.0014060177381590554
+http://dbpedia.org/ontology/SoccerTournament	0.0008176992375744423	0.0008176992374937612
+http://schema.org/Event	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/Tournament	0.0014718760684575996	0.0014718760683134382
+http://dbpedia.org/ontology/SocietalEvent	6.484548243075276e-06	6.484548243081079e-06
+http://schema.org/SportsEvent	0.0023058119214581173	0.0023058119212329333
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/resource/Category:2013_Gulf_Cup_of_Nations	5.029377668746604e-11	5.0293776612726527e-11
+http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Bahrain	6.480411725915383e-07	6.480411725280871e-07
+http://dbpedia.org/resource/Category:2012–13_in_Omani_football	4.036284322947152e-07	4.036284322557467e-07
+http://dbpedia.org/resource/Category:2012–13_in_Yemeni_football	1.8080727216341597e-07	1.8080727214578757e-07
+http://dbpedia.org/resource/Category:2012–13_in_Bahraini_football	2.971188772941657e-07	2.971188772651243e-07
+http://dbpedia.org/resource/Category:2012–13_in_Emirati_football	4.804024053242379e-07	4.804024052776249e-07
+http://dbpedia.org/resource/Category:2012–13_in_Qatari_football	4.177809527949626e-07	4.1778095275459104e-07
+http://dbpedia.org/resource/Category:2012–13_in_Kuwaiti_football	5.355116157220938e-07	5.355116156699852e-07
+http://dbpedia.org/resource/Category:2012–13_in_Saudi_Arabian_football	4.7179986021461877e-07	4.717998601684408e-07
+http://dbpedia.org/resource/Category:2013_in_Asian_football	1.5538919067542995e-06	1.5538919066031016e-06
+http://dbpedia.org/resource/Category:2012–13_in_Iraqi_football	2.0802460382447887e-07	2.080246038043227e-07
+2013 Gulf Cup of Nations	5.604547538089006e-09	5.604547537543592e-09
+Gulf Cup of Nations	1.0088137244358323e-08	1.0088137243384233e-08
+17:45	5.69749045461438e-06	5.697490454056053e-06
+15:30	2.3820943409190323e-05	2.3820943406854958e-05
+16:15	4.530483130452778e-06	4.5304831300083e-06
+21:15	3.5552981457160245e-06	3.5552981453676094e-06
+19:00	4.786642298752131e-05	4.786642298282627e-05
+18:45	4.769818841305773e-06	4.769818840838356e-06
+19:15	5.886243180696738e-06	5.8862431801210884e-06
+http://www.gulfcup21.bh/en/	Key not found

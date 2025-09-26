@@ -1,0 +1,70 @@
+http://dbpedia.org/resource/Mike_Fratello	3.0837224466861704e-07	3.0837224767833585e-07
+http://dbpedia.org/resource/Angela_Atwood	3.678695606151423e-07	3.6786956181889485e-07
+Borough of North Haledon	1.2827470463397154e-08	1.282747058706669e-08
+North Haledon, New Jersey	1.2878792199659293e-08	1.2878792325552713e-08
+http://dbpedia.org/resource/Borough_(New_Jersey)	5.227636202310151e-06	5.2276362483422554e-06
+Mayor	0.0011488643095533971	0.001148864320696765
+Clerk	1.3454033490640175e-06	1.3454033621116233e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/North_haledon_nj.png	1.287261605489878e-08	1.2872616179609987e-08
+940.8537399362322	Key not found
+940.9	Key not found
+9059778.409955328	Key not found
+9061000.0	Key not found
+-74.18528	Key not found
+40.96362	Key not found
+North Haledon, New Jersey	1.2878792199659293e-08	1.2878792325552713e-08
+8945818.933100544	Key not found
+8946000.0	Key not found
+http://dbpedia.org/resource/United_States	3.42745015432782e-06	3.427450154314013e-06
+http://dbpedia.org/resource/Gérard_Debaets	6.142175606701441e-08	6.142175668456716e-08
+http://dbpedia.org/resource/Eastern_Time_Zone	0.0009148071601310707	0.0009148071689969978
+http://dbpedia.org/class/yago/YagoGeoEntity	3.4455337909714242e-06	3.445533790975672e-06
+http://dbpedia.org/class/yago/Borough108540532	6.081209075461471e-05	6.081209134420186e-05
+http://www.w3.org/2002/07/owl#Thing	2.862845119262442e-07	2.862845121395636e-07
+http://dbpedia.org/class/yago/GeographicalArea108574314	3.1909033711681948e-06	3.1909033710176876e-06
+http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1901	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	2.613580497595505e-07	2.6135804992328213e-07
+http://dbpedia.org/ontology/Location	2.6291466310044476e-07	2.629146632741342e-07
+http://dbpedia.org/class/yago/Location100027167	3.4455337909714242e-06	3.4455337909756874e-06
+http://dbpedia.org/ontology/Place	2.6291466310044476e-07	2.6291466327410975e-07
+http://schema.org/Place	2.6291466310044476e-07	2.6291466327410133e-07
+http://dbpedia.org/class/yago/Region108630985	3.4455337909714242e-06	3.445533790975671e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	3.451032475612897e-06	3.4510324756400196e-06
+http://dbpedia.org/class/yago/Site108651247	2.4811266599925175e-08	2.4811266626973167e-08
+http://dbpedia.org/class/yago/Tract108673395	2.636787994081944e-08	2.636787997785854e-08
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	2.6536388674620215e-07	2.653638869300377e-07
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.44858325196714e-06	3.4485832519839904e-06
+http://dbpedia.org/class/yago/District108552138	2.727140564468335e-07	2.72714056619637e-07
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	3.4479830146171815e-06	3.4479830146315595e-06
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	4.830775383656327e-07	4.830775385312582e-07
+http://dbpedia.org/class/yago/Object100002684	3.44858325196714e-06	3.448583251984039e-06
+http://dbpedia.org/ontology/Settlement	3.425893540986926e-06	3.425893540963122e-06
+http://dbpedia.org/class/yago/BoroughsInPassaicCounty,NewJersey	Key not found
+-5	0.0023553644416168984	0.0023553644644569937
+-4	0.001413390972030675	0.0014133909857354018
+8417	2.3199331826027204e-07	2.319933204134861e-07
+http://dbpedia.org/resource/Category:Populated_places_established_in_1901	2.377683995852306e-06	2.3776840189449046e-06
+http://dbpedia.org/resource/Category:Boroughs_in_Passaic_County,_New_Jersey	1.2702608032991236e-07	1.2702608156458964e-07
+http://dbpedia.org/resource/Category:North_Haledon,_New_Jersey	1.483614007092476e-08	1.483614021335191e-08
+http://dbpedia.org/resource/Category:Borough_form_of_New_Jersey_government	2.827913033204637e-06	2.827913060464043e-06
+http://dbpedia.org/resource/Category:1901_establishments_in_New_Jersey	9.354100387790579e-08	9.354100477883008e-08
+92.0496	Key not found
+http://dbpedia.org/resource/Nellie_Pou	1.4387774808254296e-07	1.4387774949976596e-07
+07508, 07538	3.825225971911848e-08	3.825226008874835e-08
+http://commons.wikimedia.org/wiki/Special:FilePath/North_haledon_nj.png?width=300	1.2872616054898229e-08	1.287261617976895e-08
+http://dbpedia.org/resource/Mary_Help_of_Christians_Academy_(New_Jersey)	3.372974856949912e-07	3.372974865753204e-07
+1901-03-20	1.3712071535545668e-08	1.371207165465661e-08
+http://dbpedia.org/resource/Franklin_Lakes_Nature_Preserve	4.4998738084436526e-07	4.4998738284149764e-07
+http://dbpedia.org/resource/Eastern_Christian_High_School	3.707265984642518e-07	3.707265996853778e-07
+40.963618 -74.185281	1.2827470463397154e-08	1.2827470587058659e-08
+http://dbpedia.org/resource/Borough_(New_Jersey)	5.227636202310151e-06	5.2276362483422554e-06
+1.27	Key not found
+113959.476854784	Key not found
+115000.0	Key not found
+http://dbpedia.org/resource/New_Jersey	7.36088225352785e-05	7.360882319899776e-05
+http://dbpedia.org/resource/Passaic_County,_New_Jersey	1.944830159239125e-06	1.9448301753804905e-06
+973	1.0121457075523977e-06	1.0121457173225145e-06
+http://www.northhaledon.com	Key not found
+13	Key not found
+271	5.0881812977394336e-06	5.088181346899312e-06

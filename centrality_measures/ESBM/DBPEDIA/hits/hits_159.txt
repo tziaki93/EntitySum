@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/Nemapogon	3.941199415929716e-06	3.941192333818425e-06
+http://dbpedia.org/resource/Arthropod	Key not found
+http://dbpedia.org/resource/Category:Nemapogoninae	4.59148446621104e-06	4.591475958472434e-06
+http://dbpedia.org/resource/Category:Moths_described_in_1859	1.1851841158383964e-05	1.1851819127134447e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Nemapogon_nigralbella.jpg?width=300	5.548445792169575e-08	5.548435517829349e-08
+Nemapogon nigralbella	5.5270564395546406e-08	5.5270461657993745e-08
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Animal	Key not found
+http://www.wikidata.org/entity/Q729	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.4966066159614863e-08	1.496606533945155e-08
+http://dbpedia.org/ontology/Eukaryote	Key not found
+http://dbpedia.org/ontology/Insect	1.449156358100458e-05	1.4491563683622061e-05
+http://www.wikidata.org/entity/Q1390	0.0037824947430188543	0.0037824877117776864
+http://dbpedia.org/ontology/Species	Key not found
+*Tinea nigralbella (Zeller, 1839)	5.5270564395546406e-08	5.527046165800537e-08
+*Nemapogon nigralbellus	5.5270564395546406e-08	5.527046165799255e-08
+http://dbpedia.org/resource/Lepidoptera	1.1318752425729473e-07	1.1318752496161869e-07
+http://dbpedia.org/resource/Tineidae	2.9807073345459993e-05	2.9807017965114803e-05
+http://dbpedia.org/resource/Animal	Key not found
+http://dbpedia.org/resource/Insect	1.436340999058767e-05	1.436341009332098e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Nemapogon_nigralbella.jpg	5.5484457921695804e-08	5.5484355178278154e-08

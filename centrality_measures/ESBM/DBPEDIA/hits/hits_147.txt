@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Sri_Lankan_Civil_War	4.0457435959038003e-05	4.0457435958562134e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	2.3404468111971123e-07	2.3404468111408945e-07
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	1.45984179470474e-07	1.459841794620625e-07
+http://schema.org/Event	1.45984179470474e-07	1.4598417946206246e-07
+http://www.w3.org/2002/07/owl#Thing	2.3404468111971123e-07	2.3404468111409019e-07
+http://dbpedia.org/class/yago/GroupAction101080366	0.0029887127797308703	0.002988712779525761
+http://dbpedia.org/class/yago/Battle100953559	0.0014580647702884101	0.0014580647701902749
+http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar	Key not found
+http://dbpedia.org/class/yago/Act100030358	1.0930275681256845e-05	1.0930275681257108e-05
+http://www.wikidata.org/entity/Q1656682	1.45984179470474e-07	1.4598417946206212e-07
+http://dbpedia.org/class/yago/Conflict100958896	0.0018875375247757366	0.0018875375246485216
+http://dbpedia.org/class/yago/Abstraction100002137	1.45984179470474e-07	1.4598417946206177e-07
+http://dbpedia.org/class/yago/Event100029378	1.0930275681256845e-05	1.0930275681257108e-05
+http://dbpedia.org/ontology/SocietalEvent	8.365023991843787e-06	8.36502399184328e-06
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.0017361561079427378	0.0017361561078261699
+http://dbpedia.org/ontology/Event	1.45984179470474e-07	1.4598417946206553e-07
+http://dbpedia.org/ontology/MilitaryConflict	0.00227778981310793	0.0022777898129517507
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	1.45984179470474e-07	1.4598417946206341e-07
+http://dbpedia.org/class/yago/ConflictsIn2006	Key not found
+Sri Lankan Army victory	1.0529280711832007e-06	1.052928071111841e-06
+Battle of Sampur	1.3533595073962554e-07	1.3533595073038237e-07
+33 killed (SLA claim)	1.3533595073962554e-07	1.353359507303844e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg	3.181136094336177e-06	3.1811360941229314e-06
+2006-08-28	2.7175829419558885e-07	2.717582941852284e-07
+http://dbpedia.org/resource/Sri_Lanka	2.4029372274563044e-05	2.4029372272342886e-05
+http://dbpedia.org/resource/Sampur,_Trincomalee	3.7534143621229e-07	3.7534143619594317e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300	2.8803977184238125e-06	2.8803977182312306e-06
+18pxMilitary of Sri Lanka	2.0194436334522727e-06	2.0194436333158856e-06
+Liberation Tigers of Tamil Eelam	5.161703660977692e-06	5.161703660629642e-06
+http://dbpedia.org/resource/Category:Conflicts_in_2006	5.366069057902089e-06	5.366069057541557e-06
+http://dbpedia.org/resource/Category:2006_in_Sri_Lanka	8.249873300584216e-07	8.249873300025678e-07
+http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV	6.783203043778122e-07	6.783203043317922e-07
+Battle of Sampur	1.3533595073962554e-07	1.3533595073038237e-07

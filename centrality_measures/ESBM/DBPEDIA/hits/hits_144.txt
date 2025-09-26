@@ -1,0 +1,64 @@
+http://dbpedia.org/resource/British_rule_in_Burma	2.4928402955556907e-06	2.492840295970081e-06
+http://dbpedia.org/resource/Yangon_Region	1.727508292456234e-06	1.7275082927386854e-06
+http://dbpedia.org/resource/Insein_Township	6.767427473292002e-07	6.76742747441095e-07
+1888-04-24	1.4379827288605688e-07	1.437982729102612e-07
+http://dbpedia.org/resource/Bamar_people	2.2273031607265585e-06	2.2273031610932843e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Pe_Maung_Tin.jpg?width=300	1.4290030561744627e-07	1.4290030564136192e-07
+http://dbpedia.org/resource/Glass_Palace_Chronicle	7.188960600058276e-07	7.188960601266768e-07
+Pe Maung Tin	1.4219210098549568e-07	1.4219210100932396e-07
+http://dbpedia.org/resource/Mon_people	1.9090925605172307e-06	1.9090925608361305e-06
+Ba Tin	1.4219210098549568e-07	1.4219210100927205e-07
+1888	2.9473694774206925e-06	2.94736947791809e-06
+http://dbpedia.org/resource/Bamar_people	2.2273031607265585e-06	2.2273031610932843e-06
+http://dbpedia.org/resource/Anglicanism	8.261022060138531e-05	8.261022061531018e-05
+http://dbpedia.org/resource/Bachelor_of_Arts	0.004612962312837165	0.004612962313613466
+http://dbpedia.org/resource/Master_of_Arts	0.00132358132978284	0.0013235813299994179
+http://dbpedia.org/resource/University_of_Calcutta	1.2918577392265424e-05	1.2918577394433934e-05
+http://dbpedia.org/resource/University_of_Yangon	3.890768153348101e-06	3.890768153987745e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Pe_Maung_Tin.jpg	1.429003056174462e-07	1.4290030564137153e-07
+http://dbpedia.org/resource/Category:University_of_Calcutta_alumni	7.660381328640064e-06	7.6603813299294e-06
+http://dbpedia.org/resource/Category:Linguists_from_Myanmar	1.43526465532869e-07	1.4352646555682456e-07
+http://dbpedia.org/resource/Category:People_from_Yangon_Region	2.8784778057075263e-07	2.8784778061850364e-07
+http://dbpedia.org/resource/Category:1973_deaths	8.894594448439352e-06	8.894594449935334e-06
+http://dbpedia.org/resource/Category:Burmese_studies_scholars	2.839955094256806e-07	2.839955094733256e-07
+http://dbpedia.org/resource/Category:Presidents_of_Burma_Research_Society	Key not found
+http://dbpedia.org/resource/Category:Burmese_Anglicans	1.4971868051184988e-07	1.497186805364938e-07
+http://dbpedia.org/resource/Category:1888_births	1.0354085822262003e-05	1.0354085824010745e-05
+http://dbpedia.org/resource/Category:Burmese_people_of_Mon_descent	1.8260520945245335e-07	1.8260520948280084e-07
+http://dbpedia.org/resource/Category:Burmese_writers	7.619898343620515e-07	7.61989834490201e-07
+http://dbpedia.org/resource/Category:University_of_Yangon_alumni	1.6912114070817783e-06	1.6912114073665537e-06
+http://dbpedia.org/resource/Category:Burmese_educators	2.534641766013459e-07	2.534641766439969e-07
+Burma scholar	2.0625201453292122e-11	2.0625201477018496e-11
+Burma scholar	2.0625201453292122e-11	2.0625201477018496e-11
+http://dbpedia.org/resource/Tee_Tee_Luce	5.886835991351209e-07	5.886835992326567e-07
+http://dbpedia.org/resource/Teacher	4.4940384546522704e-05	4.494038455284049e-05
+http://dbpedia.org/resource/Pe_Maung_Tin__1	1.0621115703274772e-09	1.0621115705328556e-09
+http://dbpedia.org/resource/Pali	5.006450158694867e-06	5.0064501595368795e-06
+http://schema.org/Person	2.861827696005545e-09	2.861827696129321e-09
+http://dbpedia.org/class/yago/BurmeseStudiesScholars	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	2.861827696005545e-09	2.8618276961116613e-09
+http://dbpedia.org/class/yago/Whole100003553	6.356670525161199e-09	6.356670525130955e-09
+http://dbpedia.org/class/yago/Organism100004475	2.861827696005545e-09	2.8618276961782907e-09
+http://dbpedia.org/class/yago/YagoLegalActor	4.86180317192052e-07	4.861803171916923e-07
+http://dbpedia.org/class/yago/Intellectual109621545	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	8.171698804740894e-08	8.171698804756024e-08
+http://www.wikidata.org/entity/Q5	2.861827696005545e-09	2.861827696042623e-09
+http://dbpedia.org/ontology/Person	2.2133510833453988e-07	2.21335108340392e-07
+http://xmlns.com/foaf/0.1/Person	2.861827696005545e-09	2.86182769602116e-09
+http://dbpedia.org/class/yago/YagoLegalActorGeo	5.099870473845194e-07	5.099870473843044e-07
+http://www.w3.org/2002/07/owl#Thing	2.963632806247088e-05	2.963632806246416e-05
+http://dbpedia.org/class/yago/CausalAgent100007347	2.861827696005545e-09	2.8618276960688534e-09
+http://dbpedia.org/class/yago/Person100007846	2.861827696005545e-09	2.861827695966932e-09
+http://dbpedia.org/ontology/Agent	8.171698804740894e-08	8.171698804727256e-08
+http://dbpedia.org/class/yago/Scholar110557854	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	2.861827696005545e-09	2.8618276959992793e-09
+http://dbpedia.org/class/yago/BurmeseWriters	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.016340071762861e-08	3.016340071768401e-08
+http://dbpedia.org/class/yago/Communicator109610660	Key not found
+http://dbpedia.org/class/yago/Object100002684	3.016340071762861e-08	3.0163400717695806e-08
+http://dbpedia.org/class/yago/Writer110794014	Key not found
+http://www.wikidata.org/entity/Q215627	2.861827696005545e-09	2.8618276960420354e-09
+http://dbpedia.org/resource/Tee_Tee_Luce	5.886835991351209e-07	5.886835992326567e-07
+Pe Maung Tin	1.4219210098549568e-07	1.4219210100932396e-07
+1973	2.4858058869711648e-05	2.485805887390802e-05
+1973-03-22	3.6952954008370006e-07	3.6952954014609574e-07

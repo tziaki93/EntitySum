@@ -1,0 +1,43 @@
+Kaalpurush	2.0297588317438697e-06	2.029758832251188e-06
+http://dbpedia.org/ontology/Film	Key not found
+http://dbpedia.org/class/yago/Movie106613686	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	Key not found
+http://schema.org/Movie	Key not found
+http://dbpedia.org/class/yago/Bengali-languageFilms	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/class/yago/IndianFilms	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	Key not found
+http://dbpedia.org/class/yago/2008Films	Key not found
+http://dbpedia.org/class/yago/Event100029378	Key not found
+http://dbpedia.org/class/yago/Show106619065	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://dbpedia.org/class/yago/2005Films	Key not found
+http://dbpedia.org/class/yago/Creation103129123	Key not found
+http://dbpedia.org/class/yago/SocialEvent107288639	Key not found
+http://dbpedia.org/class/yago/Whole100003553	7.0413244223613685e-06	7.041324423431747e-06
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/class/yago/Abstraction100002137	9.694771467202709e-05	9.694771467171252e-05
+http://dbpedia.org/class/yago/Product104007894	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	7.0413244223613685e-06	7.041324423431595e-06
+http://www.w3.org/2002/07/owl#Thing	0.00010398903909438846	0.00010398903909514415
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	7.0413244223613685e-06	7.041324423431623e-06
+http://dbpedia.org/class/yago/FilmsDirectedByBuddhadevDasgupta	Key not found
+http://dbpedia.org/resource/India	9.863251113994579e-05	9.863251113990545e-05
+http://dbpedia.org/resource/Sudeep_Chatterjee	2.6183303871863493e-05	2.618330387750756e-05
+http://dbpedia.org/resource/Biswadep_Dasgupta	3.071496890141022e-06	3.0714968909049964e-06
+http://dbpedia.org/resource/Mithun_Chakraborty	0.00024488868422562333	0.00024488868425960136
+http://dbpedia.org/resource/Rahul_Bose	0.0001436819321367601	0.00014368193214646548
+http://dbpedia.org/resource/Sameera_Reddy	0.00011756078163365039	0.00011756078163747892
+http://dbpedia.org/resource/Buddhadeb_Dasgupta	0.00017760857823156514	0.00017760857825019905
+http://dbpedia.org/resource/Buddhadeb_Dasgupta	0.00017760857823156514	0.00017760857825019905
+http://www.kaalpurushmovie.com/	1.0503180562232493e-06	1.0503180564818086e-06
+http://dbpedia.org/resource/Category:Films_set_in_Kolkata	0.00013350911859009111	0.00013350911862428672
+http://dbpedia.org/resource/Category:2005_films	3.282666148640437e-05	3.282666149476473e-05
+http://dbpedia.org/resource/Category:Best_Feature_Film_National_Film_Award_winners	1.9736208208091016e-05	1.9736208213122615e-05
+http://dbpedia.org/resource/Category:Indian_films	7.262928955631232e-08	7.262928956738465e-08
+http://dbpedia.org/resource/Category:Bengali-language_films	4.912881005945579e-06	4.912881007197326e-06
+http://dbpedia.org/resource/Category:Films_directed_by_Buddhadev_Dasgupta	1.8806430750991085e-08	1.880643075582299e-08
+http://dbpedia.org/resource/Bengali_language	0.00977450199125299	0.009774501993758572
+Kaalpurush	2.0297588317438697e-06	2.029758832251188e-06

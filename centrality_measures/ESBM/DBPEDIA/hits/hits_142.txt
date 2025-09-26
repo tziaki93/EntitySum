@@ -1,0 +1,38 @@
+Juhan Muks	-9.672437166481634e-08	-5.640175002684347e-07
+Muks	Key not found
+Estonian artist	Key not found
+Estonian artist	Key not found
+1899	-3.1430778077236894e-06	-1.832786150763615e-05
+Juhan	2.4271642108451388e-20	-1.2244017141466763e-17
+1983-11-23	-6.060505340183537e-09	-3.533991498360619e-08
+1983	-4.682861650839532e-06	-2.7306622693143734e-05
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/EstonianPainters	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://dbpedia.org/class/yago/Painter110391653	-0.002552297506464574	-0.014882913527925494
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/Creator109614315	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/class/yago/Artist109812338	3.753450293644111e-05	3.800187884889595e-05
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+1899	-3.1430778077236894e-06	-1.832786150763615e-05
+Juhan Muks	-9.672437166481634e-08	-5.640175002684347e-07
+Muks, Juhan	Key not found
+http://dbpedia.org/resource/Category:1899_births	-1.087524362286542e-05	-6.34155344439929e-05
+http://dbpedia.org/resource/Category:20th-century_Estonian_painters	-2.886541285442324e-06	-1.683195013005745e-05
+http://dbpedia.org/resource/Category:People_from_Viljandi_County	-8.955950360764238e-10	-5.222378437229062e-09
+http://dbpedia.org/resource/Category:1983_deaths	-9.68725065940598e-06	-5.6488130214836986e-05
+http://dbpedia.org/resource/Category:Estonian_painters	-3.861133612898008e-07	-2.251497622627589e-06

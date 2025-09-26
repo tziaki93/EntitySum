@@ -1,0 +1,61 @@
+http://dbpedia.org/resource/Pat_Benatar	4.822007850017301e-06	4.82200785007692e-06
+http://dbpedia.org/resource/The_Rascals	2.758657301593508e-06	2.7586573016063544e-06
+http://dbpedia.org/resource/Hit_Me_with_Your_Best_Shot	6.082195872091489e-06	6.0821958720994944e-06
+You Better Run	2.7747830030453783e-08	2.7747830030715678e-08
+http://dbpedia.org/resource/Category:Song_recordings_produced_by_Keith_Olsen	1.1483171012350107e-06	1.1483171012498738e-06
+http://dbpedia.org/resource/Category:1966_singles	1.1537700238203335e-05	1.1537700238352444e-05
+http://dbpedia.org/resource/Category:Atlantic_Records_singles	3.576166356201966e-05	3.5761663562569135e-05
+http://dbpedia.org/resource/Category:The_Rascals_songs	2.688834445825825e-07	2.6888344458656424e-07
+http://dbpedia.org/resource/Category:Song_recordings_produced_by_Tom_Dowd	1.8481835848423833e-06	1.8481835848678809e-06
+http://dbpedia.org/resource/Category:Songs_written_by_Eddie_Brigati	8.184878208364066e-08	8.184878208524752e-08
+http://dbpedia.org/resource/Category:Song_recordings_produced_by_Arif_Mardin	1.76288628015245e-06	1.7628862801764705e-06
+http://dbpedia.org/resource/Category:Songs_written_by_Felix_Cavaliere	8.283166021237205e-08	8.283166021396025e-08
+http://dbpedia.org/resource/Category:Chrysalis_Records_singles	5.31754319199336e-06	5.317543192065567e-06
+http://dbpedia.org/resource/Category:1966_songs	1.5414772484828256e-05	1.5414772485032252e-05
+http://dbpedia.org/resource/Category:Pat_Benatar_songs	2.2233102943948517e-07	2.223310294429932e-07
+http://dbpedia.org/resource/Category:1980_singles	1.3317116825201148e-05	1.3317116825362238e-05
+http://dbpedia.org/resource/Crimes_of_Passion_(Pat_Benatar_album)	6.829191758730856e-07	6.829191758760173e-07
+http://dbpedia.org/resource/Groovin'_(The_Young_Rascals_album)	1.542600462179639e-06	1.5426004621776322e-06
+http://dbpedia.org/resource/Good_Lovin'	5.851643602763782e-06	5.85164360277554e-06
+145.0	Key not found
+184.0	4.536820319153637e-09	4.536820319328083e-09
+http://dbpedia.org/resource/Atlantic_Records	7.944161893392439e-05	7.944161893531736e-05
+http://dbpedia.org/resource/Chrysalis_Records	8.85810778674653e-06	8.858107786884494e-06
+You Better Run	2.7747830030453783e-08	2.7747830030715678e-08
+http://dbpedia.org/resource/Felix_Cavaliere	1.7774723928836865e-06	1.7774723928924828e-06
+http://dbpedia.org/resource/Eddie_Brigati	1.5803134149023869e-06	1.5803134149053502e-06
+http://dbpedia.org/resource/The_Rascals	2.758657301593508e-06	2.7586573016063544e-06
+http://dbpedia.org/resource/Keith_Olsen	3.708952620768685e-06	3.7089526207942082e-06
+http://dbpedia.org/resource/Tom_Dowd	4.91740015863645e-06	4.917400158698915e-06
+http://dbpedia.org/class/yago/SongsProducedByKeithOlsen	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.8209870592643164e-06	1.8209870592655493e-06
+http://dbpedia.org/class/yago/SongsProducedByTomDowd	Key not found
+http://dbpedia.org/class/yago/MusicalComposition107037465	0.0014740193450895407	0.0014740193451085247
+http://www.wikidata.org/entity/Q386724	4.164297217896914e-08	4.16429721789748e-08
+http://dbpedia.org/class/yago/AuditoryCommunication107109019	0.0019845618409338284	0.001984561840960408
+http://dbpedia.org/ontology/Single	0.0016055263265275655	0.0016055263265444542
+http://dbpedia.org/class/yago/Song107048000	0.0015318950452720115	0.0015318950452930073
+http://dbpedia.org/class/yago/TheRascalsSongs	Key not found
+http://dbpedia.org/class/yago/Music107020895	0.00195141680606752	0.0019514168060936292
+http://schema.org/CreativeWork	4.164297217896914e-08	4.164297217899573e-08
+http://dbpedia.org/class/yago/Abstraction100002137	6.960942874449716e-07	6.960942874469866e-07
+http://dbpedia.org/class/yago/PatBenatarSongs	Key not found
+http://dbpedia.org/ontology/MusicalWork	4.76352957846226e-06	4.763529578466922e-06
+http://dbpedia.org/class/yago/SongsProducedByArifMardin	Key not found
+http://www.wikidata.org/entity/Q2188189	4.164297217896914e-08	4.1642972179001046e-08
+http://dbpedia.org/ontology/Work	4.164297217896914e-08	4.1642972178995646e-08
+http://www.wikidata.org/entity/Q134556	8.117782856566914e-06	8.117782856615146e-06
+http://dbpedia.org/class/yago/Communication100033020	6.2649276752495804e-06	6.264927675248338e-06
+http://dbpedia.org/resource/Rhythm_and_blues	4.495947647880896e-05	4.495947647945985e-05
+http://dbpedia.org/resource/Rock_music	0.0003259915134485879	0.0003259915134529697
+http://dbpedia.org/resource/Heartland_rock	1.683099341387478e-05	1.6830993413915124e-05
+http://dbpedia.org/resource/Blue-eyed_soul	1.9432732045291453e-05	1.9432732045403248e-05
+http://dbpedia.org/resource/Hard_rock	0.0001093624612046595	0.00010936246120583206
+http://dbpedia.org/resource/The_Rascals	2.758657301593508e-06	2.7586573016063544e-06
+http://dbpedia.org/resource/Pat_Benatar	4.822007850017301e-06	4.82200785007692e-06
+1966-05-30	1.1499056694982201e-07	1.1499056695181879e-07
+1980-07-08	2.1647738061546055e-08	2.164773806212235e-08
+\Out-A-Touch\	Key not found
+\Love Is a Beautiful Thing\	Key not found
+http://dbpedia.org/resource/Gramophone_record	2.812904949846547e-05	2.812904949893909e-05
+http://dbpedia.org/resource/Hit_Me_with_Your_Best_Shot	6.082195872091489e-06	6.0821958720994944e-06

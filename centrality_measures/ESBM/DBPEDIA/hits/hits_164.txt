@@ -1,0 +1,43 @@
+http://dbpedia.org/resource/Honolulu	1.3164532701359171e-06	1.3164532699664625e-06
+http://dbpedia.org/resource/United_States	2.673132931360336e-07	2.6731329313603265e-07
+http://dbpedia.org/resource/Hawaii	3.6942896421757244e-06	3.6942896417278227e-06
+http://www.honoluluadvertiser.com	5.610248923921461e-08	5.6102489233407276e-08
+http://dbpedia.org/resource/Broadsheet	0.00010863173342833198	0.00010863173341720853
+141934	5.610312471263857e-08	5.610312470683585e-08
+155932	5.610312471263858e-08	5.610312470683569e-08
+http://www.wikidata.org/entity/Q386724	Key not found
+http://www.w3.org/2002/07/owl#Thing	8.990119815753823e-07	8.990119815749426e-07
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/NewspapersPublishedInHawaii	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.1924558106007608e-08	1.192455810622419e-08
+http://dbpedia.org/class/yago/Product104007894	3.512235805358086e-06	3.5122358053615715e-06
+http://dbpedia.org/class/yago/Publication106589574	0.0014801845524785296	0.001480184552325583
+http://dbpedia.org/ontology/WrittenWork	0.0019137639681905947	0.0019137639679889411
+http://dbpedia.org/class/yago/Work104599396	0.0014758543261112619	0.0014758543259586736
+http://dbpedia.org/ontology/Work	4.554372483211558e-06	4.554372483217768e-06
+http://dbpedia.org/class/yago/Object100002684	1.1924558106007608e-08	1.1924558106226948e-08
+http://dbpedia.org/class/yago/Press106263369	0.0007159240159274365	0.0007159240158538338
+http://dbpedia.org/class/yago/Newspaper106267145	0.0004157890659762185	0.00041578906593350335
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://www.wikidata.org/entity/Q11032	0.0003748027451396742	0.0003748027451011161
+http://dbpedia.org/class/yago/PublicationsEstablishedIn1856	Key not found
+http://dbpedia.org/ontology/PeriodicalLiterature	0.0009478233537639181	0.0009478233536670066
+http://dbpedia.org/class/yago/PrintMedia106263609	0.0007149325304922965	0.0007149325304186938
+http://www.wikidata.org/entity/Q1092563	0.000926465009377515	0.00092646500928214
+http://dbpedia.org/class/yago/Medium106254669	1.7013953122512362e-06	1.7013953122523433e-06
+http://dbpedia.org/class/yago/PublicationsDisestablishedIn2010	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/class/yago/Creation103129123	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/ontology/Newspaper	0.0004502248933636867	0.0004502248933175219
+The Honolulu Advertiser	5.61028069741271e-08	5.610280696832549e-08
+The Honolulu Advertiser	5.61028069741271e-08	5.610280696832549e-08
+http://dbpedia.org/resource/Category:Media_in_Honolulu,_Hawaii	Key not found
+http://dbpedia.org/resource/Category:2010_disestablishments_in_Hawaii	1.1221502652499915e-07	1.1221502651340257e-07
+http://dbpedia.org/resource/Category:Defunct_newspapers_of_Hawaii	Key not found
+http://dbpedia.org/resource/Category:Publications_disestablished_in_2010	1.928197547720241e-06	1.928197547520952e-06
+http://dbpedia.org/resource/Category:Black_Press	6.013568436308269e-07	6.01356843569375e-07
+http://dbpedia.org/resource/Category:1856_establishments_in_Hawaii	5.612529570435755e-08	5.612529569853664e-08
+http://dbpedia.org/resource/Category:Publications_established_in_1856	9.923164344569822e-07	9.923164343544857e-07
+http://dbpedia.org/resource/Newspaper	0.00036909475515435093	0.0003690947551167684
+http://dbpedia.org/resource/Black_Press	3.6626233697648575e-06	3.6626233694779958e-06

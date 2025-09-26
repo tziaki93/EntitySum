@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/Henlow_Camp_railway_station	0.00041201654680960445	0.00041201654682330524
+52.03245 -0.28714	5.789900525276602e-06	5.7899005260148915e-06
+SG16	2.7275735081150733e-05	2.727573508472393e-05
+http://dbpedia.org/resource/Category:Civil_parishes_in_Bedfordshire	0.000715258486685023	0.0007152584867793113
+http://dbpedia.org/resource/Category:Villages_in_Bedfordshire	0.0007464058945271048	0.0007464058946255207
+TL176385	5.789900525276602e-06	5.789900526014754e-06
+http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)	7.80019949374439e-05	7.800199494674129e-05
+http://dbpedia.org/resource/Jim_Watts	0.0003661391670712089	0.00036613916707832245
+http://dbpedia.org/ontology/Settlement	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0003068602295856314	0.00030686022958623403
+http://dbpedia.org/ontology/PopulatedPlace	0.0002920753111049126	0.0002920753111041256
+http://dbpedia.org/ontology/Location	0.0002920753111049126	0.00029207531110412574
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0003068602295856314	0.000306860229586234
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.00029919039164969186	0.00029919039164958826
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Location100027167	0.0002920753111049126	0.0002920753111041259
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/Region108630985	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	0.00029919039164969186	0.00029919039164958826
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.00029919039164969186	0.00029919039164958826
+http://dbpedia.org/class/yago/Object100002684	0.0003068602295856314	0.00030686022958623403
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0002997451490408521	0.00029974514904077134
+http://dbpedia.org/class/yago/VillagesInBedfordshire	Key not found
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Place	0.0002920753111049126	0.00029207531110412557
+http://schema.org/Place	0.0002920753111049126	0.0002920753111041256
+01462	0.00013933174273378084	0.00013933174275211873
+-0.28714	Key not found
+52.03245	Key not found
+Henlow	5.789900525276602e-06	5.789900526014735e-06
+http://dbpedia.org/resource/Bedfordshire	0.01691335190382503	0.016913351906056653
+http://dbpedia.org/resource/England	0.0002920753111049126	0.0002920753111041256
+http://dbpedia.org/resource/United_Kingdom	0.0002920753111049126	0.0002920753111041256
+Henlow	5.789900525276602e-06	5.789900526014735e-06
+3084	7.346352355327595e-06	7.34635235632848e-06

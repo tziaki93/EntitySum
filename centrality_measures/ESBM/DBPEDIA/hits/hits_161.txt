@@ -1,0 +1,41 @@
+http://dbpedia.org/resource/Slow_jam	2.0730468162356423e-06	2.073046876486524e-06
+http://dbpedia.org/resource/Hip_hop_soul	6.776192200948118e-06	6.776192397774506e-06
+Can U Get wit It	6.84125521326696e-08	6.84125541069517e-08
+http://dbpedia.org/resource/Call_Me_a_Mack	1.624999996928381e-05	1.6249999975105287e-05
+http://dbpedia.org/resource/Usher_(singer)	2.2240782105580346e-06	2.22407827512425e-06
+255.0	Key not found
+296.0	2.9492670850351095e-09	2.949267112109652e-09
+http://dbpedia.org/resource/LaFace_Records	9.56289774619142e-06	9.562898017416348e-06
+http://dbpedia.org/resource/Arista_Records	5.574930591405354e-05	5.5749307532865e-05
+Can U Get wit It	6.84125521326696e-08	6.84125541069517e-08
+http://dbpedia.org/resource/Compact_disc	3.38389538491582e-05	3.383895483325594e-05
+http://dbpedia.org/resource/Call_Me_a_Mack	1.624999996928381e-05	1.6249999975105287e-05
+1994-07-01	1.351765963134958e-07	1.3517660020265038e-07
+http://dbpedia.org/resource/DeVante_Swing	1.443400452056685e-06	1.4434004937434705e-06
+http://dbpedia.org/resource/Usher_(singer)	2.2240782105580346e-06	2.22407827512425e-06
+http://dbpedia.org/resource/Usher_(album)	7.363877929386413e-07	7.363878055487017e-07
+http://dbpedia.org/resource/Category:Usher_(singer)_songs	2.595560006103386e-09	2.5955600893919985e-09
+http://dbpedia.org/resource/Category:Songs_written_by_DeVante_Swing	1.1619018125305008e-06	1.1619018463109024e-06
+http://dbpedia.org/resource/Category:1994_songs	5.8447641608028864e-05	5.8447643307946163e-05
+http://dbpedia.org/resource/Category:LaFace_Records_singles	7.212473348873089e-06	7.2124735586514446e-06
+http://dbpedia.org/resource/Category:Arista_Records_singles	3.620621089211256e-05	3.6206211944713304e-05
+http://dbpedia.org/resource/Category:1994_singles	5.7673483625968816e-05	5.7673485303374494e-05
+http://dbpedia.org/resource/Category:Song_recordings_produced_by_DeVante_Swing	1.0966913665356942e-06	1.096691398406474e-06
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.5074499010752078e-07	1.507449939404254e-07
+http://dbpedia.org/class/yago/Medium106254669	1.3605656868529598e-07	1.3605657251007185e-07
+http://www.wikidata.org/entity/Q386724	1.3605656868529598e-07	1.36056572510107e-07
+http://dbpedia.org/class/yago/Object100002684	1.5074499010752078e-07	1.5074499394042489e-07
+http://www.w3.org/2002/07/owl#Thing	5.743840301342152e-07	5.743840339605714e-07
+http://dbpedia.org/class/yago/Artifact100021939	1.3605656868529598e-07	1.3605657251010153e-07
+http://schema.org/CreativeWork	1.3605656868529598e-07	1.3605657251010555e-07
+http://dbpedia.org/ontology/Single	0.003973247512998608	0.003973247628546406
+http://dbpedia.org/class/yago/1994Singles	Key not found
+http://dbpedia.org/ontology/Work	1.3605656868529598e-07	1.36056572510093e-07
+http://www.wikidata.org/entity/Q134556	2.901545112413405e-05	2.9015451501586873e-05
+http://dbpedia.org/ontology/MusicalWork	1.6049096360041167e-05	1.6049096361857934e-05
+http://www.wikidata.org/entity/Q2188189	1.3605656868529598e-07	1.3605657251009898e-07
+http://dbpedia.org/class/yago/Whole100003553	1.5074499010752078e-07	1.5074499394043584e-07
+http://dbpedia.org/class/yago/Instrumentality103575240	1.3605656868529598e-07	1.3605657251011076e-07
+http://dbpedia.org/resource/Think_of_You_(Usher_song)	1.6984899028014203e-05	1.6984899036002222e-05
+http://dbpedia.org/resource/DeVante_Swing	1.443400452056685e-06	1.4434004937434705e-06
+http://dbpedia.org/resource/Think_of_You_(Usher_song)	1.6984899028014203e-05	1.6984899036002222e-05
