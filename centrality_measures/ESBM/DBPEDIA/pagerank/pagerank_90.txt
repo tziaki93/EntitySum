@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/Plant	0.08083147766215405
+Trichoscypha cavalliensis	5.25455315226651e-06
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.4847703488456553e-05
+http://dbpedia.org/class/yago/Organism100004475	4.974982972340943e-06
+http://dbpedia.org/ontology/Eukaryote	8.401418449310722e-06
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/VulnerablePlants	Key not found
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Plant	0.17502534056071253
+http://dbpedia.org/class/yago/Plant100017222	0.10245977853048295
+http://www.wikidata.org/entity/Q756	0.013322315966445822
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/resource/Eudicots	0.006512598170326444
+http://dbpedia.org/resource/Trichoscypha	0.00021155987149821983
+http://dbpedia.org/resource/Anacardiaceae	0.0031025379159268355
+http://dbpedia.org/resource/Flowering_plant	0.07009874444063365
+VU	0.003009158151454395
+http://dbpedia.org/resource/Sapindales	0.0012467774625800926
+http://dbpedia.org/resource/Rosids	0.0027302972715216914
+http://dbpedia.org/resource/Category:Vulnerable_plants	0.009989312039474734
+http://dbpedia.org/resource/Category:Trichoscypha	5.2507112688267704e-05
+IUCN2.3	0.00599352714880731

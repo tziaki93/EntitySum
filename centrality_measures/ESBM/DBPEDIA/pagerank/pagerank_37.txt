@@ -1,0 +1,23 @@
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/ontology/Reptile	0.11037066122776798
+http://www.w3.org/2002/07/owl#Thing	0.00016698570123218923
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/ontology/Eukaryote	8.601058232500377e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Animal	7.199215552853669e-05
+http://dbpedia.org/resource/Animal	9.135601563438616e-05
+http://dbpedia.org/resource/Category:Crotalinae	0.0011313652940569342
+Ovophis	6.385486376786865e-05
+http://dbpedia.org/resource/Viperidae	0.014909382062808845
+http://dbpedia.org/resource/Pit_viper	0.009809724283808635
+Ovophis	6.385486376786865e-05
+http://dbpedia.org/resource/Vertebrate	0.07477240405922882
+http://dbpedia.org/resource/Chordate	0.039247499389793154
+http://dbpedia.org/resource/Squamata	0.02040842147456993
+http://dbpedia.org/resource/Snake	0.1028006969227071
+http://dbpedia.org/resource/Ovophis_chaseni	0.0003290500086052319
+http://dbpedia.org/resource/Ovophis_monticola	0.004055791007301376
+http://dbpedia.org/resource/Ovophis_okinavensis	0.002759850781720115
+http://dbpedia.org/resource/Reptile	0.07597782090249075
+In Romano-Hoge, 1981	Key not found
+* Ovophis Burger	Key not found

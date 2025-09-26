@@ -1,0 +1,23 @@
+http://dbpedia.org/ontology/Album	0.00026381938813747506
+http://schema.org/CreativeWork	Key not found
+http://schema.org/MusicAlbum	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0004135242985483145
+http://www.wikidata.org/entity/Q2188189	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://dbpedia.org/resource/MCMXCV_(album)	0.00039935687465929835
+Foppt den Dämon!	0.00016042792612797462
+http://dbpedia.org/resource/Album	0.00026381938813747506
+http://dbpedia.org/resource/Bannkreis	0.0024132265407517963
+Foppt den Dämon!	0.00016042792612797462
+http://dbpedia.org/resource/Medieval_metal	0.017743496037661875
+http://dbpedia.org/resource/Medieval_folk_rock	0.023951376781497672
+2528.0	Key not found
+http://dbpedia.org/resource/Bannkreis	0.0024132265407517963
+http://dbpedia.org/resource/MCMXCV_(album)	0.00039935687465929835
+http://dbpedia.org/resource/Subway_to_Sally	0.024657063559656
+http://dbpedia.org/resource/Category:Subway_to_Sally_albums	Key not found
+http://dbpedia.org/resource/Category:1996_albums	0.23799405854922162
+http://dbpedia.org/resource/Red_Rooster_Records	0.0081463035250207

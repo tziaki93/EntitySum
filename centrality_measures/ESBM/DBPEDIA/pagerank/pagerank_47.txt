@@ -1,0 +1,38 @@
+http://schema.org/CreativeWork	7.537124099997793e-05
+http://schema.org/MusicAlbum	7.537124099997793e-05
+http://www.w3.org/2002/07/owl#Thing	0.0001780261066303992
+http://www.wikidata.org/entity/Q482994	7.537124099997793e-05
+http://www.wikidata.org/entity/Q2188189	7.537124099997793e-05
+http://dbpedia.org/ontology/MusicalWork	7.537124099997793e-05
+http://dbpedia.org/class/yago/Artifact100021939	7.537124099997793e-05
+http://dbpedia.org/class/yago/CinepolyRecordsAlbums	Key not found
+http://dbpedia.org/ontology/Work	7.537124099997793e-05
+http://dbpedia.org/class/yago/Medium106254669	7.537124099997793e-05
+http://dbpedia.org/class/yago/Album106591815	7.537124099997793e-05
+http://dbpedia.org/class/yago/MandopopAlbums	Key not found
+http://www.wikidata.org/entity/Q386724	7.537124099997793e-05
+http://dbpedia.org/class/yago/FayeWongAlbums	Key not found
+http://dbpedia.org/class/yago/Instrumentality103575240	7.537124099997793e-05
+http://dbpedia.org/class/yago/Object100002684	0.00010987216421769103
+http://dbpedia.org/class/yago/1994Albums	Key not found
+http://dbpedia.org/class/yago/Whole100003553	0.00010987216421769103
+http://dbpedia.org/ontology/Album	7.537124099997793e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.00010987216421769103
+http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)	0.005289035422300203
+http://dbpedia.org/resource/Please_Myself	0.0031990543237964976
+2819.0	Key not found
+http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)	0.005289035422300203
+http://dbpedia.org/resource/Please_Myself	0.0031990543237964976
+1994-11-10	0.009648581262477607
+http://dbpedia.org/resource/Faye_Wong	0.030157087255088602
+Tian Kong (Sky)	Key not found
+http://dbpedia.org/resource/Sony_Music_Entertainment	0.2139416555301062
+http://dbpedia.org/resource/Cinepoly_Records	0.004572791303605637
+Sky (Faye Wong album)	4.526045466069764e-05
+http://dbpedia.org/resource/Category:Mandopop_albums	0.00564899452102069
+http://dbpedia.org/resource/Category:Faye_Wong_albums	0.0009688827836057629
+http://dbpedia.org/resource/Category:Sony_Music_Entertainment_albums	0.0002771714269027407
+http://dbpedia.org/resource/Category:Albums_by_Singaporean_artists	0.0005074922741883987
+http://dbpedia.org/resource/Category:Cinepoly_Records_albums	0.0011719150141934172
+http://dbpedia.org/resource/Category:1994_albums	0.07545137674418194
+http://dbpedia.org/resource/Mandopop	0.06503358812303096

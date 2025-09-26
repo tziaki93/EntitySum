@@ -1,0 +1,20 @@
+http://www.w3.org/2002/07/owl#Thing	2.4534516448015774e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Species	Key not found
+http://www.wikidata.org/entity/Q756	0.01582906858410518
+http://dbpedia.org/ontology/Plant	0.21867629457423932
+http://dbpedia.org/ontology/Eukaryote	1.0602547937327638e-05
+http://dbpedia.org/resource/Category:Rubus	0.001340364181345643
+http://dbpedia.org/resource/Category:Flora_of_Sonora	0.001116404728043024
+http://dbpedia.org/resource/Category:Plants_described_in_1914	0.00044441074087139706
+http://dbpedia.org/resource/Category:Flora_of_the_Southwestern_United_States	0.002900421357699988
+http://dbpedia.org/resource/Rosaceae	0.00721546616236233
+http://dbpedia.org/resource/Flowering_plant	0.08093507757587111
+http://dbpedia.org/resource/Plant	0.09976606066745702
+http://dbpedia.org/resource/Rosales	0.0018383476189293704
+http://dbpedia.org/resource/Rosids	0.00312093130581107
+*Rubus scolocaulon (Brandegee)	Key not found
+http://dbpedia.org/resource/Rubus	0.005474822295290515
+http://dbpedia.org/resource/Wilhelm_Olbers_Focke	0.0005662541129858187
+Rubus arizonensis	6.18410706896624e-06
+http://dbpedia.org/resource/Eudicots	0.00753336589330795

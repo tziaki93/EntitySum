@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/William_Vincent_Fitzgerald	0.0007853090088917931
+Silver Cajuput	Key not found
+Melaleuca sheathiana	5.795030505345339e-06
+http://dbpedia.org/resource/Category:Melaleuca	0.0010566527661253237
+http://dbpedia.org/resource/Category:Myrtales_of_Australia	0.006686806371495357
+http://dbpedia.org/resource/Category:Flora_of_Western_Australia	0.007095604816863051
+http://dbpedia.org/resource/Category:Plants_described_in_1902	0.0004978941970201417
+http://dbpedia.org/resource/Melaleuca	0.003528812187100864
+http://www.wikidata.org/entity/Q756	0.01551531868351731
+http://dbpedia.org/ontology/Species	6.876964784113949e-06
+http://dbpedia.org/ontology/Plant	0.21340493956811657
+http://www.w3.org/2002/07/owl#Thing	2.3213099260371105e-05
+http://www.wikidata.org/entity/Q19088	6.876964784113949e-06
+http://dbpedia.org/ontology/Eukaryote	1.548484466148633e-05
+http://dbpedia.org/resource/Myrtaceae	0.009383980743392155
+http://dbpedia.org/resource/Eudicots	0.0073963940614329565
+http://dbpedia.org/resource/Rosids	0.0030688913049729915
+http://dbpedia.org/resource/Plant	0.09737891433081612
+http://dbpedia.org/resource/Flowering_plant	0.07974953190283902
+http://dbpedia.org/resource/Myrtales	0.0012140814353630727

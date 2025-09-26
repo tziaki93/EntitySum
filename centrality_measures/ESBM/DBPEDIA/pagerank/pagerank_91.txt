@@ -1,0 +1,23 @@
+392	3.625277158864366e-05
+2594.0	Key not found
+http://dbpedia.org/resource/Japanese_language	0.0776769730164433
+http://dbpedia.org/resource/CNBLUE	0.004448423862530944
+http://dbpedia.org/resource/First_Step_(CNBLUE_album)	0.001259641189889279
+http://dbpedia.org/resource/Category:2011_albums	0.022599372760020994
+http://dbpedia.org/resource/Category:CNBLUE_albums	0.00012937051499790314
+http://dbpedia.org/resource/Ear_Fun	0.0010352440946674822
+392 (album)	8.732619986716262e-06
+http://www.w3.org/2002/07/owl#Thing	4.0121088985840266e-05
+http://schema.org/CreativeWork	1.4024379255983221e-05
+http://dbpedia.org/ontology/MusicalWork	1.4024379255983221e-05
+http://dbpedia.org/ontology/Album	1.4024379255983221e-05
+http://schema.org/MusicAlbum	1.4024379255983221e-05
+http://www.wikidata.org/entity/Q386724	1.4024379255983221e-05
+http://www.wikidata.org/entity/Q482994	1.4024379255983221e-05
+http://dbpedia.org/ontology/Work	1.4024379255983221e-05
+http://www.wikidata.org/entity/Q2188189	1.4024379255983221e-05
+http://dbpedia.org/resource/AI_Entertainment	0.0007077334602789035
+http://dbpedia.org/resource/Ear_Fun	0.0010352440946674822
+2011-09-01	0.002385158398230942
+http://dbpedia.org/resource/First_Step_(CNBLUE_album)	0.001259641189889279
+http://dbpedia.org/resource/Rock_music	0.35078698235944444

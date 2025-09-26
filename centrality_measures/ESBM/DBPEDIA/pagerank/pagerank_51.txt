@@ -1,0 +1,68 @@
+http://dbpedia.org/resource/Category:Christian_saints_killed_by_Muslims	0.00021727372983557555
+http://dbpedia.org/resource/Category:830_deaths	9.087777492044775e-05
+http://dbpedia.org/resource/Category:Monarchs_of_Georgia_(country)	2.7715834391424577e-05
+http://dbpedia.org/resource/Category:9th-century_monarchs_in_Asia	0.00010771658300749124
+http://dbpedia.org/resource/Category:8th-century_births	0.0008917759468108105
+http://dbpedia.org/resource/Category:Vassal_rulers_of_the_Abbasid_Caliphate	9.258096783330257e-05
+http://dbpedia.org/resource/Category:Bagrationi_dynasty_of_Tao-Klarjeti	5.92046729184178e-05
+http://dbpedia.org/resource/Category:9th-century_Christian_saints	0.0003207720553214828
+http://dbpedia.org/resource/Category:9th-century_Christian_martyrs	8.858606874654312e-05
+http://dbpedia.org/resource/Category:Saints_of_Georgia_(country)	0.00015460794456563295
+http://dbpedia.org/resource/Bagrat_I_of_Iberia	0.0004381006701811447
+http://dbpedia.org/resource/Guaram_Mampali	0.00026202945112565744
+http://dbpedia.org/resource/Bagrat_I_of_Iberia	0.0004381006701811447
+http://dbpedia.org/resource/Adarnase_II_of_Tao-Klarjeti	0.0002595595032924387
+0830	4.226659070369301e-05
+აშოტ I	5.12777583944749e-06
+Ashot I	1.0017352013466976e-05
+Ashot 01 Of Iberia	Key not found
+http://dbpedia.org/resource/Bagrat_I_of_Iberia	0.0004381006701811447
+Prince of Iberia	Key not found
+Prince of Iberia	Key not found
+0830	4.226659070369301e-05
+Ashot I of Iberia	3.6099914693693716e-06
+http://www.wikidata.org/entity/Q215627	4.481630585596442e-06
+http://dbpedia.org/class/yago/Saint110546850	0.019596217894738466
+http://dbpedia.org/class/yago/Representative110522035	0.06690816742749164
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://xmlns.com/foaf/0.1/Person	4.481630585596442e-06
+http://dbpedia.org/class/yago/HeadOfState110164747	0.04665864355102585
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.8371726871454466e-05
+http://dbpedia.org/class/yago/Communicator109610660	1.3647520285108961e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	4.481630585596442e-06
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/SaintsOfGeorgia(country)	Key not found
+http://dbpedia.org/class/yago/Victim110752093	0.02288387508220481
+http://dbpedia.org/class/yago/LivingThing100004258	1.4767945591064034e-05
+http://dbpedia.org/class/yago/Ruler110541229	0.03316298515371834
+http://schema.org/Person	4.481630585596442e-06
+http://www.wikidata.org/entity/Q5	4.481630585596442e-06
+http://dbpedia.org/class/yago/GoodPerson110138767	0.03490140160258875
+http://dbpedia.org/class/yago/Whole100003553	1.4767945591064034e-05
+http://dbpedia.org/class/yago/Martyr110296618	0.004062584522034646
+http://dbpedia.org/class/yago/9th-centuryChristianMartyrs	Key not found
+http://dbpedia.org/ontology/Royalty	0.050815134809493206
+http://dbpedia.org/ontology/Person	1.6795601744996738e-05
+http://dbpedia.org/class/yago/9th-centuryMonarchsInAsia	Key not found
+http://www.w3.org/2002/07/owl#Thing	4.481630585596442e-06
+http://dbpedia.org/class/yago/Person100007846	2.1935652662630035e-05
+http://dbpedia.org/class/yago/YagoLegalActor	1.4767945591064034e-05
+http://dbpedia.org/class/yago/Sovereign110628644	0.024855167933548614
+http://dbpedia.org/class/yago/Negotiator110351874	0.0665896288199641
+http://dbpedia.org/class/yago/Organism100004475	1.4767945591064034e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.8371726871454466e-05
+http://dbpedia.org/class/yago/Object100002684	1.8371726871454466e-05
+http://dbpedia.org/class/yago/MonarchsOfGeorgia(country)	Key not found
+http://dbpedia.org/class/yago/ChristianSaintsKilledByMuslims	Key not found
+http://dbpedia.org/class/yago/9th-centuryChristianSaints	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	1.4767945591064034e-05
+http://dbpedia.org/class/yago/Unfortunate109630641	0.06737371122979237
+http://dbpedia.org/resource/Adarnase_I_of_Tao-Klarjeti	0.0002678542307607686
+0813	3.612734015945447e-05
+0830	4.226659070369301e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Ashotkurapalatgeorgia.jpg	1.8342405038592054e-05
+http://dbpedia.org/resource/Nigali_valley	0.00040637916422205545
+http://commons.wikimedia.org/wiki/Special:FilePath/Ashotkurapalatgeorgia.jpg?width=300	1.362659330468489e-05
+Kouropalatēs	7.869761919837188e-06
+Prince of Iberia	Key not found
+http://dbpedia.org/resource/Stephen_III_of_Iberia	0.0002591312253561602

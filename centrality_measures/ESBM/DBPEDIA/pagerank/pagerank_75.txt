@@ -1,0 +1,35 @@
+54.051944444444445 21.336388888888887	1.3060314168572764e-05
+21.33639	Key not found
+113	0.3756265129387407
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/resource/Poland	3.097115582092429e-05
+Muławki	1.3060314168572764e-05
+Muławki	1.3060314168572764e-05
+http://dbpedia.org/resource/Gmina_Kętrzyn	0.0017626810967351718
+http://dbpedia.org/resource/Kętrzyn_County	0.004946438701510907
+http://dbpedia.org/resource/Warmian-Masurian_Voivodeship	0.06784185810299587
+54.051945	Key not found
+http://www.wikidata.org/entity/Q532	Key not found
+http://schema.org/Place	3.097115582092429e-05
+http://www.w3.org/2002/07/owl#Thing	3.097115582092429e-05
+http://dbpedia.org/ontology/PopulatedPlace	3.097115582092429e-05
+http://dbpedia.org/class/yago/Object100002684	3.097115582092429e-05
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Settlement	3.097115582092429e-05
+http://dbpedia.org/ontology/Location	3.097115582092429e-05
+http://dbpedia.org/class/yago/District108552138	3.097115582092429e-05
+http://dbpedia.org/class/yago/Location100027167	3.097115582092429e-05
+http://dbpedia.org/class/yago/VillagesInK%C4%99trzynCounty	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Region108630985	3.097115582092429e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	3.097115582092429e-05
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.097115582092429e-05
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	3.097115582092429e-05
+http://dbpedia.org/class/yago/YagoGeoEntity	3.097115582092429e-05
+http://www.wikidata.org/entity/Q486972	2.314005772877627e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	3.097115582092429e-05
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	3.097115582092429e-05
+http://dbpedia.org/ontology/Place	3.097115582092429e-05
+http://dbpedia.org/resource/Category:Villages_in_Kętrzyn_County	0.0026115091376655137

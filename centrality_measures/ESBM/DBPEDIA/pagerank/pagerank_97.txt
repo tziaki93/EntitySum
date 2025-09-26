@@ -1,0 +1,33 @@
+Rebel Love Song	4.2403077318870655e-06
+237.0	4.310846715718626e-06
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	0.0004116619677256636
+http://dbpedia.org/resource/Unholy_(song)	0.00010507561371049008
+http://dbpedia.org/resource/Category:Black_Veil_Brides_songs	5.653655788408239e-05
+http://dbpedia.org/resource/Category:Glam_metal_songs	0.00045425606262976227
+http://dbpedia.org/resource/Category:2011_singles	0.006498015821673853
+http://dbpedia.org/resource/Category:Hard_rock_songs	0.00011954292509970221
+http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack	4.2935826238214736e-05
+http://dbpedia.org/resource/Glam_metal	0.008341984339600074
+http://dbpedia.org/resource/Hard_rock	0.05827779938918244
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg	1.2749436160374442e-05
+Rebel Love Song	4.2403077318870655e-06
+http://dbpedia.org/resource/Black_Veil_Brides	0.001937646783225336
+http://dbpedia.org/resource/The_Legacy_(song)	0.0002990335405118228
+http://www.wikidata.org/entity/Q386724	9.607962257085571e-06
+http://dbpedia.org/ontology/Work	9.607962257085571e-06
+http://schema.org/CreativeWork	9.607962257085571e-06
+http://dbpedia.org/ontology/MusicalWork	1.2957259495794767e-05
+http://www.w3.org/2002/07/owl#Thing	2.4205895316687633e-05
+http://www.wikidata.org/entity/Q134556	0.0007221208281861074
+http://dbpedia.org/ontology/Single	0.2706950543077883
+http://www.wikidata.org/entity/Q2188189	9.607962257085571e-06
+http://dbpedia.org/resource/Universal_Republic_Records	0.0016113920966640658
+http://dbpedia.org/resource/Lava_Records	0.0020002523837728096
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	0.0004116619677256636
+http://dbpedia.org/resource/Black_Veil_Brides	0.001937646783225336
+2011-08-22	0.0007924847319563989
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg?width=300	1.2749436160374442e-05
+http://dbpedia.org/resource/Music_download	0.09558804954694952
+http://dbpedia.org/resource/Black_Veil_Brides	0.001937646783225336
+http://dbpedia.org/resource/The_Legacy_(song)	0.0002990335405118228
+http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)	0.0006886848791270319

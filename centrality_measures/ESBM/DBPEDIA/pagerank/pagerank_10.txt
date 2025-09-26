@@ -1,0 +1,90 @@
+http://dbpedia.org/resource/Secretary_of_State_for_Transport	0.001584173102434189
+1947	0.017749523893727817
+Commander in Chief, Air Headquarters India	Key not found
+RAF Brize Norton	1.5412391460603059e-06
+1914	0.01140423577131907
+http://dbpedia.org/class/yago/Marshal110295951	0.001121819420305678
+http://dbpedia.org/class/yago/RoyalAirForceAirMarshals	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/MilitaryOfficer110317007	0.05398135191773527
+http://dbpedia.org/class/yago/Aviator109826204	0.0063164212731407696
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/Preserver110466918	0.028965965535802933
+http://dbpedia.org/class/yago/Defender109614684	0.02900167365127713
+http://dbpedia.org/class/yago/Friend110112591	0.005062875849951505
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/Organism100004475	1.2739208668040861e-06
+http://dbpedia.org/ontology/MilitaryPerson	0.0574536607025925
+http://www.w3.org/2002/07/owl#Thing	7.764752834227348e-06
+http://dbpedia.org/ontology/Person	2.515262473619132e-06
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	4.7715913736475644e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/ExplorersOfAntarctica	Key not found
+http://dbpedia.org/class/yago/Object100002684	4.7715913736475644e-06
+http://dbpedia.org/class/yago/LivingThing100004258	1.2739208668040861e-06
+http://dbpedia.org/class/yago/Companion109945905	0.004913632545321745
+http://dbpedia.org/class/yago/Whole100003553	2.446858482873274e-06
+http://dbpedia.org/class/yago/CausalAgent100007347	1.2739208668040861e-06
+http://dbpedia.org/class/yago/AirMarshal109781171	0.0004843393049411923
+http://dbpedia.org/class/yago/Person100007846	3.4068248037768283e-06
+http://dbpedia.org/class/yago/RoyalNavalAirServiceAviators	Key not found
+http://dbpedia.org/class/yago/SkilledWorker110605985	2.6017409551787045e-06
+http://dbpedia.org/class/yago/CompanionsOfTheOrderOfTheBath	Key not found
+http://dbpedia.org/class/yago/NewZealandAirMarshals	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.7715913736475644e-06
+http://dbpedia.org/class/yago/Serviceman110582746	0.06415540914242121
+http://dbpedia.org/class/yago/Explorer110072708	0.00770430407603397
+http://dbpedia.org/class/yago/RoyalNavyOfficersOfWorldWarI	Key not found
+http://dbpedia.org/class/yago/PeopleFromTheManawatu-WanganuiRegion	Key not found
+http://dbpedia.org/class/yago/Lawman110249459	0.007676806006141967
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	1.2739208668040861e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/Worker109632518	1.2739208668040861e-06
+1891	0.004983329898144991
+Roderick	8.903805093300113e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Air_Mshl_Sir_Roderick_Carr.jpg	1.1926715801660775e-05
+http://dbpedia.org/resource/Feilding	0.0008718522948694488
+http://dbpedia.org/resource/Bampton,_Oxfordshire	0.0005653868733558722
+Roderick Carr	2.521579979800375e-06
+Sir Charles Roderick Carr	Key not found
+Carr, Roderick	2.7032042243490177e-06
+1971	0.024234066563791744
+http://dbpedia.org/resource/Air_Force_Cross_(United_Kingdom)	0.000724542080165459
+http://dbpedia.org/resource/Order_of_the_Bath	0.005526023613094669
+http://dbpedia.org/resource/Order_of_the_British_Empire	0.018155901476063184
+http://dbpedia.org/resource/Distinguished_Flying_Cross_(United_Kingdom)	0.0019889983727495995
+http://dbpedia.org/resource/Mentioned_in_dispatches	0.0016792990114364967
+http://dbpedia.org/resource/World_War_I	0.13024675961671628
+http://dbpedia.org/resource/World_War_II	3.2759494495495325e-06
+1971-12-15	0.00016648572547058027
+http://commons.wikimedia.org/wiki/Special:FilePath/Air_Mshl_Sir_Roderick_Carr.jpg?width=300	4.58706826954983e-06
+http://dbpedia.org/resource/Battle_of_Berlin_(RAF_campaign)	0.0006504918872391887
+Carr	0.0007683337988815679
+British Empire	0.0002075402971561878
+Royal Air Force air marshals	1.0561266873886772e-06
+Royal Air Force air marshals	1.0561266873886772e-06
+http://dbpedia.org/resource/Category:1891_births	0.00786534302071337
+http://dbpedia.org/resource/Category:Royal_Air_Force_air_marshals	0.00034931110745483235
+http://dbpedia.org/resource/Category:New_Zealand_military_personnel	0.00021812876147159714
+http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Bath	0.0024736969120260862
+http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I	0.0006243461593753806
+http://dbpedia.org/resource/Category:People_from_Feilding	7.351096409422804e-05
+http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)	0.0009190126719502125
+http://dbpedia.org/resource/Category:People_from_Manawatu-Wanganui	1.0584498249263742e-05
+http://dbpedia.org/resource/Category:New_Zealand_air_marshals	Key not found
+http://dbpedia.org/resource/Category:1971_deaths	0.007741289508020486
+http://dbpedia.org/resource/Category:New_Zealand_knights	4.843085901205483e-05
+http://dbpedia.org/resource/Category:Commandeurs_of_the_Légion_d'honneur	0.0013022812887123973
+http://dbpedia.org/resource/Category:Knights_Commander_of_the_Order_of_the_British_Empire	0.0011391951922435583
+http://dbpedia.org/resource/Category:Royal_Naval_Air_Service_aviators	0.0001621095589259251
+http://dbpedia.org/resource/Category:Recipients_of_the_Air_Force_Cross_(United_Kingdom)	0.0003012129599360598
+http://dbpedia.org/resource/Category:New_Zealand_recipients_of_the_Légion_d'honneur	5.1649179303533365e-05
+http://dbpedia.org/resource/Category:Explorers_of_Antarctica	0.00036588228193684165
+http://dbpedia.org/resource/Category:Royal_Navy_officers_of_World_War_I	0.0004839299756888298
+http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_II	0.0015200498077496914
+http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_the_Russian_Civil_War	2.3583925142576358e-05
+http://dbpedia.org/resource/Category:Royal_Flying_Corps_officers	0.0008192195337980007
+Roderick Carr	2.521579979800375e-06
+1891-08-31	2.9769589081030682e-05

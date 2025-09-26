@@ -1,0 +1,57 @@
+http://dbpedia.org/resource/Japan	5.833377029687725e-06
+http://dbpedia.org/resource/Aichi_Prefecture	0.009900327470847254
+http://dbpedia.org/resource/Mystery_fiction	0.008060880367117468
+http://dbpedia.org/resource/Science_fiction	0.05230177921402129
+1996	0.1072151228173925
+http://dbpedia.org/resource/Ellery_Queen	0.001367298422019015
+http://dbpedia.org/resource/Mephisto_Prize	0.00020420979726965807
+http://dbpedia.org/resource/Subete_ga_F_ni_Naru	0.0007739649618164876
+http://dbpedia.org/resource/The_Sky_Crawlers	0.0004071149713028505
+Hiroshi	3.909338718721145e-05
+http://dbpedia.org/class/yago/Object100002684	5.503717727088296e-06
+http://dbpedia.org/class/yago/Organism100004475	3.1000920224928227e-06
+http://www.wikidata.org/entity/Q36180	0.07667096355863309
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	5.503717727088296e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/PeopleFromAichiPrefecture	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	3.1000920224928227e-06
+http://dbpedia.org/ontology/Writer	0.09675374519296961
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/JapaneseNovelists	Key not found
+http://dbpedia.org/class/yago/Writer110794014	4.658345113274251e-06
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/Novelist110363573	0.036757375162947976
+http://dbpedia.org/class/yago/JapaneseMysteryWriters	Key not found
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/class/yago/Person100007846	3.1000920224928227e-06
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/Whole100003553	3.1000920224928227e-06
+http://dbpedia.org/class/yago/LivingThing100004258	3.1000920224928227e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	5.503717727088296e-06
+http://dbpedia.org/ontology/Person	4.470901448933729e-06
+http://dbpedia.org/class/yago/Communicator109610660	3.1000920224928227e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	3.1000920224928227e-06
+http://www.w3.org/2002/07/owl#Thing	1.6432984115488144e-05
+1957	0.029667898653010675
+Hiroshi Mori (writer)	3.0740972676318606e-06
+Japanese writer	Key not found
+Japanese writer	Key not found
+http://dbpedia.org/resource/Japanese_people	0.023107594938474692
+Hiroshi Mori	1.4147671453949503e-05
+Mori, Hiroshi	7.000252009072327e-06
+1957-12-07	0.00012752657269076573
+http://dbpedia.org/resource/Subete_ga_F_ni_Naru	0.0007739649618164876
+http://dbpedia.org/resource/The_Sky_Crawlers	0.0004071149713028505
+Mori	0.0007056540716918857
+http://dbpedia.org/resource/Japanese_people	0.023107594938474692
+http://www001.upp.so-net.ne.jp/mori/index.html	3.0740972676318606e-06
+http://dbpedia.org/resource/Category:Nagoya_University_faculty	0.00016199303065927818
+http://dbpedia.org/resource/Category:1957_births	0.04340925994926925
+http://dbpedia.org/resource/Category:Nagoya_University_alumni	0.00017979383016829094
+http://dbpedia.org/resource/Category:People_from_Aichi_Prefecture	0.00029844452249657864
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:Japanese_mystery_writers	0.00016376961590878778
+http://dbpedia.org/resource/Category:Japanese_novelists	0.0001429085948923593

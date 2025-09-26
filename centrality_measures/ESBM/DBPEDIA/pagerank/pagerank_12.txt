@@ -1,0 +1,22 @@
+2011 Kor Royal Cup	4.905841312980035e-06
+http://schema.org/Event	8.906338180675257e-06
+http://dbpedia.org/ontology/SportsEvent	0.18622072659147565
+http://dbpedia.org/ontology/Event	8.906338180675257e-06
+http://dbpedia.org/ontology/SocietalEvent	1.1656120245827664e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	8.906338180675257e-06
+http://www.w3.org/2002/07/owl#Thing	2.568823188151616e-05
+http://dbpedia.org/ontology/FootballMatch	0.018922030537694066
+http://www.wikidata.org/entity/Q1656682	8.906338180675257e-06
+http://schema.org/SportsEvent	0.14943551878108646
+http://dbpedia.org/resource/2012_Kor_Royal_Cup	0.0002457487325736384
+http://dbpedia.org/resource/2010_Kor_Royal_Cup	0.0005402568219300667
+http://dbpedia.org/resource/Bangkok	0.07152011414774921
+2011 Kor Royal Cup	4.905841312980035e-06
+http://dbpedia.org/resource/Category:Kor_Royal_Cup_seasons	5.081098740535531e-05
+http://dbpedia.org/resource/Category:2011_in_Thai_football_cups	7.559259063181028e-05
+http://dbpedia.org/resource/Chonburi_F.C.	0.005488931841641209
+http://dbpedia.org/resource/Muangthong_United_F.C.	0.006306541042296498
+http://dbpedia.org/resource/2010_Kor_Royal_Cup	0.0005402568219300667
+http://dbpedia.org/resource/National_Stadium_(Thailand)	0.0018883792467048281
+http://dbpedia.org/resource/2012_Kor_Royal_Cup	0.0002457487325736384
+2011-01-30	0.0011413983597695363

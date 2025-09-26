@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	0.0009356749602021584
+2011 League of Ireland Cup Final	5.979106494856579e-06
+http://dbpedia.org/resource/Turners_Cross_(stadium)	0.0020150907611493204
+http://dbpedia.org/resource/Cork_(city)	0.04249873574396326
+http://dbpedia.org/ontology/Event	5.979106494856579e-06
+http://dbpedia.org/ontology/FootballMatch	0.02205733390957159
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	5.979106494856579e-06
+http://www.w3.org/2002/07/owl#Thing	2.2504682112462613e-05
+http://dbpedia.org/ontology/SocietalEvent	8.704982604977212e-06
+http://dbpedia.org/ontology/SportsEvent	0.21516368439257297
+http://schema.org/SportsEvent	0.17322193813182804
+http://www.wikidata.org/entity/Q1656682	5.979106494856579e-06
+http://schema.org/Event	5.979106494856579e-06
+2011-09-24	0.0024563195893102037
+18:00IST	5.5629398928712755e-05
+http://dbpedia.org/resource/Derry_City_F.C.	0.009440743484027816
+http://dbpedia.org/resource/Cork_City_F.C.	0.006412856311964581
+http://dbpedia.org/resource/Category:Cork_City_F.C._matches	6.565847339013827e-05
+http://dbpedia.org/resource/Category:Derry_City_F.C._matches	6.644685293719276e-05
+http://dbpedia.org/resource/Category:2011_in_Republic_of_Ireland_football_cups	3.6462574820274825e-05
+http://dbpedia.org/resource/Category:League_of_Ireland_Cup_finals	6.986821583870657e-05
+http://dbpedia.org/resource/Category:2011_League_of_Ireland	8.949661843926189e-05
+2011 League of Ireland Cup Final	5.979106494856579e-06

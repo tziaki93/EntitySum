@@ -1,0 +1,31 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300	Key not found
++5:30	0.3266430482479433
+http://dbpedia.org/resource/Bijapur_district,_Karnataka	0.004530686189188166
+http://dbpedia.org/resource/Karnataka	0.11895898951126577
+Akalwadi	1.054728613924258e-05
+http://dbpedia.org/resource/India	1.8005870948117162e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.8005870948117162e-05
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.8005870948117162e-05
+http://dbpedia.org/class/yago/Object100002684	1.8005870948117162e-05
+http://dbpedia.org/class/yago/Region108630985	1.8005870948117162e-05
+http://dbpedia.org/class/yago/VillagesInBijapurDistrict	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.8005870948117162e-05
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	1.8005870948117162e-05
+http://dbpedia.org/ontology/Location	1.8005870948117162e-05
+http://dbpedia.org/ontology/PopulatedPlace	1.8005870948117162e-05
+http://www.w3.org/2002/07/owl#Thing	1.8005870948117162e-05
+http://dbpedia.org/ontology/Place	1.8005870948117162e-05
+http://www.wikidata.org/entity/Q532	Key not found
+http://www.wikidata.org/entity/Q486972	1.106461540970744e-05
+http://schema.org/Place	1.8005870948117162e-05
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://dbpedia.org/class/yago/Location100027167	1.8005870948117162e-05
+http://dbpedia.org/ontology/Settlement	1.8005870948117162e-05
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png	Key not found
+http://dbpedia.org/resource/Category:Villages_in_Bijapur_district	7.206101990887495e-05
+http://dbpedia.org/resource/Village	Key not found
+Akalwadi	1.054728613924258e-05
+http://dbpedia.org/resource/Indian_Standard_Time	1.8005870948117162e-05

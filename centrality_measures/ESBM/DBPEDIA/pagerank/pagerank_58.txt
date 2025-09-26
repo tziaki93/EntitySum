@@ -1,0 +1,38 @@
+1970-03-03	0.00035403419633421693
+Warren	0.005893820576009767
+Television personality	0.004621726624199492
+Television personality	0.004621726624199492
+http://dbpedia.org/resource/Category:1970_births	0.09738964767106108
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:American_television_personalities	0.004962076815932086
+1970	0.09353916812244764
+Warren, Storme	Key not found
+Storme Warren	1.4262566356988229e-05
+Storme Warren	1.4262566356988229e-05
+2153141	7.235717421268259e-06
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/Object100002684	6.825134478029828e-06
+http://www.w3.org/2002/07/owl#Thing	1.1860723017431695e-05
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	6.825134478029828e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://schema.org/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	6.825134478029828e-06
+Storme Warren	1.4262566356988229e-05
+Storme	1.4279594459517349e-05
+http://dbpedia.org/resource/Broadcaster/Host	Key not found
+http://dbpedia.org/resource/Storme_Warren__1	1.4279594459517349e-05
+http://dbpedia.org/resource/Ohio	0.20255731320611695
+http://dbpedia.org/resource/United_States	1.1860723017431695e-05
+http://dbpedia.org/resource/Cincinnati	0.06523224540975238

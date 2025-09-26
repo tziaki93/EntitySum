@@ -1,0 +1,23 @@
+*Gelechia cinerosella (Tengström, 1848)	6.574759974107989e-06
+*Gelechia serrulatella (Tengström, 1848)	6.574759974107989e-06
+*Bryotropha brevipalpella (Rebel, 1893)	6.574759974107989e-06
+*Gelechia plantariella (Tengström, 1848)	6.574759974107989e-06
+Bryotropha plantariella	6.574759974107989e-06
+http://dbpedia.org/ontology/Animal	5.8990240153486465e-06
+http://www.wikidata.org/entity/Q19088	5.8990240153486465e-06
+http://www.w3.org/2002/07/owl#Thing	5.8990240153486465e-06
+http://dbpedia.org/ontology/Eukaryote	5.8990240153486465e-06
+http://dbpedia.org/ontology/Species	5.8990240153486465e-06
+http://www.wikidata.org/entity/Q729	5.8990240153486465e-06
+http://dbpedia.org/ontology/Insect	1.089651471542057e-05
+http://www.wikidata.org/entity/Q1390	0.4379962921541055
+http://dbpedia.org/resource/Lepidoptera	1.0576908762732966e-05
+http://dbpedia.org/resource/Gelechiidae	0.034222561778160604
+http://dbpedia.org/resource/Arthropod	5.8990240153486465e-06
+http://dbpedia.org/resource/Category:Moths_described_in_1848	0.0006892831464207264
+http://dbpedia.org/resource/Category:Insects_of_Europe	0.0007511873223429357
+http://dbpedia.org/resource/Category:Bryotropha	0.00023560522543093952
+http://dbpedia.org/resource/Insect	1.089651471542057e-05
+http://dbpedia.org/resource/Animal	5.8990240153486465e-06
+Bryotropha plantariella	6.574759974107989e-06
+http://dbpedia.org/resource/Bryotropha	0.0006699778264780451

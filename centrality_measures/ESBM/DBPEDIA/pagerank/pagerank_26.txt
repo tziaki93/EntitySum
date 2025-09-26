@@ -1,0 +1,34 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300	2.218021563522614e-05
+Richmond–Petersburg Turnpike	5.216197472464707e-06
+I	0.001108138674740851
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/Road104096066	0.06179878837735916
+http://dbpedia.org/class/yago/Expressway103306610	0.02182051298204451
+http://dbpedia.org/class/yago/Turnpike104501018	0.0007932471311116781
+http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates	Key not found
+http://dbpedia.org/ontology/Road	0.08185688641041669
+http://dbpedia.org/ontology/Place	Key not found
+http://dbpedia.org/class/yago/Way104564698	0.07095130895423947
+http://dbpedia.org/ontology/Infrastructure	5.111896648085005e-06
+http://dbpedia.org/class/yago/Highway103519981	0.029654825600262995
+http://www.wikidata.org/entity/Q34442	0.060230768486304896
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	Key not found
+http://schema.org/Place	Key not found
+http://dbpedia.org/class/yago/TollRoadsInVirginia	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/ArchitecturalStructure	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	4.727604726801754e-06
+http://dbpedia.org/ontology/RouteOfTransportation	0.11623972877402244
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/ontology/Location	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	4.727604726801754e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg	3.172920391310105e-05
+Richmond–Petersburg Turnpike	5.216197472464707e-06
+56327.04	Key not found
+http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways	0.0002746874591624203
+http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia	7.375714834080584e-05
+http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia	0.0001202828961329512
+http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia	0.0002585847023981175
+http://dbpedia.org/resource/Category:Interstate_95	0.0007291502785254785
+http://dbpedia.org/resource/Category:Interstate_85	0.00016972491490646377

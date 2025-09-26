@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/Sketchy_EP_2	0.0009496870081640344
+http://dbpedia.org/resource/Jonah_Matranga	0.0126702494354843
+Sketchy EP #1	Key not found
+http://dbpedia.org/resource/Sketchy_EP_2	0.0009496870081640344
+http://dbpedia.org/resource/Jonah's_One-line_Drawing	0.0008976766000989649
+http://dbpedia.org/resource/EP	0.2873524687122848
+1999-10-19	0.008031730865306667
+http://dbpedia.org/resource/Jonah_Matranga	0.0126702494354843
+http://dbpedia.org/resource/Jonah's_One-line_Drawing	0.0008976766000989649
+Sketchy EP 1	6.42795792275939e-05
+http://dbpedia.org/resource/Acoustic_music	0.14740568011116548
+http://dbpedia.org/resource/Category:Jonah_Matranga_albums	0.00043120806660715917
+http://schema.org/MusicAlbum	Key not found
+http://dbpedia.org/ontology/Work	5.1701848855576066e-05
+http://www.wikidata.org/entity/Q482994	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00010072678234091723
+http://www.wikidata.org/entity/Q2188189	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Album	8.646047676076415e-05
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found

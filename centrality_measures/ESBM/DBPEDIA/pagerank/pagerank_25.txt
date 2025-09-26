@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Art_Nouveau	0.0201763014819689
+http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg	1.992165322292956e-05
+Reamer Barn	7.78274480938558e-06
+41.293888	Key not found
+http://dbpedia.org/resource/Ohio	0.1540450736041099
+http://dbpedia.org/resource/Ohio_State_Route_511	0.0006013919384851027
+http://dbpedia.org/resource/Oberlin,_Ohio	0.004243165992271551
+http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Lorain_County,_Ohio	0.00015330873030082603
+http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1897	0.00024804180504014236
+http://dbpedia.org/resource/Category:Art_Nouveau_commercial_buildings	0.00026713675022253786
+http://dbpedia.org/resource/Category:Barns_on_the_National_Register_of_Historic_Places_in_Ohio	9.540780230986059e-05
+http://dbpedia.org/resource/Category:Buildings_and_structures_in_Lorain_County,_Ohio	0.0001664841155988214
+http://dbpedia.org/resource/Category:Art_Nouveau_architecture_in_the_United_States	0.00013239807298084396
+-82.245	Key not found
+4046.8564224	Key not found
+1897	0.01759807668432538
+79001889	4.56625816069664e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg?width=300	1.6661377100929407e-05
+41.29388888888889 -82.245	4.56625816069664e-06
+1979-03-21	0.0006182502429035883
+http://dbpedia.org/ontology/HistoricPlace	0.11409696404474946
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	8.769484181560653e-06
+http://dbpedia.org/ontology/Location	8.769484181560653e-06
+http://schema.org/Place	8.769484181560653e-06
+http://www.w3.org/2002/07/owl#Thing	1.5890142325586926e-05
+http://dbpedia.org/ontology/Place	1.095553191971032e-05
+http://schema.org/LandmarksOrHistoricalBuildings	0.15593308061262853
+Reamer Barn	7.78274480938558e-06

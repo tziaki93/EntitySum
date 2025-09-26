@@ -1,0 +1,43 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/Politiken_newspaper_logo.svg?width=300	Key not found
+http://politiken.dk/	1.8897348913757243e-06
+http://dbpedia.org/resource/Jyllands-Posten	0.0006982583993364564
+88597	1.8897348913757243e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Politiken_newspaper_logo.svg	Key not found
+http://dbpedia.org/resource/Broadsheet	0.0022704607371184285
+http://dbpedia.org/resource/JP/Politikens_Hus	0.00015226056061452
+Politiken	2.0604933639210422e-05
+http://dbpedia.org/resource/Bo_Lidegaard	0.00022994503683543296
+http://dbpedia.org/resource/Danish_language	0.008000405291128922
+http://dbpedia.org/class/yago/Publication106589574	0.04572120615190718
+http://dbpedia.org/class/yago/Whole100003553	4.732224028509189e-06
+http://dbpedia.org/class/yago/PublicationsEstablishedIn1884	Key not found
+http://dbpedia.org/class/yago/Press106263369	0.012811772227305954
+http://dbpedia.org/class/yago/PhysicalEntity100001930	8.907702065993379e-06
+http://www.wikidata.org/entity/Q386724	2.6639038384918434e-06
+http://dbpedia.org/class/yago/Medium106254669	3.397144121191932e-06
+http://dbpedia.org/class/yago/Newspaper106267145	0.008150556592719436
+http://dbpedia.org/class/yago/Object100002684	8.907702065993379e-06
+http://dbpedia.org/class/yago/Danish-languageNewspapers	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	2.6639038384918434e-06
+http://dbpedia.org/ontology/WrittenWork	0.12014782769481944
+http://dbpedia.org/class/yago/Product104007894	3.5707428814549473e-06
+http://dbpedia.org/class/yago/NewspapersPublishedInDenmark	Key not found
+http://dbpedia.org/class/yago/Work104599396	0.044989591305430954
+http://dbpedia.org/class/yago/Creation103129123	2.6639038384918434e-06
+http://dbpedia.org/ontology/Newspaper	0.009251302088778899
+http://dbpedia.org/ontology/Work	3.933101077230184e-06
+http://www.w3.org/2002/07/owl#Thing	1.0827435485475226e-05
+http://dbpedia.org/class/yago/Instrumentality103575240	2.6639038384918434e-06
+http://dbpedia.org/ontology/PeriodicalLiterature	0.020482365106901414
+http://dbpedia.org/class/yago/PrintMedia106263609	0.0128124909867485
+http://www.wikidata.org/entity/Q1092563	0.01972263225809578
+http://www.wikidata.org/entity/Q11032	0.0061398467263543985
+http://schema.org/CreativeWork	2.6639038384918434e-06
+Politiken	2.0604933639210422e-05
+http://dbpedia.org/resource/Category:Publications_established_in_1884	6.022169063589333e-05
+http://dbpedia.org/resource/Category:Newspapers_published_in_Denmark	4.187873030612088e-05
+http://dbpedia.org/resource/Category:Danish-language_newspapers	6.013520332667805e-05
+http://dbpedia.org/resource/Category:Media_in_Copenhagen	Key not found
+http://dbpedia.org/resource/Category:1884_establishments_in_Denmark	3.200700062709788e-05
+http://dbpedia.org/resource/Copenhagen	0.040728558735763955
+http://dbpedia.org/resource/Denmark	0.07298081407920667

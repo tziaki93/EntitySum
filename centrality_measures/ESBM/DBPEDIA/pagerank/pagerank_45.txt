@@ -1,0 +1,22 @@
+http://dbpedia.org/ontology/Film	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://schema.org/Movie	Key not found
+http://schema.org/CreativeWork	Key not found
+http://www.w3.org/2002/07/owl#Thing	2.8394849990666796e-05
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/resource/Netherlands	0.3612282730288183
+http://dbpedia.org/resource/Category:2000s_drama_films	0.00029210943037499576
+http://dbpedia.org/resource/Category:Dutch_films	0.00020575012053206205
+http://dbpedia.org/resource/Category:Films_set_in_the_Netherlands	0.0008924866164759774
+http://dbpedia.org/resource/Category:Dutch_LGBT-related_films	0.0001711900234930668
+http://dbpedia.org/resource/Category:LGBT-related_drama_films	0.005413583589993615
+http://dbpedia.org/resource/Category:Films_directed_by_Eddy_Terstall	6.651783749047856e-05
+http://dbpedia.org/resource/Category:2004_films	0.014674661924558095
+http://dbpedia.org/resource/Category:Dutch-language_films	0.00015049151322341385
+http://dbpedia.org/resource/Eddy_Terstall	0.0005422853761102202
+http://dbpedia.org/resource/Marcel_Hensema	0.0005388137123678207
+http://dbpedia.org/resource/Cees_Geel	0.0005201811143913659
+Simon	0.005524432918083458
+http://dbpedia.org/resource/Dutch_language	0.05642889332705905
+Simon (2004 film)	6.823717759211091e-06

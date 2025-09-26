@@ -1,0 +1,45 @@
+http://dbpedia.org/resource/Svyatoslav_Tanasov__2	1.7666283897182228e-05
+1.78	Key not found
+http://dbpedia.org/resource/FC_Taganrog	0.001699996372218015
+Svyatoslav	2.5555920262728416e-05
+Tanasov	Key not found
+1989	0.16509939471863594
+http://dbpedia.org/resource/Category:1989_births	0.13365844908512037
+http://dbpedia.org/resource/Category:Russian_footballers	0.03699781182742936
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:FC_Taganrog_players	0.0005172663659666744
+Russian footballer	Key not found
+Russian footballer	Key not found
+http://dbpedia.org/resource/Defender_(association_football)	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/Athlete109820263	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://www.w3.org/2002/07/owl#Thing	8.646464312836853e-06
+http://dbpedia.org/class/yago/YagoLegalActor	8.646464312836853e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	8.646464312836853e-06
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/ontology/Athlete	Key not found
+http://dbpedia.org/class/yago/Player110439851	Key not found
+http://dbpedia.org/ontology/SoccerPlayer	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/FootballPlayer110101634	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	8.646464312836853e-06
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/ontology/Agent	8.646464312836853e-06
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://www.wikidata.org/entity/Q937857	Key not found
+http://dbpedia.org/class/yago/Contestant109613191	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/RussianFootballers	Key not found
+1989-08-02	0.0006808883221589362
+Svyatoslav Tanasov	Key not found
+Tanasov, Svyatoslav	Key not found
+Svyatoslav Sergeyevich Tanasov	Key not found
+Svyatoslav Tanasov	Key not found

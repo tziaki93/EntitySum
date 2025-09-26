@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Basidiomycota	0.03674812982388799
+http://dbpedia.org/resource/Agaricales	0.01690084319970156
+http://dbpedia.org/resource/Agaricaceae	0.006152063396694348
+http://dbpedia.org/resource/Giacomo_Bresadola	0.0036987666165212967
+http://dbpedia.org/resource/Fungus	0.1235964914671432
+http://dbpedia.org/resource/Lepiota	0.00349023730153442
+http://dbpedia.org/resource/Agaricomycetes	0.029172138735648827
+http://dbpedia.org/resource/Category:Fungi_of_Europe	0.019155653152548566
+http://dbpedia.org/resource/Category:Deadly_fungi	0.0006574533883913999
+http://dbpedia.org/resource/Category:Poisonous_fungi	0.0018090347479690436
+http://dbpedia.org/resource/Category:Agaricaceae	0.002354138214691766
+http://dbpedia.org/resource/Category:Fungi_described_in_1882	0.00043220580222309943
+http://dbpedia.org/class/yago/FungiOfEurope	Key not found
+http://dbpedia.org/class/yago/Whole100003553	4.804115753573216e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.804115753573216e-05
+http://dbpedia.org/class/yago/FungiDescribedIn1882	Key not found
+http://dbpedia.org/class/yago/Fungus112992868	0.04566294241338865
+http://www.w3.org/2002/07/owl#Thing	7.700753700772615e-05
+http://dbpedia.org/class/yago/Object100002684	4.804115753573216e-05
+http://dbpedia.org/class/yago/PoisonousFungi	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	4.804115753573216e-05
+http://dbpedia.org/ontology/Eukaryote	2.335790927419333e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/Organism100004475	6.0172606050432454e-05
+http://dbpedia.org/ontology/Fungus	0.1665005279141585
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/DeadlyFungi	Key not found
+Lepiota helveola	2.1319248144730394e-05

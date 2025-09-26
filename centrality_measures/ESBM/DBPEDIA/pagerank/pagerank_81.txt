@@ -1,0 +1,35 @@
+http://dbpedia.org/resource/George_Albert_Boulenger	0.022996179789512967
+http://dbpedia.org/class/yago/Organism100004475	2.0645315864771286e-05
+http://dbpedia.org/ontology/Animal	2.6880158909448646e-05
+http://dbpedia.org/class/yago/ReptilesOfBrazil	Key not found
+http://www.wikidata.org/entity/Q729	9.234896440895812e-06
+http://dbpedia.org/class/yago/Vertebrate101471682	0.13545583932090782
+http://dbpedia.org/class/yago/Chordate101466257	0.13583194978278493
+http://www.wikidata.org/entity/Q19088	9.234896440895812e-06
+http://dbpedia.org/class/yago/Object100002684	2.0645315864771286e-05
+http://dbpedia.org/class/yago/Reptile101661091	0.02579174867862698
+http://dbpedia.org/class/yago/Animal100015388	1.878799681666088e-05
+http://dbpedia.org/ontology/Reptile	0.021851680532620234
+http://dbpedia.org/ontology/Species	9.234896440895812e-06
+http://www.w3.org/2002/07/owl#Thing	3.495231119345173e-05
+http://dbpedia.org/ontology/Eukaryote	1.5153837828604365e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.0645315864771286e-05
+http://dbpedia.org/class/yago/Whole100003553	2.0645315864771286e-05
+http://dbpedia.org/class/yago/LivingThing100004258	2.0645315864771286e-05
+http://dbpedia.org/resource/Category:Endemic_fauna_of_Brazil	0.010304575301881185
+http://dbpedia.org/resource/Category:Amphisbaena	Key not found
+http://dbpedia.org/resource/Category:Fernando_de_Noronha	0.0001808956952585963
+http://dbpedia.org/resource/Category:Reptiles_of_Brazil	0.002850842134846168
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png?width=300	2.5324303304290334e-05
+LC	0.005692477975765811
+http://dbpedia.org/resource/Amphisbaenidae	0.002088797142887276
+http://dbpedia.org/resource/Reptile	0.023345348634671463
+http://dbpedia.org/resource/Chordate	0.01178499134801699
+http://dbpedia.org/resource/Vertebrate	0.024263283530276288
+Amphisbaena ridleyi	7.922220448436791e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png	3.160524322455131e-05
+IUCN3.1	0.018314201869233108
+http://dbpedia.org/resource/Amphisbaena_(genus)	0.0002636617535896093
+http://dbpedia.org/resource/Animal	2.3126112737476427e-05
+http://dbpedia.org/resource/Amphisbaenia	0.003158235037055044
+http://dbpedia.org/resource/Squamata	0.006221729214133369

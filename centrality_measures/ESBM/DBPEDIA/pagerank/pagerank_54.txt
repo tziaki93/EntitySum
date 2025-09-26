@@ -1,0 +1,49 @@
+1987	0.16785262736313714
+http://dbpedia.org/resource/Category:San_Diego_Toreros_men's_soccer_players	0.00020259431473696848
+http://dbpedia.org/resource/Category:Soccer_players_from_California	0.00483520465910984
+http://dbpedia.org/resource/Category:American_soccer_players	0.03552426180335887
+http://dbpedia.org/resource/Category:Orange_County_Blues_FC_players	4.7798358407967407e-05
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:1987_births	0.14512977310359929
+http://dbpedia.org/resource/Category:Southern_California_Seahorses_players	0.00022700583292353986
+http://dbpedia.org/resource/Category:American_expatriate_soccer_players	0.006149274594199572
+http://dbpedia.org/resource/Category:Atlanta_Silverbacks_players	0.0013860322804913046
+http://dbpedia.org/resource/Category:United_Soccer_League_players	0.00014786270176224924
+http://dbpedia.org/resource/Category:Premier_Development_League_players	4.779835840796741e-05
+http://dbpedia.org/resource/Category:North_American_Soccer_League_players	0.00540722049177243
+Fabrice Gautrat	8.036790808414476e-06
+5	0.024737257364638172
+http://dbpedia.org/ontology/Athlete	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	2.166295086983905e-05
+http://www.wikidata.org/entity/Q937857	Key not found
+http://schema.org/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/ontology/Agent	2.166295086983905e-05
+http://www.wikidata.org/entity/Q5	Key not found
+http://www.w3.org/2002/07/owl#Thing	2.875845268554102e-05
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/ontology/SoccerPlayer	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+Gautrat, Fabrice	Key not found
+Fabrice Gautrat	8.036790808414476e-06
+1987-11-04	0.00079482865311988
+Fabrice	4.667359428287708e-05
+Gautrat	5.970819353692819e-05
+http://dbpedia.org/resource/Culver_City,_California	0.016512593368246835
+1.8796	Key not found
+http://dbpedia.org/resource/Fabrice_Gautrat__1	1.14964883034732e-05
+http://dbpedia.org/resource/Fabrice_Gautrat__4	1.14964883034732e-05
+http://dbpedia.org/resource/Fabrice_Gautrat__3	1.14964883034732e-05
+http://dbpedia.org/resource/Fabrice_Gautrat__2	1.14964883034732e-05
+http://dbpedia.org/resource/Fabrice_Gautrat__6	1.14964883034732e-05
+http://dbpedia.org/resource/Fabrice_Gautrat__5	1.14964883034732e-05
+http://dbpedia.org/resource/Defender_(association_football)	Key not found
+http://dbpedia.org/resource/San_Diego_Toreros	0.0029355138894172532
+http://dbpedia.org/resource/Atlanta_Silverbacks	0.005363456306733155
+http://dbpedia.org/resource/Southern_California_Seahorses	0.0016870791469538716
+http://dbpedia.org/resource/UJA_Maccabi_Paris_Métropole	0.00242822858008415
+http://dbpedia.org/resource/The_Master's_College	0.0005143863946045229
+http://dbpedia.org/resource/Orange_County_Blues_FC	0.0015453466171020886
+Footballer	0.0006326311005073597
+Footballer	0.0006326311005073597

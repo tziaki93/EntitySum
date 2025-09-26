@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/Category:K.A.A._Gent_matches	6.008838027919009e-05
+http://dbpedia.org/resource/Category:R.S.C._Anderlecht_matches	0.0001106459127437601
+http://dbpedia.org/resource/Category:2009–10_in_Belgian_football	0.00011950606528714963
+http://dbpedia.org/resource/Category:Belgian_Supercup	0.00012176319538551063
+2010 Belgian Super Cup	5.512934241946622e-06
+http://dbpedia.org/resource/Anderlecht	0.005178270723359767
+2010-07-23	0.0011017555573516143
+http://dbpedia.org/resource/2009_Belgian_Super_Cup	0.0006488844197762097
+http://dbpedia.org/resource/2011_Belgian_Super_Cup	0.0006131468436523455
+http://schema.org/Event	9.739785520133026e-06
+http://schema.org/SportsEvent	0.18118214647518263
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	9.739785520133026e-06
+http://www.w3.org/2002/07/owl#Thing	2.5972265106275465e-05
+http://dbpedia.org/ontology/SocietalEvent	1.2590951210082383e-05
+http://www.wikidata.org/entity/Q1656682	9.739785520133026e-06
+http://dbpedia.org/ontology/Event	9.739785520133026e-06
+http://dbpedia.org/ontology/FootballMatch	0.02305819035333701
+http://dbpedia.org/ontology/SportsEvent	0.22505162936589432
+http://dbpedia.org/resource/2011_Belgian_Super_Cup	0.0006131468436523455
+http://dbpedia.org/resource/R.S.C._Anderlecht	0.020717448600354155
+http://dbpedia.org/resource/K.A.A._Gent	0.013668835904708925
+20:45CET	0.00014986743130599933
+2010 Belgian Super Cup	5.512934241946622e-06
+http://dbpedia.org/resource/2009_Belgian_Super_Cup	0.0006488844197762097
+http://dbpedia.org/resource/Constant_Vanden_Stock_Stadium	0.0027998194488895642

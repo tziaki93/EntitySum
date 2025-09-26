@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/Estanislao_López	0.001989245757847973
+http://dbpedia.org/resource/José_Rondeau	0.0025661610986212457
+http://dbpedia.org/resource/Francisco_Ramírez_(governor)	0.0013443808802299803
+http://dbpedia.org/resource/Santa_Fe_Province	0.02187273380707502
+http://dbpedia.org/resource/Battle_of_Cepeda_(1859)	0.0017827257632152401
+Battle of Cepeda	2.9904099110534626e-05
+1820-02-01	0.00013189150160864698
+http://dbpedia.org/resource/Battle_of_Cepeda_(1859)	0.0017827257632152401
+http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War	0.0002654833565279763
+http://dbpedia.org/resource/Category:1820_in_Argentina	0.00011618532278440786
+http://dbpedia.org/resource/Category:Conflicts_in_1820	0.00035157074221028883
+http://dbpedia.org/resource/Argentine_Civil_Wars	0.004845190855444924
+Federalistvictory	2.9680123914883986e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	2.1665993586601077e-05
+http://schema.org/Event	2.1665993586601077e-05
+http://dbpedia.org/ontology/Event	2.1665993586601077e-05
+http://www.wikidata.org/entity/Q1656682	2.1665993586601077e-05
+http://dbpedia.org/ontology/MilitaryConflict	0.4314264761744731
+http://www.w3.org/2002/07/owl#Thing	5.601844371594016e-05
+http://dbpedia.org/ontology/SocietalEvent	3.2624298897309015e-05
+Battle of Cepeda (1820)	1.2138131209818487e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg	0.0005595909496333349
+24pxUnitarians	Key not found
+24pxFederals	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300	9.623045820598558e-05

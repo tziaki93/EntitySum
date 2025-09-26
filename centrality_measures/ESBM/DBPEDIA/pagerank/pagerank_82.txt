@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/Flowering_plant	0.08439045474905608
+Balanites	5.1288700653084685e-05
+http://dbpedia.org/resource/Eudicots	0.007812095863976291
+http://dbpedia.org/resource/Tribuloideae	0.00032394137010763476
+http://dbpedia.org/resource/Zygophyllaceae	0.0014307146473681173
+http://dbpedia.org/resource/Rosids	0.003241252222462212
+http://dbpedia.org/resource/Zygophyllales	0.0007497966664321499
+http://dbpedia.org/resource/Balanites_aegyptiaca	0.001433509542477738
+http://dbpedia.org/resource/Balanites_roxburghii	0.00042849533405116356
+http://dbpedia.org/resource/Balanites_maughamii	0.00032194981951008575
+http://dbpedia.org/resource/Plant	0.10341334352937792
+http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg?width=300	1.976765683235992e-05
+http://dbpedia.org/resource/Category:Balanites	8.25255094527886e-05
+Balanites	5.1288700653084685e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg	1.976765683235992e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.5585718909400815e-05
+http://dbpedia.org/ontology/Eukaryote	1.1704500437784963e-05
+http://dbpedia.org/ontology/Plant	0.2267720479790871
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q756	0.016381167538823824
