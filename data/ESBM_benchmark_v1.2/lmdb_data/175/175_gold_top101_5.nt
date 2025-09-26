@@ -1,0 +1,10 @@
+James Cameron (Director) <http://www.w3.org/2000/01/rdf-schema#label> James Cameron (Director).
+James Cameron (Director) <http://data.linkedmdb.org/resource/movie/director_name> James Cameron.
+James Cameron (Director) <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000001fdcc>.
+Titanic director James Cameron (Director).
+James Cameron (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> director.
+James Cameron (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+James Cameron (Director) <http://xmlns.com/foaf/0.1/made> Aliens.
+James Cameron (Director) <http://xmlns.com/foaf/0.1/made> The Terminator.
+James Cameron (Director) <http://xmlns.com/foaf/0.1/made> Avatar.
+James Cameron (Director) <http://xmlns.com/foaf/0.1/made> Titanic.
