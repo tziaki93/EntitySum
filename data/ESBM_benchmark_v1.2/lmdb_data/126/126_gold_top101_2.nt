@@ -1,0 +1,10 @@
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/actor_actorid> 31707.
+Margaret Colin (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> actor.
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/actor_name> Margaret Colin.
+Margaret Colin (Actor) <http://www.w3.org/2000/01/rdf-schema#label> Margaret Colin (Actor).
+The Wedding Dress actor Margaret Colin (Actor).
+Blue Car actor Margaret Colin (Actor).
+The Devil's Own actor Margaret Colin (Actor).
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/performance> performance #88430.
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/performance> performance #37390.
+Margaret Colin (Actor) <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001d8847>.

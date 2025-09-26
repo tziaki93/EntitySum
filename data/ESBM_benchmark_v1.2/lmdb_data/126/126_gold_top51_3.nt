@@ -1,0 +1,5 @@
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/actor_actorid> 31707.
+Margaret Colin (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> actor.
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/actor_name> Margaret Colin.
+Margaret Colin (Actor) <http://data.linkedmdb.org/resource/movie/actor_netflix_id> .
+Margaret Colin (Actor) <http://www.w3.org/2000/01/rdf-schema#label> Margaret Colin (Actor).
