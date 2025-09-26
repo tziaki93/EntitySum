@@ -5,4 +5,4 @@
 
 3. delete results file
 
-4. setup virtuoso and upload LMDB KG
+4. setup virtuoso and upload LMDB KG (EntitySum-main/data)
