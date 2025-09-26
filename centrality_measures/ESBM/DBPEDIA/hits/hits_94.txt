@@ -1,0 +1,29 @@
+1975	8.360419562758333e-06	8.360419565458026e-06
+5.544	Key not found
+http://dbpedia.org/ontology/Work	8.441870655941243e-06	8.441870655920721e-06
+http://www.w3.org/2002/07/owl#Thing	1.0751924972583703e-07	1.0751924972596912e-07
+http://www.wikidata.org/entity/Q1092563	0.0012455460724002053	0.0012455460728678968
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/ontology/AcademicJournal	0.0005223554633054695	0.0005223554635004802
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/WrittenWork	0.002872969957327673	0.002872969958423532
+http://dbpedia.org/ontology/PeriodicalLiterature	0.0012653077409294305	0.001265307741400751
+http://www.wikidata.org/entity/Q737498	1.0925029853960128e-08	1.0925029857790019e-08
+ICMED9	5.648212628737819e-08	5.648212630868868e-08
+0342-4642	5.648212628737819e-08	5.648212630868932e-08
+1432-1238	5.648212628737819e-08	5.6482126308689156e-08
+Intensive Care Medicine	5.649411471503574e-08	5.649411473664683e-08
+Intensive Care Med.	5.648212628737819e-08	5.6482126308688376e-08
+884609077	5.648212628737819e-08	5.648212630868882e-08
+http://dbpedia.org/resource/Springer_Science+Business_Media	3.595360777157991e-05	3.595360778519702e-05
+Intensive Care Medicine (journal)	5.648212628737819e-08	5.648212630868892e-08
+2013	4.723617111261682e-05	4.723617113610061e-05
+http://dbpedia.org/resource/Intensive_care_medicine	6.377576835998403e-07	6.377576839207947e-07
+http://icmjournal.esicm.org/index.html	3.6730231980477803e-22	-7.676127125961646e-20
+http://dbpedia.org/resource/Category:Publications_established_in_1975	5.821729961844157e-06	5.821729964020211e-06
+http://dbpedia.org/resource/Category:Academic_journals_associated_with_learned_and_professional_societies	1.3401953046632008e-05	1.3401953051641262e-05
+http://dbpedia.org/resource/Category:Emergency_medicine_journals	1.5891605505360594e-06	1.5891605511397809e-06
+http://dbpedia.org/resource/Category:English-language_journals	0.0003792658946889345	0.00037926589483191966
+http://dbpedia.org/resource/Category:Springer_Science+Business_Media_academic_journals	3.426462558815891e-05	3.426462560114733e-05
+http://dbpedia.org/resource/Category:Monthly_journals	7.544862305038987e-05	7.544862307893534e-05
+Monthly	8.045987035539311e-05	8.045987038582132e-05

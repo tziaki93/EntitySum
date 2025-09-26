@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Basidiomycota	0.002343258074633675	0.0023432580746132513
+http://dbpedia.org/resource/Agaricales	0.0010591965212690783	0.0010591965212598494
+http://dbpedia.org/resource/Agaricaceae	0.0001977212936048132	0.00019772129360321483
+http://dbpedia.org/resource/Giacomo_Bresadola	6.892033556465809e-05	6.892033556414327e-05
+http://dbpedia.org/resource/Fungus	0.004459179586500666	0.004459179586458184
+http://dbpedia.org/resource/Lepiota	0.00013122755838361916	0.00013122755838326607
+http://dbpedia.org/resource/Agaricomycetes	0.002067143612911346	0.0020671436128933806
+http://dbpedia.org/resource/Category:Fungi_of_Europe	0.0009372788802708855	0.0009372788802621116
+http://dbpedia.org/resource/Category:Deadly_fungi	2.554596732076995e-05	2.554596732053265e-05
+http://dbpedia.org/resource/Category:Poisonous_fungi	7.306758018427397e-05	7.306758018358638e-05
+http://dbpedia.org/resource/Category:Agaricaceae	0.00012147118317408087	0.00012147118317296179
+http://dbpedia.org/resource/Category:Fungi_described_in_1882	1.3828853900142747e-05	1.3828853900010706e-05
+http://dbpedia.org/class/yago/FungiOfEurope	Key not found
+http://dbpedia.org/class/yago/Whole100003553	2.0704765683905277e-05	2.0704765683897074e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.0704765683905277e-05	2.0704765683897078e-05
+http://dbpedia.org/class/yago/FungiDescribedIn1882	Key not found
+http://dbpedia.org/class/yago/Fungus112992868	0.002238303912527259	0.002238303912506362
+http://www.w3.org/2002/07/owl#Thing	5.71212242129401e-05	5.71212242129367e-05
+http://dbpedia.org/class/yago/Object100002684	2.0704765683905277e-05	2.0704765683897098e-05
+http://dbpedia.org/class/yago/PoisonousFungi	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	2.0704765683905277e-05	2.070476568389709e-05
+http://dbpedia.org/ontology/Eukaryote	5.219960719740583e-05	5.2199607197419744e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/Organism100004475	3.846160054260922e-05	3.8461600542601565e-05
+http://dbpedia.org/ontology/Fungus	0.0065799218133234865	0.006579921813260398
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/DeadlyFungi	Key not found
+Lepiota helveola	7.003413988235767e-07	7.003413988168351e-07

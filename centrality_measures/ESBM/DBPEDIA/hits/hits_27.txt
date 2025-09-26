@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/Category:Schleswig-Flensburg	6.00779733839674e-06	6.00779766126057e-06
+http://dbpedia.org/resource/Category:Municipalities_in_Schleswig-Holstein	1.2117874411762155e-05	1.2117875019283999e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Uelsby_Wappen.png?width=300	2.3507262759308386e-08	2.3507263925621476e-08
+http://dbpedia.org/resource/Schleswig-Flensburg	8.97493403312648e-06	8.974934453075158e-06
+Uelsby	2.3155378113164173e-08	2.3155379275467677e-08
+54.6 9.566666666666666	4.383608941735595e-08	4.383609161749726e-08
+1.06E7	Key not found
+54.6	Key not found
+http://www.amt-suedangeln.de/	3.2011571580501175e-07	3.201157318756908e-07
+34.0	Key not found
+SL	6.080074008822269e-06	6.080074335283154e-06
+04623	1.362154421273666e-07	1.3621544896549783e-07
+http://dbpedia.org/resource/Germany	1.2805631016584217e-06	1.280563112438703e-06
+2006-12-31	2.9224275705840903e-07	2.922427730233359e-07
+461	0.0005845504050392125	0.000584550439536573
+24860	6.691257759088047e-08	6.691258094893052e-08
+9.566667	Key not found
+http://dbpedia.org/resource/Schleswig-Holstein	8.141922247602945e-05	8.1419226548209e-05
+http://dbpedia.org/class/yago/Region108630985	1.2805631016584217e-06	1.280563112438323e-06
+http://dbpedia.org/ontology/PopulatedPlace	1.2805631016584217e-06	1.2805631124385078e-06
+http://dbpedia.org/class/yago/Municipality108626283	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/ontology/Settlement	1.2805631016584217e-06	1.2805631124384633e-06
+http://dbpedia.org/ontology/Location	1.2805631016584217e-06	1.2805631124389724e-06
+http://dbpedia.org/class/yago/Location100027167	1.2805631016584217e-06	1.2805631124388201e-06
+http://dbpedia.org/ontology/Place	1.2805631016584217e-06	1.2805631124386238e-06
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	1.1534202666223436e-06	1.1534202759642947e-06
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.2805631016584217e-06	1.2805631124387778e-06
+http://dbpedia.org/class/yago/Object100002684	1.2805631016584217e-06	1.280563112438653e-06
+http://schema.org/Place	1.2805631016584217e-06	1.2805631124387513e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.2805631016584217e-06	1.2805631124385857e-06
+http://dbpedia.org/class/yago/YagoGeoEntity	1.2805631016584217e-06	1.2805631124388146e-06
+http://dbpedia.org/class/yago/District108552138	1.2805631016584217e-06	1.2805631124387246e-06
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.2805631016584217e-06	1.280563112438677e-06
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.2805631016584217e-06	1.28056311243885e-06
+http://dbpedia.org/class/yago/UrbanArea108675967	Key not found
+http://dbpedia.org/class/yago/MunicipalitiesInSchleswig-Holstein	Key not found
+http://www.wikidata.org/entity/Q486972	1.1534202666223436e-06	1.1534202759644205e-06
+http://www.w3.org/2002/07/owl#Thing	1.2805631016584217e-06	1.280563112438782e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Uelsby_Wappen.png	2.350726275930142e-08	2.350726392611329e-08

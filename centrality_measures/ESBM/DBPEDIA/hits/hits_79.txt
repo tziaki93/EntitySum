@@ -1,0 +1,36 @@
+262.2	Key not found
+2950000.0	Key not found
+http://dbpedia.org/resource/Lower_Carniola	2.055392997486489e-06	2.055388429450771e-06
+http://dbpedia.org/resource/Municipality_of_Škocjan	2.6078543675215177e-07	2.607850411554541e-07
+http://dbpedia.org/resource/Southeast_Slovenia_Statistical_Region	1.3595412705881217e-06	1.3595383181291648e-06
+Stara Bučka	1.1740047013466349e-07	1.1740019200144471e-07
+45.9213	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg	6.381614668869653e-06	6.381600022494131e-06
+45.9213 15.306447222222221	1.1740047013466349e-07	1.1740019200138671e-07
+101	0.004864473999637747	0.0048644624726104846
+Stara Bučka	1.1740047013466349e-07	1.1740019200144471e-07
+http://dbpedia.org/resource/Category:Populated_places_in_the_Municipality_of_Škocjan	1.4373375770720766e-07	1.4373341944705866e-07
+15.306447	Key not found
+http://dbpedia.org/resource/Slovenia	1.5832698985091203e-05	1.5832662342928534e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg?width=300	3.472800789913755e-06	3.472792972649053e-06
+http://dbpedia.org/class/yago/Site108651247	1.2771597312757745e-09	1.2771586603601544e-09
+http://dbpedia.org/class/yago/YagoLegalActorGeo	9.553964350574517e-08	9.553963645383815e-08
+http://www.w3.org/2002/07/owl#Thing	9.553964350574517e-08	9.553963645398505e-08
+http://dbpedia.org/ontology/Location	9.553964350574517e-08	9.553963645388307e-08
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	9.553964350574517e-08	9.553963645346593e-08
+http://dbpedia.org/class/yago/Object100002684	9.553964350574517e-08	9.553963645393301e-08
+http://dbpedia.org/class/yago/PhysicalEntity100001930	9.553964350574517e-08	9.553963645388531e-08
+http://schema.org/Place	9.553964350574517e-08	9.55396364540143e-08
+http://dbpedia.org/class/yago/Location100027167	9.553964350574517e-08	9.553963645389807e-08
+http://www.wikidata.org/entity/Q486972	1.2771597312757745e-09	1.2771586604413796e-09
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	9.553964350574517e-08	9.553963645390756e-08
+http://dbpedia.org/class/yago/Region108630985	9.553964350574517e-08	9.553963645370553e-08
+http://dbpedia.org/class/yago/YagoGeoEntity	9.553964350574517e-08	9.553963645387287e-08
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	8.547365458784599e-08	8.547364890024441e-08
+http://dbpedia.org/class/yago/PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	1.1343148649174955e-08	1.1343146214141564e-08
+http://dbpedia.org/class/yago/Tract108673395	1.1343148649174955e-08	1.1343146214256985e-08
+http://dbpedia.org/ontology/PopulatedPlace	9.553964350574517e-08	9.553963645393194e-08
+http://dbpedia.org/ontology/Place	9.553964350574517e-08	9.553963645402754e-08
+http://dbpedia.org/class/yago/District108552138	8.547365458784599e-08	8.547364890018605e-08
+http://dbpedia.org/ontology/Settlement	1.800130505779321e-08	1.800130138099104e-08

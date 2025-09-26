@@ -1,0 +1,75 @@
+http://dbpedia.org/resource/Pleven	3.6371041555807895e-05	3.637104160276002e-05
+http://dbpedia.org/resource/Bulgaria	0.0016389893379986289	0.001638989340884339
+Momchil Emilov Tsvetanov	5.7521578765218506e-08	5.752157887296229e-08
+Momchil Tsvetanov	3.5194512953801377e-07	3.5194512975937847e-07
+Tsvetanov, Momchil	Key not found
+http://dbpedia.org/class/yago/PFCLitexLovechPlayers	Key not found
+http://dbpedia.org/class/yago/Player110439851	Key not found
+http://dbpedia.org/class/yago/BulgarianFootballers	Key not found
+http://dbpedia.org/class/yago/FootballPlayer110101634	Key not found
+http://dbpedia.org/class/yago/BulgarianAProfessionalFootballGroupPlayers	Key not found
+http://www.wikidata.org/entity/Q215627	2.6465315641227745e-07	2.646531564817659e-07
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.2134670740491882e-05	1.2134670743503173e-05
+http://dbpedia.org/ontology/Agent	1.1397693428414028e-06	1.1397693435415263e-06
+http://dbpedia.org/ontology/SoccerPlayer	Key not found
+http://dbpedia.org/class/yago/PFCSpartakPlevenPlayers	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	1.1397693428414028e-06	1.1397693435415505e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.2139215982124053e-05	1.213921598513884e-05
+http://xmlns.com/foaf/0.1/Person	2.6465315641227745e-07	2.646531564817756e-07
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/class/yago/Athlete109820263	Key not found
+http://dbpedia.org/ontology/Athlete	Key not found
+http://dbpedia.org/class/yago/Contestant109613191	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	1.4089677408858496e-06	1.4089677416590697e-06
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/ontology/Person	2.6465315641227745e-07	2.646531564817847e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.0730248241238201e-05	1.0730248243479779e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	2.6465315641227745e-07	2.6465315648170985e-07
+http://www.wikidata.org/entity/Q5	2.6465315641227745e-07	2.6465315648178063e-07
+http://www.wikidata.org/entity/Q937857	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/Object100002684	1.0730248241238201e-05	1.0730248243479762e-05
+http://schema.org/Person	2.6465315641227745e-07	2.646531564817704e-07
+http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players	2.702892399962401e-05	2.702892404682839e-05
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:PFC_Botev_Plovdiv_players	4.5172002795643475e-08	4.517200288651873e-08
+http://dbpedia.org/resource/Category:PFC_Litex_Lovech_players	1.303775989701796e-05	1.3037759919733421e-05
+http://dbpedia.org/resource/Category:PFC_Spartak_Pleven_players	9.163761878200748e-06	9.163761894273132e-06
+http://dbpedia.org/resource/Category:Association_football_midfielders	Key not found
+http://dbpedia.org/resource/Category:Bulgarian_A_Football_Group_players	4.517200279564006e-08	4.5172002885866784e-08
+http://dbpedia.org/resource/Category:Bulgarian_footballers	0.0001168214325821696	0.00011682143278753984
+http://dbpedia.org/resource/Category:1990_births	0.0009347869658291651	0.0009347869677357684
+7	6.093319108325696e-06	6.093319120170499e-06
+1.73	Key not found
+Момчил Цветанов	Key not found
+Tsvetanov	9.06354600295391e-07	9.063546018606793e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG?width=300	Key not found
+Momchil Tsvetanov	3.5194512953801377e-07	3.5194512975937847e-07
+http://dbpedia.org/resource/Midfielder	Key not found
+Bulgarian footballer	Key not found
+Bulgarian footballer	Key not found
+1990-03-12	3.80983094443373e-06	3.80983095220115e-06
+1990-12-03	3.3283297169086937e-06	3.3283297236885356e-06
+Momchil	1.3448704367742527e-07	1.3448704391430992e-07
+http://dbpedia.org/resource/PFC_CSKA_Sofia	6.960979758865943e-05	6.960979769092195e-05
+http://dbpedia.org/resource/PFC_Botev_Plovdiv	3.298658546376702e-05	3.298658552020785e-05
+http://dbpedia.org/resource/PFC_Litex_Lovech	4.017975547805118e-05	4.0179755529790196e-05
+http://dbpedia.org/resource/Bulgaria_national_under-19_football_team	2.8571257191537037e-05	2.8571257223797022e-05
+http://dbpedia.org/resource/Bulgaria_national_under-21_football_team	3.959634009769224e-05	3.959634014882094e-05
+http://dbpedia.org/resource/PFC_Spartak_Pleven	9.044532569125437e-06	9.044532583786343e-06
+http://dbpedia.org/resource/Momchil_Tsvetanov__7	2.443367071636406e-21	-2.098027208813997e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__5	2.443367071636406e-21	-1.449254730095957e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__1	2.443367071636406e-21	-1.327723792781334e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__3	2.443367071636406e-21	-1.3344113834225505e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__4	2.443367071636406e-21	-2.0731375783931923e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__2	2.443367071636406e-21	-1.4506873888470337e-19
+http://dbpedia.org/resource/Momchil_Tsvetanov__6	2.443367071636406e-21	-2.1571025730831751e-19
+1990	0.004088681763994428	0.004088681772375432
+http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG	Key not found
+http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2015	1.9007120989984117e-05	1.9007121022120225e-05
+http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2014	2.2115771986184428e-05	2.2115772023573716e-05
+http://dbpedia.org/resource/2015–16_PFC_CSKA_Sofia_season__Momchil_Tsvetanov__1	1.9855668985232254e-07	1.9855669013500155e-07
+http://dbpedia.org/resource/PFC_CSKA_Sofia__Momchil_Tsvetanov__1	Key not found

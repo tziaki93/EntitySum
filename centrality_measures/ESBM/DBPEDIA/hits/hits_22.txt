@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Arica_y_Parinacota_Region	8.253061132886933e-05	8.253061133141627e-05
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/class/yago/Location100027167	4.2511860985132e-05	4.251186098513001e-05
+http://dbpedia.org/class/yago/District108552138	4.2511860985132e-05	4.251186098512989e-05
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	5.347514769867987e-07	5.347514770014171e-07
+http://dbpedia.org/class/yago/Region108630985	4.2511860985132e-05	4.2511860985129695e-05
+http://dbpedia.org/class/yago/YagoLegalActorGeo	4.2511860985132e-05	4.251186098513011e-05
+http://schema.org/Place	4.2511860985132e-05	4.251186098512993e-05
+http://dbpedia.org/class/yago/Object100002684	4.2511860985132e-05	4.2511860985129885e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	4.2511860985132e-05	4.251186098512993e-05
+http://www.wikidata.org/entity/Q532	Key not found
+http://dbpedia.org/ontology/Settlement	Key not found
+http://dbpedia.org/class/yago/Tract108673395	5.347514769867987e-07	5.347514770014647e-07
+http://dbpedia.org/ontology/Location	4.2511860985132e-05	4.2511860985129966e-05
+http://dbpedia.org/ontology/PopulatedPlace	4.2511860985132e-05	4.251186098513026e-05
+http://www.w3.org/2002/07/owl#Thing	4.2511860985132e-05	4.251186098512993e-05
+http://dbpedia.org/ontology/Place	4.2511860985132e-05	4.251186098513011e-05
+http://dbpedia.org/class/yago/YagoGeoEntity	4.2511860985132e-05	4.2511860985129776e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.2511860985132e-05	4.2511860985129864e-05
+http://dbpedia.org/class/yago/PopulatedPlacesInAricaProvince	Key not found
+http://dbpedia.org/ontology/Village	Key not found
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.2511860985132e-05	4.251186098513015e-05
+http://dbpedia.org/resource/Category:Populated_places_in_Arica_Province	3.839106081659697e-06	3.8391060818882315e-06
+http://dbpedia.org/resource/Chile	0.006478516953234778	0.006478516953621345
+Chitita	2.7562545774362184e-07	2.7562545776046536e-07
+Chitita	2.7562545774362184e-07	2.7562545776046536e-07

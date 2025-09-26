@@ -1,0 +1,29 @@
+Eastern Sumatran rhinoceros	-0.0	1.0457482407259013e-21
+Eastern Sumatran rhinoceros	-0.0	1.0457482407259013e-21
+EW	3.3052845761367126e-20	8.06617517686282e-19
+http://dbpedia.org/resource/Animal	6.766530367727389e-06	6.766530367726211e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Patung_badak_sumbu.JPG	Key not found
+http://dbpedia.org/resource/Sumatran_rhinoceros	6.952216765794608e-06	6.9522167656636815e-06
+http://dbpedia.org/resource/Rhinoceros	3.6540034603458634e-05	3.654003460308198e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Patung_badak_sumbu.JPG?width=300	Key not found
+http://dbpedia.org/resource/Category:Mammals_of_Southeast_Asia	1.515593119405807e-05	1.5155931193928618e-05
+http://dbpedia.org/resource/Category:Mammals_of_Borneo	4.612745438001554e-05	4.612745437960071e-05
+http://dbpedia.org/resource/Category:Mammals_of_Indonesia	4.5871777049626306e-05	4.587177704920519e-05
+http://dbpedia.org/resource/Category:Rhinoceroses	1.8204320595145917e-06	1.8204320595044207e-06
+http://dbpedia.org/resource/Category:Mammal_extinctions_since_1500	1.3110371110289754e-05	1.3110371110161163e-05
+http://dbpedia.org/resource/Category:Mammals_of_Malaysia	1.822673976702382e-05	1.8226739766856813e-05
+http://dbpedia.org/resource/Category:Animals_described_in_1965	8.815018346421942e-09	8.815018336486382e-09
+http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities	5.381328013385196e-06	5.38132801333054e-06
+http://dbpedia.org/resource/Chordate	7.452649455189116e-05	7.452649455130911e-05
+http://dbpedia.org/resource/Odd-toed_ungulate	2.7223945525925486e-05	2.7223945525782812e-05
+http://dbpedia.org/resource/Mammal	0.0007704218088466431	0.0007704218088400602
+http://dbpedia.org/ontology/Animal	5.8196904325670917e-05	5.819690432567967e-05
+http://dbpedia.org/ontology/Mammal	0.007426766216447311	0.007426766216381173
+http://www.wikidata.org/entity/Q7377	0.003859859016961618	0.0038598590169276704
+http://dbpedia.org/ontology/Species	Key not found
+http://www.w3.org/2002/07/owl#Thing	7.10395412778491e-06	7.103954127786029e-06
+http://dbpedia.org/ontology/Eukaryote	Key not found
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/resource/Sumatran_rhinoceros	6.952216765794608e-06	6.9522167656636815e-06
+iucn3.1	Key not found

@@ -1,0 +1,35 @@
+3.372	Key not found
+667.0	Key not found
+Sauxillanges	-4.7928287161430925e-09	-1.8484876070024706e-06
+http://dbpedia.org/resource/Puy-de-Dôme	-2.2778078920111265e-06	-0.0008784999233006764
+Sauxillanges	-4.7928287161430925e-09	-1.8484876070024706e-06
+418.0	Key not found
+63415	-4.7928287161430925e-09	-1.8484876070067557e-06
+http://dbpedia.org/resource/France	Key not found
+http://dbpedia.org/resource/Auvergne_(region)	-1.4597340080300545e-06	-0.0005629869922708638
+45.551 3.372	-4.7928287161430925e-09	-1.8484876070044658e-06
+2.49E7	Key not found
+449.0	Key not found
+63490	-3.8176531979415135e-08	-1.4723840642328027e-05
+http://dbpedia.org/ontology/PopulatedPlace	1.8998873710510868e-07	2.0774676433618638e-07
+http://dbpedia.org/class/yago/Commune108541609	-0.0002364661125570858	-0.09119972868372596
+http://dbpedia.org/ontology/Place	1.8998873710510868e-07	2.0774676433502427e-07
+http://schema.org/Place	1.8998873710510868e-07	2.0774676433558294e-07
+http://dbpedia.org/ontology/Location	1.8998873710510868e-07	2.0774676433496985e-07
+http://dbpedia.org/class/yago/CommunesOfPuy-de-D%C3%B4me	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.8998873710510868e-07	2.0774676433525932e-07
+http://dbpedia.org/ontology/Settlement	1.8998873710510868e-07	2.077467643348421e-07
+http://www.wikidata.org/entity/Q486972	1.8998873710510868e-07	2.07746764337605e-07
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.8998873710510868e-07	2.077467643344716e-07
+http://www.w3.org/2002/07/owl#Thing	1.8998873710510868e-07	2.0774676433548752e-07
+http://dbpedia.org/class/yago/YagoGeoEntity	Key not found
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	1.972330425693084e-05	2.156681866366365e-05
+http://dbpedia.org/class/yago/District108552138	Key not found
+http://dbpedia.org/class/yago/Location100027167	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.8998873710510868e-07	2.0774676433353164e-07
+http://dbpedia.org/class/yago/Region108630985	Key not found
+1151	-4.850075844517099e-08	-1.8705665531628893e-05
+45.551	Key not found
+http://dbpedia.org/resource/Category:Communes_of_Puy-de-Dôme	-2.1708927109218055e-06	-0.0008372651120970305

@@ -1,0 +1,67 @@
+http://dbpedia.org/resource/Category:Communes_of_Var_(department)	1.3522874559100471e-05	1.3522879411446107e-05
+Saint-Raphaël	3.5236003329130265e-07	3.523601597322625e-07
+8.959E7	Key not found
+http://dbpedia.org/resource/Henry_Bérenger	2.781443693025595e-07	2.7814446905309053e-07
+http://dbpedia.org/resource/Sim_(actor)	9.387636292469009e-07	9.387639498789162e-07
+http://dbpedia.org/resource/Louis_Hon	1.8767350843083773e-07	1.8767357569110197e-07
+http://dbpedia.org/resource/François_Simiand	1.0240617781103829e-07	1.0240621449610387e-07
+http://dbpedia.org/resource/Basil_Spalding_de_Garmendia	1.0333054262116876e-07	1.0333057961823575e-07
+http://dbpedia.org/resource/Arthur_Coadou	1.8837773322498323e-07	1.883778007626843e-07
+http://dbpedia.org/resource/Josep_Irla_i_Bosch	6.742053532597903e-09	6.7420559334656875e-09
+http://dbpedia.org/resource/Henri_Guisol	1.9135859190642455e-07	1.913586604897012e-07
+http://dbpedia.org/resource/Melchior_Treub	1.3567438870725366e-08	1.3567443656777944e-08
+http://dbpedia.org/resource/Adrien_Douady	2.3721655309483955e-07	2.3721662205524392e-07
+http://dbpedia.org/resource/Ralph_Paget	1.054862248615644e-07	1.0548626264520118e-07
+http://dbpedia.org/resource/Germaine_Sablon	3.7180548238820866e-07	3.7180555009651326e-07
+http://dbpedia.org/resource/Shahan_Shahnour	1.8912652956596868e-07	1.8912659735367566e-07
+10.0	Key not found
+http://dbpedia.org/class/yago/District108552138	3.755666161164613e-07	3.75566615875768e-07
+http://dbpedia.org/class/yago/Object100002684	4.038994290227256e-07	4.038994291889355e-07
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	1.9993084476394694e-05	1.9993084444009226e-05
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	2.2819203288404706e-07	2.281920331910299e-07
+http://dbpedia.org/class/yago/Region108630985	3.760244348004163e-07	3.7602443455760385e-07
+http://dbpedia.org/ontology/Place	2.2819203288404706e-07	2.281920331910604e-07
+http://dbpedia.org/ontology/Location	2.2819203288404706e-07	2.2819203319104063e-07
+http://dbpedia.org/ontology/Settlement	2.2819203288404706e-07	2.2819203319106204e-07
+http://www.w3.org/2002/07/owl#Thing	2.5686759180729137e-07	2.5686759252337784e-07
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.214434818930917e-07	4.2144348188213126e-07
+http://dbpedia.org/class/yago/YagoLegalActorGeo	4.49318476115401e-07	4.4931847651338644e-07
+http://dbpedia.org/class/yago/Location100027167	3.760244348004163e-07	3.7602443455759786e-07
+http://schema.org/Place	2.2819203288404706e-07	2.2819203319103115e-07
+http://dbpedia.org/ontology/PopulatedPlace	2.2819203288404706e-07	2.2819203319107178e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.038994290227256e-07	4.038994291889894e-07
+http://dbpedia.org/class/yago/YagoGeoEntity	3.760244348004163e-07	3.7602443455762126e-07
+http://www.wikidata.org/entity/Q486972	4.541904709267537e-08	4.541904732444317e-08
+http://dbpedia.org/class/yago/CommunesOfVar(department)	Key not found
+http://dbpedia.org/class/yago/Commune108541609	0.004417114120854439	0.004417115705955966
+43.4252	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG?width=300	Key not found
+6.7684	Key not found
+http://dbpedia.org/resource/France	2.487015776545525e-07	2.487015780849401e-07
+http://dbpedia.org/resource/Var_(department)	1.0226630965972663e-05	1.0226634566691538e-05
+http://dbpedia.org/resource/Lists_of_twin_towns_and_sister_cities	1.964467293189388e-09	1.9644679636617556e-09
+http://dbpedia.org/resource/Twin_towns_and_sister_cities	4.340974597229579e-05	4.340976154998354e-05
+http://dbpedia.org/resource/France	2.487015776545525e-07	2.487015780849401e-07
+43.4252 6.7684	8.96034759206835e-08	8.960350806977012e-08
+83700 and 83530	8.96034759206835e-08	8.960350806976382e-08
+Saint-Raphaël, Var	8.96383490875937e-08	8.96383812504492e-08
+560.0	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG	Key not found
+http://dbpedia.org/resource/Stade_Louis_Hon	1.0308324367882398e-07	1.0308328065664108e-07
+0.0	Key not found
+34425	-1.2441954606706601e-19	6.055882110921257e-18
+http://dbpedia.org/resource/Capucine	2.823011371207682e-07	2.823012383457161e-07
+http://dbpedia.org/resource/Eyemen_Henaini	1.9196960390246128e-07	1.9196967272118465e-07
+http://dbpedia.org/resource/Fabien_Dao_Castellana	1.0123525836522493e-07	1.0123529463800273e-07
+http://dbpedia.org/resource/Jean-Christophe,_Prince_Napoléon	1.96531373348466e-07	1.9653144361484925e-07
+http://dbpedia.org/resource/Valérie_Allain	1.9071682475716714e-07	1.9071689309980407e-07
+http://dbpedia.org/resource/David_Michie	1.9065895900594556e-07	1.9065902734917163e-07
+http://dbpedia.org/resource/Grégory_Tony	1.2501268553923364e-06	1.2501273039088305e-06
+http://dbpedia.org/resource/Edgar_Givry	1.0326127110161811e-07	1.032613080531769e-07
+http://dbpedia.org/resource/Princess_Béatrice_of_Bourbon-Two_Sicilies	1.0343697987461715e-07	1.0343701644959059e-07
+http://dbpedia.org/resource/Anthony_Braizat	1.0227759409854068e-07	1.0227763076003726e-07
+http://dbpedia.org/resource/Earvin_N'Gapeth	1.8699858092240898e-07	1.8699864799164975e-07
+http://dbpedia.org/resource/Abdellah_Ezbiri	5.454989777003874e-07	5.454991734001654e-07
+http://dbpedia.org/resource/Prince_Carlo,_Duke_of_Castro	1.043681565418014e-07	1.0436819374601635e-07
+http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur	4.115348046919137e-05	4.1153495152321174e-05
+83118	8.960701086602099e-08	8.960704301579188e-08

@@ -1,0 +1,31 @@
+2008-03-29	5.071396777817961e-07	5.07139677690751e-07
+http://dbpedia.org/resource/Drama	0.00016832087401031563	0.0001683208739801417
+http://www.w3.org/2002/07/owl#Thing	7.46823583158971e-07	7.468235831590295e-07
+http://dbpedia.org/class/yago/Whole100003553	8.492607199589784e-09	8.492607199400038e-09
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.5780773776904758e-07	1.578077377681862e-07
+http://dbpedia.org/ontology/TelevisionShow	0.002689018039470779	0.0026890180389877918
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	7.38461976529561e-06	7.384619765305764e-06
+http://dbpedia.org/class/yago/Medium106254669	1.378236003288397e-06	1.3782360032889187e-06
+http://www.wikidata.org/entity/Q15416	0.002011918212749204	0.0020119182123893515
+http://dbpedia.org/class/yago/Telecommunication106271778	0.0005018676104221442	0.0005018676103327548
+http://dbpedia.org/class/yago/Broadcasting106276697	0.0004992501114061308	0.0004992501113174914
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	1.5780773776904758e-07	1.5780773776828337e-07
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Television106277280	0.0004977739063163248	0.0004977739062277027
+Drama City	4.8794785790535435e-08	4.8794785781805384e-08
+http://www.kbs.co.kr/drama/dramacity/	4.8794785790535435e-08	4.879478578188864e-08
+http://dbpedia.org/resource/South_Korea	5.437125978412589e-05	5.437125977453989e-05
+http://dbpedia.org/resource/South_Korea	5.437125978412589e-05	5.437125977453989e-05
+http://dbpedia.org/resource/Category:Korean_Broadcasting_System_television_dramas	1.3488425749538372e-05	1.3488425747127508e-05
+Drama City	4.8794785790535435e-08	4.8794785781805384e-08
+http://dbpedia.org/resource/Korean_language	1.59683466628264e-05	1.596834665998492e-05
+1984-11-30	1.0504851725624389e-07	1.0504851723753985e-07
+http://dbpedia.org/resource/Korean_Broadcasting_System	3.025396000564873e-05	3.0253960000269837e-05
+http://dbpedia.org/resource/Ku_Hye-sun	5.686966955861789e-07	5.686966954847345e-07
+http://dbpedia.org/resource/Lee_Pil-mo	9.446991206227177e-07	9.446991204688237e-07
+http://dbpedia.org/resource/Lee_Min-ki	6.340305039194089e-07	6.340305038062696e-07
+http://dbpedia.org/resource/Kim_Ji-woo	5.083579405046283e-07	5.083579404138317e-07
+http://dbpedia.org/resource/Kim_Jeong-hoon	9.450516526337057e-07	9.450516525058646e-07

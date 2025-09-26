@@ -1,0 +1,35 @@
+54.051944444444445 21.336388888888887	2.166298444070885e-07	2.1687655977942072e-07
+21.33639	Key not found
+113	0.005978433213504515	0.005985241961230382
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/resource/Poland	1.2291771795964942e-08	1.2291869010397334e-08
+Muławki	2.166298444070885e-07	2.1687655977943615e-07
+Muławki	2.166298444070885e-07	2.1687655977943615e-07
+http://dbpedia.org/resource/Gmina_Kętrzyn	2.388530693433931e-07	2.391125922931891e-07
+http://dbpedia.org/resource/Kętrzyn_County	6.949288292465921e-07	6.95710728923893e-07
+http://dbpedia.org/resource/Warmian-Masurian_Voivodeship	1.1075486052476663e-06	1.1088018545130659e-06
+54.051945	Key not found
+http://www.wikidata.org/entity/Q532	Key not found
+http://schema.org/Place	1.2291771795964942e-08	1.229186901039001e-08
+http://www.w3.org/2002/07/owl#Thing	1.2291771795964942e-08	1.2291869010402885e-08
+http://dbpedia.org/ontology/PopulatedPlace	1.2291771795964942e-08	1.2291869010418032e-08
+http://dbpedia.org/class/yago/Object100002684	1.2291771795964942e-08	1.2291869010405254e-08
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Settlement	1.2291771795964942e-08	1.2291869010414578e-08
+http://dbpedia.org/ontology/Location	1.2291771795964942e-08	1.2291869010388808e-08
+http://dbpedia.org/class/yago/District108552138	1.2291771795964942e-08	1.2291869010402726e-08
+http://dbpedia.org/class/yago/Location100027167	1.2291771795964942e-08	1.2291869010395114e-08
+http://dbpedia.org/class/yago/VillagesInK%C4%99trzynCounty	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Region108630985	1.2291771795964942e-08	1.2291869010397366e-08
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.2291771795964942e-08	1.2291869010385532e-08
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.2291771795964942e-08	1.2291869010426555e-08
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.2291771795964942e-08	1.2291869010428851e-08
+http://dbpedia.org/class/yago/YagoGeoEntity	1.2291771795964942e-08	1.2291869010428122e-08
+http://www.wikidata.org/entity/Q486972	8.107287470026048e-09	8.107355956446064e-09
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	1.2291771795964942e-08	1.2291869010398391e-08
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.2291771795964942e-08	1.2291869010400603e-08
+http://dbpedia.org/ontology/Place	1.2291771795964942e-08	1.2291869010417423e-08
+http://dbpedia.org/resource/Category:Villages_in_Kętrzyn_County	4.591239268122374e-07	4.596465807134099e-07

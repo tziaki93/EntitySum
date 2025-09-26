@@ -1,0 +1,23 @@
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/ontology/Reptile	0.006921818856323892	0.006921818856319961
+http://www.w3.org/2002/07/owl#Thing	0.00015324341427328154	0.000153243414273272
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/ontology/Eukaryote	9.050527011088591e-06	9.050527011087288e-06
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Animal	0.00010903994563924728	0.00010903994563925485
+http://dbpedia.org/resource/Animal	0.00013675691906567556	0.00013675691906566936
+http://dbpedia.org/resource/Category:Crotalinae	1.1030683875391867e-05	1.103068387540112e-05
+Ovophis	1.0824057023394389e-06	1.0824057023399918e-06
+http://dbpedia.org/resource/Viperidae	0.0003770248311977034	0.00037702483119758683
+http://dbpedia.org/resource/Pit_viper	0.00023182739348650273	0.00023182739348643865
+Ovophis	1.0824057023394389e-06	1.0824057023399918e-06
+http://dbpedia.org/resource/Vertebrate	0.0011609695759556475	0.0011609695759552943
+http://dbpedia.org/resource/Chordate	0.0003568089754793756	0.0003568089754791938
+http://dbpedia.org/resource/Squamata	0.0006191214296599948	0.0006191214296597473
+http://dbpedia.org/resource/Snake	0.00694304177392557	0.006943041773922265
+http://dbpedia.org/resource/Ovophis_chaseni	1.784381911889143e-06	1.7843819118880367e-06
+http://dbpedia.org/resource/Ovophis_monticola	3.1530340918482536e-05	3.1530340918469085e-05
+http://dbpedia.org/resource/Ovophis_okinavensis	4.806680405302872e-05	4.806680405302546e-05
+http://dbpedia.org/resource/Reptile	0.0021240468338567567	0.0021240468338555234
+In Romano-Hoge, 1981	Key not found
+* Ovophis Burger	Key not found

@@ -1,0 +1,47 @@
+Sailor	3.618964035950434e-08	3.61896403564796e-08
+Sailor	3.618964035950434e-08	3.61896403564796e-08
+Schiander	Key not found
+1898	6.141912711003776e-07	6.141912710316347e-07
+http://dbpedia.org/class/yago/OlympicMedalistsInSailing	Key not found
+http://dbpedia.org/class/yago/SailorsAtThe1920SummerOlympics	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/Winner110782940	0.003539061313855678	0.0035390613135027403
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/Sailor110546633	9.87538111419671e-05	9.875381113217917e-05
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/OlympicSilverMedalistsForNorway	Key not found
+http://dbpedia.org/class/yago/Worker109632518	Key not found
+http://dbpedia.org/class/yago/Contestant109613191	1.2756721469341498e-05	1.2756721469350392e-05
+http://dbpedia.org/class/yago/Medalist110305062	0.0035826158405514383	0.003582615840193689
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/SkilledWorker110605985	3.5596299443660094e-07	3.559629944366371e-07
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/OlympicSailorsOfNorway	Key not found
+http://dbpedia.org/ontology/Athlete	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+Finn Schiander	9.535298011798753e-08	9.53529801085233e-08
+1967	3.062520341185706e-06	3.0625203408642637e-06
+http://dbpedia.org/resource/Category:Norwegian_sailors_(sport)	3.851059847682233e-08	3.8510598476585805e-08
+http://dbpedia.org/resource/Category:Olympic_silver_medalists_for_Norway	2.6288027911895735e-05	2.6288027909282066e-05
+http://dbpedia.org/resource/Category:Sailors_at_the_1920_Summer_Olympics_–_8_Metre	1.5262717358385603e-06	1.5262717356866148e-06
+http://dbpedia.org/resource/Category:Olympic_sailors_of_Norway	1.0169839105419107e-05	1.016983910440813e-05
+http://dbpedia.org/resource/Category:1967_deaths	1.0347418213613169e-05	1.0347418212581029e-05
+http://dbpedia.org/resource/Category:Olympic_medalists_in_sailing	7.006456412102418e-05	7.006456411405152e-05
+http://dbpedia.org/resource/Category:1898_births	1.350572021361744e-05	1.3505720212268498e-05
+Finn	9.48302115643e-08	9.483021155493307e-08
+1967	3.062520341185706e-06	3.0625203408642637e-06
+Schiander, Finn	Key not found
+Finn Schiander	9.535298011798753e-08	9.53529801085233e-08
+1898-05-07	1.7710733299032423e-09	1.7710733296982756e-09

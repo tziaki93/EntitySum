@@ -1,0 +1,57 @@
+Lygodium microphyllum	3.255046330785883e-08	3.255046330857056e-08
+http://dbpedia.org/resource/Schizaeales	7.55782364573432e-07	7.557823645897564e-07
+http://dbpedia.org/resource/Antonio_José_Cavanilles	8.525932435831687e-06	8.525932436022612e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg?width=300	3.267500600521365e-08	3.267500600592772e-08
+http://dbpedia.org/resource/Lygodium	2.118023675699895e-05	2.1180236757006612e-05
+http://dbpedia.org/resource/Leptosporangiate_fern	1.4541242770521608e-06	1.4541242770843648e-06
+*Lygodium scandens (auct.)	Key not found
+*L. scandens (L.)Sw.)	Key not found
+*Ophioglossum filiforme (Roxb.)	Key not found
+*L. scandens var. microphyllum (Cav.)Luerss.)	Key not found
+*Ugena microphylla (Cav.) (basionym)	Key not found
+*L. scandens var. intermedium (Ces.)	Key not found
+http://www.wikidata.org/entity/Q19088	3.2016187538517995e-08	3.201618753852392e-08
+http://www.wikidata.org/entity/Q756	0.00031738962959821634	0.0003173896296048578
+http://dbpedia.org/ontology/Species	3.2016187538517995e-08	3.2016187538515355e-08
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.1155123396434656e-07	1.1155123396608031e-07
+http://dbpedia.org/class/yago/Object100002684	1.1155123396434656e-07	1.1155123396608702e-07
+http://dbpedia.org/ontology/Plant	0.0033574721920582172	0.0033574721921343057
+http://dbpedia.org/class/yago/Plant100017222	0.0021269193087462114	0.002126919308792584
+http://dbpedia.org/ontology/Fern	2.8119419526439866e-05	2.811941952677329e-05
+http://www.w3.org/2002/07/owl#Thing	7.1914805815136605e-06	7.191480581515045e-06
+http://dbpedia.org/class/yago/PlantsDescribedIn1801	Key not found
+http://dbpedia.org/class/yago/Whole100003553	1.1155123396434656e-07	1.1155123396608274e-07
+http://dbpedia.org/ontology/Eukaryote	1.2642678708670527e-05	1.2642678708666949e-05
+http://dbpedia.org/class/yago/LivingThing100004258	1.1155123396434656e-07	1.115512339660867e-07
+http://dbpedia.org/class/yago/Organism100004475	8.09846034690654e-06	8.098460346907828e-06
+http://dbpedia.org/resource/Category:Flora_of_the_Ryukyu_Islands	2.3238493826247354e-06	2.323849382676656e-06
+http://dbpedia.org/resource/Category:Invasive_plant_species	Key not found
+http://dbpedia.org/resource/Category:Pteridophyta_of_Africa	Key not found
+http://dbpedia.org/resource/Category:Flora_of_China	5.6852798019347364e-05	5.68527980206181e-05
+http://dbpedia.org/resource/Category:Flora_of_Fiji	1.5007251428937513e-06	1.5007251429272508e-06
+http://dbpedia.org/resource/Category:Pteridophyta_of_Australasia	Key not found
+http://dbpedia.org/resource/Category:Flora_of_Thailand	8.50182005181716e-06	8.501820052008372e-06
+http://dbpedia.org/resource/Category:Flora_of_Africa	3.537261986810748e-05	3.5372619868904184e-05
+http://dbpedia.org/resource/Category:Plants_described_in_1801	1.7489647285547836e-06	1.7489647285936317e-06
+http://dbpedia.org/resource/Category:Flora_of_New_Guinea	9.658202520499163e-06	9.658202520714742e-06
+http://dbpedia.org/resource/Category:Flora_of_Western_Australia	1.389853356613662e-05	1.3898533566446112e-05
+http://dbpedia.org/resource/Category:Flora_of_Brunei	2.4013450942443303e-07	2.4013450942978835e-07
+http://dbpedia.org/resource/Category:Flora_of_India	9.564457174685236e-07	9.56445717490004e-07
+http://dbpedia.org/resource/Category:Flora_of_Queensland	0.00010258018765377622	0.00010258018765604481
+http://dbpedia.org/resource/Category:Fern_species	Key not found
+http://dbpedia.org/resource/Category:Flora_of_Malesia	1.1239688654973267e-05	1.1239688655225725e-05
+http://dbpedia.org/resource/Category:Pteridophyta_of_Asia	Key not found
+http://dbpedia.org/resource/Category:Flora_of_the_Northern_Territory	3.218213568031508e-05	3.2182135681029235e-05
+http://dbpedia.org/resource/Category:Lygodium	1.576930211725863e-07	1.5769302117597721e-07
+http://dbpedia.org/resource/Category:Pteridophyta_of_Australia	Key not found
+http://dbpedia.org/resource/Category:Flora_of_the_Northwestern_Pacific	5.35764731100166e-07	5.357647311121139e-07
+http://dbpedia.org/resource/Category:Flora_of_New_South_Wales	0.00011328686874293959	0.00011328686874544732
+http://dbpedia.org/resource/Category:Flora_of_Japan	1.814699774557167e-05	1.8146997745978884e-05
+http://dbpedia.org/resource/Category:Flora_of_Taiwan	6.868101997539679e-06	6.868101997693692e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg	3.267500600521367e-08	3.267500600592212e-08
+TNC	5.1634497948585886e-06	5.163449794974065e-06
+http://dbpedia.org/resource/Plant	0.0018839085270372815	0.001883908527079299
+http://dbpedia.org/resource/Lygodium	2.118023675699895e-05	2.1180236757006612e-05
+G5	1.0575171345948032e-06	1.0575171346185333e-06
+Lygodium microphyllum	3.255046330785883e-08	3.255046330857056e-08
+http://dbpedia.org/resource/Pteridophyte	2.2661692366800443e-05	2.266169236685989e-05

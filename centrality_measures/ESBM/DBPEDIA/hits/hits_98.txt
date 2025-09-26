@@ -1,0 +1,51 @@
+Terrorist Threats	6.477592200225998e-07	6.477592200233114e-07
+Terrorist Threats	6.477592200225998e-07	6.477592200233114e-07
+http://dbpedia.org/resource/Gangsta_Nation	0.00011391377599707272	0.00011391377599712176
+http://dbpedia.org/resource/Bow_Down	1.3879454353266272e-05	1.3879454353304507e-05
+http://dbpedia.org/resource/Bow_Down	1.3879454353266272e-05	1.3879454353304507e-05
+http://dbpedia.org/resource/Capitol_Records	0.00550866235566238	0.005508662355667011
+http://dbpedia.org/resource/Hoo-Bangin'_Records	9.475910663700755e-05	9.4759106637018e-05
+http://dbpedia.org/resource/EMI	0.005184705995342892	0.005184705995342022
+3081.0	Key not found
+http://dbpedia.org/resource/West_Coast_hip_hop	6.566755033521617e-05	6.566755033535085e-05
+http://dbpedia.org/resource/Gangsta_rap	8.975270571047948e-05	8.975270571073516e-05
+http://dbpedia.org/resource/Fredwreck	2.4810805123097987e-05	2.4810805123115002e-05
+http://dbpedia.org/resource/Hertz	2.7972565420801928e-05	2.7972565420667453e-05
+http://dbpedia.org/resource/Damizza	6.765316397130665e-06	6.7653163971645695e-06
+http://dbpedia.org/resource/Sir_Jinx	2.3902263434469567e-05	2.3902263434454835e-05
+http://dbpedia.org/resource/Westside_Connection	8.060423356451762e-05	8.060423356448504e-05
+http://dbpedia.org/resource/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_America	Key not found
+http://dbpedia.org/resource/Category:2003_albums	4.658607108018302e-05	4.658607108020461e-05
+http://dbpedia.org/resource/Category:Ice_Cube_albums	2.276257587652856e-06	2.276257587660248e-06
+http://dbpedia.org/resource/Category:Capitol_Records_albums	0.0009490709406675396	0.0009490709406680239
+http://dbpedia.org/resource/Category:Westside_Connection_albums	8.746529160023341e-07	8.746529160055961e-07
+http://dbpedia.org/resource/Category:Albums_produced_by_Fredwreck	4.562575170270767e-06	4.562575170282807e-06
+http://dbpedia.org/resource/Category:English-language_albums	Key not found
+http://dbpedia.org/resource/Category:WC_(rapper)_albums	1.8651211560552786e-07	1.865121156009512e-07
+http://dbpedia.org/resource/Category:Gangsta_rap_albums	1.0232793386611572e-07	1.0232793386594845e-07
+http://dbpedia.org/resource/Category:Mack_10_albums	9.111240466081877e-07	9.111240466166041e-07
+2003-12-09	1.728340413030815e-06	1.728340413078893e-06
+http://dbpedia.org/class/yago/Whole100003553	2.0703097489332652e-06	2.0703097489274707e-06
+http://dbpedia.org/class/yago/English-languageAlbums	Key not found
+http://www.wikidata.org/entity/Q386724	1.2269722810168123e-06	1.2269722810166243e-06
+http://dbpedia.org/ontology/Work	1.2269722810168123e-06	1.226972281016608e-06
+http://dbpedia.org/ontology/MusicalWork	1.2269722810168123e-06	1.2269722810166023e-06
+http://schema.org/MusicAlbum	1.3325984264146864e-07	1.332598426436263e-07
+http://dbpedia.org/class/yago/Artifact100021939	1.3325984264146864e-07	1.332598426436065e-07
+http://www.w3.org/2002/07/owl#Thing	0.00010787362974921545	0.00010787362974920932
+http://dbpedia.org/class/yago/Object100002684	2.0703097489332652e-06	2.070309748927475e-06
+http://dbpedia.org/class/yago/AlbumsProducedByFredwreck	Key not found
+http://dbpedia.org/class/yago/IceCubeAlbums	Key not found
+http://dbpedia.org/class/yago/CapitolRecordsAlbums	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.0703097489332652e-06	2.0703097489274796e-06
+http://schema.org/CreativeWork	1.2269722810168123e-06	1.226972281016608e-06
+http://www.wikidata.org/entity/Q2188189	1.2269722810168123e-06	1.2269722810166292e-06
+http://dbpedia.org/class/yago/WC(rapper)Albums	Key not found
+http://dbpedia.org/class/yago/Instrumentality103575240	1.3325984264146864e-07	1.3325984264359763e-07
+http://dbpedia.org/class/yago/2003Albums	Key not found
+http://dbpedia.org/class/yago/WestsideConnectionAlbums	Key not found
+http://dbpedia.org/ontology/Album	4.9912817993431446e-05	4.991281799346271e-05
+http://www.wikidata.org/entity/Q482994	1.3325984264146864e-07	1.3325984264359848e-07
+http://dbpedia.org/class/yago/Album106591815	1.3325984264146864e-07	1.3325984264360605e-07
+http://dbpedia.org/class/yago/Medium106254669	1.3325984264146864e-07	1.332598426436027e-07
+http://dbpedia.org/class/yago/Mack10Albums	Key not found

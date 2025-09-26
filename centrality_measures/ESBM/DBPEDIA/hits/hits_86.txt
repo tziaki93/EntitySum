@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/William_Vincent_Fitzgerald	2.4552183904410677e-06	2.4552183906906302e-06
+Silver Cajuput	Key not found
+Melaleuca sheathiana	1.0195945475863401e-07	1.0195945476900685e-07
+http://dbpedia.org/resource/Category:Melaleuca	2.7060697482873858e-05	2.7060697485618827e-05
+http://dbpedia.org/resource/Category:Myrtales_of_Australia	6.534812310871064e-05	6.534812311535504e-05
+http://dbpedia.org/resource/Category:Flora_of_Western_Australia	1.656430693731646e-05	1.6564306939003246e-05
+http://dbpedia.org/resource/Category:Plants_described_in_1902	3.83644924517679e-06	3.8364492455685734e-06
+http://dbpedia.org/resource/Melaleuca	1.7800626081958103e-05	1.780062608278715e-05
+http://www.wikidata.org/entity/Q756	0.000375841666553935	0.0003758416665895557
+http://dbpedia.org/ontology/Species	1.0053115859015717e-08	1.0053115859025214e-08
+http://dbpedia.org/ontology/Plant	0.0037716581124557723	0.003771658112839212
+http://www.w3.org/2002/07/owl#Thing	1.2462771898427806e-05	1.2462771898431976e-05
+http://www.wikidata.org/entity/Q19088	1.0053115859015717e-08	1.0053115859014972e-08
+http://dbpedia.org/ontology/Eukaryote	1.5481636154741897e-05	1.548163615472813e-05
+http://dbpedia.org/resource/Myrtaceae	0.0001049491827045985	0.00010494918271400185
+http://dbpedia.org/resource/Eudicots	0.0001861102752835855	0.00018611027530205147
+http://dbpedia.org/resource/Rosids	7.565697358816988e-05	7.565697359541414e-05
+http://dbpedia.org/resource/Plant	0.0021060296915878453	0.0021060296918016595
+http://dbpedia.org/resource/Flowering_plant	0.0008233982653523109	0.0008233982654345498
+http://dbpedia.org/resource/Myrtales	6.883360558222886e-06	6.88336055843332e-06

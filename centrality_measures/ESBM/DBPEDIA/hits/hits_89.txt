@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/Category:Myco-heterotrophic_orchids	1.9968030812288494e-06	1.9968030815503767e-06
+http://dbpedia.org/resource/Category:Neottieae	2.1081377015935523e-07	2.1081377019203998e-07
+http://dbpedia.org/resource/Category:Orchids_of_Laos	1.574143547973618e-06	1.5741435482283748e-06
+http://dbpedia.org/resource/Category:Plants_described_in_1975	2.3416046081345477e-06	2.3416046085147114e-06
+http://dbpedia.org/resource/Category:Orchids_of_Thailand	4.287566977351628e-06	4.287566978046643e-06
+http://dbpedia.org/ontology/Eukaryote	1.558471634220523e-05	1.5584716342187054e-05
+http://www.w3.org/2002/07/owl#Thing	1.2268201186887762e-05	1.2268201186896971e-05
+http://dbpedia.org/ontology/Plant	0.0037794396389313287	0.003779439639537964
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q756	0.0003706916196139268	0.000370691619669556
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/resource/Asparagales	2.2037290227382806e-05	2.203729023029815e-05
+Thaia	1.5206839445203624e-08	1.5206839447704803e-08
+Thaia saprophytica	1.5206583862154998e-08	1.5206583864582402e-08
+http://dbpedia.org/resource/Gunnar_Seidenfaden	2.9355812840151638e-06	2.935581284439931e-06
+http://dbpedia.org/resource/Epidendroideae	1.1664175533081787e-05	1.166417553490587e-05
+http://dbpedia.org/resource/Orchidaceae	7.044347775080741e-05	7.044347776152556e-05
+http://dbpedia.org/resource/Neottieae	7.906237513268575e-07	7.906237514458676e-07
+http://dbpedia.org/resource/Monocotyledon	3.506614562251694e-05	3.50661456249959e-05
+http://dbpedia.org/resource/Flowering_plant	0.0008233061659014583	0.0008233061660321069
+http://dbpedia.org/resource/Plant	0.002109156107989341	0.0021091561083281035

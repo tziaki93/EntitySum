@@ -1,0 +1,25 @@
+If	7.753124740819497e-07	7.753124375535137e-07
+If (Glasvegas song)	6.826253067987674e-08	6.82625274624271e-08
+2013-07-08	5.335890151581159e-07	5.335889900002971e-07
+http://dbpedia.org/resource/James_Allan_(musician)	6.85449845743956e-07	6.854498293355048e-07
+http://dbpedia.org/resource/Indie_rock	8.239899945594294e-05	8.239899557084172e-05
+http://dbpedia.org/resource/James_Allan_(musician)	6.85449845743956e-07	6.854498293355048e-07
+http://dbpedia.org/resource/Glasvegas	1.1935257058325657e-06	1.1935256654360404e-06
+http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)	1.3816776831968004e-06	1.3816776707049143e-06
+http://dbpedia.org/ontology/Work	7.488282928297413e-09	7.488282654829859e-09
+http://dbpedia.org/ontology/Single	0.003963097729943415	0.00396309754305951
+http://dbpedia.org/ontology/MusicalWork	1.587448481917867e-05	1.587448482213085e-05
+http://www.w3.org/2002/07/owl#Thing	3.449107814792533e-07	3.449107811448775e-07
+http://www.wikidata.org/entity/Q386724	7.488282928297413e-09	7.488282654969573e-09
+http://www.wikidata.org/entity/Q134556	2.8927198568310726e-05	2.892719795815984e-05
+http://www.wikidata.org/entity/Q2188189	7.488282928297413e-09	7.488282654860004e-09
+http://schema.org/CreativeWork	7.488282928297413e-09	7.488282654532006e-09
+http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)	1.3816776831968004e-06	1.3816776707049143e-06
+http://dbpedia.org/resource/Later...When_the_TV_Turns_to_Static	4.886697335489466e-07	4.886697266156288e-07
+http://dbpedia.org/resource/Glasvegas	1.1935257058325657e-06	1.1935256654360404e-06
+http://dbpedia.org/resource/Digital_distribution	8.164576565095531e-06	8.164576180105021e-06
+http://dbpedia.org/resource/Category:2013_songs	0.00010122349337878633	0.00010122348860558158
+http://dbpedia.org/resource/Category:Glasvegas_songs	4.6669856918832053e-07	4.6669854723449465e-07
+http://dbpedia.org/resource/Category:2013_singles	9.152448125472547e-05	9.152447693887017e-05
+http://dbpedia.org/resource/Category:Songs_written_by_James_Allan_(musician)	4.666836058620291e-07	4.666835839090367e-07
+269.0	Key not found

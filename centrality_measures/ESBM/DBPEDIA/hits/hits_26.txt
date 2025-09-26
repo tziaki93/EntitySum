@@ -1,0 +1,34 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300	8.97165126329004e-08	8.971651262035244e-08
+Richmond–Petersburg Turnpike	8.94729063307693e-08	8.947290631833207e-08
+I	4.183017265613119e-05	4.183017265029202e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/Road104096066	0.0019022479140060056	0.0019022479137417315
+http://dbpedia.org/class/yago/Expressway103306610	0.0009354979191627386	0.0009354979190325647
+http://dbpedia.org/class/yago/Turnpike104501018	2.6361209909915873e-05	2.6361209906593037e-05
+http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates	Key not found
+http://dbpedia.org/ontology/Road	0.002223140924996961	0.002223140924686194
+http://dbpedia.org/ontology/Place	Key not found
+http://dbpedia.org/class/yago/Way104564698	0.0019462754670017861	0.0019462754667309186
+http://dbpedia.org/ontology/Infrastructure	6.027919672955806e-06	6.0279196729717295e-06
+http://dbpedia.org/class/yago/Highway103519981	0.0012411117494726639	0.00124111174930053
+http://www.wikidata.org/entity/Q34442	0.0019852146237130785	0.001985214623435168
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	Key not found
+http://schema.org/Place	Key not found
+http://dbpedia.org/class/yago/TollRoadsInVirginia	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/ArchitecturalStructure	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	5.20043052180232e-06	5.200430521808825e-06
+http://dbpedia.org/ontology/RouteOfTransportation	0.0022559655642653176	0.0022559655639496122
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/ontology/Location	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	5.20043052180232e-06	5.20043052180899e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg	8.973187706045735e-08	8.973187704897222e-08
+Richmond–Petersburg Turnpike	8.94729063307693e-08	8.947290631833207e-08
+56327.04	Key not found
+http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways	3.4133310653089023e-06	3.4133310648319956e-06
+http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia	1.4890645630815848e-07	1.489064562873541e-07
+http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia	7.93211116924179e-07	7.932111168134643e-07
+http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia	1.978306923589517e-06	1.978306923313422e-06
+http://dbpedia.org/resource/Category:Interstate_95	7.043543845538172e-06	7.043543844554486e-06
+http://dbpedia.org/resource/Category:Interstate_85	2.092634769953012e-06	2.0926347696609562e-06

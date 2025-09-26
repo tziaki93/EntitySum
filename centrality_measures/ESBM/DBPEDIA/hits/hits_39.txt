@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Actinopterygii	0.001490934273247766	0.00149093427325024
+Siamese mud carp	4.549169266019466e-07	4.549169266024533e-07
+iucn3.1	Key not found
+http://dbpedia.org/resource/Category:Carp	4.769091097764442e-06	4.769091097773459e-06
+http://dbpedia.org/resource/Category:Fish_of_Thailand	0.0001486468606578053	0.00014864686065805792
+http://dbpedia.org/resource/Category:Fish_of_Cambodia	2.6507071008103388e-05	2.6507071008134945e-05
+http://dbpedia.org/resource/Category:Fish_of_Laos	3.481030815353702e-05	3.481030815355818e-05
+http://dbpedia.org/resource/Category:Fish_of_Vietnam	4.4459257999588255e-05	4.4459257999612765e-05
+http://dbpedia.org/resource/Category:Fish_of_the_Mekong_Basin	3.3755105170671045e-05	3.3755105170709724e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q729	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.771650438112982e-05	1.7716504381130914e-05
+http://dbpedia.org/ontology/Fish	0.007402139003760107	0.007402139003771611
+http://dbpedia.org/ontology/Eukaryote	5.74384791756557e-07	5.743847917551266e-07
+http://dbpedia.org/ontology/Animal	5.9087979113738984e-05	5.908797911373837e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://www.wikidata.org/entity/Q152	0.0015621398737369863	0.0015621398737394841
+http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg	4.5499703784829554e-07	4.549970378489041e-07
+http://dbpedia.org/resource/Cypriniformes	7.5360183612697e-05	7.536018361276529e-05
+LC	9.90126997805576e-05	9.901269978073442e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg?width=300	3.5211970343278185e-09	3.52119703438632e-09
+http://dbpedia.org/resource/Henicorhynchus	6.355214766009971e-05	6.355214766010676e-05
+http://dbpedia.org/resource/Animal	2.6699096981775816e-06	2.669909698178526e-06
+http://dbpedia.org/resource/Chordate	0.00035029633091176944	0.0003502963309123311
+http://dbpedia.org/resource/Cyprinidae	0.00033651903240263843	0.0003365190324030902
+http://dbpedia.org/resource/Henri_Émile_Sauvage	7.132328163690695e-05	7.132328163700419e-05
+Siamese mud carp	4.549169266019466e-07	4.549169266024533e-07

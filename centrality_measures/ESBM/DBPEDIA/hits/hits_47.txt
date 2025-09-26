@@ -1,0 +1,38 @@
+http://schema.org/CreativeWork	3.319789508611436e-07	3.3197895085362756e-07
+http://schema.org/MusicAlbum	3.319789508611436e-07	3.3197895085378723e-07
+http://www.w3.org/2002/07/owl#Thing	9.291339778346028e-06	9.291339778034367e-06
+http://www.wikidata.org/entity/Q482994	3.319789508611436e-07	3.319789508536328e-07
+http://www.wikidata.org/entity/Q2188189	3.319789508611436e-07	3.3197895085364435e-07
+http://dbpedia.org/ontology/MusicalWork	3.319789508611436e-07	3.3197895085374535e-07
+http://dbpedia.org/class/yago/Artifact100021939	3.319789508611436e-07	3.3197895085362375e-07
+http://dbpedia.org/class/yago/CinepolyRecordsAlbums	Key not found
+http://dbpedia.org/ontology/Work	3.319789508611436e-07	3.319789508536796e-07
+http://dbpedia.org/class/yago/Medium106254669	3.319789508611436e-07	3.3197895085378077e-07
+http://dbpedia.org/class/yago/Album106591815	3.319789508611436e-07	3.3197895085367516e-07
+http://dbpedia.org/class/yago/MandopopAlbums	Key not found
+http://www.wikidata.org/entity/Q386724	3.319789508611436e-07	3.3197895085360935e-07
+http://dbpedia.org/class/yago/FayeWongAlbums	Key not found
+http://dbpedia.org/class/yago/Instrumentality103575240	3.319789508611436e-07	3.3197895085355917e-07
+http://dbpedia.org/class/yago/Object100002684	4.882340466858482e-06	4.882340466552506e-06
+http://dbpedia.org/class/yago/1994Albums	Key not found
+http://dbpedia.org/class/yago/Whole100003553	4.882340466858482e-06	4.882340466552494e-06
+http://dbpedia.org/ontology/Album	3.319789508611436e-07	3.319789508537766e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.882340466858482e-06	4.882340466552108e-06
+http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)	1.1719785511719095e-05	1.1719785511075077e-05
+http://dbpedia.org/resource/Please_Myself	1.1029592386587745e-05	1.102959238596903e-05
+2819.0	Key not found
+http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)	1.1719785511719095e-05	1.1719785511075077e-05
+http://dbpedia.org/resource/Please_Myself	1.1029592386587745e-05	1.102959238596903e-05
+1994-11-10	3.332164354434261e-06	3.3321643541605933e-06
+http://dbpedia.org/resource/Faye_Wong	0.0003118206543775829	0.0003118206543730186
+Tian Kong (Sky)	Key not found
+http://dbpedia.org/resource/Sony_Music_Entertainment	0.014231035811587257	0.014231035810429121
+http://dbpedia.org/resource/Cinepoly_Records	4.400730103219629e-05	4.400730102879497e-05
+Sky (Faye Wong album)	3.172707044360371e-06	3.1727070441063296e-06
+http://dbpedia.org/resource/Category:Mandopop_albums	6.2052144600576514e-06	6.205214459597512e-06
+http://dbpedia.org/resource/Category:Faye_Wong_albums	5.320668735814711e-06	5.320668735485976e-06
+http://dbpedia.org/resource/Category:Sony_Music_Entertainment_albums	1.459782903689401e-08	1.4597829027316418e-08
+http://dbpedia.org/resource/Category:Albums_by_Singaporean_artists	1.4613405402622126e-08	1.4613405396251797e-08
+http://dbpedia.org/resource/Category:Cinepoly_Records_albums	4.550017617152682e-06	4.550017616835514e-06
+http://dbpedia.org/resource/Category:1994_albums	5.237170429644875e-05	5.237170429179185e-05
+http://dbpedia.org/resource/Mandopop	0.0002581262867526169	0.0002581262867322876

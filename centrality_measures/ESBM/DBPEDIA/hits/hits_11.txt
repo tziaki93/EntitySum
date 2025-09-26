@@ -1,0 +1,23 @@
+2009–10 Swiss Cup	5.8181234903206596e-08	5.818123490405049e-08
+http://www.football.ch/sfv/chcup/de/start.aspx	2.326156882300757e-07	2.326156882325645e-07
+Swiss Cup	1.2312213881209644e-06	1.2312213881338802e-06
+19:00 CET	8.722128950051242e-07	8.722128950145908e-07
+17:45 CET	1.744635579761087e-07	1.7446355797796783e-07
+14:30 CET	2.3263907168848039e-07	2.3263907169060512e-07
+14:00 CET	1.1635349140315821e-07	1.1635349140460317e-07
+16:30 CEST	2.3260192760722845e-07	2.3260192760983827e-07
+14:00 CEST	1.163243889663787e-07	1.1632438896789385e-07
+http://dbpedia.org/resource/Category:2009–10_in_Swiss_football	1.1637699175470443e-07	1.1637699175602221e-07
+http://dbpedia.org/resource/Category:Swiss_Cup	1.3348908389232722e-08	1.3348908389496313e-08
+http://dbpedia.org/resource/Category:2009–10_domestic_association_football_cups	3.393278348669049e-06	3.3932783487048335e-06
+http://schema.org/Event	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/ontology/SportsEvent	0.0024777588455256725	0.0024777588455504825
+http://schema.org/SportsEvent	0.0023065581690113824	0.0023065581690351806
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/SoccerTournament	0.00081770236669924	0.0008177023667073435
+http://dbpedia.org/ontology/SocietalEvent	6.487318056662086e-06	6.487318056662574e-06
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/Tournament	0.001472203631820543	0.0014722036318363522
+http://www.wikidata.org/entity/Q500834	0.0014063216363666134	0.001406321636381516

@@ -1,0 +1,37 @@
+52.37	Key not found
+TL260765	2.7176233282560366e-09	2.717637469631908e-09
+http://dbpedia.org/resource/United_Kingdom	2.570356090407821e-07	2.570356144698782e-07
+http://dbpedia.org/resource/England	2.570356090407821e-07	2.5703561446995617e-07
+http://dbpedia.org/resource/Cambridgeshire	1.9008279139180356e-05	1.9008378990626996e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300	2.7529016098723998e-09	2.7529157588016185e-09
+-0.15	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg	3.4219894959855592e-09	3.4220070960661153e-09
+http://dbpedia.org/class/yago/GeographicalArea108574314	6.786779917732943e-08	6.786780756289643e-08
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	2.570356090407821e-07	2.5703561446996565e-07
+http://dbpedia.org/class/yago/Location100027167	2.570356090407821e-07	2.570356144698846e-07
+http://dbpedia.org/ontology/Place	2.570356090407821e-07	2.570356144699932e-07
+http://dbpedia.org/class/yago/Object100002684	2.570356090407821e-07	2.570356144699434e-07
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	2.570356090407821e-07	2.57035614469964e-07
+http://dbpedia.org/ontology/Settlement	6.786779917732943e-08	6.78678075628892e-08
+http://dbpedia.org/ontology/PopulatedPlace	2.570356090407821e-07	2.5703561447000217e-07
+http://schema.org/Place	2.570356090407821e-07	2.570356144700208e-07
+http://dbpedia.org/class/yago/VillagesInCambridgeshire	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	2.570356090407821e-07	2.5703561446998523e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.570356090407821e-07	2.5703561446992483e-07
+http://dbpedia.org/class/yago/Region108630985	6.786779917732943e-08	6.786780756290986e-08
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	2.570356090407821e-07	2.570356144699693e-07
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://www.w3.org/2002/07/owl#Thing	2.570356090407821e-07	2.570356144699444e-07
+http://dbpedia.org/ontology/Location	2.570356090407821e-07	2.5703561446984097e-07
+PE28 2	Key not found
+http://dbpedia.org/resource/Huntingdonshire	6.819607690195618e-06	6.819642564734692e-06
+168	0.009844875861207763	0.009844927942672192
+http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire	6.220438869572628e-07	6.220471405620489e-07
+http://dbpedia.org/resource/Category:Huntingdonshire	3.681170854611781e-07	3.6811865453738214e-07
+http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire	5.752438801830263e-07	5.752468889993072e-07
+Kings Ripton	2.7176233282560366e-09	2.71763746972376e-09
+52.37 -0.15	2.7176233282560366e-09	2.7176374697713117e-09
+Kings Ripton	2.7176233282560366e-09	2.71763746972376e-09
+01487	3.229043337643318e-08	3.22906014918535e-08

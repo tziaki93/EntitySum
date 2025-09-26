@@ -1,0 +1,26 @@
+Our Leading Citizen	2.2661457932950324e-06	2.2661457933384657e-06
+Our Leading Citizen (1939 film)	1.1940869802782297e-06	1.1940869803009024e-06
+http://dbpedia.org/resource/Charles_Bickford	6.929998216008254e-05	6.92999821614351e-05
+http://dbpedia.org/resource/Bob_Burns_(comedian)	1.922280523225333e-05	1.9222805232635094e-05
+http://dbpedia.org/resource/Gene_Lockhart	4.764245179988976e-05	4.7642451800803416e-05
+http://dbpedia.org/resource/Susan_Hayward	0.00020245934096500414	0.00020245934096715788
+http://dbpedia.org/resource/Elizabeth_Patterson_(actress)	0.00015078503313126259	0.00015078503313253617
+5340.0	Key not found
+http://www.w3.org/2002/07/owl#Thing	9.189752788733776e-05	9.189752788737867e-05
+http://dbpedia.org/ontology/Film	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://schema.org/Movie	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/resource/Alfred_Santell	5.0466999100717375e-05	5.046699910167875e-05
+http://dbpedia.org/resource/Victor_Milner	0.00020712604222743484	0.0002071260422298199
+http://dbpedia.org/resource/Category:Paramount_Pictures_films	0.003361251031196493	0.003361251031263291
+http://dbpedia.org/resource/Category:1930s_comedy_films	6.657992733386203e-07	6.657992733521364e-07
+http://dbpedia.org/resource/Category:American_comedy_films	0.0003866678046192103	0.0003866678046269909
+http://dbpedia.org/resource/Category:1939_films	7.581517221613772e-05	7.581517221763172e-05
+http://dbpedia.org/resource/Category:American_films	2.2400771304719627e-06	2.2400771305059817e-06
+http://dbpedia.org/resource/Category:English-language_films	8.939426888891868e-06	8.93942688907761e-06
+http://dbpedia.org/resource/Category:Films_directed_by_Alfred_Santell	9.210023990871769e-06	9.210023991045255e-06
+http://dbpedia.org/resource/Paramount_Pictures	0.009013190369622037	0.009013190369801572
+http://dbpedia.org/resource/Gerard_Carbonara	0.00013402383971156868	0.00013402383971250836

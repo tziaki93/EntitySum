@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/Category:Rodents_of_Malaysia	3.673903496289565e-05	3.673903496300099e-05
+http://dbpedia.org/resource/Category:Dremomys	3.2035776418920424e-06	3.2035776419004903e-06
+http://dbpedia.org/resource/Category:Rodents_of_Indonesia	4.804972297239779e-05	4.8049722972543e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Bornean_Mountain_Ground_Squirrel_(Dremomys_everetti)_(7113326479).jpg?width=300	6.005351091465394e-07	6.005351091462659e-07
+LC	1.5549804577020456e-06	1.5549804576901594e-06
+http://dbpedia.org/resource/Red-cheeked_squirrel	8.55152400938062e-06	8.551524009393343e-06
+iucn3.1	Key not found
+http://dbpedia.org/ontology/Eukaryote	3.521164226255274e-06	3.521164226254434e-06
+http://www.wikidata.org/entity/Q729	3.521164226255274e-06	3.5211642262544215e-06
+http://dbpedia.org/ontology/Animal	5.842342515802255e-05	5.842342515801852e-05
+http://dbpedia.org/ontology/Species	3.521164226255274e-06	3.5211642262544134e-06
+http://www.w3.org/2002/07/owl#Thing	2.1613581605457403e-05	2.1613581605457647e-05
+http://dbpedia.org/ontology/Mammal	0.007087524377602326	0.007087524377622304
+http://www.wikidata.org/entity/Q7377	0.0035597364857109714	0.0035597364857205215
+http://www.wikidata.org/entity/Q19088	3.521164226255274e-06	3.521164226254417e-06
+http://dbpedia.org/resource/Chordate	7.382638285383501e-05	7.38263828540525e-05
+http://dbpedia.org/resource/Rodent	0.001376301213957032	0.0013763012139606822
+http://dbpedia.org/resource/Mammal	0.0008080060844008215	0.0008080060844029434
+http://dbpedia.org/resource/Oldfield_Thomas	0.00045929423818663715	0.00045929423818800915
+Bornean Mountain Ground Squirrel	5.026429701825631e-10	5.026429701715036e-10
+Bornean mountain ground squirrel	5.302299626909972e-07	5.302299626924839e-07
+http://dbpedia.org/resource/Animal	6.760539713073248e-06	6.760539713072747e-06
+http://dbpedia.org/resource/Squirrel	0.00010180823662829236	0.00010180823662847559
+http://commons.wikimedia.org/wiki/Special:FilePath/Bornean_Mountain_Ground_Squirrel_(Dremomys_everetti)_(7113326479).jpg	6.005351091465394e-07	6.005351091462677e-07

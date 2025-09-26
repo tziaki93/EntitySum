@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/Starting_pitcher	0.0003309252081460318	0.0003309252081487919
+Dallas Keuchel	3.387380277177594e-07	3.3873802772074374e-07
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://www.wikidata.org/entity/Q10871364	0.0038817350744169902	0.0038817350744530226
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/ontology/BaseballPlayer	0.003985646880896935	0.003985646880933956
+http://schema.org/Person	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	1.393002984106734e-06	1.3930029841065024e-06
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/ontology/Athlete	1.6192074679072086e-05	1.6192074679068793e-05
+http://www.w3.org/2002/07/owl#Thing	1.4559845680392475e-06	1.455984568038651e-06
+http://dbpedia.org/ontology/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/ontology/Agent	1.393002984106734e-06	1.3930029841065045e-06
+Keuchel, Dallas	Key not found
+Dallas Keuchel	3.387380277177594e-07	3.3873802772074374e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg?width=300	1.6994004262682293e-07	1.6994004262822622e-07
+American baseball player	Key not found
+American baseball player	Key not found
+Dallas	7.232702940519119e-09	7.2327029406503525e-09
+1988	6.932966949769853e-06	6.932966949238665e-06
+http://dbpedia.org/resource/Houston_Astros	0.0003428849056546889	0.0003428849056577391
+Keuchel	-1.2435084887402006e-23	-2.6477962466909237e-20
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:Oklahoma_City_RedHawks_players	3.105626250174282e-05	3.105626250201649e-05
+http://dbpedia.org/resource/Category:Corpus_Christi_Hooks_players	3.4899532342068666e-05	3.4899532342376824e-05
+http://dbpedia.org/resource/Category:Houston_Astros_players	0.00013581651387879908	0.00013581651387999764
+http://dbpedia.org/resource/Category:Gold_Glove_Award_winners	4.6243283532730285e-05	4.624328353313727e-05
+http://dbpedia.org/resource/Category:Sportspeople_from_Tulsa,_Oklahoma	7.850762738463153e-06	7.850762738531522e-06
+http://dbpedia.org/resource/Category:Major_League_Baseball_pitchers	0.0014457047772497775	0.0014457047772626175
+http://dbpedia.org/resource/Category:Arkansas_Razorbacks_baseball_players	8.654750988060034e-06	8.654750988136184e-06
+http://dbpedia.org/resource/Category:Salt_River_Rafters_players	3.145001400260569e-05	3.145001400288222e-05
+http://dbpedia.org/resource/Category:Lancaster_JetHawks_players	3.472056071462544e-05	3.472056071493173e-05
+http://dbpedia.org/resource/Category:American_League_All-Stars	0.00014673224657280086	0.00014673224657409627
+http://dbpedia.org/resource/Category:Tri-City_ValleyCats_players	1.7745773568027736e-05	1.7745773568184214e-05
+http://dbpedia.org/resource/Category:1988_births	7.277127901869365e-05	7.277127901922717e-05
+1988-01-01	6.932966949769853e-06	6.932966949238516e-06
+http://dbpedia.org/resource/Tulsa,_Oklahoma	1.550279124388691e-05	1.5502791243999315e-05
+http://dbpedia.org/resource/Houston_Astros	0.0003428849056546889	0.0003428849056577391
+http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg	1.699400426268231e-07	1.6994004262818999e-07

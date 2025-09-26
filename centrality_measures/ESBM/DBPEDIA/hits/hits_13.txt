@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	1.8443556047687332e-05	1.844355604762526e-05
+2011 League of Ireland Cup Final	5.5208594957559766e-08	5.520859493660985e-08
+http://dbpedia.org/resource/Turners_Cross_(stadium)	2.3771705453312573e-06	2.3771705444259913e-06
+http://dbpedia.org/resource/Cork_(city)	5.640667943475157e-06	5.64066794130601e-06
+http://dbpedia.org/ontology/Event	5.5208594957559766e-08	5.5208594936565155e-08
+http://dbpedia.org/ontology/FootballMatch	0.0003515744492423259	0.00035157444911025485
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	5.5208594957559766e-08	5.5208594936542576e-08
+http://www.w3.org/2002/07/owl#Thing	1.0612231706652229e-07	1.061223170457229e-07
+http://dbpedia.org/ontology/SocietalEvent	8.979478764330394e-06	8.979478764332336e-06
+http://dbpedia.org/ontology/SportsEvent	0.0029813342875874716	0.0029813342864368603
+http://schema.org/SportsEvent	0.00271699259974681	0.0027169925986979325
+http://www.wikidata.org/entity/Q1656682	5.5208594957559766e-08	5.520859493654489e-08
+http://schema.org/Event	5.5208594957559766e-08	5.520859493658511e-08
+2011-09-24	6.285619308889082e-07	6.28561930649138e-07
+18:00IST	5.242551034226551e-07	5.242551032206973e-07
+http://dbpedia.org/resource/Derry_City_F.C.	4.593239795974133e-06	4.5932397942071695e-06
+http://dbpedia.org/resource/Cork_City_F.C.	4.397687984161114e-06	4.397687982482901e-06
+http://dbpedia.org/resource/Category:Cork_City_F.C._matches	5.980668540411877e-07	5.980668538110747e-07
+http://dbpedia.org/resource/Category:Derry_City_F.C._matches	4.351743103732721e-07	4.351743102060387e-07
+http://dbpedia.org/resource/Category:2011_in_Republic_of_Ireland_football_cups	1.6518589697946577e-11	1.6518589795423534e-11
+http://dbpedia.org/resource/Category:League_of_Ireland_Cup_finals	6.52211792208276e-07	6.52211791957402e-07
+http://dbpedia.org/resource/Category:2011_League_of_Ireland	1.5797235932437858e-07	1.579723592639374e-07
+2011 League of Ireland Cup Final	5.5208594957559766e-08	5.520859493660985e-08

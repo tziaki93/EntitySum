@@ -1,0 +1,37 @@
+http://dbpedia.org/resource/Category:Villages_in_Gadag_district	5.639801459521455e-06	5.639801482326742e-06
+15.54259	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg	Key not found
+http://dbpedia.org/resource/Karnataka	0.0008785409245869959	0.0008785409281148685
+http://dbpedia.org/resource/Gadag-Betageri	3.4730806846766585e-05	3.473080685903507e-05
+http://dbpedia.org/resource/India	4.837861951071499e-06	4.837861951787313e-06
+http://dbpedia.org/ontology/Place	4.837861951071499e-06	4.8378619517873294e-06
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.837861951071499e-06	4.837861951787218e-06
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/VillagesInGadagDistrict	Key not found
+http://www.wikidata.org/entity/Q532	Key not found
+http://dbpedia.org/ontology/Location	4.837861951071499e-06	4.837861951787273e-06
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.839790312114937e-07	1.839790318870613e-07
+http://schema.org/Place	4.837861951071499e-06	4.8378619517872735e-06
+http://dbpedia.org/class/yago/YagoGeoEntity	4.837861951071499e-06	4.8378619517873176e-06
+http://dbpedia.org/class/yago/YagoLegalActorGeo	4.837861951071499e-06	4.837861951787294e-06
+http://www.w3.org/2002/07/owl#Thing	4.837861951071499e-06	4.837861951787281e-06
+http://dbpedia.org/ontology/Settlement	4.837861951071499e-06	4.837861951787308e-06
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://dbpedia.org/class/yago/Location100027167	4.837861951071499e-06	4.837861951787289e-06
+http://www.wikidata.org/entity/Q486972	4.837861951071499e-06	4.837861951787285e-06
+http://dbpedia.org/class/yago/Region108630985	4.837861951071499e-06	4.837861951787302e-06
+http://dbpedia.org/ontology/PopulatedPlace	4.837861951071499e-06	4.8378619517873176e-06
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.837861951071499e-06	4.837861951787287e-06
+http://dbpedia.org/class/yago/GeographicalArea108574314	1.839790312114937e-07	1.8397903188701927e-07
+http://dbpedia.org/class/yago/Object100002684	4.837861951071499e-06	4.8378619517872905e-06
++5:30	0.005022483916177588	0.005022483936519462
+http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg?width=300	Key not found
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/resource/Indian_Standard_Time	4.837861951071499e-06	4.837861951787211e-06
+Kotumachagi	1.6575765712423167e-07	1.657576577948351e-07
+75.77102	Key not found
+15.54259 75.77102	1.6575765712423167e-07	1.6575765779481955e-07
+6895	4.278054081101332e-07	4.278054098523415e-07
+ಕೋಟುಮಚಗಿ	Key not found
+Kotumachagi	1.6575765712423167e-07	1.657576577948351e-07

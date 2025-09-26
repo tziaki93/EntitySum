@@ -1,0 +1,29 @@
+http://dbpedia.org/ontology/Person	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://schema.org/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/resource/Category:Anomalistic_psychology	6.517007575532667e-06	4.402661328203601e-07
+http://dbpedia.org/resource/Category:Clark_University_alumni	6.956539987542985e-06	4.69959398187024e-07
+http://dbpedia.org/resource/Category:People_from_New_Britain,_Connecticut	5.736716164577676e-06	3.8755238683561904e-07
+http://dbpedia.org/resource/Category:American_psychologists	2.1300715513315754e-05	1.4390014951393934e-06
+http://dbpedia.org/resource/Category:Indiana_University_faculty	7.356787680302433e-06	4.969987259170451e-07
+http://dbpedia.org/resource/Category:Syracuse_University_faculty	1.1319950402424257e-05	7.647360739799164e-07
+http://dbpedia.org/resource/Category:University_of_Chicago_alumni	0.00011527257229221022	7.787409947912695e-06
+http://dbpedia.org/resource/Category:1942_deaths	0.007116437654778255	0.00048076152273968554
+http://dbpedia.org/resource/Category:1884_births	0.0003900777919760212	2.6352284998865858e-05
+Conklin, Edmund Smith	Key not found
+Edmund Smith Conklin	8.319744745310725e-07	5.620527216809753e-08
+1942-10-06	5.48511048525404e-05	3.7055479120439293e-06
+1884	0.00018156345563868199	1.2265789098315931e-05
+Edmund Smith	-3.9033605232087045e-19	-1.675597051272485e-18
+1884-04-19	3.3904493937244994e-07	2.2904684783891473e-08
+Conklin	1.4422134260385128e-18	4.849541521839772e-18
+1942	0.036321904693109246	0.0024537802558190257
+American psychologist	Key not found
+American psychologist	Key not found
+Edmund Smith Conklin	8.319744745310725e-07	5.620527216809753e-08

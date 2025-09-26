@@ -1,0 +1,55 @@
+http://dbpedia.org/resource/Youngstown,_Ohio	2.01911514647048e-06	2.0191151464824454e-06
+http://dbpedia.org/resource/Ohio	2.792949262040889e-05	2.792949262044074e-05
+2013	2.8800096339248437e-05	2.8800096346091036e-05
+http://dbpedia.org/resource/Fort_Thomas,_Kentucky	1.2886351928925252e-07	1.288635192950596e-07
+Hughes	6.58599439250859e-09	6.585994393011899e-09
+William Anthony	-1.5925287447335263e-21	3.051769351626981e-19
+1921-09-23	1.3283622806558305e-07	1.328362280641607e-07
+William Anthony Hughes	1.2992185372156276e-07	1.2992185372004785e-07
+1921	1.7671391350794455e-06	1.7671391349618498e-06
+http://dbpedia.org/class/yago/Scholar110557854	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/Alumnus109786338	Key not found
+http://dbpedia.org/class/yago/Clergyman109927451	0.003200692716511233	0.0032006927164755024
+http://dbpedia.org/class/yago/Priest110470779	0.002985925646358682	0.0029859256463254697
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://dbpedia.org/class/yago/Intellectual109621545	Key not found
+http://dbpedia.org/class/yago/Bishop109857200	0.0023099835813686427	0.0023099835813431124
+http://dbpedia.org/class/yago/St.CharlesCollegeAlumni	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/SpiritualLeader109505153	0.003217033866030809	0.0032170338659949964
+http://dbpedia.org/class/yago/PhysicalEntity100001930	7.153569496856108e-09	7.153569496856992e-09
+http://www.wikidata.org/entity/Q215627	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.0016918909097929e-07	1.0016918908959733e-07
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/class/yago/Object100002684	7.153569496856108e-09	7.153569496850519e-09
+http://dbpedia.org/class/yago/YagoLegalActorGeo	7.153569496856108e-09	7.153569496856013e-09
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/PeopleFromYoungstown,Ohio	Key not found
+http://dbpedia.org/class/yago/AmericanRomanCatholicBishops	Key not found
+http://dbpedia.org/class/yago/St.Mary'sSeminary(Ohio)Alumni	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/Leader109623038	1.0713921744564795e-05	1.071392174458724e-05
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/resource/Category:American_Roman_Catholic_bishops	1.500151083180837e-09	1.5001510837117049e-09
+http://dbpedia.org/resource/Category:Saint_Mary_Seminary_and_Graduate_School_of_Theology_alumni	1.304285036047939e-06	1.3042850360318337e-06
+http://dbpedia.org/resource/Category:People_from_Covington,_Kentucky	4.741253305295377e-09	4.7412533052862695e-09
+http://dbpedia.org/resource/Category:2013_deaths	2.8891795407494364e-05	2.8891795407249534e-05
+http://dbpedia.org/resource/Category:Roman_Catholic_Diocese_of_Covington	1.3299934909554409e-09	1.3299934891570441e-09
+http://dbpedia.org/resource/Category:University_of_Notre_Dame_alumni	4.756125641290171e-06	4.756125641224522e-06
+http://dbpedia.org/resource/Category:1921_births	1.8461878910229113e-05	1.8461878909868704e-05
+http://dbpedia.org/resource/Category:American_people_of_Irish_descent	4.520078951323592e-06	4.520078951204372e-06
+http://dbpedia.org/resource/Category:St._Charles_College_alumni	4.630545369282549e-06	4.630545369228641e-06
+http://dbpedia.org/resource/Category:People_from_Youngstown,_Ohio	2.6816146828137065e-07	2.681614682743229e-07
+Prelate of the Roman Catholic Church	Key not found
+Prelateof theRoman Catholic Church	Key not found
+William Anthony Hughes	1.2992185372156276e-07	1.2992185372004785e-07
+Hughes, William Anthony	Key not found
+2013-02-07	7.044445672895734e-09	7.044445660179797e-09

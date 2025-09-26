@@ -1,0 +1,51 @@
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png	Key not found
+Battle of Bregalnica	1.360490795917823e-07	1.3604907959696645e-07
+http://dbpedia.org/resource/Ottoman_Empire	0.00017484251775873354	0.00017484251776552108
+http://dbpedia.org/resource/Bregalnica	5.226198496505882e-07	5.226198496686419e-07
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png?width=300	Key not found
+http://dbpedia.org/resource/Category:Battles_involving_Serbia	5.914888269716799e-06	5.914888269955058e-06
+http://dbpedia.org/resource/Category:1913_in_Bulgaria	1.1882307303164153e-06	1.1882307303617534e-06
+http://dbpedia.org/resource/Category:Battles_involving_Bulgaria	2.7083898709026357e-06	2.708389871012343e-06
+http://dbpedia.org/resource/Category:Battles_of_the_Second_Balkan_War	1.0328070534936687e-06	1.03280705353464e-06
+http://dbpedia.org/resource/Category:Conflicts_in_1913	2.785980935857556e-06	2.7859809359675556e-06
+http://dbpedia.org/resource/Category:Vardar_Macedonia_(1912–1918)	1.9052291852059354e-06	1.9052291852832725e-06
+http://dbpedia.org/resource/Category:1913_in_Serbia	1.105560859777799e-06	1.1055608598194729e-06
+http://dbpedia.org/resource/Second_Balkan_War	3.9181864983695425e-05	3.918186498388337e-05
+1913-07-08	1.335145604344362e-07	1.335145604375441e-07
+http://dbpedia.org/resource/Fourth_Army_(Bulgaria)	2.10270733497263e-06	2.10270733502399e-06
+http://dbpedia.org/resource/Jovan_Babunski	1.7972001976624949e-06	1.7972001977033943e-06
+http://dbpedia.org/resource/Mihail_Savov	1.925927382218643e-06	1.925927382257761e-06
+Battle of Bregalnica	1.360490795917823e-07	1.3604907959696645e-07
+Serbian victory	2.3076861109020327e-06	2.30768611099314e-06
+http://dbpedia.org/resource/Živojin_Mišić	2.757096053081545e-06	2.757096053197947e-06
+http://dbpedia.org/resource/Vicho_Dikov	7.74862145030473e-09	7.748621449894066e-09
+http://dbpedia.org/resource/Janko_Vukotić	1.2550961343516504e-06	1.2550961343832852e-06
+http://dbpedia.org/resource/Alexander_I_of_Yugoslavia	3.0627020351311747e-06	3.062702035255282e-06
+http://dbpedia.org/resource/Mihail_Savov	1.925927382218643e-06	1.925927382257761e-06
+http://dbpedia.org/resource/Stiliyan_Kovachev	2.110014939073618e-06	2.11001493913172e-06
+http://dbpedia.org/resource/Radomir_Putnik	3.0783573572281863e-06	3.0783573573391882e-06
+http://dbpedia.org/resource/Petar_Bojović	2.814601991216214e-06	2.814601991311108e-06
+ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *	Key not found
+ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)	Key not found
+Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns	Key not found
+20,000	2.184293396494853e-05	2.184293396582371e-05
+http://dbpedia.org/class/yago/GroupAction101080366	0.0029458696349425936	0.002945869635062497
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.001712063009106744	0.0017120630091761637
+http://dbpedia.org/ontology/MilitaryConflict	0.002247296037958795	0.0022472960380516957
+http://dbpedia.org/class/yago/Battle100953559	0.0014376666453878727	0.0014376666454465944
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	1.4131726896626187e-07	1.4131726897066565e-07
+http://dbpedia.org/ontology/Event	1.4131726896626187e-07	1.4131726897066115e-07
+http://dbpedia.org/class/yago/Conflict100958896	0.0018612122632784846	0.0018612122633543822
+http://dbpedia.org/class/yago/ConflictsIn1913	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	1.5236351925214583e-07	1.5236351925988575e-07
+http://www.wikidata.org/entity/Q1656682	1.4131726896626187e-07	1.4131726897066772e-07
+http://dbpedia.org/class/yago/BattlesOfTheSecondBalkanWar	Key not found
+http://dbpedia.org/class/yago/Event100029378	1.0777234278439022e-05	1.0777234278444723e-05
+http://dbpedia.org/class/yago/Abstraction100002137	1.5994735575771143e-07	1.5994735576507556e-07
+http://dbpedia.org/class/yago/BattlesInvolvingBulgaria	Key not found
+http://www.w3.org/2002/07/owl#Thing	8.492002809277139e-07	8.49200280944034e-07
+http://dbpedia.org/class/yago/BattlesInvolvingSerbia	Key not found
+http://dbpedia.org/ontology/SocietalEvent	8.24664198454059e-06	8.246641984537034e-06
+http://schema.org/Event	1.4131726896626187e-07	1.4131726897065303e-07
+http://dbpedia.org/class/yago/Act100030358	1.0766188028153138e-05	1.0766188028155513e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	7.924369610857094e-07	7.924369610956853e-07

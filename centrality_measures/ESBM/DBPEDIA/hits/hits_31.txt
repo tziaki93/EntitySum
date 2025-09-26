@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Animal	4.8724905535633683e-05	4.872490553562977e-05
+http://dbpedia.org/resource/Tockus	6.8138330225439845e-06	6.8138330226512485e-06
+http://dbpedia.org/resource/Hornbill	9.8549326794739e-05	9.854932679574318e-05
+African grey hornbill	3.5861669910323945e-07	3.5861669910957807e-07
+African grey hornbill	3.5861669910323945e-07	3.5861669910957807e-07
+IUCN3.1	6.445034346984198e-06	6.44503434713116e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg	3.6413542137933226e-07	3.6413542138807195e-07
+http://dbpedia.org/resource/Lake_Naivasha	4.4581607420187545e-05	4.4581607420283104e-05
+http://dbpedia.org/resource/Chordate	8.978185612888175e-05	8.978185612971276e-05
+http://dbpedia.org/resource/Bird	0.005303535812619461	0.005303535812708619
+http://dbpedia.org/ontology/Eukaryote	1.0247134360706667e-05	1.0247134360708217e-05
+http://www.wikidata.org/entity/Q729	9.960950702032748e-06	9.960950702035523e-06
+http://www.wikidata.org/entity/Q19088	9.960950702032748e-06	9.960950702035533e-06
+http://www.w3.org/2002/07/owl#Thing	4.975364543376696e-05	4.9753645433772234e-05
+http://dbpedia.org/ontology/Animal	4.320548000026376e-05	4.320548000026664e-05
+http://dbpedia.org/ontology/Bird	0.004535605517863628	0.0045356055179404265
+http://dbpedia.org/ontology/Species	9.960950702032748e-06	9.960950702035496e-06
+http://dbpedia.org/resource/Category:Birds_of_Gabon	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Kenya	Key not found
+http://dbpedia.org/resource/Category:Animals_described_in_1766	2.9145052184058635e-07	2.914505218441747e-07
+http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea	Key not found
+http://dbpedia.org/resource/Category:Birds_of_South_Africa	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Africa	6.21173122736393e-05	6.211731227468884e-05
+http://dbpedia.org/resource/Category:Birds_of_Asia	2.208754203394319e-05	2.208754203431327e-05
+http://dbpedia.org/resource/Category:Hornbills	3.166196750571552e-06	3.166196750635192e-06
+http://dbpedia.org/resource/Category:Birds_of_Namibia	Key not found
+http://dbpedia.org/resource/Category:Tockus	2.747860062922987e-06	2.7478600629721255e-06
+http://dbpedia.org/resource/Category:Birds_of_the_Republic_of_the_Congo	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Cameroon	Key not found
+LC	5.041547005012469e-06	5.041547005154749e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg?width=300	2.655084409914981e-09	2.6550844114377494e-09
+http://dbpedia.org/resource/Bucerotiformes	3.981738678268636e-05	3.981738678327395e-05
+http://dbpedia.org/resource/Carl_Linnaeus	0.0013858898466226179	0.0013858898466452036

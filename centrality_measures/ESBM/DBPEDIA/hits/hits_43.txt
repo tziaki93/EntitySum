@@ -1,0 +1,44 @@
+King of the Mountain (film)	1.4440072654704278e-06	1.4440065975091307e-06
+http://dbpedia.org/resource/Leigh_Chapman	1.5911462868716298e-06	1.5911455508844082e-06
+http://dbpedia.org/resource/H.R._Christian	5.546523693904221e-09	5.546521129025609e-09
+King of the Mountain	1.4464037907277512e-06	1.4464031216586414e-06
+2100000.0	8.765361831932178e-06	8.765357776788952e-06
+http://dbpedia.org/resource/William_Steinkamp	1.694733936885236e-06	1.6947331529988655e-06
+5400.0	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	Key not found
+http://schema.org/Movie	Key not found
+http://dbpedia.org/class/yago/Movie106613686	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	7.240559508612732e-07	7.240559546437434e-07
+http://dbpedia.org/class/yago/SocialEvent107288639	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://www.w3.org/2002/07/owl#Thing	4.911741068893018e-07	4.911741094768862e-07
+http://dbpedia.org/ontology/Film	3.916205229283246e-08	3.9162052494095256e-08
+http://dbpedia.org/class/yago/1981Films	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	4.732108714760105e-07	4.732108739692385e-07
+http://dbpedia.org/class/yago/Show106619065	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.732108714760105e-07	4.732108739690765e-07
+http://dbpedia.org/class/yago/Product104007894	Key not found
+http://dbpedia.org/class/yago/Whole100003553	4.732108714760105e-07	4.73210873969143e-07
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Creation103129123	Key not found
+http://dbpedia.org/class/yago/Event100029378	Key not found
+http://dbpedia.org/class/yago/Abstraction100002137	7.240559508612732e-07	7.240559546437372e-07
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/class/yago/AmericanFilms	Key not found
+http://dbpedia.org/resource/Category:Auto_racing_films	2.713733097646639e-08	2.713731853067827e-08
+http://dbpedia.org/resource/Category:American_films	8.916950808393633e-08	8.916946704691566e-08
+http://dbpedia.org/resource/Category:1981_films	5.653551039571588e-05	5.653548424061783e-05
+http://dbpedia.org/resource/Category:Universal_Pictures_films	0.00014009212078736977	0.00014009205604259765
+http://dbpedia.org/resource/Category:PolyGram_Filmed_Entertainment_films	9.161645482481146e-06	9.161641997117803e-06
+1981-05-01	2.873501845012748e-06	2.873500515662866e-06
+http://dbpedia.org/resource/Deborah_Van_Valkenburgh	1.7900431944020152e-06	1.7900423664405058e-06
+http://dbpedia.org/resource/Richard_Cox_(actor)	4.592394939598072e-06	4.592392815084117e-06
+http://dbpedia.org/resource/Dennis_Hopper	1.4718413948543033e-05	1.4718407139332624e-05
+http://dbpedia.org/resource/Seymour_Cassel	9.55904620475775e-06	9.559041782491164e-06
+http://dbpedia.org/resource/Joseph_Bottoms	6.092515581827816e-06	6.092512763389025e-06
+http://dbpedia.org/resource/Harry_Hamlin	3.4688936964309695e-06	3.4688920918520386e-06
+http://dbpedia.org/resource/Jack_Frost_Sanders	-2.7702833476522533e-21	-2.7973150790399716e-21
+http://dbpedia.org/resource/Universal_Studios	6.413538046812692e-05	6.413535080388961e-05
+http://dbpedia.org/resource/Noel_Nosseck	5.550060545453841e-09	5.5500579790449206e-09

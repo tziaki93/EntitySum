@@ -1,0 +1,35 @@
+http://www.wikidata.org/entity/Q1656682	1.6682029715150897e-07	1.6682029715620937e-07
+http://dbpedia.org/ontology/Event	1.6682029715150897e-07	1.6682029715620495e-07
+http://dbpedia.org/class/yago/Event100029378	1.0964404945365487e-05	1.0964404945357284e-05
+http://dbpedia.org/ontology/MilitaryConflict	0.0022825827037401174	0.0022825827038273124
+http://dbpedia.org/class/yago/ConflictsIn1746	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.683313385803507e-07	1.6833133858511195e-07
+http://dbpedia.org/class/yago/Abstraction100002137	1.6682029715150897e-07	1.6682029715620677e-07
+http://dbpedia.org/class/yago/Battle100953559	0.0014612321310637322	0.0014612321311201055
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	1.6682029715150897e-07	1.6682029715619796e-07
+http://dbpedia.org/class/yago/BattlesInvolvingAustria	Key not found
+http://dbpedia.org/class/yago/Act100030358	1.0964404945365487e-05	1.096440494535731e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	1.6682029715150897e-07	1.6682029715619102e-07
+http://dbpedia.org/ontology/SocietalEvent	8.400358337473383e-06	8.40035833748036e-06
+http://dbpedia.org/class/yago/Conflict100958896	0.0018912294300425464	0.0018912294301152545
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.0017396819656449987	0.001739681965711749
+http://schema.org/Event	1.6682029715150897e-07	1.6682029715621442e-07
+http://dbpedia.org/class/yago/GroupAction101080366	0.002993413018730632	0.0029934130188534404
+http://dbpedia.org/class/yago/BattlesInvolvingFrance	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.7106258362037418e-07	1.710625836250922e-07
+http://dbpedia.org/resource/War_of_the_Austrian_Succession	4.624756976362586e-05	4.624756976412549e-05
+French victory	6.0998006588349076e-05	6.099800659071839e-05
+Battle of Rottofreddo	1.3745042618212332e-07	1.3745042618744105e-07
+http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois	4.4650446908857613e-07	4.465044691040548e-07
+http://dbpedia.org/resource/Antoniotto_Botta_Adorno	7.571827150751078e-07	7.571827151026352e-07
+1746-08-12	-6.078486594170166e-25	-1.6135046287865976e-22
+http://dbpedia.org/resource/Category:1746_in_Austria	4.1699566552081593e-07	4.1699566553683904e-07
+http://dbpedia.org/resource/Category:Battles_involving_France	0.0001009156220392992	0.00010091562204322055
+http://dbpedia.org/resource/Category:1746_in_Italy	2.793861780778145e-07	2.793861780885884e-07
+http://dbpedia.org/resource/Category:1746_in_France	5.874886794261366e-07	5.874886794488134e-07
+http://dbpedia.org/resource/Category:Conflicts_in_1746	3.142421837489817e-06	3.142421837611567e-06
+http://dbpedia.org/resource/Category:Battles_involving_Austria	4.245648571187583e-05	4.2456485713522565e-05
+Battle of Rottofreddo	1.3745042618212332e-07	1.3745042618744105e-07
+http://dbpedia.org/resource/Province_of_Piacenza	2.466909341222913e-07	2.4669093413473154e-07
+http://dbpedia.org/resource/Italy	1.7106258362037418e-07	1.7106258362505327e-07
+http://dbpedia.org/resource/Rottofreno	1.7221488901029638e-07	1.7221488901803993e-07

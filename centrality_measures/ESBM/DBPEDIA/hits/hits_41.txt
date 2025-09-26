@@ -1,0 +1,23 @@
+http://dbpedia.org/ontology/Album	7.971706553810418e-09	7.971285915036318e-09
+http://schema.org/CreativeWork	Key not found
+http://schema.org/MusicAlbum	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://www.w3.org/2002/07/owl#Thing	3.6618365322185935e-07	3.6618306412404317e-07
+http://www.wikidata.org/entity/Q2188189	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://dbpedia.org/resource/MCMXCV_(album)	3.7422356425586246e-10	3.742240047654781e-10
+Foppt den Dämon!	7.888374680772729e-09	7.887958440706326e-09
+http://dbpedia.org/resource/Album	7.971706553810418e-09	7.971285914923161e-09
+http://dbpedia.org/resource/Bannkreis	3.394208897600965e-07	3.394212877396e-07
+Foppt den Dämon!	7.888374680772729e-09	7.887958440706326e-09
+http://dbpedia.org/resource/Medieval_metal	5.960359681183615e-07	5.960258294310925e-07
+http://dbpedia.org/resource/Medieval_folk_rock	5.555815875034906e-07	5.555743215944833e-07
+2528.0	Key not found
+http://dbpedia.org/resource/Bannkreis	3.394208897600965e-07	3.394212877396e-07
+http://dbpedia.org/resource/MCMXCV_(album)	3.7422356425586246e-10	3.742240047654781e-10
+http://dbpedia.org/resource/Subway_to_Sally	1.4325293350549456e-05	1.4324537456791295e-05
+http://dbpedia.org/resource/Category:Subway_to_Sally_albums	Key not found
+http://dbpedia.org/resource/Category:1996_albums	0.02292044865812146	0.022919237672706094
+http://dbpedia.org/resource/Red_Rooster_Records	1.3251737028905403e-07	1.3251042746077965e-07

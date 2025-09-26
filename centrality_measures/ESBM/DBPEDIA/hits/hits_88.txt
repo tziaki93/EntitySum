@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Plant	0.0018299647454953494	0.0018299647460819878
+EN	8.963014365008075e-06	8.963014367877368e-06
+http://dbpedia.org/resource/Flowering_plant	0.0006784325983939506	0.0006784325986090813
+http://dbpedia.org/resource/Malvales	6.47683533078539e-06	6.476835331757126e-06
+http://dbpedia.org/resource/Rosids	5.989686972519082e-05	5.989686974333885e-05
+http://dbpedia.org/resource/Dipterocarpaceae	3.923744468522491e-05	3.9237444697794096e-05
+http://dbpedia.org/resource/Eudicots	0.0001494813206429592	0.00014948132068984187
+http://dbpedia.org/resource/André_Joseph_Guillaume_Henri_Kostermans	9.275115450658003e-06	9.275115453583561e-06
+http://dbpedia.org/resource/Category:Stemonoporus	2.503340168236626e-06	2.5033401690347963e-06
+http://dbpedia.org/resource/Category:Endangered_plants	0.0001501514952570214	0.0001501514953052004
+http://dbpedia.org/resource/Category:Flora_of_Sri_Lanka	1.7344732441339196e-05	1.7344732446903258e-05
+http://dbpedia.org/resource/Stemonoporus	2.162627574325727e-05	2.1626275744015545e-05
+IUCN2.3	2.1032280952339828e-05	2.1032280959073736e-05
+Stemonoporus laevifolius	1.0178746885534988e-07	1.0178746888794287e-07
+http://www.w3.org/2002/07/owl#Thing	9.526777679313282e-06	9.52677767930367e-06
+http://dbpedia.org/ontology/Plant	0.0032504966951788236	0.0032504966962253524
+http://dbpedia.org/ontology/Eukaryote	1.2104479693315326e-05	1.2104479693280072e-05
+http://dbpedia.org/class/yago/Organism100004475	7.648317519423096e-06	7.648317519399533e-06
+http://www.wikidata.org/entity/Q756	0.0003106978895702705	0.00031069788966346624
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.447078877775915e-08	3.447078877784198e-08
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/Object100002684	3.447078877775915e-08	3.447078877783719e-08
+http://dbpedia.org/class/yago/Plant100017222	0.0020486710619016086	0.0020486710625603507
+http://dbpedia.org/class/yago/Whole100003553	3.447078877775915e-08	3.447078877783974e-08
+http://dbpedia.org/class/yago/LivingThing100004258	3.447078877775915e-08	3.447078877783659e-08
+http://dbpedia.org/class/yago/EndangeredPlants	Key not found

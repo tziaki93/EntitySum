@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Cooper_Car_Company	2.062569637524437e-05	2.0625696369686422e-05
+VIIIGlover Trophy	5.3444623235300606e-08	5.34446232208763e-08
+http://dbpedia.org/resource/Chris_Bristow	1.8371719098186512e-06	1.8371719093538336e-06
+http://dbpedia.org/resource/Category:1960_Formula_One_races	8.013704055576401e-07	8.01370405341658e-07
+http://dbpedia.org/resource/Category:20th_century_in_West_Sussex	6.391837816843735e-07	6.391837815105334e-07
+http://dbpedia.org/resource/Category:Glover_Trophy	6.665915072741377e-07	6.665915070938219e-07
+http://dbpedia.org/ontology/GrandPrix	0.00010923577969455654	0.00010923577966749949
+http://dbpedia.org/ontology/Event	Key not found
+http://schema.org/Event	Key not found
+http://schema.org/SportsEvent	0.0027265817777987187	0.0027265817770633863
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/SocietalEvent	8.98642554032325e-06	8.986425540338312e-06
+http://www.w3.org/2002/07/owl#Thing	2.769920427380149e-07	2.76992042737521e-07
+http://dbpedia.org/ontology/SportsEvent	0.0029926495903298757	0.002992649589521319
+3862.4256	Key not found
+3862.0	Key not found
+http://dbpedia.org/resource/Chris_Bristow	1.8371719098186512e-06	1.8371719093538336e-06
+162200.0	Key not found
+162221.8752	Key not found
+1960 Glover Trophy	5.3444623235300606e-08	5.344462322087146e-08
+http://dbpedia.org/resource/West_Sussex	3.005130334649962e-06	3.005130333885044e-06
+http://dbpedia.org/resource/Goodwood_Circuit	2.064646474983787e-06	2.064646474470328e-06
+http://dbpedia.org/resource/Cooper_Car_Company	2.062569637524437e-05	2.0625696369686422e-05
+http://dbpedia.org/resource/Stirling_Moss	1.987953774679717e-05	1.9879537741478035e-05
+http://dbpedia.org/resource/Innes_Ireland	9.763465303497438e-06	9.763465300911805e-06
+http://dbpedia.org/resource/Team_Lotus	3.713258500445728e-05	3.7132584994463545e-05
+http://dbpedia.org/resource/Stirling_Moss	1.987953774679717e-05	1.9879537741478035e-05
+http://dbpedia.org/resource/Cooper_Car_Company	2.062569637524437e-05	2.0625696369686422e-05
+42	Key not found
+http://dbpedia.org/resource/Cooper_Car_Company	2.062569637524437e-05	2.0625696369686422e-05

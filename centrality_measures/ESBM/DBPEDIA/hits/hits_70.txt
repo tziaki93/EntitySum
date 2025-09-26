@@ -1,0 +1,54 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG	Key not found
+http://dbpedia.org/resource/Vietnam_War	9.563374047502958e-05	9.563374047288395e-05
+http://dbpedia.org/resource/173rd_Airborne_Brigade_Combat_Team	1.9671996262138827e-06	1.967199626148008e-06
+http://dbpedia.org/resource/Lawrence_Joel	9.87756231869551e-07	9.877562318436842e-07
+http://dbpedia.org/resource/1st_Brigade_Combat_Team,_1st_Cavalry_Division_(United_States)	2.8412654679982097e-06	2.8412654679076026e-06
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_New_Zealand	1.418121875587135e-06	1.4181218755390944e-06
+http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War	2.8820792116875887e-06	2.882079211586927e-06
+http://dbpedia.org/resource/Category:1965_in_Vietnam	2.818406601616324e-06	2.8184066015231382e-06
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_the_United_States	3.531214097306192e-06	3.5312140971871345e-06
+http://dbpedia.org/resource/Category:Dong_Nai_Province	Key not found
+http://dbpedia.org/resource/Category:Battles_involving_Vietnam	2.08685380206377e-05	2.0868538019940127e-05
+http://dbpedia.org/resource/Category:Conflicts_in_1965	4.169830754142505e-06	4.169830754000922e-06
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_Australia	2.094276817552739e-06	2.0942768174820313e-06
+1965-11-08	2.48222865417484e-07	2.4822286540958304e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300	Key not found
+United States/Australian victory, Viet Cong retreats.	Key not found
+48 US killed	Key not found
+many more wounded	Key not found
+2 Australian MIA (located and repatriated to Australia 5 June 2007)	Key not found
+Operation Hump	1.271916402514267e-07	1.2719164024700837e-07
+http://dbpedia.org/resource/Biên_Hòa	2.2428689216977103e-06	2.2428689216356774e-06
+http://dbpedia.org/resource/South_Vietnam	3.2380394769169345e-05	3.238039476809985e-05
+Operation Hump	1.271916402514267e-07	1.2719164024700837e-07
+Total Force around 400	Key not found
+around 1200	7.211480999181467e-22	5.4118011221573715e-20
+http://dbpedia.org/class/yago/Contest107456188	0.0005024954152254892	0.0005024954152033263
+http://dbpedia.org/class/yago/Conflict100958896	0.0016410041715120675	0.0016410041714565423
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingNewZealand	Key not found
+http://www.wikidata.org/entity/Q1656682	3.447197559688296e-07	3.447197559595738e-07
+http://dbpedia.org/class/yago/CampaignsOfTheVietnamWar	Key not found
+http://dbpedia.org/class/yago/Battle100953559	0.0012670584648077849	0.0012670584647649285
+http://dbpedia.org/class/yago/GroupAction101080366	0.002597881692164403	0.0025978816920797097
+http://dbpedia.org/class/yago/Event100029378	9.70899996190232e-06	9.708999961889509e-06
+http://www.w3.org/2002/07/owl#Thing	4.833242105301995e-07	4.833242105227879e-07
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia	Key not found
+http://dbpedia.org/class/yago/ConflictsIn1965	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	3.447197559688296e-07	3.4471975595957566e-07
+http://dbpedia.org/class/yago/SocialEvent107288639	1.8112864356012642e-06	1.811286435617654e-06
+http://dbpedia.org/class/yago/Race107472657	8.567890399195264e-05	8.567890398836073e-05
+http://dbpedia.org/ontology/Event	3.447197559688296e-07	3.447197559595739e-07
+http://dbpedia.org/class/yago/Abstraction100002137	3.620522675448824e-07	3.6205226753554913e-07
+http://dbpedia.org/class/yago/PoliticalCampaign107472929	4.1485518331863006e-05	4.148551833036961e-05
+http://dbpedia.org/class/yago/Act100030358	9.70899996190232e-06	9.708999961889516e-06
+http://dbpedia.org/ontology/MilitaryConflict	0.0019813076459114266	0.0019813076458444333
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.0015093684536938226	0.0015093684536430587
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	3.447197559688296e-07	3.447197559595719e-07
+http://schema.org/Event	3.447197559688296e-07	3.447197559595777e-07
+http://dbpedia.org/ontology/SocietalEvent	7.486507631225329e-06	7.486507631212191e-06
+http://dbpedia.org/class/yago/BattlesInvolvingVietnam	Key not found
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingTheUnitedStates	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.868546955473112e-07	4.868546955398878e-07
+22pxViet Cong	8.25524312587701e-08	8.255243125614517e-08
+22pxUnited States	9.863128188932783e-07	9.863128188602686e-07
+22pxAustralia	Key not found

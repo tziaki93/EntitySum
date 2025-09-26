@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/November_to_Remember	7.372026533387098e-07	7.372026532579454e-07
+http://www.w3.org/2002/07/owl#Thing	5.6674461992274434e-08	5.667446198523271e-08
+http://dbpedia.org/ontology/WrestlingEvent	0.00014630918349566897	0.00014630918346170526
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/ontology/SocietalEvent	8.984413775423571e-06	8.984413775436656e-06
+http://dbpedia.org/ontology/SportsEvent	0.002992621131314506	0.0029926211305739995
+http://schema.org/SportsEvent	0.0027263561107161182	0.0027263561100410918
+http://dbpedia.org/ontology/Event	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://schema.org/Event	Key not found
+http://dbpedia.org/resource/Guilty_as_Charged	4.397875935819062e-07	4.3978759357277554e-07
+2000-12-03	4.426978856136234e-07	4.426978855039946e-07
+http://dbpedia.org/resource/Extreme_Championship_Wrestling	7.522719563319813e-06	7.52271956146721e-06
+http://dbpedia.org/resource/Category:Extreme_Championship_Wrestling_shows	1.5925080320454017e-07	1.592508031652648e-07
+http://dbpedia.org/resource/Category:Professional_wrestling_in_New_York	Key not found
+http://dbpedia.org/resource/Category:Sports_in_Manhattan	1.7830937929765975e-06	1.783093792524957e-06
+http://dbpedia.org/resource/Category:2000_in_professional_wrestling	8.640922695123625e-07	8.640922692994339e-07
+http://dbpedia.org/resource/Category:2000_in_New_York	Key not found
+http://dbpedia.org/resource/Hammerstein_Ballroom	1.5924795210960306e-06	1.5924795206828666e-06
+http://dbpedia.org/resource/New_York_City	5.6674461992274434e-08	5.667446198522739e-08
+http://dbpedia.org/resource/November_to_Remember	7.372026533387098e-07	7.372026532579454e-07
+Massacre on 34th Street	5.444460558558998e-08	5.4444605571936384e-08
+Massacre on 34th Street	5.444460558558998e-08	5.4444605571936384e-08
+http://dbpedia.org/resource/Holiday_Hell	9.76251478565576e-06	9.762514785608361e-06
+http://dbpedia.org/resource/Guilty_as_Charged	4.397875935819062e-07	4.3978759357277554e-07

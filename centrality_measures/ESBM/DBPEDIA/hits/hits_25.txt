@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Art_Nouveau	6.68487969717741e-06	6.684879698226615e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg	7.806753477701426e-08	7.806753478968525e-08
+Reamer Barn	7.684859472528722e-08	7.684859473785831e-08
+41.293888	Key not found
+http://dbpedia.org/resource/Ohio	7.895819125004332e-05	7.89581912625747e-05
+http://dbpedia.org/resource/Ohio_State_Route_511	4.453782727489634e-07	4.453782727777059e-07
+http://dbpedia.org/resource/Oberlin,_Ohio	1.004773995234029e-06	1.0047739953523366e-06
+http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Lorain_County,_Ohio	9.745107604102509e-07	9.745107605701466e-07
+http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1897	1.253559657928954e-06	1.2535596581339019e-06
+http://dbpedia.org/resource/Category:Art_Nouveau_commercial_buildings	2.29910627843649e-07	2.2991062788106832e-07
+http://dbpedia.org/resource/Category:Barns_on_the_National_Register_of_Historic_Places_in_Ohio	3.0209081104585376e-07	3.020908110953191e-07
+http://dbpedia.org/resource/Category:Buildings_and_structures_in_Lorain_County,_Ohio	3.807287284665572e-07	3.807287285288968e-07
+http://dbpedia.org/resource/Category:Art_Nouveau_architecture_in_the_United_States	1.4930559780476348e-07	1.4930559782909527e-07
+-82.245	Key not found
+4046.8564224	Key not found
+1897	8.223904714059054e-06	8.223904715460376e-06
+79001889	7.587399561974529e-08	7.587399563216567e-08
+http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg?width=300	7.709627982328631e-08	7.709627983580697e-08
+41.29388888888889 -82.245	7.587399561974529e-08	7.587399563219779e-08
+1979-03-21	6.714505336430428e-07	6.714505337531284e-07
+http://dbpedia.org/ontology/HistoricPlace	0.0028558519638852585	0.0028558519643501
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	2.753224518955991e-07	2.7532245189678777e-07
+http://dbpedia.org/ontology/Location	2.753224518955991e-07	2.7532245189676056e-07
+http://schema.org/Place	2.753224518955991e-07	2.7532245189678253e-07
+http://www.w3.org/2002/07/owl#Thing	2.998728184420728e-07	2.9987281844322826e-07
+http://dbpedia.org/ontology/Place	1.0108376573131876e-05	1.0108376573125473e-05
+http://schema.org/LandmarksOrHistoricalBuildings	0.0033273537714402558	0.0033273537719830356
+Reamer Barn	7.684859472528722e-08	7.684859473785831e-08

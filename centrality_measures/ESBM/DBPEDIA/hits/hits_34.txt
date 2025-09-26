@@ -1,0 +1,22 @@
+http://dbpedia.org/resource/Enallagma	1.1427495027078816e-07	1.1427438225491935e-07
+Enallagma truncatum	2.734670796864007e-10	2.734647811007984e-10
+http://dbpedia.org/resource/Coenagrionidae	6.951077601231151e-06	6.951019914928322e-06
+http://dbpedia.org/ontology/Animal	Key not found
+http://dbpedia.org/ontology/Eukaryote	1.5644473693454304e-07	1.5644474126567147e-07
+http://dbpedia.org/ontology/Insect	1.4539171743005533e-05	1.453917221801245e-05
+http://www.wikidata.org/entity/Q729	Key not found
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q1390	0.0037808017172306263	0.003780769503894938
+http://dbpedia.org/ontology/Species	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.5644473693454304e-07	1.5644474126562962e-07
+http://dbpedia.org/resource/Animal	Key not found
+IUCN3.1	3.67486813586328e-05	3.674836825467392e-05
+http://dbpedia.org/resource/Category:Insects_described_in_1888	7.66797931338305e-07	7.667913980741808e-07
+http://dbpedia.org/resource/Category:Insects_of_Cuba	1.662598978406711e-07	1.662584813074745e-07
+http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba	5.2767656408458944e-06	5.276720681592609e-06
+http://dbpedia.org/resource/Category:Coenagrionidae	5.691973226281927e-06	5.691924960020774e-06
+Enallagma truncatum	2.734670796864007e-10	2.734647811007984e-10
+VU	7.898685512005586e-06	7.898618213611125e-06
+http://dbpedia.org/resource/Arthropod	Key not found
+http://dbpedia.org/resource/Insect	1.451234422688935e-05	1.4512344708386815e-05
+http://dbpedia.org/resource/Odonata	4.120163471350022e-05	4.1201283894531385e-05

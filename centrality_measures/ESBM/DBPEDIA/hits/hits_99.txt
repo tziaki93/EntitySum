@@ -1,0 +1,31 @@
+6129.0	Key not found
+http://dbpedia.org/resource/Pop_rock	0.000538240783429843	0.0005382407833773096
+http://dbpedia.org/resource/Rock_music	0.0046941607013433985	0.004694160700855779
+Dave Clark's \	Key not found
+Time (Dave Clark album)	1.4130800540050203e-07	1.4130800538548668e-07
+http://dbpedia.org/resource/Category:1986_albums	1.483678949884869e-05	1.4836789497199912e-05
+http://dbpedia.org/resource/Category:Concept_albums	2.8222965049391197e-05	2.8222965046431885e-05
+http://dbpedia.org/resource/Capitol_Records	0.00023702273069726266	0.00023702273067273134
+http://dbpedia.org/resource/EMI	0.0002107335149389636	0.0002107335149172989
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg?width=300	Key not found
+http://www.time-themusical.com/	2.6763716038673804e-07	2.676371603589905e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Medium106254669	Key not found
+http://dbpedia.org/class/yago/ConceptAlbums	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.w3.org/2002/07/owl#Thing	2.8153886806979466e-05	2.8153886806984393e-05
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://schema.org/MusicAlbum	Key not found
+http://dbpedia.org/class/yago/ConceptAlbum106592078	2.8267082227082947e-05	2.8267082224301016e-05
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/class/yago/1986Albums	Key not found
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://dbpedia.org/class/yago/Album106591815	1.401067137851002e-07	1.401067137847069e-07
+http://dbpedia.org/ontology/Album	1.0445075308856444e-06	1.0445075308854814e-06
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://www.wikidata.org/entity/Q2188189	Key not found

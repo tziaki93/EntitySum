@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Category:2009_albums	5.468761026204536e-06	5.468761026793445e-06
+http://dbpedia.org/resource/Indie_folk	6.106270820799133e-06	6.1062708209674166e-06
+http://dbpedia.org/resource/Greg_Connors	1.2794431645774718e-06	1.2794431645895481e-06
+http://dbpedia.org/resource/Stan_Satin	2.799496116887201e-08	2.7994961169642367e-08
+Wide Awake Drunk	Key not found
+http://dbpedia.org/resource/Scared_Records	4.088953464555357e-06	4.088953464573413e-06
+http://dbpedia.org/resource/Invisible_Tape	6.252483419091245e-07	6.252483419115407e-07
+Wide Awake Drunk	Key not found
+http://schema.org/CreativeWork	Key not found
+http://www.wikidata.org/entity/Q2188189	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://dbpedia.org/class/yago/Whole100003553	1.292410683769706e-08	1.2924106840229459e-08
+http://dbpedia.org/class/yago/Album106591815	4.242564396059103e-09	4.242564397316687e-09
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.604322154658778e-05	4.604322154658764e-05
+http://dbpedia.org/class/yago/2009Albums	Key not found
+http://dbpedia.org/ontology/Album	4.242564396059103e-09	4.242564397347978e-09
+http://dbpedia.org/class/yago/Instrumentality103575240	4.242564396059103e-09	4.242564397341878e-09
+http://www.w3.org/2002/07/owl#Thing	4.609947618468115e-05	4.609947618467844e-05
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/class/yago/Medium106254669	4.242564396059103e-09	4.242564397293755e-09
+http://dbpedia.org/class/yago/Artifact100021939	4.242564396059103e-09	4.242564397342788e-09
+http://dbpedia.org/class/yago/Object100002684	4.604322154658778e-05	4.604322154658764e-05
+http://schema.org/MusicAlbum	Key not found
+3259.0	Key not found
+http://dbpedia.org/resource/Album	4.242564396059103e-09	4.2425643973634565e-09
+http://dbpedia.org/resource/Fluke_EP	Key not found
+http://dbpedia.org/resource/Invisible_Tape	6.252483419091245e-07	6.252483419115407e-07
+http://dbpedia.org/resource/Atlanta	0.00678371957730525	0.006783719577393503
+http://dbpedia.org/resource/New_York	3.2991775786620463e-06	3.299177578859488e-06

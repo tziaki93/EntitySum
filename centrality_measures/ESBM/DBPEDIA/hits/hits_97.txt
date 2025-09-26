@@ -1,0 +1,33 @@
+Rebel Love Song	6.859812657384618e-08	6.85981241778539e-08
+237.0	4.590654241357964e-09	4.590654141291747e-09
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	1.628562688581896e-05	1.6285626875905217e-05
+http://dbpedia.org/resource/Unholy_(song)	1.585036386762646e-05	1.5850363869677105e-05
+http://dbpedia.org/resource/Category:Black_Veil_Brides_songs	3.414004434893468e-07	3.414004319450611e-07
+http://dbpedia.org/resource/Category:Glam_metal_songs	2.199411060200589e-06	2.199410982807368e-06
+http://dbpedia.org/resource/Category:2011_singles	9.599937832474699e-05	9.59993749444907e-05
+http://dbpedia.org/resource/Category:Hard_rock_songs	8.225389616075096e-09	8.225389326141441e-09
+http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack	2.690259384636383e-07	2.6902592914818145e-07
+http://dbpedia.org/resource/Glam_metal	2.1906471615490262e-05	2.1906470864730653e-05
+http://dbpedia.org/resource/Hard_rock	0.00013646952765211982	0.00013646952285166977
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg	6.88782944818066e-08	6.887829208540015e-08
+Rebel Love Song	6.859812657384618e-08	6.85981241778539e-08
+http://dbpedia.org/resource/Black_Veil_Brides	1.4641390061467505e-06	1.4641389795873883e-06
+http://dbpedia.org/resource/The_Legacy_(song)	1.678634396326919e-05	1.678634395114028e-05
+http://www.wikidata.org/entity/Q386724	1.369932366621021e-07	1.3699323200878485e-07
+http://dbpedia.org/ontology/Work	1.369932366621021e-07	1.3699323200869406e-07
+http://schema.org/CreativeWork	1.369932366621021e-07	1.369932320086001e-07
+http://dbpedia.org/ontology/MusicalWork	1.5970350966520655e-05	1.5970350964281022e-05
+http://www.w3.org/2002/07/owl#Thing	8.310752563929703e-07	8.310752516393611e-07
+http://www.wikidata.org/entity/Q134556	2.8864806332168153e-05	2.8864805877589287e-05
+http://dbpedia.org/ontology/Single	0.00395491049948589	0.003954910360222824
+http://www.wikidata.org/entity/Q2188189	1.369932366621021e-07	1.3699323200864178e-07
+http://dbpedia.org/resource/Universal_Republic_Records	6.490677011890222e-06	6.490676783675176e-06
+http://dbpedia.org/resource/Lava_Records	7.03937651811903e-06	7.0393762707297074e-06
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	1.628562688581896e-05	1.6285626875905217e-05
+http://dbpedia.org/resource/Black_Veil_Brides	1.4641390061467505e-06	1.4641389795873883e-06
+2011-08-22	6.50010235950653e-07	6.500102130610381e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg?width=300	6.887829448180674e-08	6.887829208536486e-08
+http://dbpedia.org/resource/Music_download	Key not found
+http://dbpedia.org/resource/Black_Veil_Brides	1.4641390061467505e-06	1.4641389795873883e-06
+http://dbpedia.org/resource/The_Legacy_(song)	1.678634396326919e-05	1.678634395114028e-05
+http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)	1.1466693653976626e-06	1.1466693501852467e-06

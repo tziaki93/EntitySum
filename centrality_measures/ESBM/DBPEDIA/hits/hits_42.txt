@@ -1,0 +1,46 @@
+2006-01-16	4.294860411529652e-07	4.294860411634047e-07
+2006-04-21	6.822954209076594e-08	6.822954209976698e-08
+http://dbpedia.org/resource/Wid_Out_Ya	1.3670933215195317e-05	1.3670933215218046e-05
+http://dbpedia.org/resource/Kontor_Rec	2.387366799070617e-09	2.3873667993766723e-09
+http://dbpedia.org/resource/Epic_Records	0.00015453801121817902	0.00015453801122733405
+http://dbpedia.org/resource/Pop_music	0.0009354011157015418	0.000935401115759198
+http://dbpedia.org/resource/Hip_hop_music	0.00034104427622865186	0.0003410442762502677
+http://dbpedia.org/resource/Electronica	3.992401458177266e-05	3.992401458421033e-05
+http://dbpedia.org/resource/Uh_La_La_La	1.7751070024346784e-05	1.775107002435143e-05
+http://dbpedia.org/resource/Cobrastyle	1.4360789708138004e-05	1.4360789708176086e-05
+http://dbpedia.org/resource/Blog_27	4.3851497689672064e-06	4.385149768992661e-06
+http://dbpedia.org/resource/Teddybears	1.7853099148833552e-08	1.7853099151932557e-08
+http://dbpedia.org/resource/Wid_Out_Ya	1.3670933215195317e-05	1.3670933215218046e-05
+221.0	Key not found
+Hey Boy (Teddybears song)	7.312247779813271e-08	7.312247780261837e-08
+http://dbpedia.org/resource/Cobrastyle	1.4360789708138004e-05	1.4360789708176086e-05
+http://dbpedia.org/resource/Uh_La_La_La	1.7751070024346784e-05	1.775107002435143e-05
+http://dbpedia.org/resource/Category:Teddybears_songs	Key not found
+http://dbpedia.org/resource/Category:Songs_written_by_Klas_Åhlund	1.748309970965279e-06	1.7483099710775214e-06
+http://dbpedia.org/resource/Category:2004_singles	6.671935761671903e-05	6.671935762072489e-05
+http://dbpedia.org/resource/Category:2006_singles	8.35302787510961e-05	8.353027875613296e-05
+http://dbpedia.org/resource/Category:Blog_27_songs	2.6831103863691854e-07	2.683110386514932e-07
+http://dbpedia.org/resource/Category:Epic_Records_singles	8.929123205693755e-05	8.929123206218723e-05
+http://dbpedia.org/resource/Category:2004_songs	7.072196819449082e-05	7.072196819871379e-05
+http://dbpedia.org/class/yago/Artifact100021939	1.4940428478927576e-07	1.4940428479655723e-07
+http://dbpedia.org/ontology/Work	2.0584816786941407e-07	2.0584816787771222e-07
+http://www.wikidata.org/entity/Q134556	2.395840779126085e-05	2.3958407791944364e-05
+http://dbpedia.org/class/yago/2004Singles	Key not found
+http://www.wikidata.org/entity/Q2188189	2.0584816786941407e-07	2.0584816787766907e-07
+http://www.w3.org/2002/07/owl#Thing	6.0043622389053555e-06	6.004362238894086e-06
+http://dbpedia.org/class/yago/Instrumentality103575240	1.4940428478927576e-07	1.4940428479656053e-07
+http://dbpedia.org/class/yago/Medium106254669	1.4940428478927576e-07	1.494042847965633e-07
+http://www.wikidata.org/entity/Q386724	2.0584816786941407e-07	2.0584816787758638e-07
+http://schema.org/CreativeWork	2.0584816786941407e-07	2.0584816787767132e-07
+http://dbpedia.org/class/yago/Object100002684	1.4947445490259313e-07	1.4947445491116908e-07
+http://dbpedia.org/ontology/MusicalWork	1.3152884316509235e-05	1.315288431652467e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.4947445490259313e-07	1.494744549111768e-07
+http://dbpedia.org/class/yago/Whole100003553	1.4947445490259313e-07	1.494744549111156e-07
+http://dbpedia.org/ontology/Single	0.00329406223168554	0.0032940622318770995
+Hey Boy (Get Your Ass Up)	1.5137945396454524e-08	1.5137945396966297e-08
+Hey Boy	1.976711721383159e-07	1.9767117215694084e-07
+http://dbpedia.org/resource/Blog_27	4.3851497689672064e-06	4.385149768992661e-06
+http://dbpedia.org/resource/Teddybears	1.7853099148833552e-08	1.7853099151932557e-08
+\Turn You On to Music\	Key not found
+http://dbpedia.org/resource/LOL_(Blog_27_album)	4.29448001907248e-06	4.29448001907935e-06
+http://dbpedia.org/resource/Fresh_(Teddybears_album)	2.2958468340916947e-06	2.295846834108898e-06

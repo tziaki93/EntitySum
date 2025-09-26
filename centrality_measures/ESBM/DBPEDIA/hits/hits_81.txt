@@ -1,0 +1,35 @@
+http://dbpedia.org/resource/George_Albert_Boulenger	0.00011583424014365191	0.00011583424014237516
+http://dbpedia.org/class/yago/Organism100004475	8.708004342838265e-07	8.7080043428375e-07
+http://dbpedia.org/ontology/Animal	2.641847310717035e-06	2.641847310718569e-06
+http://dbpedia.org/class/yago/ReptilesOfBrazil	Key not found
+http://www.wikidata.org/entity/Q729	4.6621288077384873e-07	4.6621288077401686e-07
+http://dbpedia.org/class/yago/Vertebrate101471682	0.003973637577189073	0.003973637577139571
+http://dbpedia.org/class/yago/Chordate101466257	0.003974026439119032	0.003974026439069465
+http://www.wikidata.org/entity/Q19088	4.6621288077384873e-07	4.6621288077401485e-07
+http://dbpedia.org/class/yago/Object100002684	8.708004342838265e-07	8.708004342837492e-07
+http://dbpedia.org/class/yago/Reptile101661091	0.0009309813112426553	0.0009309813112314587
+http://dbpedia.org/class/yago/Animal100015388	1.6399360015890333e-05	1.6399360015892142e-05
+http://dbpedia.org/ontology/Reptile	0.00048392398070130064	0.0004839239806953789
+http://dbpedia.org/ontology/Species	4.6621288077384873e-07	4.662128807740204e-07
+http://www.w3.org/2002/07/owl#Thing	1.2512614749735435e-06	1.251261474972702e-06
+http://dbpedia.org/ontology/Eukaryote	7.025173338740378e-07	7.025173338748936e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	8.708004342838265e-07	8.708004342837604e-07
+http://dbpedia.org/class/yago/Whole100003553	8.708004342838265e-07	8.708004342837533e-07
+http://dbpedia.org/class/yago/LivingThing100004258	8.708004342838265e-07	8.70800434283754e-07
+http://dbpedia.org/resource/Category:Endemic_fauna_of_Brazil	1.87773915698383e-05	1.8777391569531292e-05
+http://dbpedia.org/resource/Category:Amphisbaena	Key not found
+http://dbpedia.org/resource/Category:Fernando_de_Noronha	7.011828204342501e-07	7.011828204200831e-07
+http://dbpedia.org/resource/Category:Reptiles_of_Brazil	1.286924125751582e-05	1.286924125727152e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png?width=300	1.560445483277577e-07	1.560445483241345e-07
+LC	1.3791718486742133e-06	1.3791718487635466e-06
+http://dbpedia.org/resource/Amphisbaenidae	2.50433337883357e-06	2.50433337876468e-06
+http://dbpedia.org/resource/Reptile	7.971035174119915e-05	7.971035174026127e-05
+http://dbpedia.org/resource/Chordate	2.318077731305491e-05	2.3180777312861266e-05
+http://dbpedia.org/resource/Vertebrate	3.344864884302838e-05	3.3448648842621533e-05
+Amphisbaena ridleyi	1.5540632854946745e-07	1.554063285468533e-07
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png	1.5605837931598072e-07	1.560583793121051e-07
+IUCN3.1	2.404145068307421e-06	2.4041450682258524e-06
+http://dbpedia.org/resource/Amphisbaena_(genus)	2.992753950277058e-07	2.992753950273553e-07
+http://dbpedia.org/resource/Animal	5.487441410995058e-07	5.487441410978083e-07
+http://dbpedia.org/resource/Amphisbaenia	4.181125376124646e-05	4.181125376119023e-05
+http://dbpedia.org/resource/Squamata	5.871169136701292e-05	5.871169136658332e-05

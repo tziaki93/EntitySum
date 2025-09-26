@@ -1,0 +1,36 @@
+http://schema.org/Place	8.861948385401836e-08	8.861948384953823e-08
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	8.861948385401836e-08	8.861948384953635e-08
+http://dbpedia.org/class/yago/Region108630985	4.138323542190053e-07	4.1383235421500784e-07
+http://dbpedia.org/class/yago/YagoGeoEntity	3.5419586288378884e-06	3.5419586288362913e-06
+http://dbpedia.org/class/yago/Mountain109359803	0.0011122546636551647	0.0011122546635518435
+http://dbpedia.org/ontology/Location	8.861948385401836e-08	8.86194838495321e-08
+http://dbpedia.org/class/yago/NaturalElevation109366317	0.0012144720357389741	0.0012144720356262145
+http://dbpedia.org/ontology/Place	4.829232225269037e-06	4.829232225269624e-06
+http://dbpedia.org/class/yago/Object100002684	3.5419586288378884e-06	3.5419586288362917e-06
+http://www.w3.org/2002/07/owl#Thing	8.861948385401836e-08	8.86194838495399e-08
+http://dbpedia.org/ontology/NaturalPlace	0.0019461967011523864	0.0019461967009687285
+http://dbpedia.org/ontology/Mountain	0.0014308009584176199	0.0014308009582843797
+http://dbpedia.org/class/yago/Area108497294	0.0001338113757580837	0.00013381137574558017
+http://dbpedia.org/class/yago/Location100027167	8.861948385401836e-08	8.861948384953707e-08
+http://schema.org/Mountain	0.0012556865882971838	0.0012556865881795099
+http://dbpedia.org/class/yago/PhysicalEntity100001930	8.861948385401836e-08	8.861948384954101e-08
+http://dbpedia.org/class/yago/ProtectedAreasOfPickensCounty,SouthCarolina	Key not found
+http://dbpedia.org/class/yago/MountainsOfSouthCarolina	Key not found
+http://dbpedia.org/class/yago/GeologicalFormation109287968	0.001417723323655267	0.0014177233235228728
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	8.861948385401836e-08	8.861948384953776e-08
+http://dbpedia.org/class/yago/YagoLegalActorGeo	8.861948385401836e-08	8.861948384954228e-08
+http://www.wikidata.org/entity/Q8502	0.0012557055861084623	0.001255705585990787
+USGSTable Rock	5.817371202063738e-08	5.817371201523857e-08
+1040.892	Key not found
+http://dbpedia.org/resource/South_Carolina	2.4376825944189553e-06	2.4376825942535345e-06
+http://dbpedia.org/resource/Pickens_County,_South_Carolina	2.994755037829311e-07	2.994755037589643e-07
+http://dbpedia.org/resource/Blue_Ridge_Mountains	3.364441460795114e-05	3.364441460703015e-05
+35.033611111111114 -82.74138888888889	5.817371202063738e-08	5.8173712015236637e-08
+-82.74139	Key not found
+http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina	1.7353263039937035e-07	1.735326303833577e-07
+http://dbpedia.org/resource/Category:Protected_areas_of_Pickens_County,_South_Carolina	1.3885808599631075e-07	1.3885808598359835e-07
+http://dbpedia.org/resource/Category:Mountains_of_South_Carolina	6.327452261489512e-07	6.327452260906375e-07
+Pinnacle Mountain	1.6299191121219565e-07	1.6299191119700965e-07
+214.884	Key not found
+35.03361	Key not found
+Pinnacle Mountain (South Carolina)	5.817371202063738e-08	5.8173712015237384e-08

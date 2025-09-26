@@ -1,0 +1,39 @@
+http://dbpedia.org/class/yago/GeographicalArea108574314	5.083259357858405e-07	5.083259357880884e-07
+http://dbpedia.org/class/yago/Location100027167	6.572869204562685e-07	6.572869204092878e-07
+http://www.w3.org/2002/07/owl#Thing	1.2694994399561993e-07	1.269499439474557e-07
+http://dbpedia.org/class/yago/PopulatedPlacesInAligudarzCounty	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	1.2694994399561993e-07	1.2694994394726428e-07
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	6.352758797814603e-07	6.352758797354853e-07
+http://schema.org/Place	1.2694994399561993e-07	1.2694994394732119e-07
+http://dbpedia.org/class/yago/Object100002684	6.572869204562685e-07	6.572869204093234e-07
+http://dbpedia.org/class/yago/Region108630985	6.572869204562685e-07	6.572869204094501e-07
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/ontology/Place	1.2694994399561993e-07	1.2694994394759975e-07
+http://dbpedia.org/class/yago/YagoLegalActorGeo	6.572869204562685e-07	6.57286920409396e-07
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/Tract108673395	5.083259357858405e-07	5.083259357881665e-07
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	6.572869204562685e-07	6.572869204094614e-07
+http://dbpedia.org/class/yago/District108552138	6.572869204562685e-07	6.572869204094323e-07
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.4319145133214242e-07	1.4319145128399866e-07
+http://dbpedia.org/class/yago/YagoGeoEntity	6.572869204562685e-07	6.572869204094628e-07
+http://dbpedia.org/class/yago/PhysicalEntity100001930	6.572869204562685e-07	6.572869204093955e-07
+http://dbpedia.org/ontology/Location	1.2694994399561993e-07	1.2694994394736306e-07
+http://dbpedia.org/ontology/Settlement	6.572869204562685e-07	6.572869204093156e-07
+http://www.wikidata.org/entity/Q532	Key not found
++3:30	0.0031030651112373756	0.0031030651088987623
++4:30	0.0031070762702682052	0.0031070762679266187
+http://dbpedia.org/resource/Category:Populated_places_in_Aligudarz_County	4.659882415802655e-10	4.659882419782447e-10
+Darreh Dang	6.283360355061041e-08	6.283360350333835e-08
+دره دنگ	6.283360355061041e-08	6.283360350350139e-08
+451	1.4398441461893439e-06	1.4398441451020149e-06
+http://dbpedia.org/resource/Iran_Standard_Time	1.2118041065733424e-07	1.211804106103215e-07
+http://dbpedia.org/resource/Iran	9.855291306826605e-06	9.855291306825063e-06
+49.00111	Key not found
+33.269444	Key not found
+http://dbpedia.org/resource/Lorestan_Province	0.00016250925160396303	0.00016250925148145545
+http://dbpedia.org/resource/Zaz_va_Mahru_District	7.036819282740253e-06	7.036819277893286e-06
+http://dbpedia.org/resource/Zaz-e_Gharbi_Rural_District	1.8444908643666337e-06	1.8444908634312256e-06
+http://dbpedia.org/resource/Aligudarz_County	3.87407693589405e-05	3.8740769344563755e-05
+33.269444444444446 49.00111111111111	6.283360355061041e-08	6.283360350346036e-08
+Darreh Dang	6.283360355061041e-08	6.283360350333835e-08
