@@ -1,0 +1,26 @@
+3073	0.07510179460111596
+257.0	Key not found
+SM	0.004448801085809078
+036848	0.0003016136329362087
+50.716667	Key not found
+10.35	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png	0.0003016136329362087
+http://dbpedia.org/ontology/Settlement	0.00015080681646810435
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.00015080681646810435
+http://dbpedia.org/ontology/Location	0.00015080681646810435
+http://www.wikidata.org/entity/Q486972	7.540340823405218e-05
+http://dbpedia.org/ontology/PopulatedPlace	0.00015080681646810435
+http://schema.org/Place	0.00015080681646810435
+http://dbpedia.org/ontology/Place	0.00015080681646810435
+http://www.w3.org/2002/07/owl#Thing	0.00015080681646810435
+http://dbpedia.org/resource/Germany	0.00015080681646810435
+http://dbpedia.org/resource/Schmalkalden-Meiningen	0.019454079324385462
+Wernshausen	7.540340823405218e-05
+2006-12-31	0.09108731714673503
+http://dbpedia.org/resource/Schmalkalden	0.026768209923088523
+http://wernshausen.de/	7.540340823405218e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png?width=300	0.00022621022470215653
+50.71666666666667 10.35	7.540340823405218e-05
+http://dbpedia.org/resource/Category:Geography_of_Thuringia	0.002488312471723722
+98590	0.0003770170411702609
+2.629E7	Key not found

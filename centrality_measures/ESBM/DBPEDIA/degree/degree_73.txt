@@ -1,0 +1,37 @@
+52.37	Key not found
+TL260765	6.623393826996953e-05
+http://dbpedia.org/resource/United_Kingdom	0.00013246787653993907
+http://dbpedia.org/resource/England	0.00013246787653993907
+http://dbpedia.org/resource/Cambridgeshire	0.27626175652404295
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300	0.00026493575307987813
+-0.15	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg	0.0003311696913498477
+http://dbpedia.org/class/yago/GeographicalArea108574314	6.623393826996953e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.00013246787653993907
+http://dbpedia.org/class/yago/Location100027167	0.00013246787653993907
+http://dbpedia.org/ontology/Place	0.00013246787653993907
+http://dbpedia.org/class/yago/Object100002684	0.00013246787653993907
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.00013246787653993907
+http://dbpedia.org/ontology/Settlement	6.623393826996953e-05
+http://dbpedia.org/ontology/PopulatedPlace	0.00013246787653993907
+http://schema.org/Place	0.00013246787653993907
+http://dbpedia.org/class/yago/VillagesInCambridgeshire	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.00013246787653993907
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.00013246787653993907
+http://dbpedia.org/class/yago/Region108630985	6.623393826996953e-05
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	0.00013246787653993907
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00013246787653993907
+http://dbpedia.org/ontology/Location	0.00013246787653993907
+PE28 2	Key not found
+http://dbpedia.org/resource/Huntingdonshire	0.08027553318320307
+168	0.6687640747118824
+http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire	0.021989667505629886
+http://dbpedia.org/resource/Category:Huntingdonshire	0.010597430123195126
+http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire	0.02119486024639025
+Kings Ripton	6.623393826996953e-05
+52.37 -0.15	6.623393826996953e-05
+Kings Ripton	6.623393826996953e-05
+01487	0.0007948072592396343

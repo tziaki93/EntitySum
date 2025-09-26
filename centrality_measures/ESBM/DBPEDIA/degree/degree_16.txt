@@ -1,0 +1,51 @@
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png	Key not found
+Battle of Bregalnica	1.104386623669214e-05
+http://dbpedia.org/resource/Ottoman_Empire	0.2893492954013341
+http://dbpedia.org/resource/Bregalnica	0.002098334584971507
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png?width=300	Key not found
+http://dbpedia.org/resource/Category:Battles_involving_Serbia	0.0008282899677519106
+http://dbpedia.org/resource/Category:1913_in_Bulgaria	0.0002871405221539957
+http://dbpedia.org/resource/Category:Battles_involving_Bulgaria	0.0004969739806511463
+http://dbpedia.org/resource/Category:Battles_of_the_Second_Balkan_War	0.00023192119097053496
+http://dbpedia.org/resource/Category:Conflicts_in_1913	0.0005190617131245306
+http://dbpedia.org/resource/Category:Vardar_Macedonia_(1912–1918)	0.0003865353182842249
+http://dbpedia.org/resource/Category:1913_in_Serbia	0.00023192119097053496
+http://dbpedia.org/resource/Second_Balkan_War	0.01398153465565225
+1913-07-08	0.0002871405221539957
+http://dbpedia.org/resource/Fourth_Army_(Bulgaria)	0.0015019658081901312
+http://dbpedia.org/resource/Jovan_Babunski	0.00221981711357512
+http://dbpedia.org/resource/Mihail_Savov	0.0021093784512081987
+Battle of Bregalnica	1.104386623669214e-05
+Serbian victory	0.00026505278968061137
+http://dbpedia.org/resource/Živojin_Mišić	0.004748862481777621
+http://dbpedia.org/resource/Vicho_Dikov	2.208773247338428e-05
+http://dbpedia.org/resource/Janko_Vukotić	0.002286080310995273
+http://dbpedia.org/resource/Alexander_I_of_Yugoslavia	0.013606043203604716
+http://dbpedia.org/resource/Mihail_Savov	0.0021093784512081987
+http://dbpedia.org/resource/Stiliyan_Kovachev	0.0016897115342138975
+http://dbpedia.org/resource/Radomir_Putnik	0.004925564341564694
+http://dbpedia.org/resource/Petar_Bojović	0.004406502628440164
+ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *	Key not found
+ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)	Key not found
+Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns	Key not found
+20,000	0.0026394840305694217
+http://dbpedia.org/class/yago/GroupAction101080366	0.46756416486283514
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.15601669832574988
+http://dbpedia.org/ontology/MilitaryConflict	0.3560542474709546
+http://dbpedia.org/class/yago/Battle100953559	0.13159871007642354
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	1.104386623669214e-05
+http://dbpedia.org/ontology/Event	1.104386623669214e-05
+http://dbpedia.org/class/yago/Conflict100958896	0.18539338251535095
+http://dbpedia.org/class/yago/ConflictsIn1913	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	2.208773247338428e-05
+http://www.wikidata.org/entity/Q1656682	1.104386623669214e-05
+http://dbpedia.org/class/yago/BattlesOfTheSecondBalkanWar	Key not found
+http://dbpedia.org/class/yago/Event100029378	3.313159871007642e-05
+http://dbpedia.org/class/yago/Abstraction100002137	3.313159871007642e-05
+http://dbpedia.org/class/yago/BattlesInvolvingBulgaria	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00013252639484030569
+http://dbpedia.org/class/yago/BattlesInvolvingSerbia	Key not found
+http://dbpedia.org/ontology/SocietalEvent	2.208773247338428e-05
+http://schema.org/Event	1.104386623669214e-05
+http://dbpedia.org/class/yago/Act100030358	2.208773247338428e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	5.52193311834607e-05

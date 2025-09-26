@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Category:2009_albums	0.10800463629658248
+http://dbpedia.org/resource/Indie_folk	0.05932352218046433
+http://dbpedia.org/resource/Greg_Connors	0.001053703768747146
+http://dbpedia.org/resource/Stan_Satin	0.00010537037687471461
+Wide Awake Drunk	Key not found
+http://dbpedia.org/resource/Scared_Records	0.0033718520599908676
+http://dbpedia.org/resource/Invisible_Tape	0.0004917284254153349
+Wide Awake Drunk	Key not found
+http://schema.org/CreativeWork	Key not found
+http://www.wikidata.org/entity/Q2188189	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://dbpedia.org/class/yago/Whole100003553	7.024691791647641e-05
+http://dbpedia.org/class/yago/Album106591815	3.5123458958238204e-05
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.00010537037687471461
+http://dbpedia.org/class/yago/2009Albums	Key not found
+http://dbpedia.org/ontology/Album	3.5123458958238204e-05
+http://dbpedia.org/class/yago/Instrumentality103575240	3.5123458958238204e-05
+http://www.w3.org/2002/07/owl#Thing	0.00010537037687471461
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/class/yago/Medium106254669	3.5123458958238204e-05
+http://dbpedia.org/class/yago/Artifact100021939	3.5123458958238204e-05
+http://dbpedia.org/class/yago/Object100002684	0.00010537037687471461
+http://schema.org/MusicAlbum	Key not found
+3259.0	Key not found
+http://dbpedia.org/resource/Album	3.5123458958238204e-05
+http://dbpedia.org/resource/Fluke_EP	Key not found
+http://dbpedia.org/resource/Invisible_Tape	0.0004917284254153349
+http://dbpedia.org/resource/Atlanta	0.757753503565031
+http://dbpedia.org/resource/New_York	0.04046222471989041

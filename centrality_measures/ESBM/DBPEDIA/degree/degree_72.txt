@@ -1,0 +1,33 @@
+Jalalia	7.091025125865696e-05
+34.08 73.06	4.727350083910464e-05
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	4.727350083910464e-05
+http://dbpedia.org/ontology/Place	4.727350083910464e-05
+http://dbpedia.org/class/yago/PopulatedPlacesInAbbottabadDistrict	Key not found
+http://dbpedia.org/class/yago/Region108630985	7.091025125865696e-05
+http://dbpedia.org/class/yago/YagoGeoEntity	7.091025125865696e-05
+http://dbpedia.org/class/yago/GeographicalArea108574314	4.727350083910464e-05
+http://dbpedia.org/class/yago/PopulatedPlacesInKhyberPakhtunkhwa	Key not found
+http://www.w3.org/2002/07/owl#Thing	4.727350083910464e-05
+http://dbpedia.org/class/yago/YagoLegalActorGeo	7.091025125865696e-05
+http://dbpedia.org/class/yago/District108552138	4.727350083910464e-05
+http://schema.org/Place	4.727350083910464e-05
+http://dbpedia.org/ontology/Location	4.727350083910464e-05
+http://www.wikidata.org/entity/Q486972	2.363675041955232e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	4.727350083910464e-05
+http://dbpedia.org/ontology/PopulatedPlace	4.727350083910464e-05
+http://dbpedia.org/class/yago/Object100002684	7.091025125865696e-05
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	7.091025125865696e-05
+http://dbpedia.org/class/yago/Location100027167	7.091025125865696e-05
+http://dbpedia.org/ontology/Settlement	2.363675041955232e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	7.091025125865696e-05
+http://dbpedia.org/class/yago/Tract108673395	2.363675041955232e-05
+http://dbpedia.org/resource/Khyber_Pakhtunkhwa	0.10846904767532559
+http://dbpedia.org/resource/Pakistan	0.7895147375138866
+http://dbpedia.org/resource/Category:Populated_places_in_Abbottabad_District	0.0019382135344032901
+Jalalia, Khyber Pakhtunkhwa	2.363675041955232e-05
+73.06	Key not found
+34.08	Key not found
++5	0.20273240834850023
+919.0	Key not found
+http://dbpedia.org/resource/Pakistan_Standard_Time	0.0877396175573782

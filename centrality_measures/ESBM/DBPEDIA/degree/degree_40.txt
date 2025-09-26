@@ -1,0 +1,22 @@
+http://dbpedia.org/resource/Trachelipodidae	0.013268465280849183
+http://dbpedia.org/resource/Malacostraca	0.23293527937490785
+*Trachelipus waechtleri	0.0002948547840188707
+*Tracheoniscus waechtleri	0.0002948547840188707
+*Porcellio dimorphus	0.00014742739200943535
+*Tracheoniscus dimorphus	0.00014742739200943535
+Trachelipus dimorphus	0.00014742739200943535
+http://dbpedia.org/resource/Trachelipus	0.0171015774730945
+http://www.w3.org/2002/07/owl#Thing	0.0007371369600471767
+http://www.wikidata.org/entity/Q19088	0.0002948547840188707
+http://www.wikidata.org/entity/Q729	0.0002948547840188707
+http://dbpedia.org/ontology/Eukaryote	0.0004422821760283061
+http://dbpedia.org/ontology/Species	0.0002948547840188707
+http://dbpedia.org/ontology/Crustacean	0.38463806575261683
+http://dbpedia.org/ontology/Animal	0.0005897095680377414
+http://dbpedia.org/resource/Category:Trachelipodidae	0.005159958720330237
+http://dbpedia.org/resource/Category:Animals_described_in_1941	0.004717676544301931
+http://dbpedia.org/resource/Category:Woodlice_of_Europe	0.014153029632905795
+http://dbpedia.org/resource/Animal	0.0004422821760283061
+http://dbpedia.org/resource/Isopoda	0.11602535751142562
+http://dbpedia.org/resource/Arthropod	0.0007371369600471767
+http://dbpedia.org/resource/Crustacean	0.7330089930709126

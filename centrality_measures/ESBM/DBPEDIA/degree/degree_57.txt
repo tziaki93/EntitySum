@@ -1,0 +1,48 @@
+Najmadin Shukr	Key not found
+http://dbpedia.org/resource/Iraqi–Kurdish_conflict	0.008065339458907606
+http://dbpedia.org/resource/Ba'athist_Iraq	0.02860643185298622
+http://dbpedia.org/resource/Kirkuk_Governorate	0.007636549259826443
+1985-01-24	0.001939765186319551
+Rauf, Najmadin Shukr	Key not found
+Najmadin Shukr Rauf	2.0418580908626852e-05
+1957-01-01	0.20357325165900972
+http://dbpedia.org/resource/Category:Kurdish_nationalists	0.0014497192445125065
+http://dbpedia.org/resource/Category:Iraqi_Kurdish_people	0.0025319040326697295
+http://dbpedia.org/resource/Category:1985_deaths	0.10909647779479327
+http://dbpedia.org/resource/Category:People_from_Kirkuk_Province	Key not found
+http://dbpedia.org/resource/Category:Kurdish_guerrillas	0.00020418580908626853
+http://dbpedia.org/resource/Category:1957_births	0.2967228177641654
+http://dbpedia.org/resource/Category:Kurdish_military_personnel_killed_in_action	0.00032669729453802963
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00010209290454313427
+http://dbpedia.org/class/yago/YagoLegalActorGeo	6.125574272588055e-05
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/KurdishGuerrillas	Key not found
+http://dbpedia.org/class/yago/Object100002684	6.125574272588055e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	6.125574272588055e-05
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/Person100007846	2.0418580908626852e-05
+http://dbpedia.org/class/yago/PeopleFromKirkukProvince	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	2.0418580908626852e-05
+http://dbpedia.org/class/yago/Guerrilla110150556	0.004349157733537519
+http://dbpedia.org/class/yago/IraqiKurdishPeople	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/class/yago/Warrior110768585	0.014476773864216438
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/ontology/Agent	2.0418580908626852e-05
+Kurdish guerilla	Key not found
+Kurdish guerilla	Key not found
+http://dbpedia.org/resource/Peshmerga	0.014497192445125064
+1985	0.3750076569678408
+Najmadin Shukr Rauf	2.0418580908626852e-05
+Rauf	0.00014293006636038796
+http://dbpedia.org/resource/Talaban_village	Key not found
+http://dbpedia.org/resource/Kingdom_of_Iraq	0.01856049004594181
+http://dbpedia.org/resource/Kirkuk_Governorate	0.007636549259826443
+1957	0.20357325165900972

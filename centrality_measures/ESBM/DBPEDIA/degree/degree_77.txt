@@ -1,0 +1,67 @@
+http://dbpedia.org/resource/Category:Communes_of_Var_(department)	0.0026972572468477837
+Saint-Raphaël	0.0002274795268425842
+8.959E7	Key not found
+http://dbpedia.org/resource/Henry_Bérenger	0.002323540881320681
+http://dbpedia.org/resource/Sim_(actor)	0.002681008709216171
+http://dbpedia.org/resource/Louis_Hon	0.00365592096711296
+http://dbpedia.org/resource/François_Simiand	0.0022098011178993894
+http://dbpedia.org/resource/Basil_Spalding_de_Garmendia	0.002518523332900039
+http://dbpedia.org/resource/Arthur_Coadou	0.0015273625373716368
+http://dbpedia.org/resource/Josep_Irla_i_Bosch	0.0006336929676329131
+http://dbpedia.org/resource/Henri_Guisol	0.0018523332900038999
+http://dbpedia.org/resource/Melchior_Treub	0.00277849993500585
+http://dbpedia.org/resource/Adrien_Douady	0.0025347718705316523
+http://dbpedia.org/resource/Ralph_Paget	0.0035421812036916683
+http://dbpedia.org/resource/Germaine_Sablon	0.002599766021058105
+http://dbpedia.org/resource/Shahan_Shahnour	0.0019010789028987393
+10.0	Key not found
+http://dbpedia.org/class/yago/District108552138	3.249707526322631e-05
+http://dbpedia.org/class/yago/Object100002684	0.0004549590536851684
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	4.874561289483947e-05
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	3.249707526322631e-05
+http://dbpedia.org/class/yago/Region108630985	4.874561289483947e-05
+http://dbpedia.org/ontology/Place	3.249707526322631e-05
+http://dbpedia.org/ontology/Location	3.249707526322631e-05
+http://dbpedia.org/ontology/Settlement	3.249707526322631e-05
+http://www.w3.org/2002/07/owl#Thing	0.00043871051605355523
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	6.499415052645263e-05
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0004712075913167815
+http://dbpedia.org/class/yago/Location100027167	4.874561289483947e-05
+http://schema.org/Place	3.249707526322631e-05
+http://dbpedia.org/ontology/PopulatedPlace	3.249707526322631e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0004549590536851684
+http://dbpedia.org/class/yago/YagoGeoEntity	4.874561289483947e-05
+http://www.wikidata.org/entity/Q486972	1.6248537631613156e-05
+http://dbpedia.org/class/yago/CommunesOfVar(department)	Key not found
+http://dbpedia.org/class/yago/Commune108541609	0.8236058754712077
+43.4252	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG?width=300	Key not found
+6.7684	Key not found
+http://dbpedia.org/resource/France	0.0002599766021058105
+http://dbpedia.org/resource/Var_(department)	0.01745092941635253
+http://dbpedia.org/resource/Lists_of_twin_towns_and_sister_cities	0.0019985701286884183
+http://dbpedia.org/resource/Twin_towns_and_sister_cities	0.049168074873261414
+http://dbpedia.org/resource/France	0.0002599766021058105
+43.4252 6.7684	1.6248537631613156e-05
+83700 and 83530	1.6248537631613156e-05
+Saint-Raphaël, Var	8.124268815806577e-05
+560.0	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG	Key not found
+http://dbpedia.org/resource/Stade_Louis_Hon	0.0007474327310542052
+0.0	Key not found
+34425	0.0005037046665800079
+http://dbpedia.org/resource/Capucine	0.005427011568958794
+http://dbpedia.org/resource/Eyemen_Henaini	0.0028922396984271416
+http://dbpedia.org/resource/Fabien_Dao_Castellana	0.0017710906018458341
+http://dbpedia.org/resource/Jean-Christophe,_Prince_Napoléon	0.004078382945534902
+http://dbpedia.org/resource/Valérie_Allain	0.0017710906018458341
+http://dbpedia.org/resource/David_Michie	0.0017873391394774472
+http://dbpedia.org/resource/Grégory_Tony	0.003818406343429092
+http://dbpedia.org/resource/Edgar_Givry	0.0013811256986871183
+http://dbpedia.org/resource/Princess_Béatrice_of_Bourbon-Two_Sicilies	0.0021285584297413233
+http://dbpedia.org/resource/Anthony_Braizat	0.002583517483426492
+http://dbpedia.org/resource/Earvin_N'Gapeth	0.004435850773430392
+http://dbpedia.org/resource/Abdellah_Ezbiri	0.00242103210711036
+http://dbpedia.org/resource/Prince_Carlo,_Duke_of_Castro	0.00484206421422072
+http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur	0.02656635902768751
+83118	4.874561289483947e-05

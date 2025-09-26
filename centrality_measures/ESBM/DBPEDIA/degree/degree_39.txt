@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Actinopterygii	0.15937994912895329
+Siamese mud carp	4.799155348658636e-05
+iucn3.1	Key not found
+http://dbpedia.org/resource/Category:Carp	0.0016317128185439362
+http://dbpedia.org/resource/Category:Fish_of_Thailand	0.022220089264289485
+http://dbpedia.org/resource/Category:Fish_of_Cambodia	0.0042712482603061855
+http://dbpedia.org/resource/Category:Fish_of_Laos	0.005758986418390363
+http://dbpedia.org/resource/Category:Fish_of_Vietnam	0.009550319143830685
+http://dbpedia.org/resource/Category:Fish_of_the_Mekong_Basin	0.00460718913471229
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q729	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0002399577674329318
+http://dbpedia.org/ontology/Fish	0.7738158084177185
+http://dbpedia.org/ontology/Eukaryote	4.799155348658636e-05
+http://dbpedia.org/ontology/Animal	9.598310697317272e-05
+http://dbpedia.org/ontology/Species	Key not found
+http://www.wikidata.org/entity/Q152	0.12084273167922445
+http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg	0.00019196621394634543
+http://dbpedia.org/resource/Cypriniformes	0.025915438882756634
+LC	0.04324038969141431
+http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg?width=300	0.00014397466045975907
+http://dbpedia.org/resource/Henicorhynchus	0.002687526995248836
+http://dbpedia.org/resource/Animal	4.799155348658636e-05
+http://dbpedia.org/resource/Chordate	0.07621058693669913
+http://dbpedia.org/resource/Cyprinidae	0.09161587560589336
+http://dbpedia.org/resource/Henri_Émile_Sauvage	0.017324950808657674
+Siamese mud carp	4.799155348658636e-05

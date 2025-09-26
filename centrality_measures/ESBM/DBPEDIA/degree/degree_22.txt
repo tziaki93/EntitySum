@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Arica_y_Parinacota_Region	0.01675860916081578
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/class/yago/Location100027167	8.358408559010364e-05
+http://dbpedia.org/class/yago/District108552138	8.358408559010364e-05
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	4.179204279505182e-05
+http://dbpedia.org/class/yago/Region108630985	8.358408559010364e-05
+http://dbpedia.org/class/yago/YagoLegalActorGeo	8.358408559010364e-05
+http://schema.org/Place	8.358408559010364e-05
+http://dbpedia.org/class/yago/Object100002684	8.358408559010364e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	8.358408559010364e-05
+http://www.wikidata.org/entity/Q532	Key not found
+http://dbpedia.org/ontology/Settlement	Key not found
+http://dbpedia.org/class/yago/Tract108673395	4.179204279505182e-05
+http://dbpedia.org/ontology/Location	8.358408559010364e-05
+http://dbpedia.org/ontology/PopulatedPlace	8.358408559010364e-05
+http://www.w3.org/2002/07/owl#Thing	8.358408559010364e-05
+http://dbpedia.org/ontology/Place	8.358408559010364e-05
+http://dbpedia.org/class/yago/YagoGeoEntity	8.358408559010364e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	8.358408559010364e-05
+http://dbpedia.org/class/yago/PopulatedPlacesInAricaProvince	Key not found
+http://dbpedia.org/ontology/Village	Key not found
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	8.358408559010364e-05
+http://dbpedia.org/resource/Category:Populated_places_in_Arica_Province	0.00091942494149114
+http://dbpedia.org/resource/Chile	0.9889669007021062
+Chitita	4.179204279505182e-05
+Chitita	4.179204279505182e-05

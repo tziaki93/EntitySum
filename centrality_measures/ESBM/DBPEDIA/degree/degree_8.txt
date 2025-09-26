@@ -1,0 +1,58 @@
+http://dbpedia.org/resource/Fired_Wife	0.0007347338630673779
+1905-07-07	0.00017234498022568123
+Hagar Wilde	3.6283153731722364e-05
+Wilde	0.0008073001705308226
+0928444	9.070788432930591e-06
+American writer	0.00015420340335982005
+American writer	0.00015420340335982005
+http://dbpedia.org/resource/Bringing_Up_Baby	0.004363049236239615
+http://dbpedia.org/resource/Carefree_(film)	0.0018504408403178406
+http://dbpedia.org/resource/I_Was_a_Male_War_Bride	0.0020499981858423137
+http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)	0.0010068575160552956
+http://dbpedia.org/resource/The_Unseen_(1945_film)	0.0013515474765066582
+Hagar	0.0001904865570915424
+1971	0.11951670839229346
+http://dbpedia.org/resource/Category:1905_births	0.05944994738942709
+http://dbpedia.org/resource/Category:Place_of_birth_missing	0.13776713471934982
+http://dbpedia.org/resource/Category:20th-century_women_writers	0.008317912992997351
+http://dbpedia.org/resource/Category:American_women_screenwriters	0.010322557236675012
+http://dbpedia.org/resource/Category:American_women_short_story_writers	0.008317912992997351
+http://dbpedia.org/resource/Category:1971_deaths	0.044927615108305216
+http://dbpedia.org/resource/Category:Women_television_writers	0.0006077428250063496
+http://dbpedia.org/resource/Category:American_television_writers	0.025742897572657016
+http://dbpedia.org/resource/Category:20th-century_American_writers	0.014703748049780488
+1971-09-25	0.0009252204201589203
+Wilde, Hagar	Key not found
+Hagar Wilde	3.6283153731722364e-05
+1905	0.046106817604586195
+http://dbpedia.org/class/yago/AmericanScreenwriters	Key not found
+http://dbpedia.org/class/yago/Screenwriter110564400	0.12454192518413701
+http://dbpedia.org/class/yago/WomenScreenwriters	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.6283153731722364e-05
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/AmericanShortStoryWriters	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/ontology/Person	9.070788432930591e-06
+http://dbpedia.org/class/yago/Whole100003553	3.6283153731722364e-05
+http://dbpedia.org/class/yago/Writer110794014	9.070788432930591e-06
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/AmericanTelevisionWriters	Key not found
+http://dbpedia.org/class/yago/Object100002684	3.6283153731722364e-05
+http://dbpedia.org/class/yago/Scriptwriter110564905	0.12344435978375241
+http://dbpedia.org/class/yago/WomenTelevisionWriters	Key not found
+http://dbpedia.org/ontology/Writer	0.47029316788215236
+http://www.wikidata.org/entity/Q36180	0.38886470011973445
+http://dbpedia.org/class/yago/Communicator109610660	Key not found
+http://www.wikidata.org/entity/Q28389	0.007292913900076195
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/ontology/ScreenWriter	0.007410834149704293
+http://www.w3.org/2002/07/owl#Thing	5.442473059758355e-05
+http://www.wikidata.org/entity/Q215627	Key not found

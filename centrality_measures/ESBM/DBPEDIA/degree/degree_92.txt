@@ -1,0 +1,31 @@
+2008-03-29	0.001683674216359457
+http://dbpedia.org/resource/Drama	0.08257323982841164
+http://www.w3.org/2002/07/owl#Thing	5.856258143858981e-05
+http://dbpedia.org/class/yago/Whole100003553	2.9281290719294907e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.660161339911863e-05
+http://dbpedia.org/ontology/TelevisionShow	0.6297820007905949
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	7.320322679823727e-06
+http://dbpedia.org/class/yago/Medium106254669	7.320322679823727e-06
+http://www.wikidata.org/entity/Q15416	0.3913371301406966
+http://dbpedia.org/class/yago/Telecommunication106271778	0.09694303324890562
+http://dbpedia.org/class/yago/Broadcasting106276697	0.08943238217940647
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	3.660161339911863e-05
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Television106277280	0.08933721798456876
+Drama City	7.320322679823727e-06
+http://www.kbs.co.kr/drama/dramacity/	7.320322679823727e-06
+http://dbpedia.org/resource/South_Korea	0.26681112103421517
+http://dbpedia.org/resource/South_Korea	0.26681112103421517
+http://dbpedia.org/resource/Category:Korean_Broadcasting_System_television_dramas	0.0027158397142146027
+Drama City	7.320322679823727e-06
+http://dbpedia.org/resource/Korean_language	0.04354127929959153
+1984-11-30	0.0010321654978551454
+http://dbpedia.org/resource/Korean_Broadcasting_System	0.020438340922067845
+http://dbpedia.org/resource/Ku_Hye-sun	0.0008198761401402573
+http://dbpedia.org/resource/Lee_Pil-mo	0.0012737361462893284
+http://dbpedia.org/resource/Lee_Min-ki	0.001683674216359457
+http://dbpedia.org/resource/Kim_Ji-woo	0.0009003996896183184
+http://dbpedia.org/resource/Kim_Jeong-hoon	0.0014421035679252742

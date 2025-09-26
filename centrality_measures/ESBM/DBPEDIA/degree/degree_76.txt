@@ -1,0 +1,36 @@
+http://schema.org/Place	1.6016657323616562e-05
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	1.6016657323616562e-05
+http://dbpedia.org/class/yago/Region108630985	1.6016657323616562e-05
+http://dbpedia.org/class/yago/YagoGeoEntity	2.1355543098155415e-05
+http://dbpedia.org/class/yago/Mountain109359803	0.1341661995141614
+http://dbpedia.org/ontology/Location	1.6016657323616562e-05
+http://dbpedia.org/class/yago/NaturalElevation109366317	0.16103681161741545
+http://dbpedia.org/ontology/Place	2.1355543098155415e-05
+http://dbpedia.org/class/yago/Object100002684	2.1355543098155415e-05
+http://www.w3.org/2002/07/owl#Thing	1.6016657323616562e-05
+http://dbpedia.org/ontology/NaturalPlace	0.43104562077894343
+http://dbpedia.org/ontology/Mountain	0.17630602493259656
+http://dbpedia.org/class/yago/Area108497294	0.3637382878193321
+http://dbpedia.org/class/yago/Location100027167	1.6016657323616562e-05
+http://schema.org/Mountain	0.13925415765729693
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.6016657323616562e-05
+http://dbpedia.org/class/yago/ProtectedAreasOfPickensCounty,SouthCarolina	Key not found
+http://dbpedia.org/class/yago/MountainsOfSouthCarolina	Key not found
+http://dbpedia.org/class/yago/GeologicalFormation109287968	0.23673687301460186
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	1.6016657323616562e-05
+http://dbpedia.org/class/yago/YagoLegalActorGeo	1.6016657323616562e-05
+http://www.wikidata.org/entity/Q8502	0.13925949654307146
+USGSTable Rock	5.338885774538854e-06
+1040.892	Key not found
+http://dbpedia.org/resource/South_Carolina	0.07748324924588239
+http://dbpedia.org/resource/Pickens_County,_South_Carolina	0.002578681829102266
+http://dbpedia.org/resource/Blue_Ridge_Mountains	0.007960278689837431
+35.033611111111114 -82.74138888888889	5.338885774538854e-06
+-82.74139	Key not found
+http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina	5.872774351992739e-05
+http://dbpedia.org/resource/Category:Protected_areas_of_Pickens_County,_South_Carolina	0.00010143882971623822
+http://dbpedia.org/resource/Category:Mountains_of_South_Carolina	0.00011745548703985478
+Pinnacle Mountain	2.6694428872694267e-05
+214.884	Key not found
+35.03361	Key not found
+Pinnacle Mountain (South Carolina)	5.338885774538854e-06

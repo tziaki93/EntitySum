@@ -1,0 +1,44 @@
+King of the Mountain (film)	5.6012995014843446e-05
+http://dbpedia.org/resource/Leigh_Chapman	0.006945611381840588
+http://dbpedia.org/resource/H.R._Christian	5.6012995014843446e-05
+King of the Mountain	0.0007841819302078082
+2100000.0	0.008177897272167143
+http://dbpedia.org/resource/William_Steinkamp	0.00666554640676637
+5400.0	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	Key not found
+http://schema.org/Movie	Key not found
+http://dbpedia.org/class/yago/Movie106613686	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	5.6012995014843446e-05
+http://dbpedia.org/class/yago/SocialEvent107288639	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00044810396011874757
+http://dbpedia.org/ontology/Film	5.6012995014843446e-05
+http://dbpedia.org/class/yago/1981Films	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	0.0003920909651039041
+http://dbpedia.org/class/yago/Show106619065	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0003920909651039041
+http://dbpedia.org/class/yago/Product104007894	Key not found
+http://dbpedia.org/class/yago/Whole100003553	0.0003920909651039041
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Creation103129123	Key not found
+http://dbpedia.org/class/yago/Event100029378	Key not found
+http://dbpedia.org/class/yago/Abstraction100002137	5.6012995014843446e-05
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/class/yago/AmericanFilms	Key not found
+http://dbpedia.org/resource/Category:Auto_racing_films	0.0019604548255195207
+http://dbpedia.org/resource/Category:American_films	0.0027446367557273288
+http://dbpedia.org/resource/Category:1981_films	0.06267854142160982
+http://dbpedia.org/resource/Category:Universal_Pictures_films	0.17397636251610374
+http://dbpedia.org/resource/Category:PolyGram_Filmed_Entertainment_films	0.008065871282137456
+1981-05-01	0.00795384529210777
+http://dbpedia.org/resource/Deborah_Van_Valkenburgh	0.01137063798801322
+http://dbpedia.org/resource/Richard_Cox_(actor)	0.011426650983028063
+http://dbpedia.org/resource/Dennis_Hopper	0.07914636195597378
+http://dbpedia.org/resource/Seymour_Cassel	0.025093821766649864
+http://dbpedia.org/resource/Joseph_Bottoms	0.011706715958102281
+http://dbpedia.org/resource/Harry_Hamlin	0.02778244552736235
+http://dbpedia.org/resource/Jack_Frost_Sanders	0.00011202599002968689
+http://dbpedia.org/resource/Universal_Studios	0.1770010642469053
+http://dbpedia.org/resource/Noel_Nosseck	0.0003360779700890607

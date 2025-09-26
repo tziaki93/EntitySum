@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/Valencia_CF	0.05301058291371512
+http://dbpedia.org/resource/Getafe_CF	0.0265639668857216
+http://dbpedia.org/resource/Category:Getafe_CF_matches	9.601433814116242e-05
+http://dbpedia.org/resource/Category:2007–08_in_Spanish_football_cups	0.00016002389690193737
+http://dbpedia.org/resource/Category:Copa_del_Rey_Finals	0.0013975420329435863
+http://dbpedia.org/resource/Category:Valencia_CF_matches	0.0004160621319450372
+2008 Copa del Rey Final	1.0668259793462491e-05
+http://dbpedia.org/resource/Madrid	0.2644768285397286
+http://dbpedia.org/resource/2007_Copa_del_Rey_Final	0.0015789024494324486
+http://dbpedia.org/resource/2007–08_Copa_del_Rey	0.004075275241102671
+2008 Copa del Rey Final	1.0668259793462491e-05
+http://dbpedia.org/resource/2009_Copa_del_Rey_Final	0.0019629598019970983
+http://schema.org/Event	3.200477938038747e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	3.200477938038747e-05
+http://dbpedia.org/ontology/SocietalEvent	4.2673039173849965e-05
+http://www.w3.org/2002/07/owl#Thing	7.467781855423744e-05
+http://dbpedia.org/ontology/FootballMatch	0.07590466843048563
+http://schema.org/SportsEvent	0.5617372194247675
+http://dbpedia.org/ontology/Event	3.200477938038747e-05
+http://www.wikidata.org/entity/Q1656682	3.200477938038747e-05
+http://dbpedia.org/ontology/SportsEvent	0.6671076214047965
+http://dbpedia.org/resource/Vicente_Calderón_Stadium	0.009313390799692754
+2008-04-16	0.001888281983442861
+http://dbpedia.org/resource/2007_Copa_del_Rey_Final	0.0015789024494324486
+http://dbpedia.org/resource/2009_Copa_del_Rey_Final	0.0019629598019970983
+22:00CEST	0.00017069215669539986

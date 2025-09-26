@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Lance_Comfort	0.0589171974522293
+http://dbpedia.org/ontology/Film	0.0002653927813163482
+http://www.wikidata.org/entity/Q386724	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0007961783439490446
+http://schema.org/Movie	Key not found
+http://dbpedia.org/resource/William_Lucas_(actor)	0.0517515923566879
+3480.0	Key not found
+http://dbpedia.org/resource/Category:British_crime_films	0.1531316348195329
+http://dbpedia.org/resource/Category:1960s_crime_films	0.012208067940552016
+http://dbpedia.org/resource/Category:1961_films	0.23168789808917198
+http://dbpedia.org/resource/Category:British_films	0.014331210191082803
+http://dbpedia.org/resource/Category:Black-and-white_films	0.004511677282377919
+http://dbpedia.org/resource/Category:Films_directed_by_Lance_Comfort	0.011146496815286623
+Touch of Death (1961 film)	0.0002653927813163482
+http://dbpedia.org/resource/United_Kingdom	0.0002653927813163482
+Touch of Death	0.0015923566878980893
+http://dbpedia.org/resource/Johnny_Douglas_(conductor)	0.06581740976645435

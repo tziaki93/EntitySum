@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Animal	8.814973701995123e-05
+http://dbpedia.org/resource/Tockus	0.003202773778391561
+http://dbpedia.org/resource/Hornbill	0.02039197249728205
+African grey hornbill	2.9383245673317074e-05
+African grey hornbill	2.9383245673317074e-05
+IUCN3.1	0.07272353304145976
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg	0.00014691622836658538
+http://dbpedia.org/resource/Lake_Naivasha	0.00772779361208239
+http://dbpedia.org/resource/Chordate	0.04666059412922752
+http://dbpedia.org/resource/Bird	0.38500866805747364
+http://dbpedia.org/ontology/Eukaryote	5.876649134663415e-05
+http://www.wikidata.org/entity/Q729	2.9383245673317074e-05
+http://www.wikidata.org/entity/Q19088	2.9383245673317074e-05
+http://www.w3.org/2002/07/owl#Thing	0.00014691622836658538
+http://dbpedia.org/ontology/Animal	8.814973701995123e-05
+http://dbpedia.org/ontology/Bird	0.3206005935415626
+http://dbpedia.org/ontology/Species	2.9383245673317074e-05
+http://dbpedia.org/resource/Category:Birds_of_Gabon	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Kenya	Key not found
+http://dbpedia.org/resource/Category:Animals_described_in_1766	0.0008227308788528781
+http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea	Key not found
+http://dbpedia.org/resource/Category:Birds_of_South_Africa	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Africa	0.005994182117356683
+http://dbpedia.org/resource/Category:Birds_of_Asia	0.0025563423735785852
+http://dbpedia.org/resource/Category:Hornbills	0.0008814973701995122
+http://dbpedia.org/resource/Category:Birds_of_Namibia	Key not found
+http://dbpedia.org/resource/Category:Tockus	0.0005876649134663415
+http://dbpedia.org/resource/Category:Birds_of_the_Republic_of_the_Congo	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Cameroon	Key not found
+LC	0.026474304351658685
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg?width=300	8.814973701995123e-05
+http://dbpedia.org/resource/Bucerotiformes	0.013222460552992683
+http://dbpedia.org/resource/Carl_Linnaeus	0.38765316016807216
