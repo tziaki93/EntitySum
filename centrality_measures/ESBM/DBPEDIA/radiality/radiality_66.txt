@@ -1,0 +1,24 @@
+2013 Slovnaft Cup Final	0.3332050882456072
+http://dbpedia.org/resource/MŠK_Žilina	0.34365519458340865
+http://dbpedia.org/resource/ŠK_Slovan_Bratislava	0.3447808427651404
+http://dbpedia.org/resource/2012_Slovak_Cup_Final	0.4966427850729151
+http://dbpedia.org/resource/Štadión_pod_Čebraťom	0.33243606998654107
+2013-05-01	0.33472764454359544
+http://dbpedia.org/resource/Ružomberok	0.3351441111350589
+http://dbpedia.org/resource/2014_Slovak_Cup_Final	0.4966716271641683
+http://dbpedia.org/resource/Category:Slovak_Cup_Finals	0.3336324138233702
+http://dbpedia.org/resource/Category:MŠK_Žilina_matches	0.3334405505114747
+http://dbpedia.org/resource/Category:ŠK_Slovan_Bratislava_matches	0.3334746795340449
+http://schema.org/SportsEvent	0.7614632951965454
+http://www.w3.org/2002/07/owl#Thing	0.34035070264892425
+http://dbpedia.org/ontology/Event	0.3320988253567615
+http://dbpedia.org/ontology/SportsEvent	0.8641926968208056
+http://dbpedia.org/ontology/SocietalEvent	0.4767841339084745
+http://www.wikidata.org/entity/Q1656682	0.3320988253567615
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.3320988253567615
+http://dbpedia.org/ontology/FootballMatch	0.5080040391440579
+http://schema.org/Event	0.3320988253567615
+http://dbpedia.org/resource/2012_Slovak_Cup_Final	0.4966427850729151
+2013 Slovak Cup Final	0.3332050882456072
+16:00CEST	0.33350068728857346
+http://dbpedia.org/resource/2014_Slovak_Cup_Final	0.4966716271641683

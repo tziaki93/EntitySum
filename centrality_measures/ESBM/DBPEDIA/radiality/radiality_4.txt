@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/Category:UK_MPs_1987–92	0.0
+http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_English_constituencies	0.2273865233649001
+http://dbpedia.org/resource/Category:UK_MPs_1983–87	0.0
+http://dbpedia.org/resource/Category:2006_deaths	0.35036659700122513
+http://dbpedia.org/resource/Category:Conservative_Party_(UK)_MPs	0.22578910445535721
+http://dbpedia.org/resource/Category:UK_MPs_1979–83	0.0
+http://dbpedia.org/resource/Category:1932_births	0.3571840113839812
+http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Birmingham	0.3326371208492832
+http://dbpedia.org/resource/Category:Knights_Bachelor	0.3449266054018126
+http://dbpedia.org/resource/Category:People_from_Birmingham,_West_Midlands	0.3202200644107869
+1932	0.3448004270297913
+Anthony Beaumont-Dark	0.2242117961750663
+1932-10-11	0.22792628069889728
+2006	0.5863299077700408
+Anthony	0.30227794085403964
+Beaumont-Dark, Anthony	92371.0
+Anthony Beaumont-Dark	0.2242117961750663
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.0
+http://dbpedia.org/class/yago/PeopleFromBirmingham,WestMidlands	0.0
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/ontology/Person	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/ontology/Agent	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://schema.org/Person	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.wikidata.org/entity/Q215627	0.0
+2006-04-02	0.28315467121981724
+Beaumont-Dark	0.0
+British politician	0.20543551992171427
+British politician	0.20543551992171427

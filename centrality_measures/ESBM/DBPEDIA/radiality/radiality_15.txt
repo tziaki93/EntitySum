@@ -1,0 +1,20 @@
+19:45BST	0.33185039657733867
+UEFA Champions League	0.33357951044756634
+http://www.wikidata.org/entity/Q1656682	0.0
+http://www.wikidata.org/entity/Q500834	0.43283337127609445
+http://schema.org/SportsEvent	0.6285578091122969
+http://dbpedia.org/ontology/SoccerTournament	0.4662093191681066
+http://dbpedia.org/ontology/SportsEvent	0.7135039840811304
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.0
+http://dbpedia.org/ontology/Tournament	0.6130323935212958
+http://dbpedia.org/ontology/SocietalEvent	0.4164005398935493
+http://schema.org/Event	0.0
+http://dbpedia.org/ontology/Event	0.0
+http://www.w3.org/2002/07/owl#Thing	0.25083146177730326
+http://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium,_illuminated.jpg?width=300	0.30823348439491166
+http://dbpedia.org/resource/2012–13_Debreceni_VSC_season	0.33481312812784114
+2012–13 UEFA Champions League	0.3331105913798864
+http://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium,_illuminated.jpg	0.3313433440736012
+http://dbpedia.org/resource/Category:2012–13_UEFA_Champions_League	0.33342577713973426
+http://dbpedia.org/resource/Category:2012–13_in_European_football	0.33323279094792446
+http://dbpedia.org/resource/Category:UEFA_Champions_League_seasons	0.33355909521167215

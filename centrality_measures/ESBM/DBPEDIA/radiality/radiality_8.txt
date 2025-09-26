@@ -1,0 +1,58 @@
+http://dbpedia.org/resource/Fired_Wife	0.329440557977749
+1905-07-07	0.23888646917464632
+Hagar Wilde	0.26817829089644135
+Wilde	0.24626887343545112
+0928444	0.23886783540581943
+American writer	0.20086619366734812
+American writer	0.20086619366734812
+http://dbpedia.org/resource/Bringing_Up_Baby	0.3056167751986982
+http://dbpedia.org/resource/Carefree_(film)	0.3043839595343803
+http://dbpedia.org/resource/I_Was_a_Male_War_Bride	0.24066688060636623
+http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)	0.25539727512608507
+http://dbpedia.org/resource/The_Unseen_(1945_film)	0.3029527748388958
+Hagar	0.2477576787283437
+1971	0.3618237732492689
+http://dbpedia.org/resource/Category:1905_births	0.34684079547206376
+http://dbpedia.org/resource/Category:Place_of_birth_missing	0.3647423151110508
+http://dbpedia.org/resource/Category:20th-century_women_writers	0.3327658598280072
+http://dbpedia.org/resource/Category:American_women_screenwriters	0.3354103218622312
+http://dbpedia.org/resource/Category:American_women_short_story_writers	0.33494156000012154
+http://dbpedia.org/resource/Category:1971_deaths	0.3433815811195106
+http://dbpedia.org/resource/Category:Women_television_writers	0.30268826208839333
+http://dbpedia.org/resource/Category:American_television_writers	0.33891619860981737
+http://dbpedia.org/resource/Category:20th-century_American_writers	0.3356789213745897
+1971-09-25	0.32946418698616015
+Wilde, Hagar	0.0
+Hagar Wilde	0.26817829089644135
+1905	0.34357206745347846
+http://dbpedia.org/class/yago/AmericanScreenwriters	0.0
+http://dbpedia.org/class/yago/Screenwriter110564400	0.36324606087764505
+http://dbpedia.org/class/yago/WomenScreenwriters	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.23442590182619272
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/class/yago/AmericanShortStoryWriters	0.0
+http://dbpedia.org/ontology/Agent	0.0
+http://dbpedia.org/ontology/Person	0.3263906159330183
+http://dbpedia.org/class/yago/Whole100003553	0.23442590182619272
+http://dbpedia.org/class/yago/Writer110794014	0.26637880625721866
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/AmericanTelevisionWriters	0.0
+http://dbpedia.org/class/yago/Object100002684	0.23442590182619272
+http://dbpedia.org/class/yago/Scriptwriter110564905	0.36310129604927294
+http://dbpedia.org/class/yago/WomenTelevisionWriters	0.0
+http://dbpedia.org/ontology/Writer	0.4845398886256653
+http://www.wikidata.org/entity/Q36180	0.4659506842830455
+http://dbpedia.org/class/yago/Communicator109610660	0.0
+http://www.wikidata.org/entity/Q28389	0.3319012753043751
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://schema.org/Person	0.0
+http://dbpedia.org/ontology/ScreenWriter	0.3939684162000093
+http://www.w3.org/2002/07/owl#Thing	0.25020426134558293
+http://www.wikidata.org/entity/Q215627	0.0

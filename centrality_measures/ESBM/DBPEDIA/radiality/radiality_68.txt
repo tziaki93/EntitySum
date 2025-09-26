@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/Estanislao_López	0.34165579351142417
+http://dbpedia.org/resource/José_Rondeau	0.3350071183962446
+http://dbpedia.org/resource/Francisco_Ramírez_(governor)	0.34144476253970746
+http://dbpedia.org/resource/Santa_Fe_Province	0.34604187160302463
+http://dbpedia.org/resource/Battle_of_Cepeda_(1859)	0.4984185593863152
+Battle of Cepeda	0.3339150111221907
+1820-02-01	0.334238687077115
+http://dbpedia.org/resource/Battle_of_Cepeda_(1859)	0.4984185593863152
+http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War	0.3340719637015933
+http://dbpedia.org/resource/Category:1820_in_Argentina	0.3334482296394171
+http://dbpedia.org/resource/Category:Conflicts_in_1820	0.3335823754789272
+http://dbpedia.org/resource/Argentine_Civil_Wars	0.4904517800811176
+Federalistvictory	0.3333907715872104
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.3345854909835042
+http://schema.org/Event	0.3345854909835042
+http://dbpedia.org/ontology/Event	0.3345854909835042
+http://www.wikidata.org/entity/Q1656682	0.3345854909835042
+http://dbpedia.org/ontology/MilitaryConflict	0.8823857302118172
+http://www.w3.org/2002/07/owl#Thing	0.34176643768400394
+http://dbpedia.org/ontology/SocietalEvent	0.4844749874798286
+Battle of Cepeda (1820)	0.33337800582018684
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg	0.3351360714423188
+24pxUnitarians	0.0
+24pxFederals	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300	0.33358557074301476

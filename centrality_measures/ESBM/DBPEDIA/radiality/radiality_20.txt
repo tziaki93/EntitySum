@@ -1,0 +1,22 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/Triathlon_pictogram.svg	0.3342079592699047
+http://dbpedia.org/resource/Simon_Whitfield	0.3344539569847567
+http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's	0.49726792921452967
+http://dbpedia.org/resource/Jan_Řehula	0.3336735969334611
+http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's	0.49726792921452967
+http://www.la84foundation.org/5va/reports_frmst.htm	0.3349540449825904
+http://dbpedia.org/resource/Stephan_Vuckovic	0.3337326929688395
+http://dbpedia.org/resource/Category:2000_in_triathlon	0.3333992485663437
+http://dbpedia.org/resource/Category:Triathlon_at_the_2000_Summer_Olympics	0.3334061885284291
+2000 Summer	0.3343073615662374
+http://dbpedia.org/ontology/Event	0.3321168639973459
+http://dbpedia.org/ontology/Olympics	0.5264896580627666
+http://dbpedia.org/ontology/SportsEvent	0.9566814496259464
+http://schema.org/SportsEvent	0.8334916153876176
+http://www.wikidata.org/entity/Q1656682	0.3321168639973459
+http://www.w3.org/2002/07/owl#Thing	0.333607573185591
+http://dbpedia.org/ontology/SocietalEvent	0.49272843332538624
+http://schema.org/Event	0.3321168639973459
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.3321168639973459
+http://dbpedia.org/ontology/OlympicEvent	0.36312523025476806
+http://commons.wikimedia.org/wiki/Special:FilePath/Triathlon_pictogram.svg?width=300	0.3340110732271888
+Triathlon at the 2000 Summer Olympics – Men's	0.0

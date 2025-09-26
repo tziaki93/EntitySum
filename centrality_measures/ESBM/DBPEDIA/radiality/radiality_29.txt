@@ -1,0 +1,26 @@
+3073	0.3504492600422833
+257.0	0.0
+SM	0.2897439258870827
+036848	0.2969988801791713
+50.716667	0.0
+10.35	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png	0.2969589752776782
+http://dbpedia.org/ontology/Settlement	0.28284702670420614
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.28284702670420614
+http://dbpedia.org/ontology/Location	0.28284702670420614
+http://www.wikidata.org/entity/Q486972	0.281460256818423
+http://dbpedia.org/ontology/PopulatedPlace	0.28284702670420614
+http://schema.org/Place	0.28284702670420614
+http://dbpedia.org/ontology/Place	0.28284702670420614
+http://www.w3.org/2002/07/owl#Thing	0.28284702670420614
+http://dbpedia.org/resource/Germany	0.28284702670420614
+http://dbpedia.org/resource/Schmalkalden-Meiningen	0.34061954176512893
+Wernshausen	0.2969190810980252
+2006-12-31	0.3143310894093107
+http://dbpedia.org/resource/Schmalkalden	0.3917114668872216
+http://wernshausen.de/	0.2969190810980252
+http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png?width=300	0.2289734956401623
+50.71666666666667 10.35	0.2969190810980252
+http://dbpedia.org/resource/Category:Geography_of_Thuringia	0.23016575544563048
+98590	0.2970121841963806
+2.629E7	0.0

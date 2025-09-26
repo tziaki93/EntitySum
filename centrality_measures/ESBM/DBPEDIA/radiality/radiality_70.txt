@@ -1,0 +1,54 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG	0.0
+http://dbpedia.org/resource/Vietnam_War	0.42994127219981604
+http://dbpedia.org/resource/173rd_Airborne_Brigade_Combat_Team	0.25692506486170164
+http://dbpedia.org/resource/Lawrence_Joel	0.3500304155875278
+http://dbpedia.org/resource/1st_Brigade_Combat_Team,_1st_Cavalry_Division_(United_States)	0.3484710848071938
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_New_Zealand	0.3334189328592437
+http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War	0.3331944191596277
+http://dbpedia.org/resource/Category:1965_in_Vietnam	0.3482490004768367
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_the_United_States	0.33347163134579333
+http://dbpedia.org/resource/Category:Dong_Nai_Province	0.0
+http://dbpedia.org/resource/Category:Battles_involving_Vietnam	0.33382924953301835
+http://dbpedia.org/resource/Category:Conflicts_in_1965	0.3332901844286573
+http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_Australia	0.3334306421945855
+1965-11-08	0.3332039201235348
+http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300	0.0
+United States/Australian victory, Viet Cong retreats.	0.0
+48 US killed	0.0
+many more wounded	0.0
+2 Australian MIA (located and repatriated to Australia 5 June 2007)	0.0
+Operation Hump	0.33301546380452557
+http://dbpedia.org/resource/Biên_Hòa	0.3499699352398154
+http://dbpedia.org/resource/South_Vietnam	0.35393935157678913
+Operation Hump	0.33301546380452557
+Total Force around 400	0.0
+around 1200	8935.823529411764
+http://dbpedia.org/class/yago/Contest107456188	0.47622316896926836
+http://dbpedia.org/class/yago/Conflict100958896	0.4037920713651563
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingNewZealand	0.0
+http://www.wikidata.org/entity/Q1656682	0.30068129275399036
+http://dbpedia.org/class/yago/CampaignsOfTheVietnamWar	0.0
+http://dbpedia.org/class/yago/Battle100953559	0.3542926577838313
+http://dbpedia.org/class/yago/GroupAction101080366	0.4332285737100877
+http://dbpedia.org/class/yago/Event100029378	0.3279427828797672
+http://www.w3.org/2002/07/owl#Thing	0.3022072354351307
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia	0.0
+http://dbpedia.org/class/yago/ConflictsIn1965	0.0
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.30068129275399036
+http://dbpedia.org/class/yago/SocialEvent107288639	0.32260797913684647
+http://dbpedia.org/class/yago/Race107472657	0.39875733680530034
+http://dbpedia.org/ontology/Event	0.30068129275399036
+http://dbpedia.org/class/yago/Abstraction100002137	0.30087007500510005
+http://dbpedia.org/class/yago/PoliticalCampaign107472929	0.338466097465331
+http://dbpedia.org/class/yago/Act100030358	0.3279427828797672
+http://dbpedia.org/ontology/MilitaryConflict	0.40789699801299606
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.40052468525476237
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.30068129275399036
+http://schema.org/Event	0.30068129275399036
+http://dbpedia.org/ontology/SocietalEvent	0.3207416103273102
+http://dbpedia.org/class/yago/BattlesInvolvingVietnam	0.0
+http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingTheUnitedStates	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.30223308967773
+22pxViet Cong	0.24364186927519635
+22pxUnited States	0.2565085829880213
+22pxAustralia	0.0

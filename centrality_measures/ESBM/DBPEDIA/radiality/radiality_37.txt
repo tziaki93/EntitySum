@@ -1,0 +1,23 @@
+http://dbpedia.org/ontology/Species	0.0
+http://dbpedia.org/ontology/Reptile	0.45017277895440866
+http://www.w3.org/2002/07/owl#Thing	0.45047406581148913
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/ontology/Eukaryote	0.3099088729016787
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/ontology/Animal	0.4001981915025393
+http://dbpedia.org/resource/Animal	0.43208687744075325
+http://dbpedia.org/resource/Category:Crotalinae	0.31171487563437084
+Ovophis	0.2553144410551437
+http://dbpedia.org/resource/Viperidae	0.38826130846512524
+http://dbpedia.org/resource/Pit_viper	0.3794067219390751
+Ovophis	0.2553144410551437
+http://dbpedia.org/resource/Vertebrate	0.4830597171137227
+http://dbpedia.org/resource/Chordate	0.40720947819510966
+http://dbpedia.org/resource/Squamata	0.44216346417036184
+http://dbpedia.org/resource/Snake	0.5517453377962975
+http://dbpedia.org/resource/Ovophis_chaseni	0.2916252956149694
+http://dbpedia.org/resource/Ovophis_monticola	0.3148436890933188
+http://dbpedia.org/resource/Ovophis_okinavensis	0.33840997171886456
+http://dbpedia.org/resource/Reptile	0.48395697893885375
+In Romano-Hoge, 1981	0.0
+* Ovophis Burger	0.0

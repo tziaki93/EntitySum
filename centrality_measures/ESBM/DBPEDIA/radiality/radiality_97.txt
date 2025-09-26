@@ -1,0 +1,33 @@
+Rebel Love Song	0.3322741035447082
+237.0	0.2639309854507479
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	0.4588014759798472
+http://dbpedia.org/resource/Unholy_(song)	0.4531395097563967
+http://dbpedia.org/resource/Category:Black_Veil_Brides_songs	0.3332832179247066
+http://dbpedia.org/resource/Category:Glam_metal_songs	0.33159246611933346
+http://dbpedia.org/resource/Category:2011_singles	0.33881969675796536
+http://dbpedia.org/resource/Category:Hard_rock_songs	0.21914445903769295
+http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack	0.33310721753055783
+http://dbpedia.org/resource/Glam_metal	0.36079593013522815
+http://dbpedia.org/resource/Hard_rock	0.3817018094516545
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg	0.3322812186828153
+Rebel Love Song	0.3322741035447082
+http://dbpedia.org/resource/Black_Veil_Brides	0.35912591879431965
+http://dbpedia.org/resource/The_Legacy_(song)	0.4642147712042887
+http://www.wikidata.org/entity/Q386724	0.3330986369002898
+http://dbpedia.org/ontology/Work	0.3330986369002898
+http://schema.org/CreativeWork	0.3330986369002898
+http://dbpedia.org/ontology/MusicalWork	0.45518119364282233
+http://www.w3.org/2002/07/owl#Thing	0.35824871983118856
+http://www.wikidata.org/entity/Q134556	0.4489338926659916
+http://dbpedia.org/ontology/Single	0.718211945051283
+http://www.wikidata.org/entity/Q2188189	0.3330986369002898
+http://dbpedia.org/resource/Universal_Republic_Records	0.33496237517754684
+http://dbpedia.org/resource/Lava_Records	0.33526198892067305
+http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)	0.4588014759798472
+http://dbpedia.org/resource/Black_Veil_Brides	0.35912591879431965
+2011-08-22	0.29646286524345744
+http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg?width=300	0.3322812186828153
+http://dbpedia.org/resource/Music_download	0.0
+http://dbpedia.org/resource/Black_Veil_Brides	0.35912591879431965
+http://dbpedia.org/resource/The_Legacy_(song)	0.4642147712042887
+http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)	0.3585682595433959

@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Plant	0.47197489077887794
+EN	0.3326023083519604
+http://dbpedia.org/resource/Flowering_plant	0.44661813102107334
+http://dbpedia.org/resource/Malvales	0.3647721491013933
+http://dbpedia.org/resource/Rosids	0.36692566572062224
+http://dbpedia.org/resource/Dipterocarpaceae	0.3327910051669652
+http://dbpedia.org/resource/Eudicots	0.3693429289539004
+http://dbpedia.org/resource/André_Joseph_Guillaume_Henri_Kostermans	0.33129513025051227
+http://dbpedia.org/resource/Category:Stemonoporus	0.3160221732451746
+http://dbpedia.org/resource/Category:Endangered_plants	0.33882147392138706
+http://dbpedia.org/resource/Category:Flora_of_Sri_Lanka	0.3343776205327278
+http://dbpedia.org/resource/Stemonoporus	0.4373036116964253
+IUCN2.3	0.33557119960663984
+Stemonoporus laevifolius	0.31476365119981553
+http://www.w3.org/2002/07/owl#Thing	0.34371262124638624
+http://dbpedia.org/ontology/Plant	0.5958895484044295
+http://dbpedia.org/ontology/Eukaryote	0.3963977548797855
+http://dbpedia.org/class/yago/Organism100004475	0.3136994051039079
+http://www.wikidata.org/entity/Q756	0.45089382138818657
+http://dbpedia.org/ontology/Species	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.2488517554993023
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/class/yago/Object100002684	0.2488517554993023
+http://dbpedia.org/class/yago/Plant100017222	0.4544680360618789
+http://dbpedia.org/class/yago/Whole100003553	0.2488517554993023
+http://dbpedia.org/class/yago/LivingThing100004258	0.2488517554993023
+http://dbpedia.org/class/yago/EndangeredPlants	0.0

@@ -1,0 +1,57 @@
+British minister	0.0
+British minister	0.0
+Andrew	0.27022400634633076
+http://dbpedia.org/resource/Category:English_Christian_religious_leaders	0.3317429893631717
+http://dbpedia.org/resource/Category:1795_deaths	0.3327254463899136
+http://dbpedia.org/resource/Category:Dissenting_academy_tutors	0.3316547954853834
+http://dbpedia.org/resource/Category:People_from_Nottingham	0.3320617943736562
+http://dbpedia.org/resource/Category:1725_births	0.33259296447614434
+http://dbpedia.org/resource/Category:People_educated_at_Carre's_Grammar_School	0.33158610548262496
+http://dbpedia.org/resource/Category:18th-century_Presbyterian_ministers	0.3316170124624573
+http://dbpedia.org/resource/Category:Burials_at_Bunhill_Fields	0.3317246595021687
+http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society	0.339520441668699
+1795	0.33213412673441234
+1725	0.3317063316666206
+Andrew Kippis	0.33156779295371624
+Kippis, Andrew	192119.0
+Andrew Kippis	0.33156779295371624
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Kippis.jpg?width=300	0.33157065415302517
+Kippis	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Kippis.jpg	0.33157065415302517
+1725-03-28	0.0
+http://dbpedia.org/class/yago/Professional110480253	0.4916836644597261
+http://www.wikidata.org/entity/Q215627	0.0
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/class/yago/Colleague109935990	0.37399866456163167
+http://dbpedia.org/class/yago/Head110162991	0.4412673985943314
+http://dbpedia.org/class/yago/Executive110069645	0.40079901531272166
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.0
+http://dbpedia.org/class/yago/Administrator109770949	0.43414760914760914
+http://dbpedia.org/class/yago/EnglishChristianMinisters	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/Person100007846	0.27776789806449187
+http://dbpedia.org/class/yago/Educator110045713	0.4357497170515295
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/class/yago/Associate109816771	0.38361807319371893
+http://dbpedia.org/class/yago/FellowsOfTheRoyalSociety	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://dbpedia.org/class/yago/DissentingAcademyTutors	0.0
+http://dbpedia.org/class/yago/Coach109931418	0.33749791390350375
+http://dbpedia.org/class/yago/Peer109626238	0.3845910545881119
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/Teacher110694258	0.3657612068735745
+http://dbpedia.org/class/yago/PeopleFromNottingham	0.0
+http://dbpedia.org/class/yago/Adult109605289	0.3296205363653365
+http://dbpedia.org/class/yago/Leader109623038	0.3061696404097582
+http://dbpedia.org/ontology/Person	0.0
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/Minister110320863	0.37001534997756247
+http://schema.org/Person	0.0
+http://dbpedia.org/ontology/Agent	0.0
+1795-10-08	48029.75

@@ -1,0 +1,31 @@
+6129.0	0.0
+http://dbpedia.org/resource/Pop_rock	0.4123935246861249
+http://dbpedia.org/resource/Rock_music	0.7018192310863173
+Dave Clark's \	0.0
+Time (Dave Clark album)	0.3313761872631961
+http://dbpedia.org/resource/Category:1986_albums	0.3357766441399984
+http://dbpedia.org/resource/Category:Concept_albums	0.3382762000635795
+http://dbpedia.org/resource/Capitol_Records	0.2754917665841437
+http://dbpedia.org/resource/EMI	0.3802465643285738
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg?width=300	0.0
+http://www.time-themusical.com/	0.3313804871086198
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://www.wikidata.org/entity/Q386724	0.0
+http://dbpedia.org/class/yago/Medium106254669	0.0
+http://dbpedia.org/class/yago/ConceptAlbums	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://www.w3.org/2002/07/owl#Thing	0.4752011908638415
+http://dbpedia.org/class/yago/Artifact100021939	0.0
+http://schema.org/MusicAlbum	0.0
+http://dbpedia.org/class/yago/ConceptAlbum106592078	0.0
+http://schema.org/CreativeWork	0.0
+http://dbpedia.org/ontology/Work	0.0
+http://dbpedia.org/class/yago/1986Albums	0.0
+http://dbpedia.org/ontology/MusicalWork	0.0
+http://www.wikidata.org/entity/Q482994	0.0
+http://dbpedia.org/class/yago/Album106591815	0.0
+http://dbpedia.org/ontology/Album	0.2754917665841437
+http://dbpedia.org/class/yago/Instrumentality103575240	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://www.wikidata.org/entity/Q2188189	0.0

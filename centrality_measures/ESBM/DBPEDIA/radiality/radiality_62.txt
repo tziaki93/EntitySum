@@ -1,0 +1,37 @@
+http://dbpedia.org/resource/Team_Lotus	0.3440862324313191
+http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg?width=300	0.3334299604145777
+http://dbpedia.org/resource/Giancarlo_Baghetti	0.3417566145813038
+http://dbpedia.org/resource/John_Surtees	0.3416767306868207
+http://dbpedia.org/resource/Monza	0.338974534878665
+http://dbpedia.org/resource/Autodromo_Nazionale_Monza	0.34310695563727406
+http://dbpedia.org/resource/Italy	0.25315980703798985
+http://dbpedia.org/resource/Jim_Clark	0.3453020728754503
+http://dbpedia.org/resource/Jim_Clark	0.3453020728754503
+http://dbpedia.org/resource/Team_Lotus	0.3440862324313191
+391006.21824	0.0
+391006.0	0.0
+http://dbpedia.org/resource/Jack_Brabham	0.345477195176594
+http://www.wikidata.org/entity/Q1656682	0.0
+http://schema.org/SportsEvent	0.736343887413813
+http://schema.org/Event	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.4512096307442991
+http://dbpedia.org/ontology/SportsEvent	0.8221894115165577
+http://dbpedia.org/ontology/GrandPrix	0.48091461784683714
+http://www.w3.org/2002/07/owl#Thing	0.2637674948403613
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.0
+http://dbpedia.org/ontology/Event	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg	0.33343471401144337
+http://dbpedia.org/resource/Italy	0.25315980703798985
+68	0.0
+1967 Italian Grand Prix	0.3306129372738239
+http://dbpedia.org/resource/Category:1967_in_Italian_motorsport	0.33063786473648493
+http://dbpedia.org/resource/Category:Italian_Grand_Prix	0.33372493995100955
+http://dbpedia.org/resource/Category:European_Grand_Prix	0.33357579906722007
+http://dbpedia.org/resource/Category:1967_Formula_One_races	0.33070643464489735
+http://dbpedia.org/resource/Jim_Clark	0.3453020728754503
+http://dbpedia.org/resource/Brabham	0.3412961314518365
+5750.186112	0.0
+5750.0	0.0
+http://dbpedia.org/resource/Team_Lotus	0.3440862324313191
+http://dbpedia.org/resource/Honda_in_Formula_One	0.34051433369084655
+XXXII Gran Premio d'Italia	0.0

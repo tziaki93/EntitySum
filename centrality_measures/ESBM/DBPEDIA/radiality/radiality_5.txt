@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/Starting_pitcher	0.3530343880470878
+Dallas Keuchel	0.3318180640816432
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://www.wikidata.org/entity/Q10871364	0.44068020112487744
+http://www.wikidata.org/entity/Q215627	0.0
+http://dbpedia.org/ontology/BaseballPlayer	0.446327782036095
+http://schema.org/Person	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.25862295214349884
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/ontology/Athlete	0.30859627498765424
+http://www.w3.org/2002/07/owl#Thing	0.2712336308105991
+http://dbpedia.org/ontology/Person	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/ontology/Agent	0.25862295214349884
+Keuchel, Dallas	0.0
+Dallas Keuchel	0.3318180640816432
+http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg?width=300	0.3310834094315891
+American baseball player	0.0
+American baseball player	0.0
+Dallas	0.24247462097074393
+1988	0.40460386058924785
+http://dbpedia.org/resource/Houston_Astros	0.348838159208496
+Keuchel	76863.0
+http://dbpedia.org/resource/Category:Living_people	0.0
+http://dbpedia.org/resource/Category:Oklahoma_City_RedHawks_players	0.33245529805621155
+http://dbpedia.org/resource/Category:Corpus_Christi_Hooks_players	0.33254159852555615
+http://dbpedia.org/resource/Category:Houston_Astros_players	0.3344894513298983
+http://dbpedia.org/resource/Category:Gold_Glove_Award_winners	0.3328295906260555
+http://dbpedia.org/resource/Category:Sportspeople_from_Tulsa,_Oklahoma	0.33251570368063127
+http://dbpedia.org/resource/Category:Major_League_Baseball_pitchers	0.361334148176006
+http://dbpedia.org/resource/Category:Arkansas_Razorbacks_baseball_players	0.33207610752520933
+http://dbpedia.org/resource/Category:Salt_River_Rafters_players	0.33248981286822915
+http://dbpedia.org/resource/Category:Lancaster_JetHawks_players	0.33255310864015925
+http://dbpedia.org/resource/Category:American_League_All-Stars	0.3348187449360968
+http://dbpedia.org/resource/Category:Tri-City_ValleyCats_players	0.3322024082221857
+http://dbpedia.org/resource/Category:1988_births	0.3928717466418597
+1988-01-01	0.40460386058924785
+http://dbpedia.org/resource/Tulsa,_Oklahoma	0.3548516661588322
+http://dbpedia.org/resource/Houston_Astros	0.348838159208496
+http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg	0.3310834094315891

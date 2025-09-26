@@ -1,0 +1,51 @@
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png	0.0
+Battle of Bregalnica	0.33327198913471556
+http://dbpedia.org/resource/Ottoman_Empire	0.418341087491857
+http://dbpedia.org/resource/Bregalnica	0.33578334118275305
+http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png?width=300	0.0
+http://dbpedia.org/resource/Category:Battles_involving_Serbia	0.3335469872949567
+http://dbpedia.org/resource/Category:1913_in_Bulgaria	0.3349164253191151
+http://dbpedia.org/resource/Category:Battles_involving_Bulgaria	0.3334438098184135
+http://dbpedia.org/resource/Category:Battles_of_the_Second_Balkan_War	0.3333848799148745
+http://dbpedia.org/resource/Category:Conflicts_in_1913	0.3350006844525674
+http://dbpedia.org/resource/Category:Vardar_Macedonia_(1912–1918)	0.33335542277347646
+http://dbpedia.org/resource/Category:1913_in_Serbia	0.3349089927245962
+http://dbpedia.org/resource/Second_Balkan_War	0.5008906246542606
+1913-07-08	0.3036065156016336
+http://dbpedia.org/resource/Fourth_Army_(Bulgaria)	0.3706916668372464
+http://dbpedia.org/resource/Jovan_Babunski	0.3705793999320616
+http://dbpedia.org/resource/Mihail_Savov	0.3707022902013445
+Battle of Bregalnica	0.33327198913471556
+Serbian victory	0.33339224501367853
+http://dbpedia.org/resource/Živojin_Mišić	0.37327732270285646
+http://dbpedia.org/resource/Vicho_Dikov	0.27104280852159285
+http://dbpedia.org/resource/Janko_Vukotić	0.33536050133519013
+http://dbpedia.org/resource/Alexander_I_of_Yugoslavia	0.3745356927175109
+http://dbpedia.org/resource/Mihail_Savov	0.3707022902013445
+http://dbpedia.org/resource/Stiliyan_Kovachev	0.3705976007563634
+http://dbpedia.org/resource/Radomir_Putnik	0.37354218835730874
+http://dbpedia.org/resource/Petar_Bojović	0.37323270212116966
+ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *	0.0
+ca. 130,000 men,  guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)	0.0
+Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns	0.0
+20,000	0.3313026424593679
+http://dbpedia.org/class/yago/GroupAction101080366	0.4908760706928331
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.42491975297054796
+http://dbpedia.org/ontology/MilitaryConflict	0.439670200006798
+http://dbpedia.org/class/yago/Battle100953559	0.36998733297920156
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.33372893162660927
+http://dbpedia.org/ontology/Event	0.33372893162660927
+http://dbpedia.org/class/yago/Conflict100958896	0.4311310243688756
+http://dbpedia.org/class/yago/ConflictsIn1913	0.0
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.3351867001802776
+http://www.wikidata.org/entity/Q1656682	0.33372893162660927
+http://dbpedia.org/class/yago/BattlesOfTheSecondBalkanWar	0.0
+http://dbpedia.org/class/yago/Event100029378	0.39738694614142267
+http://dbpedia.org/class/yago/Abstraction100002137	0.33531827591442526
+http://dbpedia.org/class/yago/BattlesInvolvingBulgaria	0.0
+http://www.w3.org/2002/07/owl#Thing	0.37220171493871107
+http://dbpedia.org/class/yago/BattlesInvolvingSerbia	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.37866761458681836
+http://schema.org/Event	0.33372893162660927
+http://dbpedia.org/class/yago/Act100030358	0.3953758487435321
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.3706491794689164

@@ -1,0 +1,36 @@
+http://schema.org/Place	0.3483363012748465
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.3483363012748465
+http://dbpedia.org/class/yago/Region108630985	0.3480574367330312
+http://dbpedia.org/class/yago/YagoGeoEntity	0.39804405565674245
+http://dbpedia.org/class/yago/Mountain109359803	0.3948467966573816
+http://dbpedia.org/ontology/Location	0.3483363012748465
+http://dbpedia.org/class/yago/NaturalElevation109366317	0.42077130633726956
+http://dbpedia.org/ontology/Place	0.4511120236410433
+http://dbpedia.org/class/yago/Object100002684	0.39804405565674245
+http://www.w3.org/2002/07/owl#Thing	0.3483363012748465
+http://dbpedia.org/ontology/NaturalPlace	0.6161747178013041
+http://dbpedia.org/ontology/Mountain	0.49733826471836534
+http://dbpedia.org/class/yago/Area108497294	0.0
+http://dbpedia.org/class/yago/Location100027167	0.3483363012748465
+http://schema.org/Mountain	0.3986204975021221
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.3483363012748465
+http://dbpedia.org/class/yago/ProtectedAreasOfPickensCounty,SouthCarolina	0.0
+http://dbpedia.org/class/yago/MountainsOfSouthCarolina	0.0
+http://dbpedia.org/class/yago/GeologicalFormation109287968	0.4408072455772028
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.3483363012748465
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.3483363012748465
+http://www.wikidata.org/entity/Q8502	0.3986230804121039
+USGSTable Rock	0.33334868599295586
+1040.892	0.0
+http://dbpedia.org/resource/South_Carolina	0.3634980471865897
+http://dbpedia.org/resource/Pickens_County,_South_Carolina	0.3477397018300007
+http://dbpedia.org/resource/Blue_Ridge_Mountains	0.5020237794080445
+35.033611111111114 -82.74138888888889	0.33334868599295586
+-82.74139	0.0
+http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina	0.33336674975615044
+http://dbpedia.org/resource/Category:Protected_areas_of_Pickens_County,_South_Carolina	0.3333812021763163
+http://dbpedia.org/resource/Category:Mountains_of_South_Carolina	0.3333866221569509
+Pinnacle Mountain	0.3333559112633165
+214.884	0.0
+35.03361	0.0
+Pinnacle Mountain (South Carolina)	0.33334868599295586

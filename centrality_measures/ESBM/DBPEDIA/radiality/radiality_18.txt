@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/Irish_War_of_Independence	0.5060428796114897
+http://dbpedia.org/ontology/Event	0.33600828134590194
+http://dbpedia.org/ontology/MilitaryConflict	0.8434862596297574
+http://www.wikidata.org/entity/Q1656682	0.33600828134590194
+http://www.w3.org/2002/07/owl#Thing	0.3463060000944153
+http://schema.org/Event	0.33600828134590194
+http://dbpedia.org/ontology/SocietalEvent	0.4765239307800239
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.33600828134590194
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg	0.3414254996323153
+~20	0.33340605201203494
+14 (initially)	0.33338786936801823
+50 (subsequently)	0.33338786936801823
+Burgery Ambush	0.33338786936801823
+http://dbpedia.org/resource/George_Oliver_Plunkett	0.34327240737101195
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300	0.334406112103862
+Burgery ambush	0.33338786936801823
+2 dead	0.31398683410804934
+1921-03-18	0.33360012369371256
+http://dbpedia.org/resource/Category:History_of_County_Waterford	0.33355765120995245
+http://dbpedia.org/resource/Category:Military_actions_and_engagements_during_the_Irish_War_of_Independence	0.3336426069950425
+http://dbpedia.org/resource/Category:1921_in_Ireland	0.3336061920743631
+http://dbpedia.org/resource/Category:Dungarvan	0.33607601315753305
+http://dbpedia.org/resource/Dungarvan	0.349426973677943
+http://dbpedia.org/resource/County_Waterford	0.34444903555396955
+(Déise Brigade)	0.33338786936801823
+Royal Irish Constabulary	0.3334788024256971
+border|22pxIrish Republican Army	0.33348486639330105
+(Reserve Force)	0.33338786936801823

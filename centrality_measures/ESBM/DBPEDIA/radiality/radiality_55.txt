@@ -1,0 +1,57 @@
+http://dbpedia.org/resource/Japan	0.25921214749597615
+http://dbpedia.org/resource/Aichi_Prefecture	0.33816493737379477
+http://dbpedia.org/resource/Mystery_fiction	0.352823203096249
+http://dbpedia.org/resource/Science_fiction	0.3655191472158111
+1996	0.39103239669873946
+http://dbpedia.org/resource/Ellery_Queen	0.3792313430656547
+http://dbpedia.org/resource/Mephisto_Prize	0.3299205742488735
+http://dbpedia.org/resource/Subete_ga_F_ni_Naru	0.3221587000890813
+http://dbpedia.org/resource/The_Sky_Crawlers	0.32193653219027274
+Hiroshi	0.2040233373561946
+http://dbpedia.org/class/yago/Object100002684	0.28503586643121526
+http://dbpedia.org/class/yago/Organism100004475	0.2749595308075938
+http://www.wikidata.org/entity/Q36180	0.42739389950184753
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.28503586643121526
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/class/yago/PeopleFromAichiPrefecture	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.2749595308075938
+http://dbpedia.org/ontology/Writer	0.4398213004670696
+http://www.wikidata.org/entity/Q215627	0.0
+http://dbpedia.org/class/yago/JapaneseNovelists	0.0
+http://dbpedia.org/class/yago/Writer110794014	0.2914681547831587
+http://schema.org/Person	0.0
+http://dbpedia.org/class/yago/Novelist110363573	0.36317550389488884
+http://dbpedia.org/class/yago/JapaneseMysteryWriters	0.0
+http://dbpedia.org/class/yago/LivingPeople	0.0
+http://dbpedia.org/class/yago/Person100007846	0.2749595308075938
+http://dbpedia.org/ontology/Agent	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.2749595308075938
+http://dbpedia.org/class/yago/LivingThing100004258	0.2749595308075938
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.28503586643121526
+http://dbpedia.org/ontology/Person	0.3133836882528832
+http://dbpedia.org/class/yago/Communicator109610660	0.2749595308075938
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.2749595308075938
+http://www.w3.org/2002/07/owl#Thing	0.31707663554720966
+1957	0.3483075932762127
+Hiroshi Mori (writer)	0.301690183083808
+Japanese writer	0.0
+Japanese writer	0.0
+http://dbpedia.org/resource/Japanese_people	0.344622941248845
+Hiroshi Mori	0.3062276653168497
+Mori, Hiroshi	142850.0
+1957-12-07	0.31163827707773395
+http://dbpedia.org/resource/Subete_ga_F_ni_Naru	0.3221587000890813
+http://dbpedia.org/resource/The_Sky_Crawlers	0.32193653219027274
+Mori	0.2218054043814525
+http://dbpedia.org/resource/Japanese_people	0.344622941248845
+http://www001.upp.so-net.ne.jp/mori/index.html	0.301690183083808
+http://dbpedia.org/resource/Category:Nagoya_University_faculty	0.31068058295291184
+http://dbpedia.org/resource/Category:1957_births	0.3569028279895765
+http://dbpedia.org/resource/Category:Nagoya_University_alumni	0.3106900429115474
+http://dbpedia.org/resource/Category:People_from_Aichi_Prefecture	0.3107454628116972
+http://dbpedia.org/resource/Category:Living_people	0.0
+http://dbpedia.org/resource/Category:Japanese_mystery_writers	0.32189590717860544
+http://dbpedia.org/resource/Category:Japanese_novelists	0.28132705229906335

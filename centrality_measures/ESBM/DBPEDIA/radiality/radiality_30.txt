@@ -1,0 +1,24 @@
+1976	0.36584327231971003
+http://dbpedia.org/resource/Sagami_Railway_Izumino_Line	0.3332423089574192
+Yayoidai Station	0.33312446490389985
+http://dbpedia.org/resource/Japan	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg?width=300	0.0
+5-2 Yayoidai	0.0
+神奈川県 横浜市泉区弥生台５－２	0.0
+http://dbpedia.org/ontology/Station	0.7869936096617225
+http://schema.org/Place	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://www.wikidata.org/entity/Q719456	0.6153661024330426
+http://dbpedia.org/ontology/Place	0.0
+http://www.wikidata.org/entity/Q55488	0.33679463336459065
+http://dbpedia.org/ontology/ArchitecturalStructure	0.0
+http://www.w3.org/2002/07/owl#Thing	0.2501549054960004
+http://dbpedia.org/ontology/RailwayStation	0.4717391399842739
+http://dbpedia.org/ontology/Infrastructure	0.4404009087702894
+http://dbpedia.org/resource/Category:Railway_stations_in_Yokohama	0.33332298715004033
+http://dbpedia.org/resource/Sagami_Railway	0.33360877777225506
+16032	0.2114263551545387
+弥生台	0.0
+Yayoidai	0.3331265316251512
+http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg	0.0
+245-0008	0.0

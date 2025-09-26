@@ -1,0 +1,75 @@
+http://dbpedia.org/resource/Pleven	0.38295552774516506
+http://dbpedia.org/resource/Bulgaria	0.4747604804785592
+Momchil Emilov Tsvetanov	0.272505267409995
+Momchil Tsvetanov	0.2885942908256524
+Tsvetanov, Momchil	0.0
+http://dbpedia.org/class/yago/PFCLitexLovechPlayers	0.0
+http://dbpedia.org/class/yago/Player110439851	0.0
+http://dbpedia.org/class/yago/BulgarianFootballers	0.0
+http://dbpedia.org/class/yago/FootballPlayer110101634	0.0
+http://dbpedia.org/class/yago/BulgarianAProfessionalFootballGroupPlayers	0.0
+http://www.wikidata.org/entity/Q215627	0.26243893813134106
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://www.w3.org/2002/07/owl#Thing	0.3429639386691624
+http://dbpedia.org/ontology/Agent	0.2951925850049228
+http://dbpedia.org/ontology/SoccerPlayer	0.0
+http://dbpedia.org/class/yago/PFCSpartakPlevenPlayers	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.2951925850049228
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.33700242966461547
+http://xmlns.com/foaf/0.1/Person	0.26243893813134106
+http://dbpedia.org/class/yago/LivingPeople	0.0
+http://dbpedia.org/class/yago/Athlete109820263	0.0
+http://dbpedia.org/ontology/Athlete	0.0
+http://dbpedia.org/class/yago/Contestant109613191	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.2967864177656905
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/ontology/Person	0.26243893813134106
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.32291139722480594
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.26243893813134106
+http://www.wikidata.org/entity/Q5	0.26243893813134106
+http://www.wikidata.org/entity/Q937857	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://dbpedia.org/class/yago/Object100002684	0.32291139722480594
+http://schema.org/Person	0.26243893813134106
+http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players	0.33085325753775846
+http://dbpedia.org/resource/Category:Living_people	0.0
+http://dbpedia.org/resource/Category:PFC_Botev_Plovdiv_players	0.23065924288284229
+http://dbpedia.org/resource/Category:PFC_Litex_Lovech_players	0.3297762421118123
+http://dbpedia.org/resource/Category:PFC_Spartak_Pleven_players	0.3293152417511705
+http://dbpedia.org/resource/Category:Association_football_midfielders	0.0
+http://dbpedia.org/resource/Category:Bulgarian_A_Football_Group_players	0.23065924288284229
+http://dbpedia.org/resource/Category:Bulgarian_footballers	0.3354068499497158
+http://dbpedia.org/resource/Category:1990_births	0.4160563478992186
+7	0.34254044821935514
+1.73	0.0
+Момчил Цветанов	0.0
+Tsvetanov	0.2563465914733938
+http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG?width=300	0.0
+Momchil Tsvetanov	0.2885942908256524
+http://dbpedia.org/resource/Midfielder	0.0
+Bulgarian footballer	0.0
+Bulgarian footballer	0.0
+1990-03-12	0.3085418778098282
+1990-12-03	0.303422931648701
+Momchil	0.24355471314165683
+http://dbpedia.org/resource/PFC_CSKA_Sofia	0.41183938506791723
+http://dbpedia.org/resource/PFC_Botev_Plovdiv	0.34894725086112643
+http://dbpedia.org/resource/PFC_Litex_Lovech	0.40185884678391076
+http://dbpedia.org/resource/Bulgaria_national_under-19_football_team	0.39035632796112546
+http://dbpedia.org/resource/Bulgaria_national_under-21_football_team	0.3933436696615515
+http://dbpedia.org/resource/PFC_Spartak_Pleven	0.34365882461908953
+http://dbpedia.org/resource/Momchil_Tsvetanov__7	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__5	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__1	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__3	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__4	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__2	4566.538461538462
+http://dbpedia.org/resource/Momchil_Tsvetanov__6	4566.538461538462
+1990	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG	0.0
+http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2015	0.35226645621072494
+http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2014	0.35339044092697647
+http://dbpedia.org/resource/2015–16_PFC_CSKA_Sofia_season__Momchil_Tsvetanov__1	0.32336167593565995
+http://dbpedia.org/resource/PFC_CSKA_Sofia__Momchil_Tsvetanov__1	0.0

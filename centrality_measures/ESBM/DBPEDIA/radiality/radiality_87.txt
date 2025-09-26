@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/Anostomidae	0.34371246750918705
+http://dbpedia.org/resource/Pseudanos	0.4860452736444523
+Pseudanos trimaculatus	0.32765426613578497
+Pseudanos trimaculatus	0.32765426613578497
+http://dbpedia.org/resource/Category:Fish_of_Argentina	0.33939286662536505
+http://dbpedia.org/resource/Category:Fish_of_Peru	0.33955514627753774
+http://dbpedia.org/resource/Category:Fish_of_Brazil	0.34258250102735444
+http://dbpedia.org/resource/Category:Fish_of_South_America	0.3493231795077338
+http://dbpedia.org/resource/Category:Anostomidae	0.3298468948907621
+http://www.wikidata.org/entity/Q729	0.3289527861652484
+http://www.wikidata.org/entity/Q19088	0.3289527861652484
+http://www.wikidata.org/entity/Q152	0.4939333831371236
+http://dbpedia.org/ontology/Animal	0.476502895201173
+http://www.w3.org/2002/07/owl#Thing	0.3625945537065053
+http://dbpedia.org/ontology/Fish	0.7604807043985246
+http://dbpedia.org/ontology/Species	0.3289527861652484
+http://dbpedia.org/ontology/Eukaryote	0.33173010380622836
+http://dbpedia.org/resource/Actinopterygii	0.38761194331574583
+http://dbpedia.org/resource/Characiformes	0.3647188617515027
+iucn3.1	0.0
+http://dbpedia.org/resource/Chordate	0.37210114692697316
+http://dbpedia.org/resource/Rudolf_Kner	0.3376774329893276
+http://dbpedia.org/resource/Animal	0.27119075569636364

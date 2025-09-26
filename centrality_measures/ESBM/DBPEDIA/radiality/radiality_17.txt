@@ -1,0 +1,35 @@
+http://www.wikidata.org/entity/Q1656682	0.33426547639168447
+http://dbpedia.org/ontology/Event	0.33426547639168447
+http://dbpedia.org/class/yago/Event100029378	0.4265379613230421
+http://dbpedia.org/ontology/MilitaryConflict	0.504249401220737
+http://dbpedia.org/class/yago/ConflictsIn1746	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.3360243426506099
+http://dbpedia.org/class/yago/Abstraction100002137	0.33426547639168447
+http://dbpedia.org/class/yago/Battle100953559	0.38643953389228364
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.33426547639168447
+http://dbpedia.org/class/yago/BattlesInvolvingAustria	0.0
+http://dbpedia.org/class/yago/Act100030358	0.4265379613230421
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.33426547639168447
+http://dbpedia.org/ontology/SocietalEvent	0.40008704874116485
+http://dbpedia.org/class/yago/Conflict100958896	0.48888006651735216
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.4778937964969832
+http://schema.org/Event	0.33426547639168447
+http://dbpedia.org/class/yago/GroupAction101080366	0.6046582728814031
+http://dbpedia.org/class/yago/BattlesInvolvingFrance	0.0
+http://www.w3.org/2002/07/owl#Thing	0.33623554261868577
+http://dbpedia.org/resource/War_of_the_Austrian_Succession	0.50209253304202
+French victory	0.333329928446299
+Battle of Rottofreddo	0.33336738602988125
+http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois	0.3370255615801704
+http://dbpedia.org/resource/Antoniotto_Botta_Adorno	0.33725719187461567
+1746-08-12	65265.0
+http://dbpedia.org/resource/Category:1746_in_Austria	0.33340144568465685
+http://dbpedia.org/resource/Category:Battles_involving_France	0.3368151064916835
+http://dbpedia.org/resource/Category:1746_in_Italy	0.33339803940599827
+http://dbpedia.org/resource/Category:1746_in_France	0.3334116649382628
+http://dbpedia.org/resource/Category:Conflicts_in_1746	0.33351389194078357
+http://dbpedia.org/resource/Category:Battles_involving_Austria	0.33477299656840365
+Battle of Rottofreddo	0.33336738602988125
+http://dbpedia.org/resource/Province_of_Piacenza	0.334949961508853
+http://dbpedia.org/resource/Italy	0.33623554261868577
+http://dbpedia.org/resource/Rottofreno	0.3345361908032662

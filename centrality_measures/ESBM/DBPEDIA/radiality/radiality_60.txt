@@ -1,0 +1,55 @@
+http://dbpedia.org/resource/Youngstown,_Ohio	0.4231730466202004
+http://dbpedia.org/resource/Ohio	0.5379978010100446
+2013	0.0
+http://dbpedia.org/resource/Fort_Thomas,_Kentucky	0.3301578769806099
+Hughes	0.2669184576339354
+William Anthony	8248.42857142857
+1921-09-23	0.21111537688074736
+William Anthony Hughes	57739.0
+1921	0.0
+http://dbpedia.org/class/yago/Scholar110557854	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://dbpedia.org/ontology/Agent	0.0
+http://dbpedia.org/class/yago/Alumnus109786338	0.0
+http://dbpedia.org/class/yago/Clergyman109927451	0.0
+http://dbpedia.org/class/yago/Priest110470779	0.0
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://dbpedia.org/class/yago/Intellectual109621545	0.0
+http://dbpedia.org/class/yago/Bishop109857200	0.0
+http://dbpedia.org/class/yago/St.CharlesCollegeAlumni	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/SpiritualLeader109505153	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.29868604831617607
+http://www.wikidata.org/entity/Q215627	0.0
+http://www.w3.org/2002/07/owl#Thing	0.35645758735646377
+http://dbpedia.org/class/yago/YagoLegalActor	0.0
+http://dbpedia.org/class/yago/LivingPeople	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/class/yago/Object100002684	0.29868604831617607
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.29868604831617607
+http://schema.org/Person	0.0
+http://dbpedia.org/class/yago/PeopleFromYoungstown,Ohio	0.0
+http://dbpedia.org/class/yago/AmericanRomanCatholicBishops	0.0
+http://dbpedia.org/class/yago/St.Mary'sSeminary(Ohio)Alumni	0.0
+http://dbpedia.org/ontology/Person	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/Leader109623038	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/resource/Category:American_Roman_Catholic_bishops	0.2347142444826563
+http://dbpedia.org/resource/Category:Saint_Mary_Seminary_and_Graduate_School_of_Theology_alumni	0.3274838212023073
+http://dbpedia.org/resource/Category:People_from_Covington,_Kentucky	0.32502645740920044
+http://dbpedia.org/resource/Category:2013_deaths	0.36931451122866044
+http://dbpedia.org/resource/Category:Roman_Catholic_Diocese_of_Covington	0.23560880263442463
+http://dbpedia.org/resource/Category:University_of_Notre_Dame_alumni	0.33206043213462083
+http://dbpedia.org/resource/Category:1921_births	0.3652309774873647
+http://dbpedia.org/resource/Category:American_people_of_Irish_descent	0.3416771704332286
+http://dbpedia.org/resource/Category:St._Charles_College_alumni	0.27866850711403696
+http://dbpedia.org/resource/Category:People_from_Youngstown,_Ohio	0.3277626716469593
+Prelate of the Roman Catholic Church	0.0
+Prelateof theRoman Catholic Church	0.0
+William Anthony Hughes	57739.0
+Hughes, William Anthony	0.0
+2013-02-07	0.2843851431554787

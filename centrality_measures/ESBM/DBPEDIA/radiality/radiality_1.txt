@@ -1,0 +1,23 @@
+Great Ocean Radio	0.0
+3WAY FM	0.3333505408908926
+http://3wayfm.org.au	0.0
+http://schema.org/RadioStation	0.46353796948403614
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://www.wikidata.org/entity/Q15265344	0.5135008570570252
+http://dbpedia.org/ontology/Broadcaster	0.554313510420144
+http://dbpedia.org/ontology/RadioStation	0.5277558322209206
+http://dbpedia.org/ontology/Agent	0.0
+http://schema.org/Organization	0.0
+http://www.w3.org/2002/07/owl#Thing	0.30798785367172055
+http://dbpedia.org/ontology/Organisation	0.36082723852333826
+http://www.wikidata.org/entity/Q43229	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson	0.0
+http://dbpedia.org/resource/Warrnambool	0.37880733406769607
+http://dbpedia.org/resource/Victoria_(Australia)	0.43174355545650395
+3WAY FM	0.3333505408908926
+3 - Victoria	0.33235352986589656
+Warrnambool And You	0.3333505408908926
+http://dbpedia.org/resource/Community_radio	0.34031527047442817
+http://dbpedia.org/resource/Category:Community_radio_stations_in_Australia	0.3338906124324945
+http://dbpedia.org/resource/Category:Radio_stations_in_Victoria	0.3336299340972238
+http://dbpedia.org/resource/Category:Radio_stations_established_in_1990	0.3347020813416418

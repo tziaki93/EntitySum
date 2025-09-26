@@ -1,0 +1,50 @@
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://www.wikidata.org/entity/Q5	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.2717121493908225
+http://dbpedia.org/class/yago/Player110439851	0.27122625425282826
+http://dbpedia.org/class/yago/GolfersFromGeorgia(U.S.State)	0.0
+http://dbpedia.org/class/yago/GeorgiaBulldogsWomen'sGolfers	0.0
+http://dbpedia.org/class/yago/YagoLegalActor	0.2717121493908225
+http://www.w3.org/2002/07/owl#Thing	0.2717121493908225
+http://dbpedia.org/class/yago/Object100002684	0.2717121493908225
+http://dbpedia.org/class/yago/CausalAgent100007347	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.2717121493908225
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.2717121493908225
+http://www.wikidata.org/entity/Q13156709	0.3125049109910162
+http://dbpedia.org/class/yago/Golfer110136959	0.37156915666652823
+http://dbpedia.org/ontology/Person	0.0
+http://schema.org/Person	0.0
+http://dbpedia.org/ontology/GolfPlayer	0.31383930137130434
+http://dbpedia.org/ontology/Athlete	0.23911925232645917
+http://dbpedia.org/class/yago/Contestant109613191	0.0
+http://dbpedia.org/class/yago/LPGATourGolfers	0.0
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://dbpedia.org/class/yago/AmericanFemaleGolfers	0.0
+http://dbpedia.org/class/yago/PeopleFromAthens,Georgia	0.0
+http://www.wikidata.org/entity/Q215627	0.0
+http://dbpedia.org/class/yago/LivingPeople	0.0
+http://xmlns.com/foaf/0.1/Person	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	0.0
+http://dbpedia.org/class/yago/Organism100004475	0.0
+http://dbpedia.org/ontology/Agent	0.2717121493908225
+Professional golfer	0.21841591408347572
+Professional golfer	0.21841591408347572
+http://dbpedia.org/resource/University_of_Georgia	0.372481684981685
+Cindy Mackey	0.289872208095107
+Mackey, Cindy	0.0
+Cindy Pleger Mackey	0.289872208095107
+http://dbpedia.org/resource/Category:1961_births	0.4628614286453215
+http://dbpedia.org/resource/Category:Golfers_from_Georgia_(U.S._state)	0.2901918181375967
+http://dbpedia.org/resource/Category:Georgia_Bulldogs_women's_golfers	0.2899520445855745
+http://dbpedia.org/resource/Category:Sportspeople_from_Athens,_Georgia	0.3351498127340824
+http://dbpedia.org/resource/Category:Living_people	0.0
+http://dbpedia.org/resource/Category:LPGA_Tour_golfers	0.2927024728509747
+http://dbpedia.org/resource/Category:American_female_golfers	0.33745639671914773
+1961-04-02	0.33508706234787494
+Mackey	701.843137254902
+1961	0.40247824229203677
+Cindy	350.921568627451
+1.7526	0.0
+Pleger, Cindy	0.0
+Cindy Mackey	0.289872208095107

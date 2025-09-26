@@ -1,0 +1,29 @@
+Eastern Sumatran rhinoceros	22872.0
+Eastern Sumatran rhinoceros	22872.0
+EW	2287.2
+http://dbpedia.org/resource/Animal	0.33570128573944696
+http://commons.wikimedia.org/wiki/Special:FilePath/Patung_badak_sumbu.JPG	0.0
+http://dbpedia.org/resource/Sumatran_rhinoceros	0.34889254988101776
+http://dbpedia.org/resource/Rhinoceros	0.38936365803002965
+http://commons.wikimedia.org/wiki/Special:FilePath/Patung_badak_sumbu.JPG?width=300	0.0
+http://dbpedia.org/resource/Category:Mammals_of_Southeast_Asia	0.3315839832990229
+http://dbpedia.org/resource/Category:Mammals_of_Borneo	0.3311567029116655
+http://dbpedia.org/resource/Category:Mammals_of_Indonesia	0.3313774068761681
+http://dbpedia.org/resource/Category:Rhinoceroses	0.33650139767544507
+http://dbpedia.org/resource/Category:Mammal_extinctions_since_1500	0.32030024647098365
+http://dbpedia.org/resource/Category:Mammals_of_Malaysia	0.3305584460631287
+http://dbpedia.org/resource/Category:Animals_described_in_1965	0.20383028401850087
+http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities	0.3261743817917344
+http://dbpedia.org/resource/Chordate	0.38271171125947495
+http://dbpedia.org/resource/Odd-toed_ungulate	0.3826348808030113
+http://dbpedia.org/resource/Mammal	0.4818708522068893
+http://dbpedia.org/ontology/Animal	0.40759881669458603
+http://dbpedia.org/ontology/Mammal	0.5493455025819622
+http://www.wikidata.org/entity/Q7377	0.5105015289154744
+http://dbpedia.org/ontology/Species	0.0
+http://www.w3.org/2002/07/owl#Thing	0.34642997788615915
+http://dbpedia.org/ontology/Eukaryote	0.0
+http://www.wikidata.org/entity/Q19088	0.0
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/resource/Sumatran_rhinoceros	0.34889254988101776
+iucn3.1	0.0

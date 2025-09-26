@@ -1,0 +1,22 @@
+The Crowd Snores	0.2078736478959284
+http://dbpedia.org/ontology/Work	0.0
+http://schema.org/CreativeWork	0.0
+http://www.wikidata.org/entity/Q386724	0.0
+http://dbpedia.org/ontology/Cartoon	0.3796475568536081
+http://www.wikidata.org/entity/Q627603	0.3483903996145391
+http://www.w3.org/2002/07/owl#Thing	0.22290944123314066
+http://dbpedia.org/ontology/HollywoodCartoon	0.3494005013439642
+The Crowd Snores	0.2078736478959284
+http://dbpedia.org/resource/Category:1930s_comedy_films	0.23699196984595214
+http://dbpedia.org/resource/Category:English-language_films	0.2854217551131177
+http://dbpedia.org/resource/Category:Universal_Pictures_films	0.2782146550272948
+http://dbpedia.org/resource/Category:Films_directed_by_Walter_Lantz	0.28981186903479544
+http://dbpedia.org/resource/Category:American_films	0.23709882362585563
+http://dbpedia.org/resource/Category:1932_animated_films	0.29018988135550705
+http://dbpedia.org/resource/Category:Auto_racing_films	0.23696284461922903
+http://dbpedia.org/resource/Category:Films_about_dogs	0.2863542981609366
+http://dbpedia.org/resource/Category:Black-and-white_films	0.23678824348110852
+http://dbpedia.org/resource/Category:Walter_Lantz_Productions_shorts	0.290495919648462
+http://dbpedia.org/resource/Category:1930s_American_animated_films	0.3408662345315262
+http://dbpedia.org/resource/Walter_Lantz	0.2862905221479832
+http://dbpedia.org/resource/Pooch_the_Pup	0.2627347671064883

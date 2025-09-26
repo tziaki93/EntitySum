@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Category:2009_albums	0.40116446647835363
+http://dbpedia.org/resource/Indie_folk	0.35769725006425085
+http://dbpedia.org/resource/Greg_Connors	0.18593528735939296
+http://dbpedia.org/resource/Stan_Satin	0.185558488654241
+Wide Awake Drunk	0.0
+http://dbpedia.org/resource/Scared_Records	0.22781287851507512
+http://dbpedia.org/resource/Invisible_Tape	0.135666244273321
+Wide Awake Drunk	0.0
+http://schema.org/CreativeWork	0.0
+http://www.wikidata.org/entity/Q2188189	0.0
+http://www.wikidata.org/entity/Q386724	0.0
+http://www.wikidata.org/entity/Q482994	0.0
+http://dbpedia.org/class/yago/Whole100003553	0.15686849105089942
+http://dbpedia.org/class/yago/Album106591815	0.11945960792391938
+http://dbpedia.org/ontology/MusicalWork	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.15686849105089942
+http://dbpedia.org/class/yago/2009Albums	0.0
+http://dbpedia.org/ontology/Album	0.11945960792391938
+http://dbpedia.org/class/yago/Instrumentality103575240	0.11945960792391938
+http://www.w3.org/2002/07/owl#Thing	0.26607784660090233
+http://dbpedia.org/ontology/Work	0.0
+http://dbpedia.org/class/yago/Medium106254669	0.11945960792391938
+http://dbpedia.org/class/yago/Artifact100021939	0.11945960792391938
+http://dbpedia.org/class/yago/Object100002684	0.15686849105089942
+http://schema.org/MusicAlbum	0.0
+3259.0	0.0
+http://dbpedia.org/resource/Album	0.11945960792391938
+http://dbpedia.org/resource/Fluke_EP	0.0
+http://dbpedia.org/resource/Invisible_Tape	0.135666244273321
+http://dbpedia.org/resource/Atlanta	0.0
+http://dbpedia.org/resource/New_York	0.24408123180526814
