@@ -1,0 +1,10 @@
+Pirates of the Caribbean films actor Tom Hollander (Actor).
+Pirates of the Caribbean: Dead Man's Chest actor Tom Hollander (Actor).
+Tom Hollander (Actor) <http://www.w3.org/2000/01/rdf-schema#label> Tom Hollander (Actor).
+Tom Hollander (Actor) <http://data.linkedmdb.org/resource/movie/actor_actorid> 39725.
+Tom Hollander (Actor) <http://data.linkedmdb.org/resource/movie/actor_name> Tom Hollander.
+Tom Hollander (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> actor.
+Tom Hollander (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+Tom Hollander (Actor) <http://data.linkedmdb.org/resource/movie/performance> performance #85137.
+Tom Hollander (Actor) <http://data.linkedmdb.org/resource/movie/performance> performance #76420.
+Tom Hollander (Actor) <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000072977e>.

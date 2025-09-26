@@ -1,0 +1,10 @@
+Fred C. Newmeyer (Director) <http://data.linkedmdb.org/resource/movie/director_name> Fred C. Newmeyer.
+Fred C. Newmeyer (Director) <http://www.w3.org/2000/01/rdf-schema#label> Fred C. Newmeyer (Director).
+Fred C. Newmeyer (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+Fred C. Newmeyer (Director) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> director.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b97495>.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/made> The Freshman.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/made> Mail and Female.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/made> A Sailor-Made Man.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/made> Doctor Jack.
+Fred C. Newmeyer (Director) <http://xmlns.com/foaf/0.1/made> The Rainbow Man.
