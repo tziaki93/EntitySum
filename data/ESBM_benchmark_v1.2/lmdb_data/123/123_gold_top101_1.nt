@@ -1,0 +1,10 @@
+Arnold Schwarzenegger (Actor) <http://www.w3.org/2000/01/rdf-schema#label> Arnold Schwarzenegger (Actor).
+Arnold Schwarzenegger (Actor) <http://data.linkedmdb.org/resource/movie/actor_actorid> 29369.
+Arnold Schwarzenegger (Actor) <http://data.linkedmdb.org/resource/movie/actor_name> Arnold Schwarzenegger.
+Arnold Schwarzenegger (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>.
+Arnold Schwarzenegger (Actor) <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> actor.
+Predator actor Arnold Schwarzenegger (Actor).
+The Running Man actor Arnold Schwarzenegger (Actor).
+Commando actor Arnold Schwarzenegger (Actor).
+The Terminator actor Arnold Schwarzenegger (Actor).
+Total Recall actor Arnold Schwarzenegger (Actor).
