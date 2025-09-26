@@ -1,0 +1,34 @@
+https://triplydb.com/Triply/linkedmdb/id/film/7347	0.49371732093949705
+https://triplydb.com/Triply/linkedmdb/id/director/15854	0.3336586460261372
+http://www.lingvoj.org/lingvo/en	0.42504787218840206
+1983	0.30318227223615274
+1983	0.30318227223615274
+https://triplydb.com/Triply/linkedmdb/id/film_cut/872	0.2808952686750401
+Bill: On His Own	0.27433546697164785
+https://triplydb.com/Triply/linkedmdb/id/director/15854	0.3336586460261372
+http://www.imdb.com/title/tt0085247	0.2742292373506417
+http://www.rottentomatoes.com/alias?type=imdbid&s=0085247	0.2742292373506417
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000c6ae93	0.2742292373506417
+100	0.3539393362447493
+https://triplydb.com/Triply/linkedmdb/id/writer/1389	0.3336287057081646
+https://triplydb.com/Triply/linkedmdb/id/film/7347	0.49371732093949705
+https://triplydb.com/Triply/linkedmdb/id/performance/4371	0.274396206572077
+https://triplydb.com/Triply/linkedmdb/id/performance/4369	0.27433799725145497
+https://triplydb.com/Triply/linkedmdb/id/performance/4370	0.2743633026168931
+https://triplydb.com/Triply/linkedmdb/id/performance/4368	0.2743987379724531
+https://triplydb.com/Triply/linkedmdb/id/performance/159456	0.27451523290048085
+https://triplydb.com/Triply/linkedmdb/id/performance/4367	0.27466986794717885
+https://triplydb.com/Triply/linkedmdb/id/film/7347	0.49371732093949705
+https://triplydb.com/Triply/linkedmdb/id/interlink/140209	0.336261375840823
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.42870526513022295
+https://triplydb.com/Triply/linkedmdb/id/film_genre/30	0.33707686902913614
+https://triplydb.com/Triply/linkedmdb/id/film_genre/4	0.3931947069943289
+https://triplydb.com/Triply/linkedmdb/id/film/7347	0.49371732093949705
+Bill: On His Own	0.27433546697164785
+https://triplydb.com/Triply/linkedmdb/id/actor/46165	0.3000595196061618
+https://triplydb.com/Triply/linkedmdb/id/actor/29477	0.30042320239983034
+https://triplydb.com/Triply/linkedmdb/id/actor/29778	0.27449496580810084
+https://triplydb.com/Triply/linkedmdb/id/actor/30837	0.27448989950258856
+https://triplydb.com/Triply/linkedmdb/id/actor/38081	0.2743734260702722
+https://triplydb.com/Triply/linkedmdb/id/actor/30114	0.33474762253108997
+7348	0.27448230039496513

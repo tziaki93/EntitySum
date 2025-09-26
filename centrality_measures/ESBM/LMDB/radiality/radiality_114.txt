@@ -1,0 +1,32 @@
+http://www.lingvoj.org/lingvo/ja	0.38856545398379394
+https://triplydb.com/Triply/linkedmdb/id/interlink/61136	0.2980841095940354
+https://triplydb.com/Triply/linkedmdb/id/interlink/139288	0.2953650518406127
+https://triplydb.com/Triply/linkedmdb/id/country/JP	0.37466776647420036
+https://triplydb.com/Triply/linkedmdb/id/writer/14150	0.23821802660140146
+https://triplydb.com/Triply/linkedmdb/id/writer/4410	0.23821802660140146
+1983-10-12	0.2381763891923385
+http://sws.geonames.org/1861060/	0.3982658677967753
+https://triplydb.com/Triply/linkedmdb/id/director/8972	0.2384612019307891
+https://triplydb.com/Triply/linkedmdb/id/performance/87740	0.23828051001821493
+https://triplydb.com/Triply/linkedmdb/id/performance/25385	0.27806213546006425
+https://triplydb.com/Triply/linkedmdb/id/performance/25386	0.27817566303182895
+https://triplydb.com/Triply/linkedmdb/id/performance/25387	0.2784219577395243
+Satomi Hakkenden	0.23828051001821493
+http://www.imdb.com/title/tt0086244	0.2381763891923385
+http://www.rottentomatoes.com/alias?type=imdbid&s=0086244	0.2381763891923385
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000abf0a2	0.2381763891923385
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.5504797172193233
+https://triplydb.com/Triply/linkedmdb/id/producer/4154	0.23821108602228858
+https://triplydb.com/Triply/linkedmdb/id/producer/14066	0.2382319089730328
+https://triplydb.com/Triply/linkedmdb/id/director/8972	0.2384612019307891
+https://triplydb.com/Triply/linkedmdb/id/film_cut/5444	0.23890017093517613
+1983-10-12	0.2381763891923385
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/180	0.23820414584759714
+6191	0.23860038229757927
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/1122	0.23821108602228858
+136	0.23958974358974358
+https://triplydb.com/Triply/linkedmdb/id/actor/34973	0.3341370713964608
+https://triplydb.com/Triply/linkedmdb/id/actor/44257	0.23829092710792457
+https://triplydb.com/Triply/linkedmdb/id/actor/32168	0.33484867100790433
+https://triplydb.com/Triply/linkedmdb/id/actor/36373	0.3338096599028294
+Satomi Hakkenden	0.23828051001821493

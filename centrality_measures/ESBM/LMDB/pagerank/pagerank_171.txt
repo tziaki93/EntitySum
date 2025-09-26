@@ -1,0 +1,36 @@
+Mack V. Wright (Director)	2.0981494958691242e-05
+14418	0.0006317614191826665
+Mack V. Wright	3.7816391837382045e-05
+https://triplydb.com/Triply/linkedmdb/id/film/45182	0.0002775560428076661
+https://triplydb.com/Triply/linkedmdb/id/film/24459	0.0002247967373671502
+https://triplydb.com/Triply/linkedmdb/id/film/19433	0.00035860178479561945
+https://triplydb.com/Triply/linkedmdb/id/film/21357	0.000517766675855177
+https://triplydb.com/Triply/linkedmdb/id/film/24460	0.0002247967373671502
+https://triplydb.com/Triply/linkedmdb/id/film/24940	0.0007422199583095518
+https://triplydb.com/Triply/linkedmdb/id/film/25028	0.0004034832826653717
+https://triplydb.com/Triply/linkedmdb/id/film/25030	0.0003647887098072176
+https://triplydb.com/Triply/linkedmdb/id/film/19751	0.00047914071019674047
+https://triplydb.com/Triply/linkedmdb/id/film/11164	0.0007854949686961159
+https://triplydb.com/Triply/linkedmdb/id/film/19747	0.0005003000294797358
+https://triplydb.com/Triply/linkedmdb/id/film/19259	0.0005492225248898644
+https://triplydb.com/Triply/linkedmdb/id/film/19744	0.00047914071019674047
+https://triplydb.com/Triply/linkedmdb/id/film/24448	0.00033546385715145147
+https://triplydb.com/Triply/linkedmdb/id/film/11165	0.0006322603325259569
+http://www.freebase.com/view/guid/9202a8c04000641f8000000005b5f33c	3.7816391837382045e-05
+https://triplydb.com/Triply/linkedmdb/id/film/19433	0.00035860178479561945
+https://triplydb.com/Triply/linkedmdb/id/film/25030	0.0003647887098072176
+https://triplydb.com/Triply/linkedmdb/id/film/45182	0.0002775560428076661
+https://triplydb.com/Triply/linkedmdb/id/film/24940	0.0007422199583095518
+https://triplydb.com/Triply/linkedmdb/id/film/19747	0.0005003000294797358
+https://triplydb.com/Triply/linkedmdb/id/film/24460	0.0002247967373671502
+https://triplydb.com/Triply/linkedmdb/id/film/19751	0.00047914071019674047
+https://triplydb.com/Triply/linkedmdb/id/film/11165	0.0006322603325259569
+https://triplydb.com/Triply/linkedmdb/id/film/21357	0.000517766675855177
+https://triplydb.com/Triply/linkedmdb/id/film/19259	0.0005492225248898644
+https://triplydb.com/Triply/linkedmdb/id/film/19744	0.00047914071019674047
+https://triplydb.com/Triply/linkedmdb/id/film/24448	0.00033546385715145147
+https://triplydb.com/Triply/linkedmdb/id/film/11164	0.0007854949686961159
+https://triplydb.com/Triply/linkedmdb/id/film/24459	0.0002247967373671502
+https://triplydb.com/Triply/linkedmdb/id/film/25028	0.0004034832826653717
+https://triplydb.com/Triply/linkedmdb/vocab/Director	0.22798651439353093
+http://xmlns.com/foaf/0.1/Person	0.22807879703670236

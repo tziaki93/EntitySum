@@ -1,0 +1,36 @@
+https://triplydb.com/Triply/linkedmdb/id/film/22494	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/45707	0.3994010560327843
+https://triplydb.com/Triply/linkedmdb/id/film/4901	0.3995584988962472
+https://triplydb.com/Triply/linkedmdb/id/film/46161	0.39927519105018516
+https://triplydb.com/Triply/linkedmdb/id/film/2661	0.39971606593579934
+https://triplydb.com/Triply/linkedmdb/id/film/64450	0.39922801213123793
+https://triplydb.com/Triply/linkedmdb/id/film/46058	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/15228	0.3996215108027125
+https://triplydb.com/Triply/linkedmdb/id/film/23877	0.39949550685795365
+https://triplydb.com/Triply/linkedmdb/id/film/85702	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/39853	0.39951125300539986
+https://triplydb.com/Triply/linkedmdb/id/film/43099	0.3994167947353903
+https://triplydb.com/Triply/linkedmdb/id/film/49262	0.6588663546541862
+https://triplydb.com/Triply/linkedmdb/id/film/43047	0.399448275862069
+https://triplydb.com/Triply/linkedmdb/id/film/64122	0.39922801213123793
+Ringo Lam (Director)	0.3991494053713476
+https://triplydb.com/Triply/linkedmdb/id/film/64122	0.39922801213123793
+https://triplydb.com/Triply/linkedmdb/id/film/22494	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/45707	0.3994010560327843
+https://triplydb.com/Triply/linkedmdb/id/film/2661	0.39971606593579934
+https://triplydb.com/Triply/linkedmdb/id/film/43099	0.3994167947353903
+https://triplydb.com/Triply/linkedmdb/id/film/85702	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/23877	0.39949550685795365
+https://triplydb.com/Triply/linkedmdb/id/film/49262	0.6588663546541862
+https://triplydb.com/Triply/linkedmdb/id/film/64450	0.39922801213123793
+https://triplydb.com/Triply/linkedmdb/id/film/46058	0.3993066498581784
+https://triplydb.com/Triply/linkedmdb/id/film/46161	0.39927519105018516
+https://triplydb.com/Triply/linkedmdb/id/film/4901	0.3995584988962472
+https://triplydb.com/Triply/linkedmdb/id/film/39853	0.39951125300539986
+https://triplydb.com/Triply/linkedmdb/id/film/43047	0.399448275862069
+https://triplydb.com/Triply/linkedmdb/id/film/15228	0.3996215108027125
+8669	0.39977912755383765
+http://www.freebase.com/view/guid/9202a8c04000641f80000000000ac6c9	0.3991494053713476
+http://xmlns.com/foaf/0.1/Person	2.026997300269973
+https://triplydb.com/Triply/linkedmdb/vocab/Director	1.7927131234524232
+Ringo Lam	0.39924373719867656

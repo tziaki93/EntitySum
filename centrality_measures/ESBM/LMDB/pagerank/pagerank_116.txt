@@ -1,0 +1,25 @@
+http://www.lingvoj.org/lingvo/en	0.19871056679853935
+6468	0.0009691908028285614
+https://triplydb.com/Triply/linkedmdb/id/writer/17242	0.00014361372144311836
+2007	0.05103282508395489
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.19799133382199038
+https://triplydb.com/Triply/linkedmdb/id/performance/73576	0.00013956265512876024
+https://triplydb.com/Triply/linkedmdb/id/performance/43526	0.00014127669357609371
+https://triplydb.com/Triply/linkedmdb/id/performance/55985	0.00013878316663938265
+Magnum, P.I.	0.00012084453099955273
+2007	0.05103282508395489
+Magnum, P.I.	0.00012084453099955273
+http://www.imdb.com/title/tt0756681	3.172887137295254e-05
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000b3087f	3.172887137295254e-05
+http://www.rottentomatoes.com/alias?type=imdbid&s=0756681	3.172887137295254e-05
+https://triplydb.com/Triply/linkedmdb/id/producer/11092	0.0012204173001231845
+https://triplydb.com/Triply/linkedmdb/id/director/11328	0.00013972680007110747
+https://triplydb.com/Triply/linkedmdb/id/actor/32753	0.0012588710804618535
+https://triplydb.com/Triply/linkedmdb/id/actor/35595	0.0015153161841099446
+https://triplydb.com/Triply/linkedmdb/id/actor/49301	0.0006908613794808138
+https://triplydb.com/Triply/linkedmdb/id/interlink/21528	0.00011979240429605514
+https://triplydb.com/Triply/linkedmdb/id/interlink/139511	0.0001211501378656831
+https://triplydb.com/Triply/linkedmdb/id/interlink/2995	0.00011979240429605514
+https://triplydb.com/Triply/linkedmdb/id/interlink/40061	0.00012415428712228593
+http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Magnum,_P.I.	3.172887137295254e-05
+https://triplydb.com/Triply/linkedmdb/id/director/11328	0.00013972680007110747

@@ -1,0 +1,32 @@
+https://triplydb.com/Triply/linkedmdb/id/performance/91100	0.49619700646590337
+https://triplydb.com/Triply/linkedmdb/id/performance/45160	0.49632634442761026
+https://triplydb.com/Triply/linkedmdb/id/performance/184656	0.4965366624834982
+https://triplydb.com/Triply/linkedmdb/id/performance/83567	0.49622933463637103
+https://triplydb.com/Triply/linkedmdb/id/performance/184809	0.4965447551991655
+https://triplydb.com/Triply/linkedmdb/id/performance/134547	0.4966499845133104
+https://triplydb.com/Triply/linkedmdb/id/performance/75295	0.4968119628850513
+https://triplydb.com/Triply/linkedmdb/id/performance/198141	0.4960515818095967
+https://triplydb.com/Triply/linkedmdb/id/performance/67713	0.49622125219884033
+https://triplydb.com/Triply/linkedmdb/id/performance/115382	0.49619700646590337
+https://triplydb.com/Triply/linkedmdb/id/performance/146941	0.4961404423020552
+https://triplydb.com/Triply/linkedmdb/id/performance/114368	0.49601927679458163
+https://triplydb.com/Triply/linkedmdb/id/film/95572	0.3753773364054164
+https://triplydb.com/Triply/linkedmdb/id/film/13716	0.4970713481587835
+https://triplydb.com/Triply/linkedmdb/id/film/20724	0.4982093506238655
+https://triplydb.com/Triply/linkedmdb/id/film/70465	0.42687403671010227
+https://triplydb.com/Triply/linkedmdb/id/film/95541	0.37534033929209426
+https://triplydb.com/Triply/linkedmdb/id/film/53299	0.3749523094531894
+https://triplydb.com/Triply/linkedmdb/id/film/17222	0.49702269279083805
+https://triplydb.com/Triply/linkedmdb/id/film/47737	0.4970713481587835
+https://triplydb.com/Triply/linkedmdb/id/film/53825	0.375469861105976
+https://triplydb.com/Triply/linkedmdb/id/film/98212	0.49642339215590425
+https://triplydb.com/Triply/linkedmdb/id/film/54847	0.5921246987483479
+https://triplydb.com/Triply/linkedmdb/id/film/11393	0.4973797201769709
+""	0.0
+Columbus Short	0.49715246161126614
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000d56ae3	0.3340460291876364
+47032	0.33415594529082077
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.5872397841171936
+http://xmlns.com/foaf/0.1/Person	3.046295370462954
+Columbus Short (Actor)	0.4275869812353511
+""	0.0

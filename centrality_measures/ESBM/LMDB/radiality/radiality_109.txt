@@ -1,0 +1,22 @@
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/7390	0.2084418771472798
+https://triplydb.com/Triply/linkedmdb/id/producer/377	0.20846548859688868
+https://triplydb.com/Triply/linkedmdb/id/producer/13682	0.20850485290229995
+1995	0.35158886836910147
+http://www.freebase.com/view/guid/9202a8c04000641f80000000004af166	0.2083868045595229
+The Incredibly True Adventure of Two Girls in Love	0.20849304204981023
+https://triplydb.com/Triply/linkedmdb/id/film_subject/333	0.336072559045532
+https://triplydb.com/Triply/linkedmdb/id/film_subject/333	0.336072559045532
+https://triplydb.com/Triply/linkedmdb/id/performance/32228	0.208481232535307
+https://triplydb.com/Triply/linkedmdb/id/performance/48861	0.20856786672207323
+https://triplydb.com/Triply/linkedmdb/id/performance/32227	0.20851272754739783
+41006	0.20851272754739783
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.826497005988024
+1995	0.35158886836910147
+The Incredibly True Adventure of Two Girls in Love	0.20849304204981023
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5748	0.2084340078526125
+https://triplydb.com/Triply/linkedmdb/id/director/13110	0.2084418771472798
+https://triplydb.com/Triply/linkedmdb/id/director/13110	0.2084418771472798
+https://triplydb.com/Triply/linkedmdb/id/writer/19046	0.20842613915210087
+https://triplydb.com/Triply/linkedmdb/id/actor/40960	0.20852454063037032
+https://triplydb.com/Triply/linkedmdb/id/actor/46958	0.2084615529838207
+https://triplydb.com/Triply/linkedmdb/id/actor/38446	0.20863486065186584

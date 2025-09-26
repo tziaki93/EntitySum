@@ -1,0 +1,30 @@
+The Aftermath	0.00022421199624296062
+http://www.lingvoj.org/lingvo/en	0.1513495568803129
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4	2.3420834304141373e-05
+http://www.rottentomatoes.com/alias?type=imdbid&s=0758789	2.3420834304141373e-05
+http://www.imdb.com/title/tt0758789	2.3420834304141373e-05
+http://sws.geonames.org/2635167/	0.1161980418950695
+https://triplydb.com/Triply/linkedmdb/id/performance/29135	9.853880857174256e-05
+https://triplydb.com/Triply/linkedmdb/id/performance/29134	9.98456087065431e-05
+https://triplydb.com/Triply/linkedmdb/id/performance/29132	0.00010172957835522283
+https://triplydb.com/Triply/linkedmdb/id/performance/29133	9.887206633066696e-05
+https://triplydb.com/Triply/linkedmdb/id/performance/29131	0.0001010926136052261
+https://triplydb.com/Triply/linkedmdb/id/director/11682	0.00013272230713475905
+https://triplydb.com/Triply/linkedmdb/id/actor/36466	0.00033481394007264467
+https://triplydb.com/Triply/linkedmdb/id/actor/37594	0.0005785216756029614
+https://triplydb.com/Triply/linkedmdb/id/actor/32015	0.001106660648350077
+https://triplydb.com/Triply/linkedmdb/id/actor/37715	0.0004107187266879546
+https://triplydb.com/Triply/linkedmdb/id/actor/31908	0.0009254078492913057
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.1468927980148464
+7963	0.0007061837036239569
+https://triplydb.com/Triply/linkedmdb/id/director/11682	0.00013272230713475905
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/692	0.0001124441831684387
+https://triplydb.com/Triply/linkedmdb/id/writer/4850	0.0001182649630121195
+https://triplydb.com/Triply/linkedmdb/id/producer/997	0.00010831030785980816
+https://triplydb.com/Triply/linkedmdb/id/country/GB	0.03277948929206363
+The Aftermath	0.00022421199624296062
+https://triplydb.com/Triply/linkedmdb/id/editor/1709	0.000107732435941015
+https://triplydb.com/Triply/linkedmdb/id/interlink/140699	9.296959171656802e-05
+https://triplydb.com/Triply/linkedmdb/id/interlink/63652	8.126562223714042e-05
+https://triplydb.com/Triply/linkedmdb/id/interlink/72987	8.450102050821008e-05
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/11639	0.00010534674988093051

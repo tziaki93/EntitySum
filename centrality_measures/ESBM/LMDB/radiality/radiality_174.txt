@@ -1,0 +1,32 @@
+Alice Braga	0.4966642801353814
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/performance/59117	0.495865486150597
+https://triplydb.com/Triply/linkedmdb/id/performance/123172	0.49551933504334555
+https://triplydb.com/Triply/linkedmdb/id/performance/91784	0.4968097919854162
+https://triplydb.com/Triply/linkedmdb/id/performance/108924	0.49555151475793097
+https://triplydb.com/Triply/linkedmdb/id/performance/70346	0.4959218821082732
+https://triplydb.com/Triply/linkedmdb/id/performance/18592	0.49567222592117444
+https://triplydb.com/Triply/linkedmdb/id/performance/187510	0.49555151475793097
+https://triplydb.com/Triply/linkedmdb/id/performance/186417	0.4958493753756681
+https://triplydb.com/Triply/linkedmdb/id/performance/137673	0.4954871595078082
+https://triplydb.com/Triply/linkedmdb/id/performance/159886	0.4956561277017262
+https://triplydb.com/Triply/linkedmdb/id/performance/79634	0.49570442549736093
+https://triplydb.com/Triply/linkedmdb/id/performance/85196	0.49593799759529456
+http://xmlns.com/foaf/0.1/Person	3.051994800519948
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.494892664893962
+https://triplydb.com/Triply/linkedmdb/id/film/59947	0.3745980707395498
+https://triplydb.com/Triply/linkedmdb/id/film/18729	0.4989130257114369
+https://triplydb.com/Triply/linkedmdb/id/film/23446	0.3747544445535802
+https://triplydb.com/Triply/linkedmdb/id/film/944	0.4971982407558234
+https://triplydb.com/Triply/linkedmdb/id/film/96426	0.37463485283648773
+https://triplydb.com/Triply/linkedmdb/id/film/67438	0.37456129586452325
+https://triplydb.com/Triply/linkedmdb/id/film/10791	0.37463485283648773
+https://triplydb.com/Triply/linkedmdb/id/film/83977	0.37494779254600397
+https://triplydb.com/Triply/linkedmdb/id/film/7756	0.49664811741351816
+https://triplydb.com/Triply/linkedmdb/id/film/8961	0.49703631330402215
+https://triplydb.com/Triply/linkedmdb/id/film/18644	0.49714965144309076
+https://triplydb.com/Triply/linkedmdb/id/film/19258	0.49671277461350694
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000dc5776	0.333905832932219
+""	0.0
+Alice Braga (Actor)	0.4273493503584229
+47469	0.333971595509552

@@ -1,0 +1,34 @@
+31707	0.0002363184431358337
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.1485926425921317
+http://xmlns.com/foaf/0.1/Person	0.14875600075673204
+Margaret Colin	0.0002684493013706633
+""	0.0
+Margaret Colin (Actor)	3.3449794917676955e-05
+https://triplydb.com/Triply/linkedmdb/id/film/62913	0.00011722330195062175
+https://triplydb.com/Triply/linkedmdb/id/film/1924	0.0008501900266975485
+https://triplydb.com/Triply/linkedmdb/id/film/1848	0.0008608672033363245
+https://triplydb.com/Triply/linkedmdb/id/film/46293	0.00024885608903881266
+https://triplydb.com/Triply/linkedmdb/id/film/49012	0.00027774601661472077
+https://triplydb.com/Triply/linkedmdb/id/film/1763	0.0006203936482931076
+https://triplydb.com/Triply/linkedmdb/id/film/1253	0.0006362512190753789
+https://triplydb.com/Triply/linkedmdb/id/film/57526	0.00010794367898946676
+https://triplydb.com/Triply/linkedmdb/id/film/63987	9.097677812284939e-05
+https://triplydb.com/Triply/linkedmdb/id/film/95531	0.0010009301035376241
+https://triplydb.com/Triply/linkedmdb/id/film/73	0.0010356580604687184
+https://triplydb.com/Triply/linkedmdb/id/film/6852	0.0004829431388812205
+https://triplydb.com/Triply/linkedmdb/id/film/3298	0.0005927608120444935
+https://triplydb.com/Triply/linkedmdb/id/performance/88430	0.00010464899969525719
+https://triplydb.com/Triply/linkedmdb/id/performance/96027	0.00010531584354355486
+https://triplydb.com/Triply/linkedmdb/id/performance/87924	0.00010515800673379732
+https://triplydb.com/Triply/linkedmdb/id/performance/80435	0.00010581434794612772
+https://triplydb.com/Triply/linkedmdb/id/performance/42133	0.00013179975636674012
+https://triplydb.com/Triply/linkedmdb/id/performance/127332	0.0001029646761939387
+https://triplydb.com/Triply/linkedmdb/id/performance/4756	0.00010554204713220196
+https://triplydb.com/Triply/linkedmdb/id/performance/37390	0.00010536238584097943
+https://triplydb.com/Triply/linkedmdb/id/performance/83508	0.00010527055757642877
+https://triplydb.com/Triply/linkedmdb/id/performance/128910	0.00010237269774035948
+https://triplydb.com/Triply/linkedmdb/id/performance/184537	0.00013421783010914175
+https://triplydb.com/Triply/linkedmdb/id/performance/15213	0.00010581166538128453
+https://triplydb.com/Triply/linkedmdb/id/performance/119763	0.00010342101595143163
+""	0.0
+http://www.freebase.com/view/guid/9202a8c04000641f80000000001d8847	1.3961321139390277e-05

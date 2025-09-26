@@ -1,0 +1,32 @@
+Alice Braga	0.00022155753794604534
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/performance/59117	0.00010585250512036657
+https://triplydb.com/Triply/linkedmdb/id/performance/123172	0.00010484233436605121
+https://triplydb.com/Triply/linkedmdb/id/performance/91784	0.00012023763954869342
+https://triplydb.com/Triply/linkedmdb/id/performance/108924	0.00010408723967457196
+https://triplydb.com/Triply/linkedmdb/id/performance/70346	0.00010483578467334535
+https://triplydb.com/Triply/linkedmdb/id/performance/18592	0.00010423161315313777
+https://triplydb.com/Triply/linkedmdb/id/performance/187510	0.00010151473845351103
+https://triplydb.com/Triply/linkedmdb/id/performance/186417	0.00012891743430482508
+https://triplydb.com/Triply/linkedmdb/id/performance/137673	0.00010423767013611176
+https://triplydb.com/Triply/linkedmdb/id/performance/159886	0.00010618311389850411
+https://triplydb.com/Triply/linkedmdb/id/performance/79634	0.00010484848020633534
+https://triplydb.com/Triply/linkedmdb/id/performance/85196	0.00010433354189713667
+http://xmlns.com/foaf/0.1/Person	0.14835152088575593
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.14825123666752937
+https://triplydb.com/Triply/linkedmdb/id/film/59947	0.00023414486652067996
+https://triplydb.com/Triply/linkedmdb/id/film/18729	0.0025024677246943384
+https://triplydb.com/Triply/linkedmdb/id/film/23446	0.00048142708257642745
+https://triplydb.com/Triply/linkedmdb/id/film/944	0.0009075080487503458
+https://triplydb.com/Triply/linkedmdb/id/film/96426	0.00025527173530672377
+https://triplydb.com/Triply/linkedmdb/id/film/67438	0.0001772264304107976
+https://triplydb.com/Triply/linkedmdb/id/film/10791	0.00027568366944822996
+https://triplydb.com/Triply/linkedmdb/id/film/83977	0.0007090269779722226
+https://triplydb.com/Triply/linkedmdb/id/film/7756	0.00047818524470976754
+https://triplydb.com/Triply/linkedmdb/id/film/8961	0.0008376963541311222
+https://triplydb.com/Triply/linkedmdb/id/film/18644	0.0008906646701683425
+https://triplydb.com/Triply/linkedmdb/id/film/19258	0.0005426514267433207
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000dc5776	1.3964907707038643e-05
+""	0.0
+Alice Braga (Actor)	3.35597321846219e-05
+47469	0.0001467026299867209

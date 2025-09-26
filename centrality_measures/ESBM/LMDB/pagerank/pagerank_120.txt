@@ -1,0 +1,35 @@
+https://triplydb.com/Triply/linkedmdb/id/actor/31581	0.0016788855260354832
+https://triplydb.com/Triply/linkedmdb/id/actor/32793	0.0003745665860729916
+https://triplydb.com/Triply/linkedmdb/id/actor/29405	0.0012567284208139643
+https://triplydb.com/Triply/linkedmdb/id/director/11436	0.00037085110719123197
+http://www.lingvoj.org/lingvo/en	0.21012851230313784
+https://triplydb.com/Triply/linkedmdb/id/interlink/73136	0.00013766747414780306
+https://triplydb.com/Triply/linkedmdb/id/interlink/141053	0.00013480122275014113
+114	0.013854898215905992
+https://triplydb.com/Triply/linkedmdb/id/editor/36	0.0006484194919828044
+https://triplydb.com/Triply/linkedmdb/id/producer/3604	0.000113286872582088
+https://triplydb.com/Triply/linkedmdb/id/producer/5959	0.00014540117253732446
+https://triplydb.com/Triply/linkedmdb/id/producer/1174	0.00025834317646537906
+https://triplydb.com/Triply/linkedmdb/id/director/11436	0.00037085110719123197
+https://triplydb.com/Triply/linkedmdb/id/film_genre/15	0.009824599386668027
+https://triplydb.com/Triply/linkedmdb/id/writer/3287	0.0002170194352832183
+https://triplydb.com/Triply/linkedmdb/id/writer/2112	0.0002623727296378852
+https://triplydb.com/Triply/linkedmdb/id/writer/2113	0.0002623727296378852
+https://triplydb.com/Triply/linkedmdb/id/writer/110	0.00019738883281283007
+http://www.rottentomatoes.com/alias?type=imdbid&s=0120751	3.4451019615206174e-05
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000db9872	3.4451019615206174e-05
+http://www.imdb.com/title/tt0120751	3.4451019615206174e-05
+8446	0.0009855224755470978
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5196	0.0006124154516052909
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/4592	0.0025835394346533916
+Mighty Joe Young	0.0002701140601059037
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/157	0.0002144007345180204
+1998-12-25	0.0002542681460876265
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.20930513171964432
+https://triplydb.com/Triply/linkedmdb/id/film_cut/4184	0.00011958230809652396
+1998-12-25	0.0002542681460876265
+https://triplydb.com/Triply/linkedmdb/id/performance/19600	0.00014811945248434282
+https://triplydb.com/Triply/linkedmdb/id/performance/19601	0.0001486238992595306
+https://triplydb.com/Triply/linkedmdb/id/performance/173853	0.0001454949851415361
+Mighty Joe Young	0.0002701140601059037
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/5652	0.00015095481660334055

@@ -1,0 +1,36 @@
+James Cameron (Director)	4.44068144499179
+James Cameron	4.464506809739992
+http://www.freebase.com/view/guid/9202a8c04000641f800000000001fdcc	4.446157007809289
+https://triplydb.com/Triply/linkedmdb/id/film/72	4.64071214071214
+https://triplydb.com/Triply/linkedmdb/id/film/38211	4.507291666666666
+https://triplydb.com/Triply/linkedmdb/id/film/40972	4.471889210417528
+https://triplydb.com/Triply/linkedmdb/id/film/38151	4.559536354056902
+https://triplydb.com/Triply/linkedmdb/id/film/17780	4.501664585934249
+https://triplydb.com/Triply/linkedmdb/id/film/42629	4.455313014827018
+https://triplydb.com/Triply/linkedmdb/id/film/46687	4.446157007809289
+https://triplydb.com/Triply/linkedmdb/id/film/3296	4.556655433866891
+https://triplydb.com/Triply/linkedmdb/id/film/556	4.568201013513513
+https://triplydb.com/Triply/linkedmdb/id/film/4786	4.464506809739992
+https://triplydb.com/Triply/linkedmdb/id/film/38324	4.494183631076028
+https://triplydb.com/Triply/linkedmdb/id/film/33	4.631770498822522
+https://triplydb.com/Triply/linkedmdb/id/film/6220	8.457779515246287
+https://triplydb.com/Triply/linkedmdb/id/film/5622	4.486727498963086
+https://triplydb.com/Triply/linkedmdb/id/film/4673	4.466350123864575
+8424	4.550904501472444
+https://triplydb.com/Triply/linkedmdb/vocab/Director	2.1632836716328367
+http://xmlns.com/foaf/0.1/Person	2.1632836716328367
+https://triplydb.com/Triply/linkedmdb/id/film/33	4.631770498822522
+https://triplydb.com/Triply/linkedmdb/id/film/38211	4.507291666666666
+https://triplydb.com/Triply/linkedmdb/id/film/40972	4.471889210417528
+https://triplydb.com/Triply/linkedmdb/id/film/42629	4.455313014827018
+https://triplydb.com/Triply/linkedmdb/id/film/556	4.568201013513513
+https://triplydb.com/Triply/linkedmdb/id/film/38151	4.559536354056902
+https://triplydb.com/Triply/linkedmdb/id/film/6220	8.457779515246287
+https://triplydb.com/Triply/linkedmdb/id/film/17780	4.501664585934249
+https://triplydb.com/Triply/linkedmdb/id/film/38324	4.494183631076028
+https://triplydb.com/Triply/linkedmdb/id/film/46687	4.446157007809289
+https://triplydb.com/Triply/linkedmdb/id/film/4673	4.466350123864575
+https://triplydb.com/Triply/linkedmdb/id/film/3296	4.556655433866891
+https://triplydb.com/Triply/linkedmdb/id/film/5622	4.486727498963086
+https://triplydb.com/Triply/linkedmdb/id/film/4786	4.464506809739992
+https://triplydb.com/Triply/linkedmdb/id/film/72	4.64071214071214
