@@ -1,0 +1,39 @@
+http://dbpedia.org/resource/Switzerland	0.2995786874158461
+http://dbpedia.org/resource/Canton_of_Uri	0.005354827100513145
+Rot Stock	6.204898146596924e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Sustenhorn.b.Oct.2010.JPG?width=300	Key not found
+761.0	Key not found
+Fleckistock	6.204898146596924e-06
+46.70736111111111 8.497666666666667	6.204898146596924e-06
+http://dbpedia.org/resource/Uri_Alps	0.0014085118792775018
+http://commons.wikimedia.org/wiki/Special:FilePath/Sustenhorn.b.Oct.2010.JPG	Key not found
+46.70736	Key not found
+3417.0	Key not found
+http://schema.org/Place	4.3434287026178464e-05
+http://dbpedia.org/ontology/Location	4.3434287026178464e-05
+http://dbpedia.org/class/yago/MountainsOfTheAlps	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	4.3434287026178464e-05
+http://dbpedia.org/class/yago/NaturalElevation109366317	0.187158342795803
+http://dbpedia.org/ontology/NaturalPlace	0.5009648616617959
+http://dbpedia.org/class/yago/GeologicalFormation109287968	0.2751375936164008
+http://schema.org/Mountain	0.16184235835768757
+http://dbpedia.org/class/yago/Object100002684	4.963918517277539e-05
+http://www.w3.org/2002/07/owl#Thing	4.3434287026178464e-05
+http://www.wikidata.org/entity/Q8502	0.16184856325583416
+http://dbpedia.org/class/yago/YagoGeoEntity	4.963918517277539e-05
+http://dbpedia.org/class/yago/MountainsOfSwitzerland	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.3434287026178464e-05
+http://dbpedia.org/ontology/Place	4.963918517277539e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.3434287026178464e-05
+http://dbpedia.org/ontology/Mountain	0.20490435149507022
+http://dbpedia.org/class/yago/Mountain109359803	0.1559290904239807
+8.497666	Key not found
+http://dbpedia.org/resource/Rorspitzli	0.00040331837952880005
+http://dbpedia.org/resource/Salbitschijen	0.0005025967498743509
+http://dbpedia.org/resource/Stucklistock	0.0004591624628481724
+http://dbpedia.org/resource/Dammastock	0.0011230865645340431
+Fleckistock	6.204898146596924e-06
+http://dbpedia.org/resource/Category:Mountains_of_the_canton_of_Uri	0.000570850629486917
+http://dbpedia.org/resource/Category:Mountains_of_Switzerland	0.009350781506921564
+http://dbpedia.org/resource/Category:Mountains_of_the_Alps	0.01821137606026197
+http://dbpedia.org/resource/Category:Alpine_three-thousanders	0.006068390387371792

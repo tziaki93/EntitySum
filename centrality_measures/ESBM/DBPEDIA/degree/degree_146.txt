@@ -1,0 +1,32 @@
+http://dbpedia.org/ontology/SportsEvent	0.7584508835979478
+http://www.wikidata.org/entity/Q500834	0.30773709170739993
+http://dbpedia.org/ontology/SoccerTournament	0.31149708297451695
+http://schema.org/Event	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/Tournament	0.3759991267117057
+http://dbpedia.org/ontology/SocietalEvent	1.2129004087474378e-05
+http://schema.org/SportsEvent	0.6386527102259634
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/resource/Category:2013_Gulf_Cup_of_Nations	7.277402452484627e-05
+http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Bahrain	0.00031535410627433385
+http://dbpedia.org/resource/Category:2012–13_in_Omani_football	0.0002789670940119107
+http://dbpedia.org/resource/Category:2012–13_in_Yemeni_football	0.00018193506131211566
+http://dbpedia.org/resource/Category:2012–13_in_Bahraini_football	0.00024258008174948755
+http://dbpedia.org/resource/Category:2012–13_in_Emirati_football	0.00031535410627433385
+http://dbpedia.org/resource/Category:2012–13_in_Qatari_football	0.0002910960980993851
+http://dbpedia.org/resource/Category:2012–13_in_Kuwaiti_football	0.00030322510218685946
+http://dbpedia.org/resource/Category:2012–13_in_Saudi_Arabian_football	0.0002789670940119107
+http://dbpedia.org/resource/Category:2013_in_Asian_football	0.0007277402452484626
+http://dbpedia.org/resource/Category:2012–13_in_Iraqi_football	0.00025470908583696193
+2013 Gulf Cup of Nations	2.4258008174948756e-05
+Gulf Cup of Nations	2.4258008174948756e-05
+17:45	0.0018436086212961053
+15:30	0.011279973801351172
+16:15	0.0016616735599839897
+21:15	0.001576770531371669
+19:00	0.020849758026368456
+18:45	0.00224386575618276
+19:15	0.0025956068747195167
+http://www.gulfcup21.bh/en/	Key not found

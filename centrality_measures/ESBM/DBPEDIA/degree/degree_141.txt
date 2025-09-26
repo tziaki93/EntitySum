@@ -1,0 +1,72 @@
+Andrew Scott Sloan	5.532595285122298e-06
+Sloan, Andrew Scott	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Scott_Sloan_(Wisconsin_Congressman).jpg	2.7662976425611488e-05
+http://dbpedia.org/resource/Republican_Party_(United_States)	0.30309770010014
+1820-06-12	3.319557171073379e-05
+Sloan	0.0007966937210576109
+1895	0.020050125313283207
+http://dbpedia.org/resource/Amasa_Cobb	0.0017980934676647467
+1861-03-04	0.0012780295108632508
+1863-03-03	0.0013665510354252076
+http://dbpedia.org/resource/Category:People_from_Dodge_County,_Wisconsin	0.00042600983695441694
+http://dbpedia.org/resource/Category:Wisconsin_Republicans	0.013029261896463012
+http://dbpedia.org/resource/Category:Wisconsin_Attorneys_General	0.00032642312182221557
+http://dbpedia.org/resource/Category:New_York_lawyers	Key not found
+http://dbpedia.org/resource/Category:People_from_Morrisville,_New_York	0.00012171709627269056
+http://dbpedia.org/resource/Category:People_from_Beaver_Dam,_Wisconsin	0.00026556457368587033
+http://dbpedia.org/resource/Category:Republican_Party_members_of_the_United_States_House_of_Representatives	0.0007247699823510211
+http://dbpedia.org/resource/Category:1895_deaths	0.009781628464096222
+http://dbpedia.org/resource/Category:New_York_Republicans	Key not found
+http://dbpedia.org/resource/Category:Wisconsin_state_court_judges	0.001726169728958157
+http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly	0.018998932209109972
+http://dbpedia.org/resource/Category:Members_of_the_United_States_House_of_Representatives_from_Wisconsin	0.00011618450098756825
+http://dbpedia.org/resource/Category:Wisconsin_lawyers	0.004033261962854156
+http://dbpedia.org/resource/Category:Mayors_of_places_in_Wisconsin	0.004011131581713666
+http://dbpedia.org/resource/Category:1820_births	0.0098258892263772
+1820	0.005383215212423996
+1895-04-08	9.958671513220136e-05
+http://dbpedia.org/resource/Beaver_Dam,_Wisconsin	0.0029433406916850625
+http://dbpedia.org/resource/Wisconsin	0.11588574084217165
+http://dbpedia.org/resource/Charles_H._Larrabee	0.001432942178846675
+Andrew Scott	0.0003485535029627048
+American politician	0.00017704304912391353
+American politician	0.00017704304912391353
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Scott_Sloan_(Wisconsin_Congressman).jpg?width=300	2.2130381140489192e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.7662976425611488e-05
+http://dbpedia.org/class/yago/Authority109824609	0.09076222565243129
+http://dbpedia.org/class/yago/Official110372373	0.4084106513524429
+http://dbpedia.org/class/yago/Object100002684	2.7662976425611488e-05
+http://www.w3.org/2002/07/owl#Thing	3.319557171073379e-05
+http://dbpedia.org/class/yago/WisconsinStateCourtJudges	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	1.1065190570244596e-05
+http://dbpedia.org/class/yago/Person100007846	2.2130381140489192e-05
+http://dbpedia.org/class/yago/Leader109623038	1.6597785855366895e-05
+http://dbpedia.org/ontology/Agent	5.532595285122298e-06
+http://dbpedia.org/class/yago/Mayor110303814	0.0966931677980824
+http://dbpedia.org/class/yago/Judge110225219	0.08718263650295717
+http://dbpedia.org/class/yago/LivingThing100004258	1.1065190570244596e-05
+http://dbpedia.org/class/yago/YagoLegalActor	2.2130381140489192e-05
+http://dbpedia.org/ontology/Person	1.1065190570244596e-05
+http://dbpedia.org/class/yago/MayorsOfPlacesInWisconsin	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	3.319557171073379e-05
+http://dbpedia.org/ontology/Politician	1.6597785855366895e-05
+http://dbpedia.org/class/yago/Whole100003553	1.1065190570244596e-05
+http://dbpedia.org/class/yago/Politician110451263	0.2465379785003347
+http://dbpedia.org/ontology/Congressman	0.0025837219981521132
+http://dbpedia.org/class/yago/Worker109632518	1.1065190570244596e-05
+http://www.wikidata.org/entity/Q215627	1.1065190570244596e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	1.1065190570244596e-05
+http://www.wikidata.org/entity/Q82955	1.1065190570244596e-05
+http://schema.org/Person	1.1065190570244596e-05
+http://dbpedia.org/class/yago/PeopleFromBeaverDam,Wisconsin	Key not found
+http://dbpedia.org/class/yago/PeopleFromDodgeCounty,Wisconsin	Key not found
+http://dbpedia.org/class/yago/Adjudicator109769636	0.09954245436992039
+http://www.wikidata.org/entity/Q5	1.1065190570244596e-05
+http://dbpedia.org/class/yago/SkilledWorker110605985	1.6597785855366895e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	5.532595285122298e-06
+http://dbpedia.org/class/yago/CivilAuthority110541833	0.08891433882720046
+http://xmlns.com/foaf/0.1/Person	1.1065190570244596e-05
+http://dbpedia.org/class/yago/Organism100004475	1.1065190570244596e-05
+A. Scott Sloan	5.532595285122298e-06
+http://dbpedia.org/resource/Morrisville,_New_York	0.0012337687485822724
+http://dbpedia.org/resource/New_York	0.006373549768460887

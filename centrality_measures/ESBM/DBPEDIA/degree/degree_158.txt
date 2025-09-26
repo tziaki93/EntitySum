@@ -1,0 +1,27 @@
+EN	0.03204837490551776
+Lineatriton orchimelas	7.558578987150416e-05
+http://dbpedia.org/resource/Lungless_salamander	0.007785336356764928
+http://dbpedia.org/resource/Category:Fauna_of_Mexico	0.0041572184429327285
+http://dbpedia.org/resource/Category:Animals_described_in_2002	0.003552532123960695
+http://dbpedia.org/resource/Category:Lineatriton	Key not found
+IUCN3.1	0.18707482993197277
+http://dbpedia.org/resource/Chordate	0.1200302343159486
+Lineatriton orchimelas	7.558578987150416e-05
+http://dbpedia.org/resource/Lineatriton	0.0021919879062736207
+http://dbpedia.org/class/yago/Animal100015388	0.0001511715797430083
+http://dbpedia.org/class/yago/Organism100004475	0.0001511715797430083
+http://dbpedia.org/class/yago/AnimalsDescribedIn2002	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0001511715797430083
+http://www.w3.org/2002/07/owl#Thing	0.00022675736961451246
+http://dbpedia.org/class/yago/Whole100003553	0.0001511715797430083
+http://dbpedia.org/ontology/Species	Key not found
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/Object100002684	0.0001511715797430083
+http://dbpedia.org/ontology/Animal	0.0001511715797430083
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/ontology/Eukaryote	Key not found
+http://dbpedia.org/ontology/Amphibian	0.48117913832199544
+http://dbpedia.org/class/yago/LivingThing100004258	0.0001511715797430083
+http://dbpedia.org/resource/Caudata	0.013378684807256236
+http://dbpedia.org/resource/Animal	7.558578987150416e-05
+http://dbpedia.org/resource/Amphibian	0.22993197278911565

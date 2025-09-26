@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/Henlow_Camp_railway_station	0.021231422505307858
+52.03245 -0.28714	0.00021231422505307856
+SG16	0.0012738853503184715
+http://dbpedia.org/resource/Category:Civil_parishes_in_Bedfordshire	0.03078556263269639
+http://dbpedia.org/resource/Category:Villages_in_Bedfordshire	0.031210191082802548
+TL176385	0.00021231422505307856
+http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)	0.02951167728237792
+http://dbpedia.org/resource/Jim_Watts	0.027600849256900213
+http://dbpedia.org/ontology/Settlement	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0008492569002123143
+http://dbpedia.org/ontology/PopulatedPlace	0.00021231422505307856
+http://dbpedia.org/ontology/Location	0.00021231422505307856
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0008492569002123143
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0004246284501061571
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Location100027167	0.00021231422505307856
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/Region108630985	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	0.0004246284501061571
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0004246284501061571
+http://dbpedia.org/class/yago/Object100002684	0.0008492569002123143
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0006369426751592357
+http://dbpedia.org/class/yago/VillagesInBedfordshire	Key not found
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Place	0.00021231422505307856
+http://schema.org/Place	0.00021231422505307856
+01462	0.009554140127388535
+-0.28714	Key not found
+52.03245	Key not found
+Henlow	0.00021231422505307856
+http://dbpedia.org/resource/Bedfordshire	0.7091295116772824
+http://dbpedia.org/resource/England	0.00021231422505307856
+http://dbpedia.org/resource/United_Kingdom	0.00021231422505307856
+Henlow	0.00021231422505307856
+3084	0.22314225053078557

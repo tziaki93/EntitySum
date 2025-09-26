@@ -1,0 +1,73 @@
+http://en.wikipedia.org/wiki/Special:FilePath/LucyWard.jpg	Key not found
+solo_singer	0.06962362983800563
+http://en.wikipedia.org/wiki/Special:FilePath/LucyWard.jpg?width=300	Key not found
+Lucy Ward (musician)	6.062663691919682e-06
+http://dbpedia.org/resource/Derbyshire	0.03769158017266466
+http://dbpedia.org/resource/Derby	0.028391454069259872
+Ward	0.01986128625472888
+http://dbpedia.org/resource/Category:Music_in_Derby	5.456397322727714e-05
+http://dbpedia.org/resource/Category:English_singer-songwriters	0.0001636919196818314
+http://dbpedia.org/resource/Category:Concertina_players	0.00020006790183334951
+http://dbpedia.org/resource/Category:1989_births	0.1091643224367058
+http://dbpedia.org/resource/Category:English_folk_singers	0.0010791541371617034
+http://dbpedia.org/resource/Category:Living_people	6.062663691919682e-06
+http://dbpedia.org/resource/Category:People_from_Derby	0.0016551071878940732
+http://dbpedia.org/resource/Category:English_folk_guitarists	0.0006850809971869241
+http://dbpedia.org/resource/Category:English_female_singers	Key not found
+http://dbpedia.org/resource/Singer-songwriter	0.0040680473372781065
+http://dbpedia.org/resource/Folk_music	0.10006426423513436
+Lucy	0.0012246580657677758
+1989-12-12	0.0006608303424192454
+http://dbpedia.org/resource/Concertina	0.003534532932389175
+http://dbpedia.org/resource/Navigator_Records	0.0006365796876515666
+Ward, Lucy	Key not found
+Lucy Ward	3.637598215151809e-05
+http://dbpedia.org/resource/O'Hooley_&_Tidow	0.0010003395091667477
+http://dbpedia.org/resource/Belinda_O'Hooley	0.0009093995537879523
+http://dbpedia.org/resource/Single_Flame	0.0003273838393636628
+http://dbpedia.org/resource/Adelphi_Has_to_Fly	0.0006062663691919682
+British musician	Key not found
+British musician	Key not found
+http://www.lucywardsings.com/	1.8187991075759045e-05
+http://dbpedia.org/class/yago/Artist109812338	1.8187991075759045e-05
+http://dbpedia.org/class/yago/Creator109614315	1.2125327383839364e-05
+http://www.w3.org/2002/07/owl#Thing	6.0626636919196826e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	6.062663691919682e-06
+http://dbpedia.org/class/yago/LivingThing100004258	1.2125327383839364e-05
+http://dbpedia.org/class/yago/Person100007846	1.2125327383839364e-05
+http://dbpedia.org/class/yago/Player110439851	Key not found
+http://dbpedia.org/class/yago/Entertainer109616922	1.2125327383839364e-05
+http://dbpedia.org/class/yago/Whole100003553	1.8187991075759045e-05
+http://dbpedia.org/class/yago/Organism100004475	1.2125327383839364e-05
+http://dbpedia.org/class/yago/Musician110339966	0.5926132505577651
+http://dbpedia.org/class/yago/YagoLegalActor	1.8187991075759045e-05
+http://dbpedia.org/class/yago/Musician110340312	0.4194696381802309
+http://dbpedia.org/class/yago/Object100002684	3.0313318459598413e-05
+http://dbpedia.org/class/yago/ConcertinaPlayers	Key not found
+http://dbpedia.org/class/yago/Performer110415638	1.8187991075759045e-05
+http://dbpedia.org/class/yago/EnglishFolkSingers	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.0313318459598413e-05
+http://dbpedia.org/class/yago/CausalAgent100007347	1.2125327383839364e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	1.2125327383839364e-05
+http://schema.org/MusicGroup	1.2125327383839364e-05
+http://dbpedia.org/ontology/Agent	2.425065476767873e-05
+http://dbpedia.org/class/yago/Contestant109613191	Key not found
+http://xmlns.com/foaf/0.1/Person	6.062663691919682e-06
+http://dbpedia.org/ontology/Person	6.062663691919682e-06
+http://dbpedia.org/class/yago/Singer110599806	0.2675635367154913
+http://dbpedia.org/class/yago/FolkSinger110099093	0.01241633524105151
+http://dbpedia.org/class/yago/YagoLegalActorGeo	3.0313318459598413e-05
+http://dbpedia.org/class/yago/PeopleFromDerby	Key not found
+http://dbpedia.org/ontology/MusicalArtist	6.062663691919682e-06
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/ontology/Artist	6.062663691919682e-06
+http://www.wikidata.org/entity/Q5	6.062663691919682e-06
+http://dbpedia.org/class/yago/EnglishFemaleSingers	Key not found
+http://dbpedia.org/class/yago/Guitarist110151760	0.07328547870792512
+http://schema.org/Person	6.062663691919682e-06
+http://www.wikidata.org/entity/Q483501	6.062663691919682e-06
+http://dbpedia.org/class/yago/EnglishFolkGuitarists	Key not found
+http://www.wikidata.org/entity/Q215627	6.062663691919682e-06
+1989	0.1318993112814046
+http://dbpedia.org/resource/O'Hooley_&_Tidow	0.0010003395091667477
+http://dbpedia.org/resource/Belinda_O'Hooley	0.0009093995537879523

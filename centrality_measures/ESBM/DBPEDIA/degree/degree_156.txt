@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Animal	7.921105786367777e-05
+http://dbpedia.org/resource/Chordate	0.06289357994376014
+LC	0.03568458156758683
+Gerbil mouse	3.9605528931838884e-05
+http://dbpedia.org/resource/Category:Nesomyid_rodents	0.001029743752227811
+http://dbpedia.org/resource/Category:Animals_described_in_1834	0.001029743752227811
+http://dbpedia.org/resource/Mammal	0.25323775199017784
+IUCN3.1	0.09802368410630123
+http://www.w3.org/2002/07/owl#Thing	0.00011881658679551666
+http://dbpedia.org/ontology/Mammal	0.5366945225553488
+http://dbpedia.org/ontology/Animal	7.921105786367777e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/ontology/Eukaryote	Key not found
+http://www.wikidata.org/entity/Q7377	0.22107806249752465
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/ontology/Species	Key not found
+Gerbil mouse	3.9605528931838884e-05
+http://dbpedia.org/resource/Nesomyidae	0.011762842092756149
+http://dbpedia.org/resource/Dendromurinae	0.007208206265594677
+http://dbpedia.org/resource/Rodent	0.1910966770961226

@@ -1,0 +1,38 @@
+Juhan Muks	1.761090467217301e-05
+Muks	Key not found
+Estonian artist	Key not found
+Estonian artist	Key not found
+1899	0.07201098920451543
+Juhan	3.522180934434602e-05
+1983-11-23	0.0015497596111512248
+1983	0.3069228466266312
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/EstonianPainters	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://dbpedia.org/class/yago/Painter110391653	0.4689783914199672
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/Creator109614315	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/class/yago/Artist109812338	1.761090467217301e-05
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+1899	0.07201098920451543
+Juhan Muks	1.761090467217301e-05
+Muks, Juhan	Key not found
+http://dbpedia.org/resource/Category:1899_births	0.10085765105753483
+http://dbpedia.org/resource/Category:20th-century_Estonian_painters	0.0015145378018068787
+http://dbpedia.org/resource/Category:People_from_Viljandi_County	0.00029938537942694114
+http://dbpedia.org/resource/Category:1983_deaths	0.09039677368226405
+http://dbpedia.org/resource/Category:Estonian_painters	0.0005459380448373632
