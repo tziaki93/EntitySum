@@ -1,0 +1,10 @@
+Broken Lance <http://data.linkedmdb.org/resource/movie/film_format> CinemaScope (Film Format).
+Broken Lance <http://data.linkedmdb.org/resource/movie/writer> Richard Murphy (Writer).
+Broken Lance <http://data.linkedmdb.org/resource/movie/writer> Philip Yordan (Writer).
+Broken Lance <http://purl.org/dc/terms/title> Broken Lance.
+Broken Lance <http://data.linkedmdb.org/resource/movie/initial_release_date> 1954.
+Broken Lance <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+Broken Lance <http://data.linkedmdb.org/resource/movie/editor> Dorothy Spencer (Editor).
+Broken Lance director Edward Dmytryk (Director).
+film_film_distributor_relationship #1166 <http://data.linkedmdb.org/resource/movie/film_of_distributor> Broken Lance.
+Broken Lance <http://www.w3.org/2000/01/rdf-schema#label> Broken Lance.
