@@ -1,0 +1,22 @@
+Wehlaberg	0.0
+Wehlaberg	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/ontology/Place	0.00028808682717457255
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/class/yago/GeologicalFormation109287968	0.24827172378916645
+http://dbpedia.org/class/yago/HillsOfBrandenburg	Key not found
+http://dbpedia.org/ontology/Mountain	0.1051979738179528
+http://dbpedia.org/class/yago/Mountain109359803	0.05123936101526606
+http://schema.org/Mountain	0.020822942955523314
+http://dbpedia.org/class/yago/Object100002684	0.0004112223935137567
+http://dbpedia.org/class/yago/NaturalElevation109366317	0.06438548269100494
+http://schema.org/Place	0.0
+http://www.wikidata.org/entity/Q8502	0.02082506785362196
+http://dbpedia.org/class/yago/Hill109303008	0.0023867433974941975
+http://dbpedia.org/ontology/NaturalPlace	0.7370168311960871
+http://dbpedia.org/class/yago/YagoGeoEntity	0.0004112223935137567
+http://dbpedia.org/resource/Category:Hills_of_Brandenburg	7.777130124214441e-05
+http://dbpedia.org/resource/Brandenburg	0.07493322229645107
+http://dbpedia.org/resource/Germany	0.0

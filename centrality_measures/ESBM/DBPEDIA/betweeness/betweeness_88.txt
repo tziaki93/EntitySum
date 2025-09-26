@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/Plant	0.21453055865891196
+EN	0.006233900516569446
+http://dbpedia.org/resource/Flowering_plant	0.26905833035257526
+http://dbpedia.org/resource/Malvales	0.006710916243284794
+http://dbpedia.org/resource/Rosids	0.005088812183397417
+http://dbpedia.org/resource/Dipterocarpaceae	0.010330097667674855
+http://dbpedia.org/resource/Eudicots	0.012333412526694516
+http://dbpedia.org/resource/André_Joseph_Guillaume_Henri_Kostermans	0.003608267383768925
+http://dbpedia.org/resource/Category:Stemonoporus	5.7522644674003284e-05
+http://dbpedia.org/resource/Category:Endangered_plants	0.005133764162023645
+http://dbpedia.org/resource/Category:Flora_of_Sri_Lanka	0.0013481853801154517
+http://dbpedia.org/resource/Stemonoporus	0.0005537197416096508
+IUCN2.3	0.02893931603875467
+Stemonoporus laevifolius	0.0
+http://www.w3.org/2002/07/owl#Thing	8.343116270330933e-05
+http://dbpedia.org/ontology/Plant	0.5577259566575761
+http://dbpedia.org/ontology/Eukaryote	9.320231354880925e-05
+http://dbpedia.org/class/yago/Organism100004475	9.506378258745459e-06
+http://www.wikidata.org/entity/Q756	0.008608729558696746
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://dbpedia.org/class/yago/Plant100017222	0.28105520164986314
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	0.0
+http://dbpedia.org/class/yago/EndangeredPlants	Key not found

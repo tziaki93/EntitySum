@@ -1,0 +1,32 @@
+http://dbpedia.org/resource/Mawmih	0.0
+http://dbpedia.org/resource/East_Khasi_Hills_district	0.0039203497901778685
+E. K. Mawlong	5.390270048799022e-07
+http://dbpedia.org/resource/Meghalaya	0.041889811575359884
+http://dbpedia.org/resource/India	0.0
+http://dbpedia.org/resource/Shillong	0.02200395856338916
+1946	0.18237327819784768
+Mawlong	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://schema.org/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+E.K.	0.0
+2008	0.8748280854913527
+1946-02-01	0.00047064807305613324
+2008-10-18	0.0024487215815097007
+Indian politician	0.0
+Indian politician	0.0
+http://dbpedia.org/resource/Category:People_from_East_Khasi_Hills_district	7.458763144799912e-05
+http://dbpedia.org/resource/Category:Speakers_of_the_Meghalaya_Legislative_Assembly	6.779663186549362e-05
+http://dbpedia.org/resource/Category:Chief_Ministers_of_Meghalaya	8.603005037681977e-05
+http://dbpedia.org/resource/Category:2008_deaths	0.1396964397601605
+http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly	9.885681231302177e-05
+http://dbpedia.org/resource/Category:1946_births	0.2531263659947928
+http://dbpedia.org/resource/Category:People_from_Shillong	0.00041259537395517334
+E.K. Mawlong	0.0
+Mawlong, E.K.	Key not found

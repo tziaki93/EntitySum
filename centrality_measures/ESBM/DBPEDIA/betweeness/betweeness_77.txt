@@ -1,0 +1,67 @@
+http://dbpedia.org/resource/Category:Communes_of_Var_(department)	0.002256072491349744
+Saint-Raphaël	0.00014727842196595362
+8.959E7	Key not found
+http://dbpedia.org/resource/Henry_Bérenger	0.0037469082560669773
+http://dbpedia.org/resource/Sim_(actor)	0.0020760866052440758
+http://dbpedia.org/resource/Louis_Hon	0.005016373433254718
+http://dbpedia.org/resource/François_Simiand	0.003630144561365836
+http://dbpedia.org/resource/Basil_Spalding_de_Garmendia	0.003926350358080934
+http://dbpedia.org/resource/Arthur_Coadou	0.001030246138215133
+http://dbpedia.org/resource/Josep_Irla_i_Bosch	0.00034225116027314747
+http://dbpedia.org/resource/Henri_Guisol	0.0013187043127857222
+http://dbpedia.org/resource/Melchior_Treub	0.0022740212817267485
+http://dbpedia.org/resource/Adrien_Douady	0.0019720000038618572
+http://dbpedia.org/resource/Ralph_Paget	0.006813796741910537
+http://dbpedia.org/resource/Germaine_Sablon	0.0038930627128216616
+http://dbpedia.org/resource/Shahan_Shahnour	0.0014059223857052112
+10.0	Key not found
+http://dbpedia.org/class/yago/District108552138	2.949129217189555e-05
+http://dbpedia.org/class/yago/Object100002684	0.001448888520956427
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	0.0002496558785892677
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0
+http://dbpedia.org/class/yago/Region108630985	3.431113193937224e-05
+http://dbpedia.org/ontology/Place	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/ontology/Settlement	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0005215632989388713
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.00012413484146703605
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0016898710468676184
+http://dbpedia.org/class/yago/Location100027167	3.431113193937224e-05
+http://schema.org/Place	0.0
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.001448888520956427
+http://dbpedia.org/class/yago/YagoGeoEntity	3.431113193937224e-05
+http://www.wikidata.org/entity/Q486972	0.0
+http://dbpedia.org/class/yago/CommunesOfVar(department)	Key not found
+http://dbpedia.org/class/yago/Commune108541609	0.9727184573464297
+43.4252	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG?width=300	Key not found
+6.7684	Key not found
+http://dbpedia.org/resource/France	0.00012939196593541392
+http://dbpedia.org/resource/Var_(department)	0.02207285843414854
+http://dbpedia.org/resource/Lists_of_twin_towns_and_sister_cities	0.0019623030754318095
+http://dbpedia.org/resource/Twin_towns_and_sister_cities	0.08790175607630833
+http://dbpedia.org/resource/France	0.00012939196593541392
+43.4252 6.7684	0.0
+83700 and 83530	0.0
+Saint-Raphaël, Var	1.532023812583678e-05
+560.0	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/MairieStRaphaël.JPG	Key not found
+http://dbpedia.org/resource/Stade_Louis_Hon	0.0005792093159650122
+0.0	Key not found
+34425	9.749439402086004e-07
+http://dbpedia.org/resource/Capucine	0.00660536970862063
+http://dbpedia.org/resource/Eyemen_Henaini	0.001997989382327395
+http://dbpedia.org/resource/Fabien_Dao_Castellana	0.0010271516438162631
+http://dbpedia.org/resource/Jean-Christophe,_Prince_Napoléon	0.005083581447946876
+http://dbpedia.org/resource/Valérie_Allain	0.0011492451868767687
+http://dbpedia.org/resource/David_Michie	0.0032262007240891084
+http://dbpedia.org/resource/Grégory_Tony	0.006560602296465572
+http://dbpedia.org/resource/Edgar_Givry	0.0008283774728650807
+http://dbpedia.org/resource/Princess_Béatrice_of_Bourbon-Two_Sicilies	0.0011807968175592016
+http://dbpedia.org/resource/Anthony_Braizat	0.0036607842124268923
+http://dbpedia.org/resource/Earvin_N'Gapeth	0.0038848402844454365
+http://dbpedia.org/resource/Abdellah_Ezbiri	0.002188403660775433
+http://dbpedia.org/resource/Prince_Carlo,_Duke_of_Castro	0.009674836737558621
+http://dbpedia.org/resource/Provence-Alpes-Côte_d'Azur	0.03175515691487269
+83118	3.243313507760611e-05

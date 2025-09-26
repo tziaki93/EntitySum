@@ -1,0 +1,57 @@
+British minister	Key not found
+British minister	Key not found
+Andrew	0.013369783943358629
+http://dbpedia.org/resource/Category:English_Christian_religious_leaders	0.00017261439517100039
+http://dbpedia.org/resource/Category:1795_deaths	0.006103834961670866
+http://dbpedia.org/resource/Category:Dissenting_academy_tutors	9.177155598082706e-05
+http://dbpedia.org/resource/Category:People_from_Nottingham	0.005941991165061405
+http://dbpedia.org/resource/Category:1725_births	0.0016604048947351047
+http://dbpedia.org/resource/Category:People_educated_at_Carre's_Grammar_School	6.768177429898503e-05
+http://dbpedia.org/resource/Category:18th-century_Presbyterian_ministers	8.88073309976228e-05
+http://dbpedia.org/resource/Category:Burials_at_Bunhill_Fields	0.00032689285549869626
+http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society	0.021220308602955543
+1795	0.0022996540845614233
+1725	0.0005146678986768786
+Andrew Kippis	0.0
+Kippis, Andrew	0.0
+Andrew Kippis	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Kippis.jpg?width=300	5.205134344235387e-06
+Kippis	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Kippis.jpg	5.205134344235387e-06
+1725-03-28	Key not found
+http://dbpedia.org/class/yago/Professional110480253	0.5883499165529767
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/Colleague109935990	0.0492741850916426
+http://dbpedia.org/class/yago/Head110162991	0.2780993156256213
+http://dbpedia.org/class/yago/Executive110069645	0.05037091694351205
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/Administrator109770949	0.18521077558058913
+http://dbpedia.org/class/yago/EnglishChristianMinisters	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://dbpedia.org/class/yago/Educator110045713	0.09220153439491836
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/class/yago/Associate109816771	0.12232493904111785
+http://dbpedia.org/class/yago/FellowsOfTheRoyalSociety	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://dbpedia.org/class/yago/DissentingAcademyTutors	Key not found
+http://dbpedia.org/class/yago/Coach109931418	1.5838705774819423e-05
+http://dbpedia.org/class/yago/Peer109626238	0.1419572284339355
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/Teacher110694258	0.002974090951622856
+http://dbpedia.org/class/yago/PeopleFromNottingham	Key not found
+http://dbpedia.org/class/yago/Adult109605289	0.0
+http://dbpedia.org/class/yago/Leader109623038	0.0
+http://dbpedia.org/ontology/Person	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/Minister110320863	0.04150558256388607
+http://schema.org/Person	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+1795-10-08	0.0

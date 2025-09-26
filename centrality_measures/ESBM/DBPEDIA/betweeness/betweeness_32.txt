@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/Category:Rodents_of_Malaysia	0.0002562755598323293
+http://dbpedia.org/resource/Category:Dremomys	0.00020970056001944838
+http://dbpedia.org/resource/Category:Rodents_of_Indonesia	0.0004302245463867223
+http://commons.wikimedia.org/wiki/Special:FilePath/Bornean_Mountain_Ground_Squirrel_(Dremomys_everetti)_(7113326479).jpg?width=300	3.940731387509829e-05
+LC	0.06867780765500554
+http://dbpedia.org/resource/Red-cheeked_squirrel	0.010046119117934661
+iucn3.1	Key not found
+http://dbpedia.org/ontology/Eukaryote	0.0
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/ontology/Animal	0.0009693294305176912
+http://dbpedia.org/ontology/Species	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0013201645213595785
+http://dbpedia.org/ontology/Mammal	0.5533923624348518
+http://www.wikidata.org/entity/Q7377	0.12503798189780452
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/resource/Chordate	0.10863510081328845
+http://dbpedia.org/resource/Rodent	0.20470684552231957
+http://dbpedia.org/resource/Mammal	0.3738937067405914
+http://dbpedia.org/resource/Oldfield_Thomas	0.0661186721287216
+Bornean Mountain Ground Squirrel	0.0
+Bornean mountain ground squirrel	0.0
+http://dbpedia.org/resource/Animal	0.0
+http://dbpedia.org/resource/Squirrel	0.1325205001706656
+http://commons.wikimedia.org/wiki/Special:FilePath/Bornean_Mountain_Ground_Squirrel_(Dremomys_everetti)_(7113326479).jpg	3.940731387509829e-05

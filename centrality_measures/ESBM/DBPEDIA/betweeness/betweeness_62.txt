@@ -1,0 +1,37 @@
+http://dbpedia.org/resource/Team_Lotus	0.018727481202536363
+http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg?width=300	1.5582062512021412e-05
+http://dbpedia.org/resource/Giancarlo_Baghetti	0.005459140944518166
+http://dbpedia.org/resource/John_Surtees	0.021600074582820452
+http://dbpedia.org/resource/Monza	0.03234969939483696
+http://dbpedia.org/resource/Autodromo_Nazionale_Monza	0.050605268800538984
+http://dbpedia.org/resource/Italy	0.0
+http://dbpedia.org/resource/Jim_Clark	0.013141682367682334
+http://dbpedia.org/resource/Jim_Clark	0.013141682367682334
+http://dbpedia.org/resource/Team_Lotus	0.018727481202536363
+391006.21824	Key not found
+391006.0	Key not found
+http://dbpedia.org/resource/Jack_Brabham	0.016280253034813768
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://schema.org/SportsEvent	0.35830923860520997
+http://schema.org/Event	Key not found
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/ontology/SportsEvent	0.6263255769253578
+http://dbpedia.org/ontology/GrandPrix	0.0040041052989717
+http://www.w3.org/2002/07/owl#Thing	3.5001807511585816e-05
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg	1.675087507115219e-05
+http://dbpedia.org/resource/Italy	0.0
+68	Key not found
+1967 Italian Grand Prix	0.0
+http://dbpedia.org/resource/Category:1967_in_Italian_motorsport	8.57061528778492e-05
+http://dbpedia.org/resource/Category:Italian_Grand_Prix	0.00022147355505472711
+http://dbpedia.org/resource/Category:European_Grand_Prix	0.00011267680255218635
+http://dbpedia.org/resource/Category:1967_Formula_One_races	0.0001462468056297198
+http://dbpedia.org/resource/Jim_Clark	0.013141682367682334
+http://dbpedia.org/resource/Brabham	0.023119192143211027
+5750.186112	Key not found
+5750.0	Key not found
+http://dbpedia.org/resource/Team_Lotus	0.018727481202536363
+http://dbpedia.org/resource/Honda_in_Formula_One	0.013578874108922244
+XXXII Gran Premio d'Italia	Key not found

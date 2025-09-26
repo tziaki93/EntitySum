@@ -1,0 +1,34 @@
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	3.6245756377986214e-05
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/class/yago/Object100002684	3.6245756377986214e-05
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/class/yago/Tract108673395	Key not found
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/class/yago/Region108630985	3.6245756377986214e-05
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.6245756377986214e-05
+http://dbpedia.org/ontology/Settlement	1.1101116599868562e-07
+http://dbpedia.org/class/yago/PopulatedPlacesInBacLieuProvince	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	3.6245756377986214e-05
+http://dbpedia.org/ontology/Place	0.0
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Commune108541609	0.8779855630227812
+http://dbpedia.org/class/yago/District108552138	3.6245756377986214e-05
+http://schema.org/Place	0.0
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/CommunesOfBacLieuProvince	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	3.6245756377986214e-05
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	0.0008727437923481302
+http://www.wikidata.org/entity/Q532	Key not found
+http://dbpedia.org/class/yago/Location100027167	3.6245756377986214e-05
+http://dbpedia.org/resource/Bạc_Liêu_Province	0.0005071828705532812
+http://dbpedia.org/resource/Giá_Rai_District	0.002141260307486075
+http://dbpedia.org/resource/UTC+07:00	0.038268355485259156
+Phong Thạnh Tây	0.0
+http://dbpedia.org/resource/Commune-level_subdivisions_(Vietnam)	0.004580379637329367
+Phong Thạnh Tây	0.0
+http://dbpedia.org/resource/Vietnam	0.5087251299581235
++7	0.07233271651129537
+http://dbpedia.org/resource/Category:Communes_of_Bac_Lieu_Province	0.0
+http://dbpedia.org/resource/Category:Populated_places_in_Bac_Lieu_Province	0.0

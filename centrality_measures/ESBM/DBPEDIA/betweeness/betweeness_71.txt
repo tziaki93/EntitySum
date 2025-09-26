@@ -1,0 +1,39 @@
+http://dbpedia.org/class/yago/GeographicalArea108574314	0.0
+http://dbpedia.org/class/yago/Location100027167	4.4044896830092184e-08
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/class/yago/PopulatedPlacesInAligudarzCounty	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	4.4044896830092184e-08
+http://schema.org/Place	0.0
+http://dbpedia.org/class/yago/Object100002684	4.4044896830092184e-08
+http://dbpedia.org/class/yago/Region108630985	4.4044896830092184e-08
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/ontology/Place	0.0
+http://dbpedia.org/class/yago/YagoLegalActorGeo	4.4044896830092184e-08
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://dbpedia.org/class/yago/Tract108673395	0.0
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.4044896830092184e-08
+http://dbpedia.org/class/yago/District108552138	4.4044896830092184e-08
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0
+http://dbpedia.org/class/yago/YagoGeoEntity	4.4044896830092184e-08
+http://dbpedia.org/class/yago/PhysicalEntity100001930	4.4044896830092184e-08
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/ontology/Settlement	4.4044896830092184e-08
+http://www.wikidata.org/entity/Q532	Key not found
++3:30	0.4924157126905856
++4:30	0.5028199169465477
+http://dbpedia.org/resource/Category:Populated_places_in_Aligudarz_County	0.00014788797475797375
+Darreh Dang	0.0
+دره دنگ	0.0
+451	0.08285867506696219
+http://dbpedia.org/resource/Iran_Standard_Time	0.0
+http://dbpedia.org/resource/Iran	1.5181264102132581e-05
+49.00111	Key not found
+33.269444	Key not found
+http://dbpedia.org/resource/Lorestan_Province	0.009620124758828686
+http://dbpedia.org/resource/Zaz_va_Mahru_District	0.0004962551305993768
+http://dbpedia.org/resource/Zaz-e_Gharbi_Rural_District	0.0005839898073148558
+http://dbpedia.org/resource/Aligudarz_County	0.006666652246048299
+33.269444444444446 49.00111111111111	0.0
+Darreh Dang	0.0

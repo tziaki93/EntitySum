@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/The_Black_Crowes	0.025687345784986455
+http://dbpedia.org/resource/George_Drakoulias	0.005949566836695262
+279.0	0.0
+http://dbpedia.org/resource/The_Black_Crowes	0.025687345784986455
+http://dbpedia.org/resource/Blues_rock	0.09390130910139077
+http://dbpedia.org/resource/Southern_rock	0.03571743662962753
+http://dbpedia.org/ontology/Work	0.0
+http://dbpedia.org/ontology/MusicalWork	0.0005948920861530417
+http://www.w3.org/2002/07/owl#Thing	5.6223254363000145e-05
+http://www.wikidata.org/entity/Q134556	2.933741584180949e-05
+http://schema.org/CreativeWork	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	5.251219037541153e-06
+http://www.wikidata.org/entity/Q2188189	0.0
+http://dbpedia.org/class/yago/Object100002684	5.251219037541153e-06
+http://dbpedia.org/class/yago/Whole100003553	5.251219037541153e-06
+http://dbpedia.org/ontology/Single	0.9699226222587335
+http://www.wikidata.org/entity/Q386724	0.0
+http://dbpedia.org/class/yago/BillboardHotMainstreamRockTracksNumber-oneSingles	Key not found
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/1992Singles	Key not found
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Medium106254669	Key not found
+http://dbpedia.org/resource/Category:Blues_rock_songs	0.00033928337759483063
+http://dbpedia.org/resource/Category:Southern_rock_songs	0.0002230143072869124
+http://dbpedia.org/resource/Category:Songs_written_by_Chris_Robinson_(singer)	7.45129019483816e-05
+http://dbpedia.org/resource/Category:The_Black_Crowes_songs	0.00011533500108400324
+http://dbpedia.org/resource/Category:American_Recordings_(record_label)_singles	9.951404959641772e-05
+http://dbpedia.org/resource/Category:Billboard_Mainstream_Rock_number-one_singles	Key not found
+http://dbpedia.org/resource/Category:Songs_written_by_Rich_Robinson	7.45129019483816e-05
+http://dbpedia.org/resource/Category:1992_songs	0.012992915283138989
+http://dbpedia.org/resource/Category:1992_singles	0.0036097436218128004
+http://dbpedia.org/resource/The_Black_Crowes	0.025687345784986455
+Sting Me	0.0
+http://dbpedia.org/resource/The_Southern_Harmony_and_Musical_Companion	0.006267328178660132
+http://dbpedia.org/resource/American_Recordings_(record_label)	0.010558227379838869
+Sting Me	0.0

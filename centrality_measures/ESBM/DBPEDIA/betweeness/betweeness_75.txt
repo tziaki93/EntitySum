@@ -1,0 +1,35 @@
+54.051944444444445 21.336388888888887	0.0
+21.33639	Key not found
+113	0.9748229483597843
+http://dbpedia.org/resource/Village	Key not found
+http://dbpedia.org/resource/Poland	0.0
+Muławki	0.0
+Muławki	0.0
+http://dbpedia.org/resource/Gmina_Kętrzyn	0.0024576118465879236
+http://dbpedia.org/resource/Kętrzyn_County	0.013305864779107451
+http://dbpedia.org/resource/Warmian-Masurian_Voivodeship	0.27388914217777377
+54.051945	Key not found
+http://www.wikidata.org/entity/Q532	Key not found
+http://schema.org/Place	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Settlement	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/class/yago/District108552138	0.0
+http://dbpedia.org/class/yago/Location100027167	0.0
+http://dbpedia.org/class/yago/VillagesInK%C4%99trzynCounty	Key not found
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Region108630985	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0
+http://dbpedia.org/class/yago/YagoGeoEntity	0.0
+http://www.wikidata.org/entity/Q486972	0.0
+http://dbpedia.org/class/yago/AdministrativeDistrict108491826	0.0
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://dbpedia.org/ontology/Place	0.0
+http://dbpedia.org/resource/Category:Villages_in_Kętrzyn_County	0.005004249015027401

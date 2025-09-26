@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/Vasco_da_Gama	0.05683304050143094
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/MilitaryConflict	0.9903681913287539
+http://schema.org/Event	Key not found
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal	0.0004399053696083738
+http://dbpedia.org/resource/Category:1503_in_India	0.00019944991976708133
+http://dbpedia.org/resource/Category:Conflicts_in_1503	0.0002560897020400445
+http://dbpedia.org/resource/Category:History_of_Kozhikode	0.00020515376364269047
+Low	0.0001018319742357369
+1502-01-06	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg	0.0005925952630804908
+http://dbpedia.org/resource/India	0.0
+http://dbpedia.org/resource/Kozhikode	0.12787967577906592
+Battle of Calicut	2.802690578556943e-05
+Portuguesevictory	3.1978251873458348e-06
+Arab privateers	0.0
+Calicut	3.4769648458000924e-05
+Portuguese Empire	7.016646309845022e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300	3.6073636247088786e-05
+Hundreds of smaller ships	0.0
+20 large ships	0.0
+10 carracks	0.0
+40 gun-mountedsambuks	0.0
+6 caravels	9.240243167959436e-08
+Battle of Calicut (1502)	0.0

@@ -1,0 +1,35 @@
+http://dbpedia.org/resource/George_Albert_Boulenger	0.1098188801328927
+http://dbpedia.org/class/yago/Organism100004475	1.1540662586935811e-05
+http://dbpedia.org/ontology/Animal	0.00040513678354757763
+http://dbpedia.org/class/yago/ReptilesOfBrazil	Key not found
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/class/yago/Vertebrate101471682	0.4262274024488323
+http://dbpedia.org/class/yago/Chordate101466257	0.4294314097531024
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/class/yago/Object100002684	1.1540662586935811e-05
+http://dbpedia.org/class/yago/Reptile101661091	0.02673863206594583
+http://dbpedia.org/class/yago/Animal100015388	0.0
+http://dbpedia.org/ontology/Reptile	0.06467373764006391
+http://dbpedia.org/ontology/Species	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0003081592957231614
+http://dbpedia.org/ontology/Eukaryote	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	1.1540662586935811e-05
+http://dbpedia.org/class/yago/Whole100003553	1.1540662586935811e-05
+http://dbpedia.org/class/yago/LivingThing100004258	1.1540662586935811e-05
+http://dbpedia.org/resource/Category:Endemic_fauna_of_Brazil	0.042773296761466316
+http://dbpedia.org/resource/Category:Amphisbaena	Key not found
+http://dbpedia.org/resource/Category:Fernando_de_Noronha	0.00039502980167978563
+http://dbpedia.org/resource/Category:Reptiles_of_Brazil	0.00746478696228946
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png?width=300	2.2185738985127826e-05
+LC	0.01183358674607083
+http://dbpedia.org/resource/Amphisbaenidae	0.00533328011397098
+http://dbpedia.org/resource/Reptile	0.11937287314266513
+http://dbpedia.org/resource/Chordate	0.05074239044196156
+http://dbpedia.org/resource/Vertebrate	0.10084563389542331
+Amphisbaena ridleyi	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png	2.7092495267332456e-05
+IUCN3.1	0.08218965168902044
+http://dbpedia.org/resource/Amphisbaena_(genus)	0.000555057769386033
+http://dbpedia.org/resource/Animal	0.0
+http://dbpedia.org/resource/Amphisbaenia	0.012767146198270811
+http://dbpedia.org/resource/Squamata	0.024806090484154494

@@ -1,0 +1,35 @@
+http://www.wikidata.org/entity/Q1656682	0.0
+http://dbpedia.org/ontology/Event	0.0
+http://dbpedia.org/class/yago/Event100029378	0.0
+http://dbpedia.org/ontology/MilitaryConflict	0.49653339768874255
+http://dbpedia.org/class/yago/ConflictsIn1746	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	4.119267475790415e-05
+http://dbpedia.org/class/yago/Abstraction100002137	0.0
+http://dbpedia.org/class/yago/Battle100953559	0.025768327943385173
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.0
+http://dbpedia.org/class/yago/BattlesInvolvingAustria	Key not found
+http://dbpedia.org/class/yago/Act100030358	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/class/yago/Conflict100958896	0.07108849364654217
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.026368065470955535
+http://schema.org/Event	0.0
+http://dbpedia.org/class/yago/GroupAction101080366	0.6644827386284677
+http://dbpedia.org/class/yago/BattlesInvolvingFrance	Key not found
+http://www.w3.org/2002/07/owl#Thing	4.272846578641084e-05
+http://dbpedia.org/resource/War_of_the_Austrian_Succession	0.056495725935425074
+French victory	7.418876453267873e-05
+Battle of Rottofreddo	0.0
+http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois	0.0008701110899538678
+http://dbpedia.org/resource/Antoniotto_Botta_Adorno	0.0018117734202723842
+1746-08-12	0.0
+http://dbpedia.org/resource/Category:1746_in_Austria	6.635234528759991e-05
+http://dbpedia.org/resource/Category:Battles_involving_France	0.0012540424180264161
+http://dbpedia.org/resource/Category:1746_in_Italy	6.474569204447289e-05
+http://dbpedia.org/resource/Category:1746_in_France	6.864650872866649e-05
+http://dbpedia.org/resource/Category:Conflicts_in_1746	0.00012429206180863262
+http://dbpedia.org/resource/Category:Battles_involving_Austria	0.00023073674483347912
+Battle of Rottofreddo	0.0
+http://dbpedia.org/resource/Province_of_Piacenza	0.013671565675429986
+http://dbpedia.org/resource/Italy	4.272846578641084e-05
+http://dbpedia.org/resource/Rottofreno	0.002050290825155145

@@ -1,0 +1,25 @@
+If	0.0007914411926654084
+If (Glasvegas song)	0.0
+2013-07-08	0.006465660656276479
+http://dbpedia.org/resource/James_Allan_(musician)	0.0016183236539826908
+http://dbpedia.org/resource/Indie_rock	0.30973167201553975
+http://dbpedia.org/resource/James_Allan_(musician)	0.0016183236539826908
+http://dbpedia.org/resource/Glasvegas	0.008085477925068328
+http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)	0.0019354468411520726
+http://dbpedia.org/ontology/Work	0.0
+http://dbpedia.org/ontology/Single	0.9228212487448617
+http://dbpedia.org/ontology/MusicalWork	0.0016786215425835687
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.wikidata.org/entity/Q386724	0.0
+http://www.wikidata.org/entity/Q134556	2.4821535587334697e-05
+http://www.wikidata.org/entity/Q2188189	0.0
+http://schema.org/CreativeWork	0.0
+http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)	0.0019354468411520726
+http://dbpedia.org/resource/Later...When_the_TV_Turns_to_Static	0.004008246719167411
+http://dbpedia.org/resource/Glasvegas	0.008085477925068328
+http://dbpedia.org/resource/Digital_distribution	0.025743810803119067
+http://dbpedia.org/resource/Category:2013_songs	0.01900836875072626
+http://dbpedia.org/resource/Category:Glasvegas_songs	9.920644513581834e-05
+http://dbpedia.org/resource/Category:2013_singles	0.008681861235617124
+http://dbpedia.org/resource/Category:Songs_written_by_James_Allan_(musician)	7.597467337101314e-05
+269.0	Key not found

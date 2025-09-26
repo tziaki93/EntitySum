@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/November_to_Remember	0.0028898671051364694
+http://www.w3.org/2002/07/owl#Thing	9.147214398020356e-06
+http://dbpedia.org/ontology/WrestlingEvent	0.014883702108066272
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/ontology/SportsEvent	0.6447779744292125
+http://schema.org/SportsEvent	0.3507664577675285
+http://dbpedia.org/ontology/Event	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://schema.org/Event	Key not found
+http://dbpedia.org/resource/Guilty_as_Charged	0.00038097734835530685
+2000-12-03	0.0016468100435843502
+http://dbpedia.org/resource/Extreme_Championship_Wrestling	0.03355407993112998
+http://dbpedia.org/resource/Category:Extreme_Championship_Wrestling_shows	9.435924287974814e-05
+http://dbpedia.org/resource/Category:Professional_wrestling_in_New_York	Key not found
+http://dbpedia.org/resource/Category:Sports_in_Manhattan	0.004828509772700198
+http://dbpedia.org/resource/Category:2000_in_professional_wrestling	0.00016877048755150603
+http://dbpedia.org/resource/Category:2000_in_New_York	Key not found
+http://dbpedia.org/resource/Hammerstein_Ballroom	0.019116958050362072
+http://dbpedia.org/resource/New_York_City	9.147214398020356e-06
+http://dbpedia.org/resource/November_to_Remember	0.0028898671051364694
+Massacre on 34th Street	0.0
+Massacre on 34th Street	0.0
+http://dbpedia.org/resource/Holiday_Hell	0.0179844389600825
+http://dbpedia.org/resource/Guilty_as_Charged	0.00038097734835530685

@@ -1,0 +1,27 @@
+http://schema.org/SportsEvent	0.2380208187257935
+http://dbpedia.org/ontology/Event	Key not found
+http://schema.org/Event	Key not found
+http://dbpedia.org/ontology/SoccerTournament	0.2807660753075002
+http://dbpedia.org/ontology/Tournament	0.2077528810981888
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://www.wikidata.org/entity/Q500834	0.028285010360915675
+http://dbpedia.org/ontology/SportsEvent	0.4984178160874789
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/resource/Category:2008_in_futsal	0.0001226115516596246
+http://dbpedia.org/resource/Category:Copa_América_de_Futsal	0.00011035242075087
+http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Uruguay	0.0002950479373054298
+http://dbpedia.org/resource/Category:2007–08_in_Uruguayan_football	0.00015643680202546704
+17:00	0.008506945927551485
+18:35	7.211107321759041e-05
+20:30	0.005507787919290908
+16:45	0.00014578502224829376
+21:30	0.0006349794930922953
+20:10	7.259177484050196e-05
+19:00	0.010509853331337924
+22:00	0.0004610425711931653
+18:00	0.019138060192776505
+21:50	3.627931193858967e-05
+18:30	0.0046658277386344765
+2008 Copa América – FIFA Futsal	0.0

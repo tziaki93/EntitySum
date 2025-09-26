@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Animal	0.0005014090189254977
+http://dbpedia.org/resource/Tockus	0.0022411377484817837
+http://dbpedia.org/resource/Hornbill	0.03529651443422747
+African grey hornbill	0.0
+African grey hornbill	0.0
+IUCN3.1	0.09203280895243064
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg	8.84605716043751e-05
+http://dbpedia.org/resource/Lake_Naivasha	0.019027187291445345
+http://dbpedia.org/resource/Chordate	0.07798582382504769
+http://dbpedia.org/resource/Bird	0.5322791010880937
+http://dbpedia.org/ontology/Eukaryote	0.00045712779974225266
+http://www.wikidata.org/entity/Q729	0.0
+http://www.wikidata.org/entity/Q19088	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0015826800621169055
+http://dbpedia.org/ontology/Animal	0.0008273070301751925
+http://dbpedia.org/ontology/Bird	0.22202908905307864
+http://dbpedia.org/ontology/Species	0.0
+http://dbpedia.org/resource/Category:Birds_of_Gabon	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Kenya	Key not found
+http://dbpedia.org/resource/Category:Animals_described_in_1766	0.0006763629314582934
+http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea	Key not found
+http://dbpedia.org/resource/Category:Birds_of_South_Africa	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Africa	0.0012938915241171446
+http://dbpedia.org/resource/Category:Birds_of_Asia	0.0008928121400239183
+http://dbpedia.org/resource/Category:Hornbills	0.00040510600696859586
+http://dbpedia.org/resource/Category:Birds_of_Namibia	Key not found
+http://dbpedia.org/resource/Category:Tockus	0.00010666935218592313
+http://dbpedia.org/resource/Category:Birds_of_the_Republic_of_the_Congo	Key not found
+http://dbpedia.org/resource/Category:Birds_of_Cameroon	Key not found
+LC	0.017260168344366545
+http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg?width=300	0.0
+http://dbpedia.org/resource/Bucerotiformes	0.022938366219116466
+http://dbpedia.org/resource/Carl_Linnaeus	0.6129512609671375

@@ -1,0 +1,26 @@
+Our Leading Citizen	5.366097018686939e-05
+Our Leading Citizen (1939 film)	0.0
+http://dbpedia.org/resource/Charles_Bickford	0.02992310773467751
+http://dbpedia.org/resource/Bob_Burns_(comedian)	0.00435743331038886
+http://dbpedia.org/resource/Gene_Lockhart	0.03776115647365485
+http://dbpedia.org/resource/Susan_Hayward	0.06422928322605627
+http://dbpedia.org/resource/Elizabeth_Patterson_(actress)	0.03458909175837173
+5340.0	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0009292182350806187
+http://dbpedia.org/ontology/Film	Key not found
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://schema.org/Movie	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/resource/Alfred_Santell	0.014095393892753124
+http://dbpedia.org/resource/Victor_Milner	0.01570509732697914
+http://dbpedia.org/resource/Category:Paramount_Pictures_films	0.0869453599185337
+http://dbpedia.org/resource/Category:1930s_comedy_films	0.0038224537364650616
+http://dbpedia.org/resource/Category:American_comedy_films	0.22043405559987805
+http://dbpedia.org/resource/Category:1939_films	0.09985082952835304
+http://dbpedia.org/resource/Category:American_films	0.008193787975251336
+http://dbpedia.org/resource/Category:English-language_films	0.02923845243223664
+http://dbpedia.org/resource/Category:Films_directed_by_Alfred_Santell	0.0014283460158676902
+http://dbpedia.org/resource/Paramount_Pictures	0.7407402839639076
+http://dbpedia.org/resource/Gerard_Carbonara	0.006058994819560813

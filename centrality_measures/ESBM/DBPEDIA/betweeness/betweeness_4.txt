@@ -1,0 +1,40 @@
+http://dbpedia.org/resource/Category:UK_MPs_1987–92	Key not found
+http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_English_constituencies	0.030910360771916588
+http://dbpedia.org/resource/Category:UK_MPs_1983–87	Key not found
+http://dbpedia.org/resource/Category:2006_deaths	0.13674167942261284
+http://dbpedia.org/resource/Category:Conservative_Party_(UK)_MPs	0.00019513841493554488
+http://dbpedia.org/resource/Category:UK_MPs_1979–83	Key not found
+http://dbpedia.org/resource/Category:1932_births	0.17403468528221938
+http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Birmingham	0.015506809156906647
+http://dbpedia.org/resource/Category:Knights_Bachelor	0.12390611420409488
+http://dbpedia.org/resource/Category:People_from_Birmingham,_West_Midlands	0.030237252649325478
+1932	0.1251337832674289
+Anthony Beaumont-Dark	0.0
+1932-10-11	0.00011201634568566112
+2006	0.8858619018964464
+Anthony	0.026905383710179153
+Beaumont-Dark, Anthony	0.0
+Anthony Beaumont-Dark	0.0
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	Key not found
+http://dbpedia.org/class/yago/PeopleFromBirmingham,WestMidlands	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://schema.org/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+2006-04-02	0.003696555404351895
+Beaumont-Dark	Key not found
+British politician	0.000249041205684983
+British politician	0.000249041205684983

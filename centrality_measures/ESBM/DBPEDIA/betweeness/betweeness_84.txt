@@ -1,0 +1,22 @@
+http://commons.wikimedia.org/wiki/Special:FilePath/03-Thaumatographa_excellens_Pagenstecher,_1900.JPG?width=300	Key not found
+http://dbpedia.org/resource/Hilarographa	0.000922342923246357
+Hilarographa excellens	0.0
+http://dbpedia.org/resource/Insect	0.0
+http://dbpedia.org/resource/Lepidoptera	0.0
+http://dbpedia.org/resource/Animal	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/03-Thaumatographa_excellens_Pagenstecher,_1900.JPG	Key not found
+http://dbpedia.org/resource/Arthropod	0.0
+Hilarographa excellens	0.0
+*Hilarographa pyranthis (Meyrick, 1907)	0.0
+*Thaumatographa excellens (Pagenstecher, 1900)	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/ontology/Animal	0.0
+http://dbpedia.org/ontology/Eukaryote	0.0
+http://www.wikidata.org/entity/Q19088	0.0
+http://dbpedia.org/ontology/Species	0.0
+http://dbpedia.org/ontology/Insect	2.41282568687541e-05
+http://www.wikidata.org/entity/Q1390	0.9890511689487961
+http://www.wikidata.org/entity/Q729	0.0
+http://dbpedia.org/resource/Category:Hilarographini	0.00012890026133969656
+http://dbpedia.org/resource/Category:Moths_described_in_1900	0.014525071397099694
+http://dbpedia.org/resource/Tortricidae	0.10516395328133818

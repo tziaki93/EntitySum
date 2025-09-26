@@ -1,0 +1,103 @@
+2008	0.4795010017486677
+http://dbpedia.org/resource/Adrian_Griffin__5	0.0
+http://dbpedia.org/resource/Adrian_Griffin__4	0.0
+http://dbpedia.org/resource/Adrian_Griffin__7	0.0
+http://dbpedia.org/resource/Adrian_Griffin__8	0.0
+http://dbpedia.org/resource/Adrian_Griffin__3	0.0
+http://dbpedia.org/resource/Adrian_Griffin__2	0.0
+http://dbpedia.org/resource/Adrian_Griffin__9	0.0
+http://dbpedia.org/resource/Adrian_Griffin__1	0.0
+http://dbpedia.org/resource/Adrian_Griffin__6	0.0
+http://dbpedia.org/resource/Adrian_Griffin__10	0.0
+98431.2	Key not found
+Adrian Griffin	4.067008024072292e-06
+http://dbpedia.org/class/yago/Object100002684	5.1990297648239974e-05
+http://www.wikidata.org/entity/Q3665646	0.05216033485067333
+http://dbpedia.org/class/yago/ShootingGuards	Key not found
+http://dbpedia.org/class/yago/Leader109623038	0.0
+http://schema.org/Person	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/class/yago/SetonHallPiratesMen'sBasketballPlayers	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/BasketballPlayer109842047	0.14242804803247167
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://dbpedia.org/class/yago/ChicagoBullsPlayers	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/MilwaukeeBucksAssistantCoaches	Key not found
+http://www.w3.org/2002/07/owl#Thing	8.223148744810833e-05
+http://dbpedia.org/class/yago/HoustonRocketsPlayers	Key not found
+http://dbpedia.org/class/yago/Forward110105733	0.025073037657024552
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://dbpedia.org/ontology/BasketballPlayer	0.055751134820544834
+http://dbpedia.org/class/yago/Person100007846	0.0
+http://dbpedia.org/class/yago/SeattleSuperSonicsPlayers	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/AfricanAmericanBasketballCoaches	Key not found
+http://dbpedia.org/class/yago/SmallForwards	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	8.223148744810833e-05
+http://dbpedia.org/class/yago/AfricanAmericanBasketballPlayers	Key not found
+http://dbpedia.org/ontology/Athlete	0.0
+http://dbpedia.org/class/yago/BasketballPlayersFromKansas	Key not found
+http://dbpedia.org/class/yago/Player110439851	Key not found
+http://dbpedia.org/class/yago/BasketballCoach109841955	0.007023328167578824
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	1.9638154103137295e-05
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/UndraftedNationalBasketballAssociationPlayers	Key not found
+http://dbpedia.org/ontology/Agent	0.0
+http://dbpedia.org/class/yago/BostonCelticsPlayers	Key not found
+http://dbpedia.org/class/yago/Contestant109613191	Key not found
+http://dbpedia.org/class/yago/Preserver110466918	0.11754887561758966
+http://dbpedia.org/class/yago/Trainer110722575	0.07759374910091668
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/Guard110150071	0.007931355504371747
+http://dbpedia.org/class/yago/Athlete109820263	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	5.1990297648239974e-05
+http://dbpedia.org/class/yago/DallasMavericksPlayers	Key not found
+http://dbpedia.org/class/yago/PeopleFromWichita,Kansas	Key not found
+http://dbpedia.org/class/yago/Defender109614684	0.11768298927419146
+http://dbpedia.org/class/yago/ConnecticutPridePlayers	Key not found
+http://dbpedia.org/class/yago/ChicagoBullsAssistantCoaches	Key not found
+http://dbpedia.org/class/yago/Whole100003553	0.0
+http://dbpedia.org/class/yago/Coach109931640	0.08026635396447407
+1974-07-04	9.420849149030905e-05
+1996	0.24466476114509036
+http://dbpedia.org/resource/Orlando_Magic	0.00864968423123417
+Griffin	0.003965850556276782
+http://dbpedia.org/resource/National_Basketball_Association	0.07416672700591401
+http://dbpedia.org/resource/Category:Small_forwards	0.0018901308230772748
+http://dbpedia.org/resource/Category:Undrafted_National_Basketball_Association_players	0.0001338050961241232
+http://dbpedia.org/resource/Category:Boston_Celtics_players	5.141281432000035e-05
+http://dbpedia.org/resource/Category:Shooting_guards	0.002247603588717637
+http://dbpedia.org/resource/Category:Orlando_Magic_assistant_coaches	2.1476448806944746e-05
+http://dbpedia.org/resource/Category:Basketball_players_from_Kansas	5.893492309705416e-05
+http://dbpedia.org/resource/Category:Dallas_Mavericks_players	3.369187229145462e-05
+http://dbpedia.org/resource/Category:African-American_basketball_coaches	0.00013052154420192891
+http://dbpedia.org/resource/Category:Sportspeople_from_Wichita,_Kansas	5.161345950195862e-05
+http://dbpedia.org/resource/Category:American_expatriate_basketball_people_in_Italy	0.0003589078976094866
+http://dbpedia.org/resource/Category:Connecticut_Pride_players	3.279847603517724e-05
+http://dbpedia.org/resource/Category:American_men's_basketball_players	0.02276621277730037
+http://dbpedia.org/resource/Category:Chicago_Bulls_assistant_coaches	2.1727723897503827e-05
+http://dbpedia.org/resource/Category:Chicago_Bulls_players	3.4990142498983766e-05
+http://dbpedia.org/resource/Category:Houston_Rockets_players	4.877832632066954e-05
+http://dbpedia.org/resource/Category:Atlantic_City_Seagulls_players	2.8512352887074435e-05
+http://dbpedia.org/resource/Category:1974_births	0.09177485141075087
+http://dbpedia.org/resource/Category:Seattle_SuperSonics_players	3.53157454353962e-05
+http://dbpedia.org/resource/Category:African-American_basketball_players	0.0010915378135695547
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:Milwaukee_Bucks_assistant_coaches	2.2465236961654762e-05
+http://dbpedia.org/resource/Category:Seton_Hall_Pirates_men's_basketball_players	2.8101890096702847e-05
+http://dbpedia.org/resource/Seton_Hall_Pirates_men's_basketball	0.004157025996918693
+http://dbpedia.org/resource/Kansas	0.09928926042820427
+http://dbpedia.org/resource/Wichita,_Kansas	0.030697850192812647
+American basketball player-coach	Key not found
+American basketball player-coach	Key not found
+Adrian	0.005269545986799619
+http://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Griffin.jpg	4.067008024072292e-06
+http://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Griffin.jpg?width=300	4.067008024072292e-06
+Griffin, Adrian	Key not found
+Adrian Griffin	4.067008024072292e-06
+1996	0.24466476114509036
+1974	0.08180993024754876
+1.9558	Key not found

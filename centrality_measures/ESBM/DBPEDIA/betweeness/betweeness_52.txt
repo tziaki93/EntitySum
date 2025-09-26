@@ -1,0 +1,50 @@
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://dbpedia.org/class/yago/Player110439851	0.0
+http://dbpedia.org/class/yago/GolfersFromGeorgia(U.S.State)	Key not found
+http://dbpedia.org/class/yago/GeorgiaBulldogsWomen'sGolfers	Key not found
+http://dbpedia.org/class/yago/YagoLegalActor	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://dbpedia.org/class/yago/CausalAgent100007347	Key not found
+http://dbpedia.org/class/yago/LivingThing100004258	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	0.0
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://www.wikidata.org/entity/Q13156709	0.0627819683769032
+http://dbpedia.org/class/yago/Golfer110136959	0.17844377396397304
+http://dbpedia.org/ontology/Person	Key not found
+http://schema.org/Person	Key not found
+http://dbpedia.org/ontology/GolfPlayer	0.0823711940899025
+http://dbpedia.org/ontology/Athlete	0.0
+http://dbpedia.org/class/yago/Contestant109613191	Key not found
+http://dbpedia.org/class/yago/LPGATourGolfers	Key not found
+http://dbpedia.org/class/yago/Person100007846	Key not found
+http://dbpedia.org/class/yago/AmericanFemaleGolfers	Key not found
+http://dbpedia.org/class/yago/PeopleFromAthens,Georgia	Key not found
+http://www.wikidata.org/entity/Q215627	Key not found
+http://dbpedia.org/class/yago/LivingPeople	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+http://dbpedia.org/class/yago/Organism100004475	Key not found
+http://dbpedia.org/ontology/Agent	0.0
+Professional golfer	7.450355836093018e-05
+Professional golfer	7.450355836093018e-05
+http://dbpedia.org/resource/University_of_Georgia	0.2210817665268936
+Cindy Mackey	0.0
+Mackey, Cindy	Key not found
+Cindy Pleger Mackey	0.0
+http://dbpedia.org/resource/Category:1961_births	0.5908045075245019
+http://dbpedia.org/resource/Category:Golfers_from_Georgia_(U.S._state)	0.00028430081203196866
+http://dbpedia.org/resource/Category:Georgia_Bulldogs_women's_golfers	0.00019994489864150935
+http://dbpedia.org/resource/Category:Sportspeople_from_Athens,_Georgia	0.0008616808304340907
+http://dbpedia.org/resource/Category:Living_people	Key not found
+http://dbpedia.org/resource/Category:LPGA_Tour_golfers	0.003903420362921916
+http://dbpedia.org/resource/Category:American_female_golfers	0.003122253962762744
+1961-04-02	0.0005452228630775785
+Mackey	2.48842880297028e-06
+1961	0.3877623485821369
+Cindy	0.0
+1.7526	Key not found
+Pleger, Cindy	Key not found
+Cindy Mackey	0.0

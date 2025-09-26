@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/Plant	0.234204816071846
+*IRLC	0.0
+*IR-lacking clade	0.0
+*Galegeae sensu lato (sensu Polhill, 1981)	0.0
+*Temperate herbaceous clade	0.0
+*THC	0.0
+Inverted repeat-lacking clade	0.0
+http://dbpedia.org/resource/Eudicots	0.013161568986671947
+http://dbpedia.org/resource/Faboideae	0.01193333423270874
+http://dbpedia.org/resource/Fabaceae	0.07854884241095339
+http://dbpedia.org/resource/Rosids	0.0031919912588290315
+http://dbpedia.org/resource/Fabales	0.01108926236796282
+http://commons.wikimedia.org/wiki/Special:FilePath/Galega_officinalis2UME.jpg?width=300	1.5746812460259054e-05
+http://commons.wikimedia.org/wiki/Special:FilePath/Galega_officinalis2UME.jpg	1.5746812460259054e-05
+http://dbpedia.org/resource/Flowering_plant	0.3183849242263578
+Inverted repeat-lacking clade	0.0
+http://dbpedia.org/ontology/Plant	0.6833966544499303
+http://dbpedia.org/ontology/Species	Key not found
+http://www.w3.org/2002/07/owl#Thing	1.8983139642569634e-05
+http://www.wikidata.org/entity/Q19088	Key not found
+http://www.wikidata.org/entity/Q756	0.00873592892917454
+http://dbpedia.org/ontology/Eukaryote	1.0590397379518976e-05
+http://dbpedia.org/resource/Category:Faboideae	0.0006891868539466176

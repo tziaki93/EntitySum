@@ -1,0 +1,51 @@
+Terrorist Threats	0.0020314317105864944
+Terrorist Threats	0.0020314317105864944
+http://dbpedia.org/resource/Gangsta_Nation	0.004835257935349588
+http://dbpedia.org/resource/Bow_Down	0.015841739721853525
+http://dbpedia.org/resource/Bow_Down	0.015841739721853525
+http://dbpedia.org/resource/Capitol_Records	0.4826963745694633
+http://dbpedia.org/resource/Hoo-Bangin'_Records	0.0045013947023318296
+http://dbpedia.org/resource/EMI	0.49913756976970075
+3081.0	Key not found
+http://dbpedia.org/resource/West_Coast_hip_hop	0.06943046579037647
+http://dbpedia.org/resource/Gangsta_rap	0.1533005244922944
+http://dbpedia.org/resource/Fredwreck	0.011675403978985786
+http://dbpedia.org/resource/Hertz	0.3434799550398648
+http://dbpedia.org/resource/Damizza	0.003566160647382642
+http://dbpedia.org/resource/Sir_Jinx	0.007126215974818158
+http://dbpedia.org/resource/Westside_Connection	0.008199325741066315
+http://dbpedia.org/resource/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_America	Key not found
+http://dbpedia.org/resource/Category:2003_albums	0.14290833939899103
+http://dbpedia.org/resource/Category:Ice_Cube_albums	0.00026062815003156134
+http://dbpedia.org/resource/Category:Capitol_Records_albums	0.015324976775479842
+http://dbpedia.org/resource/Category:Westside_Connection_albums	0.002154729608743437
+http://dbpedia.org/resource/Category:Albums_produced_by_Fredwreck	0.0006637234983626426
+http://dbpedia.org/resource/Category:English-language_albums	Key not found
+http://dbpedia.org/resource/Category:WC_(rapper)_albums	0.0022294125498837298
+http://dbpedia.org/resource/Category:Gangsta_rap_albums	0.002503420441824182
+http://dbpedia.org/resource/Category:Mack_10_albums	0.0001473509165802191
+2003-12-09	0.009176134058376233
+http://dbpedia.org/class/yago/Whole100003553	2.7872863525491903e-05
+http://dbpedia.org/class/yago/English-languageAlbums	Key not found
+http://www.wikidata.org/entity/Q386724	5.243224469074677e-07
+http://dbpedia.org/ontology/Work	5.243224469074677e-07
+http://dbpedia.org/ontology/MusicalWork	5.243224469074677e-07
+http://schema.org/MusicAlbum	0.0
+http://dbpedia.org/class/yago/Artifact100021939	0.0
+http://www.w3.org/2002/07/owl#Thing	0.041128370397993275
+http://dbpedia.org/class/yago/Object100002684	2.7872863525491903e-05
+http://dbpedia.org/class/yago/AlbumsProducedByFredwreck	Key not found
+http://dbpedia.org/class/yago/IceCubeAlbums	Key not found
+http://dbpedia.org/class/yago/CapitolRecordsAlbums	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	2.7872863525491903e-05
+http://schema.org/CreativeWork	5.243224469074677e-07
+http://www.wikidata.org/entity/Q2188189	5.243224469074677e-07
+http://dbpedia.org/class/yago/WC(rapper)Albums	Key not found
+http://dbpedia.org/class/yago/Instrumentality103575240	0.0
+http://dbpedia.org/class/yago/2003Albums	Key not found
+http://dbpedia.org/class/yago/WestsideConnectionAlbums	Key not found
+http://dbpedia.org/ontology/Album	0.0004437760907580934
+http://www.wikidata.org/entity/Q482994	0.0
+http://dbpedia.org/class/yago/Album106591815	0.0
+http://dbpedia.org/class/yago/Medium106254669	0.0
+http://dbpedia.org/class/yago/Mack10Albums	Key not found

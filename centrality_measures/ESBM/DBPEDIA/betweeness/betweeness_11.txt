@@ -1,0 +1,23 @@
+2009–10 Swiss Cup	0.0
+http://www.football.ch/sfv/chcup/de/start.aspx	0.0
+Swiss Cup	0.00010294724474758319
+19:00 CET	8.565896250563468e-05
+17:45 CET	1.5439744158627748e-06
+14:30 CET	6.851640006225853e-05
+14:00 CET	4.1887154329204595e-05
+16:30 CEST	3.705121712118019e-05
+14:00 CEST	0.0
+http://dbpedia.org/resource/Category:2009–10_in_Swiss_football	0.00018606303724147483
+http://dbpedia.org/resource/Category:Swiss_Cup	7.415406594309503e-05
+http://dbpedia.org/resource/Category:2009–10_domestic_association_football_cups	0.00020986455897057727
+http://schema.org/Event	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://dbpedia.org/ontology/SportsEvent	0.5199322910790166
+http://schema.org/SportsEvent	0.24298072577051083
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://dbpedia.org/ontology/Event	Key not found
+http://dbpedia.org/ontology/SoccerTournament	0.29087308919194005
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/Tournament	0.2008258786224273
+http://www.wikidata.org/entity/Q500834	0.022501097395651523

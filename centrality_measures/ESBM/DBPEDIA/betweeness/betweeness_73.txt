@@ -1,0 +1,37 @@
+52.37	Key not found
+TL260765	0.0
+http://dbpedia.org/resource/United_Kingdom	0.0
+http://dbpedia.org/resource/England	0.0
+http://dbpedia.org/resource/Cambridgeshire	0.45987585167975054
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300	0.0009467445856552347
+-0.15	Key not found
+http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg	0.0011854771964152672
+http://dbpedia.org/class/yago/GeographicalArea108574314	0.0
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0
+http://dbpedia.org/class/yago/Location100027167	0.0
+http://dbpedia.org/ontology/Place	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0
+http://dbpedia.org/ontology/Settlement	0.0
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://schema.org/Place	0.0
+http://dbpedia.org/class/yago/VillagesInCambridgeshire	Key not found
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0
+http://dbpedia.org/class/yago/Region108630985	0.0
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	0.0
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/ontology/Location	0.0
+PE28 2	Key not found
+http://dbpedia.org/resource/Huntingdonshire	0.1139486267400195
+168	0.889840214767658
+http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire	0.0033683182462421438
+http://dbpedia.org/resource/Category:Huntingdonshire	0.006316540719684204
+http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire	0.0037413025070594697
+Kings Ripton	0.0
+52.37 -0.15	0.0
+Kings Ripton	0.0
+01487	2.497355416618988e-07

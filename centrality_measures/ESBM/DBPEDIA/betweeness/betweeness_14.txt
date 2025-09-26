@@ -1,0 +1,24 @@
+100000.0	0.0029147423680677166
+http://dbpedia.org/resource/Michaëlla_Krajicek	0.018438208766839024
+http://dbpedia.org/resource/Petra_Cetkovská	0.010451444284942227
+http://dbpedia.org/resource/Magdaléna_Rybáriková	0.01233711606642229
+http://www.spartapragueopen.cz/en	0.0
+http://dbpedia.org/resource/Prague	0.42508348714316124
+Clay	0.0004720160904616546
+http://www.wikidata.org/entity/Q500834	0.04460516848745429
+http://dbpedia.org/ontology/Event	Key not found
+http://schema.org/Event	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://schema.org/SportsEvent	0.25084464721803496
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/ontology/Tournament	0.169274066824084
+http://dbpedia.org/ontology/TennisTournament	0.00491824893472815
+http://www.w3.org/2002/07/owl#Thing	8.402903908972334e-05
+http://www.wikidata.org/entity/Q13219666	0.0040696890851543354
+http://dbpedia.org/ontology/SportsEvent	0.49660224336362147
+2011 Sparta Prague Open	0.0
+http://dbpedia.org/resource/ITF_Women's_Circuit	0.021036437611415066
+http://dbpedia.org/resource/Category:Sparta_Prague_Open	5.334699015066978e-05
+http://dbpedia.org/resource/Category:2011_in_Czech_sport	0.00029443530720346027
+http://dbpedia.org/resource/Category:2011_ITF_Women's_Circuit	0.0014575746668103783

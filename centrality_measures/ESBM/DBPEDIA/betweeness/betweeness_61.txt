@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Cooper_Car_Company	0.01301278480238371
+VIIIGlover Trophy	0.0
+http://dbpedia.org/resource/Chris_Bristow	0.003382368388834026
+http://dbpedia.org/resource/Category:1960_Formula_One_races	0.00014942516488086405
+http://dbpedia.org/resource/Category:20th_century_in_West_Sussex	0.00017140526612241535
+http://dbpedia.org/resource/Category:Glover_Trophy	0.00012589283616603296
+http://dbpedia.org/ontology/GrandPrix	0.001983547248617564
+http://dbpedia.org/ontology/Event	Key not found
+http://schema.org/Event	Key not found
+http://schema.org/SportsEvent	0.36079511616350823
+http://www.wikidata.org/entity/Q1656682	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	Key not found
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://www.w3.org/2002/07/owl#Thing	0.00015410225499766354
+http://dbpedia.org/ontology/SportsEvent	0.6253628972870479
+3862.4256	Key not found
+3862.0	Key not found
+http://dbpedia.org/resource/Chris_Bristow	0.003382368388834026
+162200.0	Key not found
+162221.8752	Key not found
+1960 Glover Trophy	0.0
+http://dbpedia.org/resource/West_Sussex	0.10209033282849705
+http://dbpedia.org/resource/Goodwood_Circuit	0.0058584276120971675
+http://dbpedia.org/resource/Cooper_Car_Company	0.01301278480238371
+http://dbpedia.org/resource/Stirling_Moss	0.02318341040597373
+http://dbpedia.org/resource/Innes_Ireland	0.009417289756074
+http://dbpedia.org/resource/Team_Lotus	0.021924041254689015
+http://dbpedia.org/resource/Stirling_Moss	0.02318341040597373
+http://dbpedia.org/resource/Cooper_Car_Company	0.01301278480238371
+42	Key not found
+http://dbpedia.org/resource/Cooper_Car_Company	0.01301278480238371

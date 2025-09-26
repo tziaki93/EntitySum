@@ -1,0 +1,44 @@
+King of the Mountain (film)	0.0
+http://dbpedia.org/resource/Leigh_Chapman	0.007763428232266791
+http://dbpedia.org/resource/H.R._Christian	0.0
+King of the Mountain	0.0027265699229494385
+2100000.0	0.009584940031332988
+http://dbpedia.org/resource/William_Steinkamp	0.004979201493739201
+5400.0	Key not found
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	Key not found
+http://schema.org/Movie	Key not found
+http://dbpedia.org/class/yago/Movie106613686	Key not found
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0
+http://dbpedia.org/class/yago/SocialEvent107288639	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/ontology/Wikidata:Q11424	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.00041013119031158593
+http://dbpedia.org/ontology/Film	0.0
+http://dbpedia.org/class/yago/1981Films	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Object100002684	0.0003189997725989377
+http://dbpedia.org/class/yago/Show106619065	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0003189997725989377
+http://dbpedia.org/class/yago/Product104007894	Key not found
+http://dbpedia.org/class/yago/Whole100003553	0.0003189997725989377
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://dbpedia.org/class/yago/Creation103129123	Key not found
+http://dbpedia.org/class/yago/Event100029378	Key not found
+http://dbpedia.org/class/yago/Abstraction100002137	0.0
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/class/yago/AmericanFilms	Key not found
+http://dbpedia.org/resource/Category:Auto_racing_films	0.0018543439333044507
+http://dbpedia.org/resource/Category:American_films	0.002523330354039254
+http://dbpedia.org/resource/Category:1981_films	0.12512878641818292
+http://dbpedia.org/resource/Category:Universal_Pictures_films	0.2871107381855352
+http://dbpedia.org/resource/Category:PolyGram_Filmed_Entertainment_films	0.012916178317134054
+1981-05-01	0.021731331441693084
+http://dbpedia.org/resource/Deborah_Van_Valkenburgh	0.020371859502508437
+http://dbpedia.org/resource/Richard_Cox_(actor)	0.018947426598100687
+http://dbpedia.org/resource/Dennis_Hopper	0.14835685824424127
+http://dbpedia.org/resource/Seymour_Cassel	0.040645804350994914
+http://dbpedia.org/resource/Joseph_Bottoms	0.012980870485416289
+http://dbpedia.org/resource/Harry_Hamlin	0.05104063781699287
+http://dbpedia.org/resource/Jack_Frost_Sanders	0.0
+http://dbpedia.org/resource/Universal_Studios	0.3085736560256537
+http://dbpedia.org/resource/Noel_Nosseck	0.00027953615868502827

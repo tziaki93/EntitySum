@@ -1,0 +1,31 @@
+6129.0	Key not found
+http://dbpedia.org/resource/Pop_rock	0.2945164717481578
+http://dbpedia.org/resource/Rock_music	0.7932347444238596
+Dave Clark's \	Key not found
+Time (Dave Clark album)	0.0
+http://dbpedia.org/resource/Category:1986_albums	0.017856866101524267
+http://dbpedia.org/resource/Category:Concept_albums	0.02277939559929488
+http://dbpedia.org/resource/Capitol_Records	0.20391395546058116
+http://dbpedia.org/resource/EMI	0.2006419614058075
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg?width=300	Key not found
+http://www.time-themusical.com/	1.4831221453804726e-09
+http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg	Key not found
+http://dbpedia.org/class/yago/PhysicalEntity100001930	Key not found
+http://www.wikidata.org/entity/Q386724	Key not found
+http://dbpedia.org/class/yago/Medium106254669	Key not found
+http://dbpedia.org/class/yago/ConceptAlbums	Key not found
+http://dbpedia.org/class/yago/Object100002684	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0002851838526906581
+http://dbpedia.org/class/yago/Artifact100021939	Key not found
+http://schema.org/MusicAlbum	Key not found
+http://dbpedia.org/class/yago/ConceptAlbum106592078	0.027749640225008566
+http://schema.org/CreativeWork	Key not found
+http://dbpedia.org/ontology/Work	Key not found
+http://dbpedia.org/class/yago/1986Albums	Key not found
+http://dbpedia.org/ontology/MusicalWork	Key not found
+http://www.wikidata.org/entity/Q482994	Key not found
+http://dbpedia.org/class/yago/Album106591815	0.0
+http://dbpedia.org/ontology/Album	0.0
+http://dbpedia.org/class/yago/Instrumentality103575240	Key not found
+http://dbpedia.org/class/yago/Whole100003553	Key not found
+http://www.wikidata.org/entity/Q2188189	Key not found
