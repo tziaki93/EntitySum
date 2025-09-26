@@ -1,0 +1,810 @@
+Property Method: FrequentPropertiesDataset
+-----------------------------
+Property Method: FrequentPropertiesDataset
+-----------------------------
+degree DBPEDIA(v1.0)
+total F-measure(top5): 0.1353333333333332
+total F-measure(top10): 0.19133333333333336
+total MAP(top5): 0.2218627442342331
+total MAP(top10): 0.32883395902644724
+total NDCG(top5): 0.5794499221052308
+total NDCG(top10): 0.65452001004985
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree DBPEDIA(v1.2)
+total F-measure(top5): 0.1312
+total F-measure(top10): 0.19213333333333335
+total MAP(top5): 0.21910887627850686
+total MAP(top10): 0.32540512114659503
+total NDCG(top5): 0.5768512239427883
+total NDCG(top10): 0.6537494265539454
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.0)
+total F-measure(top5): 0.24166666666666656
+total F-measure(top10): 0.26708333333333345
+total MAP(top5): 0.27689368444647433
+total MAP(top10): 0.36647716728600715
+total NDCG(top5): 0.6381470015731208
+total NDCG(top10): 0.7320195772387096
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.2)
+total F-measure(top5): 0.24199999999999997
+total F-measure(top10): 0.27666666666666667
+total MAP(top5): 0.28033189494636335
+total MAP(top10): 0.37572604842072704
+total NDCG(top5): 0.6458578798353278
+total NDCG(top10): 0.74101940962489
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.0)
+total F-measure(top5): 0.13399999999999987
+total F-measure(top10): 0.1918333333333333
+total MAP(top5): 0.22229385613365749
+total MAP(top10): 0.3286769908035878
+total NDCG(top5): 0.5795159551192327
+total NDCG(top10): 0.6535819793740497
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.2)
+total F-measure(top5): 0.13040000000000002
+total F-measure(top10): 0.19466666666666668
+total MAP(top5): 0.22009450871973438
+total MAP(top10): 0.3261676328666779
+total NDCG(top5): 0.5775306291749811
+total NDCG(top10): 0.6539177503740351
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.0)
+total F-measure(top5): 0.2316666666666666
+total F-measure(top10): 0.26166666666666666
+total MAP(top5): 0.27253100981646206
+total MAP(top10): 0.35829224520518044
+total NDCG(top5): 0.634043590256874
+total NDCG(top10): 0.7250617608279974
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.2)
+total F-measure(top5): 0.23399999999999999
+total F-measure(top10): 0.27166666666666656
+total MAP(top5): 0.27660268330066606
+total MAP(top10): 0.36868940737674727
+total NDCG(top5): 0.6423953502305857
+total NDCG(top10): 0.7351298685104211
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.0)
+total F-measure(top5): 0.13666666666666655
+total F-measure(top10): 0.2059999999999999
+total MAP(top5): 0.22751813110280103
+total MAP(top10): 0.33339651147370314
+total NDCG(top5): 0.5857577070068869
+total NDCG(top10): 0.6592627805630414
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.2)
+total F-measure(top5): 0.13360000000000002
+total F-measure(top10): 0.20573333333333335
+total MAP(top5): 0.22464625395667476
+total MAP(top10): 0.3291049773656151
+total NDCG(top5): 0.5828730666193477
+total NDCG(top10): 0.6575593970386368
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.0)
+total F-measure(top5): 0.225
+total F-measure(top10): 0.25333333333333335
+total MAP(top5): 0.2940463428910708
+total MAP(top10): 0.36299126921431174
+total NDCG(top5): 0.6638318470803061
+total NDCG(top10): 0.738826856200344
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.2)
+total F-measure(top5): 0.22333333333333333
+total F-measure(top10): 0.2606666666666667
+total MAP(top5): 0.2924324226698259
+total MAP(top10): 0.36722151765396743
+total NDCG(top5): 0.6654742646441753
+total NDCG(top10): 0.740822740384236
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.0)
+total F-measure(top5): 0.1343333333333332
+total F-measure(top10): 0.18783333333333338
+total MAP(top5): 0.2230272566385112
+total MAP(top10): 0.32965700670484055
+total NDCG(top5): 0.5823783394107228
+total NDCG(top10): 0.6581096997986677
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.2)
+total F-measure(top5): 0.12960000000000002
+total F-measure(top10): 0.18720000000000003
+total MAP(top5): 0.21840029503527372
+total MAP(top10): 0.32484947205361875
+total NDCG(top5): 0.5770283516004441
+total NDCG(top10): 0.6552228699166366
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.0)
+total F-measure(top5): 0.16333333333333339
+total F-measure(top10): 0.1904166666666667
+total MAP(top5): 0.26918258645458404
+total MAP(top10): 0.3140610411503036
+total NDCG(top5): 0.6424467352332273
+total NDCG(top10): 0.6933643692204889
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.2)
+total F-measure(top5): 0.15733333333333335
+total F-measure(top10): 0.20033333333333336
+total MAP(top5): 0.26529512043811754
+total MAP(top10): 0.3193926307939059
+total NDCG(top5): 0.6393406235293037
+total NDCG(top10): 0.6960137455511293
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.0)
+total F-measure(top5): 0.12133333333333324
+total F-measure(top10): 0.18483333333333338
+total MAP(top5): 0.2129879247852942
+total MAP(top10): 0.324410116195031
+total NDCG(top5): 0.5646200019302611
+total NDCG(top10): 0.6455376756561663
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.2)
+total F-measure(top5): 0.1170666666666667
+total F-measure(top10): 0.18813333333333335
+total MAP(top5): 0.2092274974149105
+total MAP(top10): 0.32063502540782357
+total NDCG(top5): 0.560272143433074
+total NDCG(top10): 0.6436194519299029
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.0)
+total F-measure(top5): 0.05250000000000001
+total F-measure(top10): 0.15833333333333333
+total MAP(top5): 0.15066402678788426
+total MAP(top10): 0.26966749135001905
+total NDCG(top5): 0.466233142542234
+total NDCG(top10): 0.6055123580916113
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.2)
+total F-measure(top5): 0.05466666666666667
+total F-measure(top10): 0.16166666666666668
+total MAP(top5): 0.15364523463540322
+total MAP(top10): 0.2746830775914832
+total NDCG(top5): 0.4726693862263518
+total NDCG(top10): 0.6098956352000384
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+Property Method: InfrequentPropertiesDataset
+-----------------------------
+degree DBPEDIA(v1.0)
+total F-measure(top5): 0.2870000000000001
+total F-measure(top10): 0.5281666666666666
+total MAP(top5): 0.370456612935428
+total MAP(top10): 0.569685119393171
+total NDCG(top5): 0.7176781706041092
+total NDCG(top10): 0.8357668877475011
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree DBPEDIA(v1.2)
+total F-measure(top5): 0.2877333333333334
+total F-measure(top10): 0.516
+total MAP(top5): 0.3639152163415081
+total MAP(top10): 0.559281451788246
+total NDCG(top5): 0.7121654564913198
+total NDCG(top10): 0.8308721922505728
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.0)
+total F-measure(top5): 0.3750000000000001
+total F-measure(top10): 0.4512500000000001
+total MAP(top5): 0.3837649665633569
+total MAP(top10): 0.4967015173783822
+total NDCG(top5): 0.7101943715980484
+total NDCG(top10): 0.8077601630596508
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.2)
+total F-measure(top5): 0.3773333333333334
+total F-measure(top10): 0.4480000000000001
+total MAP(top5): 0.38598734271689045
+total MAP(top10): 0.49994652978917875
+total NDCG(top5): 0.7179302987565661
+total NDCG(top10): 0.8131646567548032
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.0)
+total F-measure(top5): 0.2886666666666667
+total F-measure(top10): 0.5318333333333332
+total MAP(top5): 0.37201935376735595
+total MAP(top10): 0.5714597766454287
+total NDCG(top5): 0.7197817166004079
+total NDCG(top10): 0.8370249996421252
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.2)
+total F-measure(top5): 0.2882666666666667
+total F-measure(top10): 0.5208
+total MAP(top5): 0.36646419400496844
+total MAP(top10): 0.5623633035463291
+total NDCG(top5): 0.7157019634066021
+total NDCG(top10): 0.8338897509374892
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.0)
+total F-measure(top5): 0.3741666666666667
+total F-measure(top10): 0.45375
+total MAP(top5): 0.3819829863063611
+total MAP(top10): 0.4956272505147453
+total NDCG(top5): 0.7079987229823377
+total NDCG(top10): 0.8066062706158718
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.2)
+total F-measure(top5): 0.3766666666666667
+total F-measure(top10): 0.4496666666666666
+total MAP(top5): 0.38414020333785937
+total MAP(top10): 0.49872668240273266
+total NDCG(top5): 0.7158924064119749
+total NDCG(top10): 0.8120308551425195
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.0)
+total F-measure(top5): 0.2946666666666667
+total F-measure(top10): 0.5356666666666665
+total MAP(top5): 0.37473649856985963
+total MAP(top10): 0.5762632684233887
+total NDCG(top5): 0.7210756480906143
+total NDCG(top10): 0.8381213575457777
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.2)
+total F-measure(top5): 0.2917333333333334
+total F-measure(top10): 0.5257333333333334
+total MAP(top5): 0.36892788229474777
+total MAP(top10): 0.5663613091245477
+total NDCG(top5): 0.7166716221318475
+total NDCG(top10): 0.8347475239224735
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.0)
+total F-measure(top5): 0.37083333333333346
+total F-measure(top10): 0.4216666666666667
+total MAP(top5): 0.41889380130007314
+total MAP(top10): 0.48804447667029527
+total NDCG(top5): 0.7620970713466387
+total NDCG(top10): 0.8254376782731159
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.2)
+total F-measure(top5): 0.3746666666666668
+total F-measure(top10): 0.417
+total MAP(top5): 0.41766284969572226
+total MAP(top10): 0.4895257946280096
+total NDCG(top5): 0.7667948689213443
+total NDCG(top10): 0.8282977648715588
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.0)
+total F-measure(top5): 0.2743333333333333
+total F-measure(top10): 0.5211666666666666
+total MAP(top5): 0.35945254855970615
+total MAP(top10): 0.5571967299852159
+total NDCG(top5): 0.7073567241347649
+total NDCG(top10): 0.824612889808643
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.2)
+total F-measure(top5): 0.27040000000000003
+total F-measure(top10): 0.5073333333333333
+total MAP(top5): 0.353080497524041
+total MAP(top10): 0.5474159072539465
+total NDCG(top5): 0.7029814383355386
+total NDCG(top10): 0.8203365587914339
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.0)
+total F-measure(top5): 0.34583333333333344
+total F-measure(top10): 0.4366666666666668
+total MAP(top5): 0.4409747038949995
+total MAP(top10): 0.515085438514158
+total NDCG(top5): 0.784767886075106
+total NDCG(top10): 0.8423256434295794
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.2)
+total F-measure(top5): 0.34333333333333343
+total F-measure(top10): 0.4330000000000001
+total MAP(top5): 0.4333196617336668
+total MAP(top10): 0.5122610774148166
+total NDCG(top5): 0.7830264645854426
+total NDCG(top10): 0.8407903846864186
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.0)
+total F-measure(top5): 0.2863333333333334
+total F-measure(top10): 0.5218333333333334
+total MAP(top5): 0.3666402539056218
+total MAP(top10): 0.56556140206014
+total NDCG(top5): 0.7123717544366579
+total NDCG(top10): 0.8326916343945192
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.2)
+total F-measure(top5): 0.28320000000000006
+total F-measure(top10): 0.5116
+total MAP(top5): 0.3605134279973816
+total MAP(top10): 0.5565126827842275
+total NDCG(top5): 0.7088276222941481
+total NDCG(top10): 0.8302456666625418
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.0)
+total F-measure(top5): 0.3300000000000001
+total F-measure(top10): 0.4283333333333334
+total MAP(top5): 0.32749510758797495
+total MAP(top10): 0.44561404781426717
+total NDCG(top5): 0.6508242671979744
+total NDCG(top10): 0.7666742495131794
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.2)
+total F-measure(top5): 0.3280000000000001
+total F-measure(top10): 0.4203333333333334
+total MAP(top5): 0.32784985859228594
+total MAP(top10): 0.4464817201288978
+total NDCG(top5): 0.6578401671400586
+total NDCG(top10): 0.7711053124584614
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+Property Method: FrequentPropertiesContext
+-----------------------------
+degree DBPEDIA(v1.0)
+total F-measure(top5): 0.13499999999999987
+total F-measure(top10): 0.19516666666666665
+total MAP(top5): 0.2166817678174605
+total MAP(top10): 0.32982005666647246
+total NDCG(top5): 0.574334456158331
+total NDCG(top10): 0.6566132669845708
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree DBPEDIA(v1.2)
+total F-measure(top5): 0.13200000000000003
+total F-measure(top10): 0.19973333333333335
+total MAP(top5): 0.21573796203479384
+total MAP(top10): 0.32797765271371787
+total NDCG(top5): 0.573753610711775
+total NDCG(top10): 0.656403388599347
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.0)
+total F-measure(top5): 0.2441666666666667
+total F-measure(top10): 0.3116666666666667
+total MAP(top5): 0.27584891210835166
+total MAP(top10): 0.38837477373825857
+total NDCG(top5): 0.6334198810624746
+total NDCG(top10): 0.7424997805007025
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.2)
+total F-measure(top5): 0.24466666666666673
+total F-measure(top10): 0.31833333333333336
+total MAP(top5): 0.27892652121295664
+total MAP(top10): 0.3961141268009628
+total NDCG(top5): 0.6397189053577744
+total NDCG(top10): 0.7495118797628102
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.0)
+total F-measure(top5): 0.13399999999999987
+total F-measure(top10): 0.1971666666666667
+total MAP(top5): 0.21649529057977898
+total MAP(top10): 0.32954077933605963
+total NDCG(top5): 0.5736416721521298
+total NDCG(top10): 0.6557828202316327
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.2)
+total F-measure(top5): 0.1314666666666667
+total F-measure(top10): 0.20360000000000003
+total MAP(top5): 0.21626754038028315
+total MAP(top10): 0.3286675435567278
+total NDCG(top5): 0.5738579157612587
+total NDCG(top10): 0.6566695247433362
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.0)
+total F-measure(top5): 0.24333333333333335
+total F-measure(top10): 0.31125
+total MAP(top5): 0.27238111590005554
+total MAP(top10): 0.3891132932153427
+total NDCG(top5): 0.6286511588793496
+total NDCG(top10): 0.7432344160041238
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.2)
+total F-measure(top5): 0.24400000000000005
+total F-measure(top10): 0.31766666666666665
+total MAP(top5): 0.2778506361666794
+total MAP(top10): 0.39714618440749794
+total NDCG(top5): 0.6382881096131897
+total NDCG(top10): 0.751263692057129
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.0)
+total F-measure(top5): 0.13899999999999985
+total F-measure(top10): 0.20816666666666658
+total MAP(top5): 0.22176265616665813
+total MAP(top10): 0.33390963422119024
+total NDCG(top5): 0.5800451979428078
+total NDCG(top10): 0.6611704496040658
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.2)
+total F-measure(top5): 0.13600000000000004
+total F-measure(top10): 0.21293333333333336
+total MAP(top5): 0.22091950412622852
+total MAP(top10): 0.3312891188017367
+total NDCG(top5): 0.5794669531184871
+total NDCG(top10): 0.6601491165581166
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.0)
+total F-measure(top5): 0.24333333333333335
+total F-measure(top10): 0.28500000000000003
+total MAP(top5): 0.2654127063108831
+total MAP(top10): 0.35667576680689084
+total NDCG(top5): 0.6238621053275427
+total NDCG(top10): 0.7174849677476076
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.2)
+total F-measure(top5): 0.24133333333333337
+total F-measure(top10): 0.2900000000000001
+total MAP(top5): 0.26710437096106054
+total MAP(top10): 0.35949099806171303
+total NDCG(top5): 0.6290715542392745
+total NDCG(top10): 0.7193043357399658
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.0)
+total F-measure(top5): 0.13299999999999987
+total F-measure(top10): 0.19150000000000006
+total MAP(top5): 0.21669936949921628
+total MAP(top10): 0.3290232409198221
+total NDCG(top5): 0.5752554760010732
+total NDCG(top10): 0.6574424671732231
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.2)
+total F-measure(top5): 0.13093333333333335
+total F-measure(top10): 0.19653333333333337
+total MAP(top5): 0.21466477317918783
+total MAP(top10): 0.32674986901301517
+total NDCG(top5): 0.5728306593939545
+total NDCG(top10): 0.656292237153899
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.0)
+total F-measure(top5): 0.21166666666666673
+total F-measure(top10): 0.2645833333333333
+total MAP(top5): 0.3021869806337183
+total MAP(top10): 0.37434874042770316
+total NDCG(top5): 0.6730188356843037
+total NDCG(top10): 0.7461762445448692
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.2)
+total F-measure(top5): 0.20933333333333337
+total F-measure(top10): 0.2676666666666666
+total MAP(top5): 0.2976355054439025
+total MAP(top10): 0.3745184728307209
+total NDCG(top5): 0.6688606826198076
+total NDCG(top10): 0.7445064368350712
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.0)
+total F-measure(top5): 0.11666666666666657
+total F-measure(top10): 0.19566666666666666
+total MAP(top5): 0.20747706252847692
+total MAP(top10): 0.325750010864853
+total NDCG(top5): 0.5564927373960455
+total NDCG(top10): 0.6451983695210131
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.2)
+total F-measure(top5): 0.11786666666666669
+total F-measure(top10): 0.20133333333333336
+total MAP(top5): 0.20645809378524121
+total MAP(top10): 0.3245701246360833
+total NDCG(top5): 0.5558200649985886
+total NDCG(top10): 0.6453901359008859
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.0)
+total F-measure(top5): 0.07500000000000001
+total F-measure(top10): 0.19083333333333335
+total MAP(top5): 0.14892153793542157
+total MAP(top10): 0.28381886051028266
+total NDCG(top5): 0.4668563104656361
+total NDCG(top10): 0.6213969903763416
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.2)
+total F-measure(top5): 0.07733333333333334
+total F-measure(top10): 0.19633333333333336
+total MAP(top5): 0.15314248913372108
+total MAP(top10): 0.2884773267516732
+total NDCG(top5): 0.473978980858954
+total NDCG(top10): 0.6265432225601224
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+Property Method: InfrequentPropertiesContext
+-----------------------------
+degree DBPEDIA(v1.0)
+total F-measure(top5): 0.3429999999999999
+total F-measure(top10): 0.5635
+total MAP(top5): 0.40242766788536694
+total MAP(top10): 0.5920472673920589
+total NDCG(top5): 0.7395258470555632
+total NDCG(top10): 0.8403467046563056
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree DBPEDIA(v1.2)
+total F-measure(top5): 0.33120000000000005
+total F-measure(top10): 0.5512
+total MAP(top5): 0.39683625095607006
+total MAP(top10): 0.5817267733411969
+total NDCG(top5): 0.7391915258069093
+total NDCG(top10): 0.8397589443209383
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.0)
+total F-measure(top5): 0.3941666666666668
+total F-measure(top10): 0.4795833333333334
+total MAP(top5): 0.42254504873071674
+total MAP(top10): 0.5172824541787336
+total NDCG(top5): 0.7471460990706973
+total NDCG(top10): 0.8274072268751173
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+degree LMDB(v1.2)
+total F-measure(top5): 0.38666666666666666
+total F-measure(top10): 0.47933333333333344
+total MAP(top5): 0.41859484034234673
+total MAP(top10): 0.5178420343367882
+total NDCG(top5): 0.74874639528591
+total NDCG(top10): 0.8292333655755161
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.0)
+total F-measure(top5): 0.34633333333333316
+total F-measure(top10): 0.563
+total MAP(top5): 0.40540847295660126
+total MAP(top10): 0.5944814436340223
+total NDCG(top5): 0.7420863496289152
+total NDCG(top10): 0.8423632724471827
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank DBPEDIA(v1.2)
+total F-measure(top5): 0.33520000000000005
+total F-measure(top10): 0.5530666666666667
+total MAP(top5): 0.4000640619494283
+total MAP(top10): 0.5848107871823175
+total NDCG(top5): 0.7420143252110911
+total NDCG(top10): 0.8421071179499321
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.0)
+total F-measure(top5): 0.3916666666666667
+total F-measure(top10): 0.48208333333333336
+total MAP(top5): 0.4186971728425169
+total MAP(top10): 0.5180067762401713
+total NDCG(top5): 0.7422735581479717
+total NDCG(top10): 0.8282926776256183
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+pagerank LMDB(v1.2)
+total F-measure(top5): 0.3853333333333333
+total F-measure(top10): 0.4793333333333334
+total MAP(top5): 0.4169374790008469
+total MAP(top10): 0.5188727086022947
+total NDCG(top5): 0.7470299323370084
+total NDCG(top10): 0.8311172915163836
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.0)
+total F-measure(top5): 0.34266666666666656
+total F-measure(top10): 0.5653333333333334
+total MAP(top5): 0.40897526997860567
+total MAP(top10): 0.5982255829002162
+total NDCG(top5): 0.7481323845425301
+total NDCG(top10): 0.8472882227816976
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness DBPEDIA(v1.2)
+total F-measure(top5): 0.3338666666666667
+total F-measure(top10): 0.5546666666666666
+total MAP(top5): 0.4042575872233896
+total MAP(top10): 0.5881571271317625
+total NDCG(top5): 0.7483934140289324
+total NDCG(top10): 0.8464467063312402
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.0)
+total F-measure(top5): 0.41
+total F-measure(top10): 0.45041666666666663
+total MAP(top5): 0.4648930223443112
+total MAP(top10): 0.5141878460973175
+total NDCG(top5): 0.8060091757276039
+total NDCG(top10): 0.8500100690660257
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+betweeness LMDB(v1.2)
+total F-measure(top5): 0.40333333333333327
+total F-measure(top10): 0.445
+total MAP(top5): 0.4596801865900042
+total MAP(top10): 0.5135017979130666
+total NDCG(top5): 0.8075130224425248
+total NDCG(top10): 0.8505534546658292
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.0)
+total F-measure(top5): 0.3293333333333333
+total F-measure(top10): 0.5493333333333333
+total MAP(top5): 0.3898384944498245
+total MAP(top10): 0.5781846830123173
+total NDCG(top5): 0.7292374732984254
+total NDCG(top10): 0.8288894228761621
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits DBPEDIA(v1.2)
+total F-measure(top5): 0.32560000000000006
+total F-measure(top10): 0.5372
+total MAP(top5): 0.3824901581845281
+total MAP(top10): 0.5679251199193206
+total NDCG(top5): 0.7254493236905062
+total NDCG(top10): 0.8264842634586111
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.0)
+total F-measure(top5): 0.42333333333333323
+total F-measure(top10): 0.4525
+total MAP(top5): 0.4772288677203408
+total MAP(top10): 0.5295510479981163
+total NDCG(top5): 0.815803266622966
+total NDCG(top10): 0.8575268463659542
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+hits LMDB(v1.2)
+total F-measure(top5): 0.4093333333333332
+total F-measure(top10): 0.45000000000000007
+total MAP(top5): 0.469507586385274
+total MAP(top10): 0.5244584246542368
+total NDCG(top5): 0.8146745787549575
+total NDCG(top10): 0.8546962017022501
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.0)
+total F-measure(top5): 0.36033333333333334
+total F-measure(top10): 0.5611666666666667
+total MAP(top5): 0.42322996974464727
+total MAP(top10): 0.6173803669839873
+total NDCG(top5): 0.762690947029498
+total NDCG(top10): 0.8649233046019549
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality DBPEDIA(v1.2)
+total F-measure(top5): 0.3533333333333334
+total F-measure(top10): 0.5544
+total MAP(top5): 0.4168294238569245
+total MAP(top10): 0.6059518898341838
+total NDCG(top5): 0.7603642217659444
+total NDCG(top10): 0.8626925304831923
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.0)
+total F-measure(top5): 0.35416666666666685
+total F-measure(top10): 0.4654166666666666
+total MAP(top5): 0.37925333229367303
+total MAP(top10): 0.4753898990540401
+total NDCG(top5): 0.7037569512743753
+total NDCG(top10): 0.7938304707340699
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
+radiality LMDB(v1.2)
+total F-measure(top5): 0.3466666666666668
+total F-measure(top10): 0.46166666666666667
+total MAP(top5): 0.37441188312172113
+total MAP(top10): 0.4736880768280463
+total NDCG(top5): 0.7032790942404806
+total NDCG(top10): 0.7921427984034483
+Average Redundancy(top5): 0.0
+Average Redundancy(top10): 0.0
+-----------------------------
