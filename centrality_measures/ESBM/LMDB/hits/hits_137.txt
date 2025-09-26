@@ -1,0 +1,32 @@
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	-0.0008084302556715018	0.001833527556250096
+http://xmlns.com/foaf/0.1/Person	-0.010698555032922987	-0.010700962375314494
+52869	5.006497167493482e-19	-2.048572296433622e-17
+Sara Berner	8.861149398383581e-18	-1.0351276450493077e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145337	2.9608236288429353e-16	-5.209792105451352e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/197575	2.9684763278959623e-16	-8.178490127650578e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/149931	2.961913160142467e-16	-9.170377220863117e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/168659	2.96737304020025e-16	-8.048171593416883e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/141962	2.9629470903764395e-16	-5.386080704117708e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/147548	2.9582816977354515e-16	-6.374816194670479e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145366	2.962216293842588e-16	-5.100674127497815e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145202	2.965134122455696e-16	-9.297346520765413e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145694	2.9649441629843685e-16	-6.787548023698943e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145237	2.9521154320171656e-16	-4.897198275749057e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/145767	2.955959471762794e-16	-7.149576185179713e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/149944	2.961199371302232e-16	-3.8243955047351033e-17
+Sara Berner (Actor)	-1.978819172366128e-19	-2.407012780834905e-18
+http://www.freebase.com/view/guid/9202a8c04000641f8000000006b4f1f3	-1.978819172366128e-19	-2.642548328738665e-18
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/film/44517	-2.136844177466376e-18	3.486175499935068e-18
+https://triplydb.com/Triply/linkedmdb/id/film/38388	-8.441765426743914e-18	-1.8149655315833307e-17
+https://triplydb.com/Triply/linkedmdb/id/film/43693	-1.479977161583053e-18	-8.623952876704992e-18
+https://triplydb.com/Triply/linkedmdb/id/film/50896	-6.0237259261040415e-19	-2.4315025604580806e-17
+https://triplydb.com/Triply/linkedmdb/id/film/83088	2.96791505479989e-16	-3.703544812490203e-17
+https://triplydb.com/Triply/linkedmdb/id/film/48308	3.034505681044741e-19	-1.7263895447153713e-17
+https://triplydb.com/Triply/linkedmdb/id/film/12950	-1.380155090536644e-20	3.0926003949665634e-17
+https://triplydb.com/Triply/linkedmdb/id/film/1288	1.9106686307038825e-18	-6.302838702364582e-18
+https://triplydb.com/Triply/linkedmdb/id/film/14907	5.320294236677911e-20	1.0681337812747003e-18
+https://triplydb.com/Triply/linkedmdb/id/film/12394	1.875146701361266e-18	1.924573180518316e-17
+https://triplydb.com/Triply/linkedmdb/id/film/40943	-1.5402875871291933e-18	3.6164284983140364e-17
+https://triplydb.com/Triply/linkedmdb/id/film/15323	-1.0187140629630032e-18	-5.477821138698638e-18
+""	0.0

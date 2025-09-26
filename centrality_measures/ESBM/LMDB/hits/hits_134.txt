@@ -1,0 +1,40 @@
+https://triplydb.com/Triply/linkedmdb/id/film/12260	5.002089949043504e-06	5.0050216995669e-06
+https://triplydb.com/Triply/linkedmdb/id/film/73597	1.0043648829357825e-06	1.0049535435203872e-06
+https://triplydb.com/Triply/linkedmdb/id/film/3386	3.0034298066620763e-06	3.005190232669054e-06
+https://triplydb.com/Triply/linkedmdb/id/film/41807	1.0356363144169168e-07	1.0357653919005717e-07
+https://triplydb.com/Triply/linkedmdb/id/film/2391	1.5034325349487037e-08	1.504308053350049e-08
+https://triplydb.com/Triply/linkedmdb/id/film/16197	4.000883039454282e-06	4.003228127055518e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1734	3.024014467275596e-06	3.0257867305884137e-06
+https://triplydb.com/Triply/linkedmdb/id/film/7122	1.0062706319646165e-06	1.0068604096215537e-06
+https://triplydb.com/Triply/linkedmdb/id/film/45680	1.0102060855476265e-08	1.0107925216367798e-08
+https://triplydb.com/Triply/linkedmdb/id/film/3633	4.014498481381178e-06	4.016851554445282e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1773	4.994210741081128e-06	4.997138081913263e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1073	4.975895568908559e-06	4.978812179496665e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38615	1.1149297258610934e-08	1.115577043639232e-08
+https://triplydb.com/Triply/linkedmdb/id/film/43841	1.011239532035776e-08	1.0118265664362285e-08
+https://triplydb.com/Triply/linkedmdb/id/film/44657	1.0206372601225017e-08	1.0212298088114202e-08
+https://triplydb.com/Triply/linkedmdb/id/film/2116	2.0051475972331647e-06	2.0063228757496773e-06
+""	0.0
+Tom Hollander (Actor)	6.076738205527026e-09	6.080271756798382e-09
+39725	3.3701343178937815e-09	3.3720815261028504e-09
+Tom Hollander	1.0690003499869727e-08	1.0695840607112573e-08
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009896644971279277	0.009902445993905603
+http://xmlns.com/foaf/0.1/Person	-3.8203323936967836e-11	-6.710940836709611e-11
+https://triplydb.com/Triply/linkedmdb/id/performance/85137	5.82553111014453e-08	5.8257610520855785e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/76021	7.884545163572964e-09	7.886845773135998e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/23395	4.8353863723462087e-08	4.835616339175099e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/17353	1.7951253778080734e-08	1.7953554144197704e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/115310	5.807020914003083e-08	5.8072508509839827e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/22859	3.834354948953383e-08	3.834585166416219e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/79066	5.8334940111480177e-08	5.833724159711591e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/629	7.883490938550739e-09	7.885791551892698e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/83099	3.8135513209211664e-08	3.813781312485988e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/76420	4.821625941574187e-08	4.8218559132021214e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/90120	7.894074767427183e-09	7.89637542906301e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/3908	7.88359538296118e-09	7.885895995480985e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/85850	2.8046388962966386e-08	2.804868907618099e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/22849	8.82758148294694e-09	8.830354723217775e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/149302	1.793558154186343e-08	1.7937882364655215e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/59230	7.933338793647846e-09	7.935639406245219e-09
+http://www.freebase.com/view/guid/9202a8c04000641f800000000072977e	3.3671015043286057e-09	3.3690469672150045e-09
+""	0.0

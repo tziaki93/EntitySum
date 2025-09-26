@@ -1,0 +1,32 @@
+Alice Braga	9.945732584150611e-07	1.0003488280611874e-06
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/performance/59117	2.524701998966327e-08	2.525750579150429e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/123172	1.5144369986209187e-08	1.5154856741698408e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/91784	5.59024087211933e-08	5.591289260603708e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/108924	1.515653550002543e-08	1.516702224982324e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/70346	3.534124976208559e-08	3.5351734580224854e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/18592	2.521745578502631e-08	2.5227941590028752e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/187510	1.5146286592580095e-08	1.515677643907619e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/186417	1.5149430285592445e-08	1.5159922222245725e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/137673	1.514435623274493e-08	1.515484297608366e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/159886	1.5144428563451413e-08	1.515491532931307e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/79634	5.533603043188159e-08	5.534651329001165e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/85196	4.541457431543966e-08	4.542505828482453e-08
+http://xmlns.com/foaf/0.1/Person	-6.028922064136706e-11	-3.708354493338528e-11
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009871236758616746	0.00992857612046744
+https://triplydb.com/Triply/linkedmdb/id/film/59947	3.3899615662015175e-09	3.409348744064484e-09
+https://triplydb.com/Triply/linkedmdb/id/film/18729	4.025212290356817e-06	4.048593308935785e-06
+https://triplydb.com/Triply/linkedmdb/id/film/23446	3.3957430096631775e-09	3.4151632393854114e-09
+https://triplydb.com/Triply/linkedmdb/id/film/944	2.990729217026807e-06	3.008101203491812e-06
+https://triplydb.com/Triply/linkedmdb/id/film/96426	3.3959290605959495e-09	3.415342679370171e-09
+https://triplydb.com/Triply/linkedmdb/id/film/67438	3.388604085010808e-09	3.4079835254153914e-09
+https://triplydb.com/Triply/linkedmdb/id/film/10791	4.590565535549289e-09	4.616926334517825e-09
+https://triplydb.com/Triply/linkedmdb/id/film/83977	3.407214391309426e-09	3.4266925421363e-09
+https://triplydb.com/Triply/linkedmdb/id/film/7756	9.97493740216146e-07	1.0032875961112363e-06
+https://triplydb.com/Triply/linkedmdb/id/film/8961	1.0004114057077686e-06	1.0062222087793418e-06
+https://triplydb.com/Triply/linkedmdb/id/film/18644	1.9966018634785547e-06	2.008199256871236e-06
+https://triplydb.com/Triply/linkedmdb/id/film/19258	3.969868782619949e-06	3.992928331264282e-06
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000dc5776	1.7322179507117236e-09	1.7420982900960955e-09
+""	0.0
+Alice Braga (Actor)	9.906515883964968e-07	9.964058350647946e-07
+47469	1.733778195999104e-09	1.7436674642667172e-09

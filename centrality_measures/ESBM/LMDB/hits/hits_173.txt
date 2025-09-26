@@ -1,0 +1,32 @@
+https://triplydb.com/Triply/linkedmdb/id/performance/91100	4.989717416339912e-08	4.989418381626829e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/45160	7.009217446147062e-08	7.008918427697184e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/184656	2.9764702442309316e-08	2.9761710906401383e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/83567	3.976589124043902e-08	3.976290041307967e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/184809	2.9732313027339436e-08	2.9729321991462554e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/134547	2.9738317823404076e-08	2.973532631516262e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/75295	2.318984185455898e-07	2.318954331766229e-07
+https://triplydb.com/Triply/linkedmdb/id/performance/198141	3.0319368616154305e-08	3.031628347980945e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/67713	6.990404776038835e-08	6.990105798907244e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/115382	2.9737903368565105e-08	2.9734911759465278e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/146941	2.9898632403526453e-08	2.9895630839343284e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/114368	3.990603662290865e-08	3.990303552261631e-08
+https://triplydb.com/Triply/linkedmdb/id/film/95572	7.0488390612082195e-09	7.047413226570361e-09
+https://triplydb.com/Triply/linkedmdb/id/film/13716	3.983481916058834e-06	3.982651232270006e-06
+https://triplydb.com/Triply/linkedmdb/id/film/20724	2.0014039180459182e-05	2.000986543439944e-05
+https://triplydb.com/Triply/linkedmdb/id/film/70465	2.3511050345339496e-08	2.3507254217646725e-08
+https://triplydb.com/Triply/linkedmdb/id/film/95541	9.665501487806162e-09	9.663530074667394e-09
+https://triplydb.com/Triply/linkedmdb/id/film/53299	7.013303437986904e-09	7.011884959183986e-09
+https://triplydb.com/Triply/linkedmdb/id/film/17222	2.003084642428399e-06	2.002666957267428e-06
+https://triplydb.com/Triply/linkedmdb/id/film/47737	1.0002310492408287e-06	1.000022501993619e-06
+https://triplydb.com/Triply/linkedmdb/id/film/53825	7.05431984987589e-09	7.052893219440687e-09
+https://triplydb.com/Triply/linkedmdb/id/film/98212	6.514962383979997e-08	6.514558188132241e-08
+https://triplydb.com/Triply/linkedmdb/id/film/54847	1.014102407602731e-06	1.013892028624358e-06
+https://triplydb.com/Triply/linkedmdb/id/film/11393	4.002103754594551e-06	4.001269229687956e-06
+""	0.0
+Columbus Short	1.0040242535776227e-06	1.0038152573348474e-06
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000d56ae3	3.4821213074609036e-09	3.481406916269233e-09
+47032	3.4873517855790483e-09	3.486636460860684e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009899369571327582	0.009897305120928242
+http://xmlns.com/foaf/0.1/Person	-9.899566429487717e-11	-8.797547841026025e-11
+Columbus Short (Actor)	9.967157569226953e-07	9.965079101645844e-07
+""	0.0

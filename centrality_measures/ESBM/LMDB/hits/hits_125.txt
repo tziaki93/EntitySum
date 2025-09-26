@@ -1,0 +1,50 @@
+30598	2.342888521907369e-09	2.351165750760553e-09
+https://triplydb.com/Triply/linkedmdb/id/film/16960	2.988592263742057e-06	2.9992906835072855e-06
+https://triplydb.com/Triply/linkedmdb/id/film/2274	5.990999987752356e-06	6.01244652070201e-06
+https://triplydb.com/Triply/linkedmdb/id/film/41317	7.520868195064504e-09	7.5475562029246e-09
+https://triplydb.com/Triply/linkedmdb/id/film/10336	1.9944051058427373e-06	2.0015445047403584e-06
+https://triplydb.com/Triply/linkedmdb/id/film/2338	2.985374556874346e-06	2.996061463374138e-06
+https://triplydb.com/Triply/linkedmdb/id/film/53197	1.1092491326903863e-08	1.1122130373151238e-08
+https://triplydb.com/Triply/linkedmdb/id/film/93349	4.9071956128611225e-09	4.924532824220677e-09
+https://triplydb.com/Triply/linkedmdb/id/film/13855	1.002917404265876e-06	1.006507444255621e-06
+https://triplydb.com/Triply/linkedmdb/id/film/2042	4.969646941409477e-06	4.987437208407958e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38576	9.976167935408344e-07	1.0011878580944347e-06
+https://triplydb.com/Triply/linkedmdb/id/film/14368	9.96505660832854e-07	1.000072752813913e-06
+https://triplydb.com/Triply/linkedmdb/id/film/19656	1.0031194874655097e-06	1.0067102507979715e-06
+https://triplydb.com/Triply/linkedmdb/id/film/61927	4.7041980278968e-09	4.720808727466057e-09
+https://triplydb.com/Triply/linkedmdb/id/film/47332	8.280478534937016e-09	8.30005956072674e-09
+https://triplydb.com/Triply/linkedmdb/id/film/54618	4.713863996475402e-09	4.730507847700117e-09
+https://triplydb.com/Triply/linkedmdb/id/film/40935	4.710797111750139e-09	4.727431124078885e-09
+https://triplydb.com/Triply/linkedmdb/id/film/42713	1.1190142038838011e-08	1.1220132650711257e-08
+https://triplydb.com/Triply/linkedmdb/id/film/18780	6.808500560387009e-09	6.832643835995381e-09
+https://triplydb.com/Triply/linkedmdb/id/film/10692	9.529617471155208e-09	9.563495843523015e-09
+https://triplydb.com/Triply/linkedmdb/id/film/42230	8.224209477632269e-09	8.253416249622078e-09
+""	0.0
+http://xmlns.com/foaf/0.1/Person	-4.382514714466823e-10	2.759194244197656e-11
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009882126953951544	0.009917503373931935
+""	0.0
+http://www.freebase.com/view/guid/9202a8c04000641f800000000012d8fa	2.3391402785138235e-09	2.347404275044561e-09
+Tom Courtenay	8.0027295682316e-09	8.028632038317387e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/113132	6.1417359600270154e-09	6.153115853604237e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/92512	1.618272998483002e-08	1.619401205335836e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/54247	6.126618678592125e-09	6.1379024874588794e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/70134	6.668137823355451e-08	6.669265958666984e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/91930	5.633031579647189e-08	5.634159544452345e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/38982	3.62463136886223e-08	3.6257594526415316e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/74228	1.618068458121103e-08	1.6191966654377718e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/114228	6.078635498721573e-09	6.089921919359878e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4392	6.03112890272268e-09	6.04241377084746e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/94391	6.142724360651637e-09	6.154104235806099e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/173836	6.113273989176872e-09	6.124653806127331e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/125941	6.077174507380636e-09	6.088457133804961e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/17700	6.077241297413071e-09	6.0885239210432965e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/136030	6.098473401402307e-09	6.109756012346641e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/197795	6.07922916484279e-09	6.090511780109869e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/64560	6.112802589162291e-09	6.124085262968462e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/17432	6.33214049617825e-09	6.34449212805683e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/55450	1.6115787558234852e-08	1.612706958107627e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/70920	3.6279515363057266e-08	3.6290797490557896e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/183968	2.6216121876209275e-08	2.622740335471742e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/71338	6.1067632167078195e-09	6.118048679004933e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/30832	1.6130260960382396e-08	1.6141545296378523e-08
+Tom Courtenay (Actor)	4.336075185771876e-09	4.351487120340337e-09

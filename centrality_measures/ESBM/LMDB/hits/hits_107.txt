@@ -1,0 +1,35 @@
+https://triplydb.com/Triply/linkedmdb/id/director/9690	1.5980183531482588e-09	1.6620217006905088e-09
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/10936	1.890664538164638e-09	1.966392214266931e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4347	1.6462403127319003e-09	1.7101779184177743e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4346	1.6462403128153227e-09	1.7101779208098855e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4344	1.6462403127213027e-09	1.7101779177120613e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4343	1.646578463740927e-09	1.7105280933524405e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/118676	2.1662811403604747e-08	2.1725346763041397e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/4345	1.6462403128188649e-09	1.7101779197734857e-09
+2002-01-11	2.2756560588405366e-09	2.3669961248467294e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/47098	2.004950529698356e-09	2.084626212557233e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/34874	2.008661953058712e-09	2.088485524381569e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/39434	2.004950529727467e-09	2.0846262130778827e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/44171	2.0049505297049164e-09	2.084626215427749e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/44189	2.0049505296408736e-09	2.0846262114297163e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/29669	1.944291601637964e-06	2.022719882748373e-06
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/371	1.3979995798134202e-09	1.4539371717595454e-09
+https://triplydb.com/Triply/linkedmdb/id/producer/10869	1.400286674522216e-09	1.4563154660894768e-09
+https://triplydb.com/Triply/linkedmdb/id/producer/1181	1.3979998086322983e-09	1.4539374108177897e-09
+https://triplydb.com/Triply/linkedmdb/id/editor/318	1.5941676546700152e-09	1.6580174352106067e-09
+https://triplydb.com/Triply/linkedmdb/id/editor/2398	1.5943271352088494e-09	1.6581833016111462e-09
+http://www.lingvoj.org/lingvo/en	1.7726094147644785e-05	1.7723843893166633e-05
+https://triplydb.com/Triply/linkedmdb/id/production_company/86	2.9380853867276826e-06	3.0566026418680244e-06
+https://triplydb.com/Triply/linkedmdb/id/film_cut/867	9.078075591626862e-08	9.079502377158358e-08
+http://www.rottentomatoes.com/alias?type=imdbid&s=0303356	2.2742908029157834e-09	2.3655760737947945e-09
+http://www.imdb.com/title/tt0303356	2.2745182318004664e-09	2.365812631064595e-09
+http://www.freebase.com/view/guid/9202a8c04000641f80000000005646e7	2.2742908029157834e-09	2.3655760737052737e-09
+Biggie & Tupac	2.5724692183284563e-09	2.671738706556422e-09
+https://triplydb.com/Triply/linkedmdb/id/interlink/136276	1.7528486790037852e-07	1.8229374809069265e-07
+2002-01-11	2.2756560588405366e-09	2.3669961248467294e-09
+2572	2.315031241652489e-09	2.4079517099554502e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.009688093755002666	0.010078896126380693
+https://triplydb.com/Triply/linkedmdb/id/director/9690	1.5980183531482588e-09	1.6620217006905088e-09
+108	8.758197749773277e-06	9.111488420493533e-06
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/183	1.5948476157748575e-09	1.6587245664383618e-09
+Biggie & Tupac	2.5724692183284563e-09	2.671738706556422e-09

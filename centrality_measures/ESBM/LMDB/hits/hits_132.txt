@@ -1,0 +1,37 @@
+Dante Basco	1.0017277528772512e-06	9.981459882142637e-07
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/performance/122675	1.6731174815709644e-08	1.6721962298878534e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/152327	1.668570114537741e-08	1.6676491868161987e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/121760	1.6729025710700396e-08	1.6719815818807233e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/44873	5.691591229377505e-08	5.69067063208857e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/187452	1.673118406431858e-08	1.672197146493433e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/123155	1.672902570752175e-08	1.6719815790838072e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/184389	1.6729109929181834e-08	1.671990003563708e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/30620	1.6729105241014822e-08	1.67198952832798e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/83942	1.6729142762648815e-08	1.6719932882274982e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/82695	2.6798873042141133e-08	2.6789664046898278e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/77341	9.73903214901855e-08	9.73811194943471e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/10502	2.674830563238852e-08	2.673909673719877e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/28513	2.676244178822216e-08	2.6753232869335853e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/84005	7.725708405616989e-08	7.724788005395434e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/120534	1.6729007031047205e-08	1.671979702153198e-08
+https://triplydb.com/Triply/linkedmdb/id/film/905	8.002425469805958e-06	7.973798847447019e-06
+https://triplydb.com/Triply/linkedmdb/id/film/58958	4.626486469693188e-09	4.610192067182587e-09
+https://triplydb.com/Triply/linkedmdb/id/film/5215	1.003080750610121e-06	9.994927110739816e-07
+https://triplydb.com/Triply/linkedmdb/id/film/41946	4.638092161730662e-09	4.6217567562096384e-09
+https://triplydb.com/Triply/linkedmdb/id/film/45096	4.634371997036617e-09	4.618049823247886e-09
+https://triplydb.com/Triply/linkedmdb/id/film/47819	9.980668475688296e-07	9.944967433101046e-07
+https://triplydb.com/Triply/linkedmdb/id/film/59934	4.626486467898979e-09	4.610191990730253e-09
+https://triplydb.com/Triply/linkedmdb/id/film/46420	9.994684873920516e-07	9.958933695525794e-07
+https://triplydb.com/Triply/linkedmdb/id/film/58102	4.624634945472728e-09	4.608346970648078e-09
+https://triplydb.com/Triply/linkedmdb/id/film/94383	4.6348367015187564e-09	4.6185128797120415e-09
+https://triplydb.com/Triply/linkedmdb/id/film/11541	3.9892716320273105e-06	3.975001165445012e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1393	6.006157192992274e-06	5.984671772165126e-06
+https://triplydb.com/Triply/linkedmdb/id/film/96372	4.628645799363873e-09	4.612348722706926e-09
+https://triplydb.com/Triply/linkedmdb/id/film/59607	4.62771970336529e-09	4.6114257891077154e-09
+Dante Basco (Actor)	9.962959061521473e-07	9.927320266731627e-07
+38225	2.3531195564457562e-09	2.3448541662534835e-09
+""	0.0
+http://xmlns.com/foaf/0.1/Person	1.4519720842747434e-10	2.3771454321931277e-10
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009917469898094526	0.009881992304452122
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000646474	2.349825518598896e-09	2.3415716890439307e-09

@@ -1,0 +1,52 @@
+36141	2.5771956671108952e-09	2.5722255376094405e-09
+""	0.0
+Francis Ng	1.004079352482087e-06	1.0020981910998165e-06
+Francis Ng (Actor)	9.961015343861606e-07	9.941345436309656e-07
+https://triplydb.com/Triply/linkedmdb/id/performance/50061	4.94675594198195e-08	4.9460969601587484e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/88474	1.9360240903773676e-08	1.9353650165497913e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/60580	4.947800464634876e-08	4.947141507043621e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/128183	1.9318622619708135e-08	1.9312031863060377e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/107587	1.936429232899565e-08	1.9357701585729574e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/57193	3.938912346680358e-08	3.938253352301238e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/57903	2.9350867607925502e-08	2.9344277301307553e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/88060	4.950732673833955e-08	4.950073716064332e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/122860	1.931962562310976e-08	1.9313034893315492e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/77142	2.9394438165370966e-08	2.93878478235657e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/131718	1.9426850537300257e-08	1.9420148495799247e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/160521	1.9388347431199535e-08	1.9381645385700334e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/65403	1.9432029950979534e-08	1.9425327782607497e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/140336	1.935716149088022e-08	1.9350570744177645e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/83973	3.9442811415252126e-08	3.9436221385095235e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/36053	1.9360289500092857e-08	1.9353698742983194e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/58524	1.9365468681159867e-08	1.935887788728794e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/66281	4.9445726641416576e-08	4.943913699824117e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/129784	1.9317621690196217e-08	1.9311030964372808e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/61076	3.9452004829687575e-08	3.944541476951271e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/115451	1.9357114727170624e-08	1.9350523925320592e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/92016	4.9464901380514786e-08	4.945831175749217e-08
+https://triplydb.com/Triply/linkedmdb/id/film/41076	9.4015628041022e-09	9.383197822100827e-09
+https://triplydb.com/Triply/linkedmdb/id/film/14139	9.99204965112505e-07	9.972319262291166e-07
+https://triplydb.com/Triply/linkedmdb/id/film/19139	2.9919667284900483e-06	2.9860583809798057e-06
+https://triplydb.com/Triply/linkedmdb/id/film/11547	1.993727135107634e-06	1.989790108961478e-06
+https://triplydb.com/Triply/linkedmdb/id/film/59733	5.377682176142866e-09	5.367258217795818e-09
+https://triplydb.com/Triply/linkedmdb/id/film/23695	9.802950408524094e-09	9.783792765114297e-09
+https://triplydb.com/Triply/linkedmdb/id/film/8731	1.99904616595538e-06	1.9950986420996726e-06
+https://triplydb.com/Triply/linkedmdb/id/film/16513	2.996169946498597e-06	2.9902532964916145e-06
+https://triplydb.com/Triply/linkedmdb/id/film/64450	5.179146064670856e-09	5.169114199227587e-09
+https://triplydb.com/Triply/linkedmdb/id/film/19963	9.096475640515307e-09	9.078713015665334e-09
+https://triplydb.com/Triply/linkedmdb/id/film/8548	1.0035216345894673e-06	1.0015400763566277e-06
+https://triplydb.com/Triply/linkedmdb/id/film/40637	9.919492805651181e-09	9.900107697791726e-09
+https://triplydb.com/Triply/linkedmdb/id/film/46460	9.406377190554464e-09	9.388002848985027e-09
+https://triplydb.com/Triply/linkedmdb/id/film/63495	5.278311491117623e-09	5.268083701167617e-09
+https://triplydb.com/Triply/linkedmdb/id/film/16976	2.9900670279356613e-06	2.9841624295607355e-06
+https://triplydb.com/Triply/linkedmdb/id/film/13144	1.999956983416655e-06	1.9960076644894706e-06
+https://triplydb.com/Triply/linkedmdb/id/film/49795	1.6502784835000424e-08	1.648163455266915e-08
+https://triplydb.com/Triply/linkedmdb/id/film/15021	9.09184277787857e-09	9.074089194221603e-09
+https://triplydb.com/Triply/linkedmdb/id/film/76933	1.2175029660727651e-08	1.2162413732081683e-08
+https://triplydb.com/Triply/linkedmdb/id/film/57086	1.5989650590757323e-08	1.596950664218462e-08
+https://triplydb.com/Triply/linkedmdb/id/film/13700	2.9922300521365456e-06	2.9863212016037497e-06
+https://triplydb.com/Triply/linkedmdb/id/film/10853	2.9932649130451243e-06	2.9873539997265345e-06
+http://www.freebase.com/view/guid/9202a8c04000641f80000000004d578b	2.57358795596488e-09	2.568624804326252e-09
+http://xmlns.com/foaf/0.1/Person	4.1381532780774437e-10	1.4715760607343594e-10
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.00990931957881157	0.009889750562804965
+""	0.0

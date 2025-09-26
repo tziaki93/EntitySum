@@ -1,0 +1,42 @@
+""	0.0
+http://www.freebase.com/view/guid/9202a8c04000641f800000000b91415f	-2.7395927388271196e-19	2.104175220552697e-18
+""	0.0
+Rod Daily	4.5378528014277644e-18	1.0975013581950129e-17
+Rod Daily (Actor)	-2.7395927388271196e-19	2.0869556903259117e-18
+62725	-7.056070559575174e-19	1.2341561699885223e-18
+https://triplydb.com/Triply/linkedmdb/id/film/83479	7.333388432701746e-19	1.7878955903897734e-17
+https://triplydb.com/Triply/linkedmdb/id/film/83452	1.779044338341679e-18	1.1666201188669909e-17
+https://triplydb.com/Triply/linkedmdb/id/film/78626	4.817906672054826e-19	1.2008149198756013e-17
+https://triplydb.com/Triply/linkedmdb/id/film/73676	-5.732008761491837e-19	5.673020650767224e-18
+https://triplydb.com/Triply/linkedmdb/id/film/75057	5.867171476814939e-19	1.3004851655861822e-18
+https://triplydb.com/Triply/linkedmdb/id/film/84979	7.919998337207552e-20	5.798491671122222e-18
+https://triplydb.com/Triply/linkedmdb/id/film/81274	1.6170780118713045e-18	7.608650586726715e-18
+https://triplydb.com/Triply/linkedmdb/id/film/97147	8.889182269135129e-19	2.587516384806413e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86296	2.192053361778805e-19	-7.183532995821708e-18
+https://triplydb.com/Triply/linkedmdb/id/film/82265	1.0281731502770514e-18	2.4163436978995535e-18
+https://triplydb.com/Triply/linkedmdb/id/film/75121	1.9075783629161832e-19	1.164498226292432e-17
+https://triplydb.com/Triply/linkedmdb/id/film/85082	8.851246026056606e-19	1.1839186309547104e-17
+https://triplydb.com/Triply/linkedmdb/id/film/73677	1.2442931887059077e-18	1.3587061394310958e-17
+https://triplydb.com/Triply/linkedmdb/id/film/97520	-2.5688298760474186e-18	-1.212746943450248e-17
+https://triplydb.com/Triply/linkedmdb/id/film/81918	-5.010238207048204e-19	1.1304531280515108e-17
+https://triplydb.com/Triply/linkedmdb/id/film/83968	3.0052562875965895e-19	-1.3015656533681859e-18
+https://triplydb.com/Triply/linkedmdb/id/film/82264	1.1636925797013997e-18	2.0403431896705176e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/158778	9.977110480187988e-17	-8.347179684314692e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/171445	1.0048759559586352e-16	-8.121672720656648e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/158783	9.989512626063441e-17	-7.939795633220158e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/161551	9.972385645449363e-17	-7.522914825493428e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/158782	1.0020912383408396e-16	-1.1051630417460492e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/168338	9.970857699557965e-17	-6.953885198181814e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/168400	1.0026852641324744e-16	-1.136546079485532e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/170153	9.980507328432371e-17	-8.542514613768012e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/173697	9.952741591353011e-17	-6.09933542936015e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/169257	1.0035331916452798e-16	-9.893438860701243e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/165873	9.999950077174189e-17	-1.0211606468785428e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/168416	9.950440119565787e-17	-1.0216664494932461e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/173723	9.999037069044903e-17	-9.605508042121058e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/189411	1.0050273808294746e-16	-6.08982204627508e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/188409	1.0021423431761425e-16	-9.189071650697297e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/158784	9.978003445677705e-17	-8.651356110312913e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/170221	9.978956714833805e-17	-9.499058188356301e-18
+http://xmlns.com/foaf/0.1/Person	-0.025163995250502974	-0.0006114879719624847
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	-0.007168179955740744	-0.0025913122380749943

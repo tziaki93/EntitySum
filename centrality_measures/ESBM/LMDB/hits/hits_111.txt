@@ -1,0 +1,27 @@
+https://triplydb.com/Triply/linkedmdb/id/film_format/56	1.0233001954411985e-06	1.0013727709679748e-06
+https://triplydb.com/Triply/linkedmdb/id/writer/15593	2.4889104698836265e-09	2.4356228697670747e-09
+https://triplydb.com/Triply/linkedmdb/id/writer/16556	4.554808528789114e-09	4.45725249037301e-09
+https://triplydb.com/Triply/linkedmdb/id/director/9077	3.324933445151165e-09	3.2537321036541158e-09
+https://triplydb.com/Triply/linkedmdb/id/film_art_director/2	2.670825671833044e-08	2.613599699785237e-08
+Broken Lance	6.627872523557147e-09	6.488703807167994e-09
+1954	1.9555160749099556e-05	1.9136129105667788e-05
+https://triplydb.com/Triply/linkedmdb/id/performance/5456	2.6835373370997093e-09	2.628227874229827e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/5458	2.6822612817050526e-09	2.6269518344505084e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/5454	2.6871152001652085e-09	2.631797829873784e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/5457	2.713265825149471e-09	2.65795631546248e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/5455	2.287508928838541e-08	2.2819788933931464e-08
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.010007503391434322	0.009793060712177086
+https://triplydb.com/Triply/linkedmdb/id/editor/1708	8.539388511899289e-09	8.356451127078962e-09
+https://triplydb.com/Triply/linkedmdb/id/director/9077	3.324933445151165e-09	3.2537321036541158e-09
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000567f08	2.3745269709041924e-09	2.3236902628563045e-09
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/1166	2.5835925962049985e-09	2.528320798105968e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/33143	6.124163127283225e-09	5.993585550981563e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/32491	2.0233798093113366e-06	1.980023180263785e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/35936	3.149738536938013e-09	3.082890654564796e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/30035	3.022065921009517e-09	2.957953006600901e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/29794	3.471015915086085e-09	3.3972899194435445e-09
+1954	1.9555160749099556e-05	1.9136129105667788e-05
+41573	2.3776175533500384e-09	2.3267146806001653e-09
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5454	3.6662667139353664e-09	3.5877513204441536e-09
+Broken Lance	6.627872523557147e-09	6.488703807167994e-09
+https://triplydb.com/Triply/linkedmdb/id/film_set_designer/2	1.0332386644846686e-06	1.0110982782891155e-06

@@ -1,0 +1,26 @@
+https://triplydb.com/Triply/linkedmdb/id/director/2930	9.961227147163708e-09	9.915441120879132e-09
+Briana Loves Jenna	1.0282891674788806e-08	1.042088478699725e-08
+http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna	1.0114212709844394e-08	1.016014134139923e-08
+14299	9.984215312142246e-09	9.938332775506601e-09
+2001,2001-11-27	9.954265637653177e-09	9.908520973773354e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Film	-5.724705701995885e-09	1.4019439012215978e-08
+Briana Loves Jenna	1.0282891674788806e-08	1.042088478699725e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/30040	1.0068614077790045e-08	1.006879870364584e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/39031	1.0054523597799397e-08	1.005471248412363e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/31497	1.0054523603767479e-08	1.0054712688606514e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/32619	1.0052511890200774e-08	1.0052701061193291e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/70953	1.0130770301074122e-08	1.0176966340833031e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/72536	1.0129644177844597e-08	1.0175770786115066e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/55464	1.0129660426930846e-08	1.0175796421178922e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/72396	1.0129660420906487e-08	1.0175796150237014e-08
+2001,2001-11-27	9.954265637653177e-09	9.908520973773354e-09
+http://www.lingvoj.org/lingvo/en	0.00787319320918937	0.01244311691376262
+https://triplydb.com/Triply/linkedmdb/id/interlink/43285	1.9981336097802725e-08	1.9935618808787638e-08
+https://triplydb.com/Triply/linkedmdb/id/interlink/24752	1.9904292214439435e-08	1.9812692169591846e-08
+https://triplydb.com/Triply/linkedmdb/id/interlink/6219	1.9904292213859105e-08	1.981269224601789e-08
+https://triplydb.com/Triply/linkedmdb/id/interlink/145197	9.926172810129396e-05	9.88044134210282e-05
+https://triplydb.com/Triply/linkedmdb/id/interlink/74894	1.989232944812019e-08	1.9800775243803856e-08
+https://triplydb.com/Triply/linkedmdb/id/director/2930	9.961227147163708e-09	9.915441120879132e-09
+https://triplydb.com/Triply/linkedmdb/id/producer/5952	9.957203025877147e-09	9.911417110106315e-09
+https://triplydb.com/Triply/linkedmdb/id/producer/9896	9.958237893341312e-09	9.912465584838045e-09
+http://www.freebase.com/view/guid/9202a8c04000641f80000000055827c2	9.954265637653177e-09	9.908520973876661e-09

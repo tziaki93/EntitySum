@@ -1,0 +1,44 @@
+""	0.0
+30423	2.352890334969633e-09	2.3529899408605895e-09
+Rowan Atkinson (Actor)	4.356875569216868e-09	4.357061126124901e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009899563624339903	0.009899988668816575
+http://xmlns.com/foaf/0.1/Person	-3.469991872687975e-10	-4.854481100297014e-10
+https://triplydb.com/Triply/linkedmdb/id/performance/32909	5.695283396686796e-09	5.695405849846796e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/16031	5.707939636386966e-09	5.70806208808085e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/25634	2.590359619078074e-08	2.5903718346752383e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/49737	5.683331273824184e-09	5.6834537183425855e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/11653	2.5985781351095062e-08	2.598591217491701e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/41087	1.575257612617415e-08	1.5752698454624846e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/115590	5.707945308997225e-09	5.708067759558803e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/107500	5.731735108474459e-09	5.731858681763231e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/23991	1.1696938381273827e-07	1.1696950461327891e-07
+https://triplydb.com/Triply/linkedmdb/id/performance/57702	3.5901419751312364e-08	3.590154175702489e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/41088	5.7047222972503495e-09	5.7048447703149915e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/14365	2.5889334421996756e-08	2.5889456584050672e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/191309	5.705987377789758e-09	5.706109830079707e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/3785	2.6088329034794665e-08	2.608845983721613e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/43952	5.691548652386488e-09	5.691671104083009e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/108617	5.70388052786108e-09	5.704002981783229e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/16484	5.699763369986018e-09	5.6998858201819825e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/18468	5.712520592478713e-09	5.7126430453395726e-09
+""	0.0
+Rowan Atkinson	8.771259710791171e-09	8.77161039393601e-09
+http://www.freebase.com/view/guid/9202a8c04000641f800000000011db88	2.9572617385469833e-09	2.9573870272612067e-09
+https://triplydb.com/Triply/linkedmdb/id/film/39079	7.160110969601809e-09	7.1604147886616145e-09
+https://triplydb.com/Triply/linkedmdb/id/film/39545	4.724540689509238e-09	4.724740672963027e-09
+https://triplydb.com/Triply/linkedmdb/id/film/1849	2.0059898217844234e-06	2.00607594703e-06
+https://triplydb.com/Triply/linkedmdb/id/film/39279	7.613503260734772e-09	7.613826356647575e-09
+https://triplydb.com/Triply/linkedmdb/id/film/4748	2.9955068862103913e-06	2.9956354966183715e-06
+https://triplydb.com/Triply/linkedmdb/id/film/43940	6.350878976821389e-09	6.3511484003471225e-09
+https://triplydb.com/Triply/linkedmdb/id/film/39334	7.1606724033435e-09	7.160976244785595e-09
+https://triplydb.com/Triply/linkedmdb/id/film/2382	2.0045782881403803e-06	2.0046643528399174e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1254	1.1019066544096553e-05	1.1019539651071121e-05
+https://triplydb.com/Triply/linkedmdb/id/film/40703	2.0133520028526134e-06	2.013437571853528e-06
+https://triplydb.com/Triply/linkedmdb/id/film/900	6.758367660017662e-09	6.758654390061377e-09
+https://triplydb.com/Triply/linkedmdb/id/film/38094	6.966889521418828e-09	6.9671851220350186e-09
+https://triplydb.com/Triply/linkedmdb/id/film/45913	9.515338132607491e-09	9.515629922347768e-09
+https://triplydb.com/Triply/linkedmdb/id/film/44347	5.537841677879468e-09	5.538076223388749e-09
+https://triplydb.com/Triply/linkedmdb/id/film/39533	1.0009984924978638e-06	1.0010414677086483e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38496	5.851096249097203e-09	5.8513445592874114e-09
+https://triplydb.com/Triply/linkedmdb/id/film/7069	2.023758745108105e-06	2.023844762466423e-06
+https://triplydb.com/Triply/linkedmdb/id/film/10072	6.728723136020162e-09	6.7290090771543764e-09

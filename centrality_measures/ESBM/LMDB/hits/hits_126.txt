@@ -1,0 +1,34 @@
+31707	1.8155783302378592e-09	1.8394884718237468e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009834703859366667	0.009965733123569855
+http://xmlns.com/foaf/0.1/Person	-1.0503208772273652e-09	1.9308482468131956e-12
+Margaret Colin	5.942191192589257e-09	6.0171985292896505e-09
+""	0.0
+Margaret Colin (Actor)	3.600633126053534e-09	3.648324859101758e-09
+https://triplydb.com/Triply/linkedmdb/id/film/62913	3.64533044059378e-09	3.6933353832651247e-09
+https://triplydb.com/Triply/linkedmdb/id/film/1924	3.9650932351171765e-06	4.017920104235557e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1848	1.989370495388762e-06	2.0158745612166863e-06
+https://triplydb.com/Triply/linkedmdb/id/film/46293	3.648251455693081e-09	3.6962948513341432e-09
+https://triplydb.com/Triply/linkedmdb/id/film/49012	3.648982423313489e-09	3.6970354878772563e-09
+https://triplydb.com/Triply/linkedmdb/id/film/1763	9.971598839604771e-07	1.0104446044501022e-06
+https://triplydb.com/Triply/linkedmdb/id/film/1253	1.9846801343449025e-06	2.0111217113531287e-06
+https://triplydb.com/Triply/linkedmdb/id/film/57526	3.644601008503473e-09	3.6925963578401187e-09
+https://triplydb.com/Triply/linkedmdb/id/film/63987	3.6446010817961303e-09	3.6925964277671954e-09
+https://triplydb.com/Triply/linkedmdb/id/film/95531	3.6669914307602364e-09	3.715281584662984e-09
+https://triplydb.com/Triply/linkedmdb/id/film/73	3.972184539198371e-06	4.0251058852600525e-06
+https://triplydb.com/Triply/linkedmdb/id/film/6852	1.9795009912795774e-06	2.0058735673334613e-06
+https://triplydb.com/Triply/linkedmdb/id/film/3298	2.972501463031221e-06	3.0121039076880807e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/88430	3.430399482886152e-08	3.4331228609695015e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/96027	4.108935412207581e-09	4.13617344972989e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/87924	1.4213558501784788e-08	1.424079509922958e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/80435	4.439926240101208e-08	4.442649477192794e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/42133	2.4309812845762173e-08	2.4337053493888942e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/127332	4.1089057074889544e-09	4.136143718460923e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/4756	4.108942845490532e-09	4.136180874462942e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/37390	2.4204570541070726e-08	2.423180574365402e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/83508	2.4257245590748275e-08	2.428448076487256e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/128910	4.10889829118039e-09	4.13613632306121e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/184537	4.109948215824555e-09	4.137191705022318e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/15213	4.447138530244452e-08	4.449861764716268e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/119763	4.108898290545809e-09	4.136136315902707e-09
+""	0.0
+http://www.freebase.com/view/guid/9202a8c04000641f80000000001d8847	1.8128552384502022e-09	1.8367294879986805e-09

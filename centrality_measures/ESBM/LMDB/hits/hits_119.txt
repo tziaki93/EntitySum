@@ -1,0 +1,30 @@
+The Aftermath	1.6536862806273792e-06	1.653686280636165e-06
+http://www.lingvoj.org/lingvo/en	7.590581872614388e-08	7.590581584443245e-08
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4	1.6037093070630105e-06	1.6037093070714747e-06
+http://www.rottentomatoes.com/alias?type=imdbid&s=0758789	1.6037093070630105e-06	1.6037093070714942e-06
+http://www.imdb.com/title/tt0758789	1.6037093070630105e-06	1.6037093070714836e-06
+http://sws.geonames.org/2635167/	0.007432000153184102	0.007432000153223174
+https://triplydb.com/Triply/linkedmdb/id/performance/29135	1.0209297266193904e-06	1.020929726623632e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/29134	1.0299259806002824e-06	1.0299259806051145e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/29132	1.0050840634032538e-06	1.0050840634078563e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/29133	1.0298547332277493e-06	1.0298547332325799e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/29131	1.0498458447726505e-06	1.0498458447773575e-06
+https://triplydb.com/Triply/linkedmdb/id/director/11682	2.8258921129530316e-06	2.8258921129677806e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/36466	5.660586239378304e-06	5.660586239408398e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/37594	6.609339688057084e-06	6.609339688094418e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/32015	8.71010739325893e-06	8.710107393303968e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/37715	6.6018258728059195e-06	6.60182587284018e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/31908	3.989487618231401e-06	3.989487618251258e-06
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.002172768390940584	0.002172768390950387
+7963	1.6102412210287119e-06	1.610241221037887e-06
+https://triplydb.com/Triply/linkedmdb/id/director/11682	2.8258921129530316e-06	2.8258921129677806e-06
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/692	1.8883956907589024e-06	1.8883956907689698e-06
+https://triplydb.com/Triply/linkedmdb/id/writer/4850	9.481961727518498e-07	9.481961727570976e-07
+https://triplydb.com/Triply/linkedmdb/id/producer/997	2.822273963598438e-06	2.822273963613214e-06
+https://triplydb.com/Triply/linkedmdb/id/country/GB	0.0031849901233022195	0.003184990123318661
+The Aftermath	1.6536862806273792e-06	1.653686280636165e-06
+https://triplydb.com/Triply/linkedmdb/id/editor/1709	1.8888940784535096e-06	1.8888940784634242e-06
+https://triplydb.com/Triply/linkedmdb/id/interlink/140699	9.55070897809262e-07	9.550708978402096e-07
+https://triplydb.com/Triply/linkedmdb/id/interlink/63652	7.077049757413908e-05	7.077049757410898e-05
+https://triplydb.com/Triply/linkedmdb/id/interlink/72987	9.669292489227615e-07	9.669292489279183e-07
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/11639	9.514351551858764e-07	9.514351551910878e-07

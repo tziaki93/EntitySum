@@ -1,0 +1,35 @@
+https://triplydb.com/Triply/linkedmdb/id/actor/31581	2.00976950206123e-06	2.010705499630545e-06
+https://triplydb.com/Triply/linkedmdb/id/actor/32793	8.320438030214833e-09	8.324268557266207e-09
+https://triplydb.com/Triply/linkedmdb/id/actor/29405	8.356427112189995e-09	8.360274207026355e-09
+https://triplydb.com/Triply/linkedmdb/id/director/11436	7.829468309094527e-09	7.83310892431459e-09
+http://www.lingvoj.org/lingvo/en	2.207502288328012e-06	2.207496845552257e-06
+https://triplydb.com/Triply/linkedmdb/id/interlink/73136	7.416867845048436e-09	7.420316309471223e-09
+https://triplydb.com/Triply/linkedmdb/id/interlink/141053	2.949336351689365e-08	2.9507042646664575e-08
+114	7.425077519859138e-06	7.428535685057001e-06
+https://triplydb.com/Triply/linkedmdb/id/editor/36	1.0127259927623647e-06	1.013197661055187e-06
+https://triplydb.com/Triply/linkedmdb/id/producer/3604	7.816196453836539e-09	7.819830906713518e-09
+https://triplydb.com/Triply/linkedmdb/id/producer/5959	1.0031126707667135e-06	1.0035798617378099e-06
+https://triplydb.com/Triply/linkedmdb/id/producer/1174	8.466480374002751e-09	8.47041768768954e-09
+https://triplydb.com/Triply/linkedmdb/id/director/11436	7.829468309094527e-09	7.83310892431459e-09
+https://triplydb.com/Triply/linkedmdb/id/film_genre/15	5.828745885463039e-05	5.831460606760534e-05
+https://triplydb.com/Triply/linkedmdb/id/writer/3287	7.421343501897448e-09	7.424794050441287e-09
+https://triplydb.com/Triply/linkedmdb/id/writer/2112	7.4302694920724185e-09	7.43372418970654e-09
+https://triplydb.com/Triply/linkedmdb/id/writer/2113	7.4302694920771475e-09	7.433724190425752e-09
+https://triplydb.com/Triply/linkedmdb/id/writer/110	7.420600946984518e-09	7.424051150445024e-09
+http://www.rottentomatoes.com/alias?type=imdbid&s=0120751	8.255932697907726e-09	8.259771945247654e-09
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000db9872	8.255932697907726e-09	8.259771945420136e-09
+http://www.imdb.com/title/tt0120751	8.255932697907726e-09	8.259771945440518e-09
+8446	8.294080369291787e-09	8.297937356765588e-09
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5196	1.0113716215894964e-06	1.0118426591312775e-06
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/4592	2.036571053803821e-06	2.0375195750010304e-06
+Mighty Joe Young	9.993600481367016e-07	9.998253827829351e-07
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/157	7.721849661116428e-09	7.725440158999039e-09
+1998-12-25	8.265023008351044e-09	8.268866482712769e-09
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.00989201063252557	0.009896617808512734
+https://triplydb.com/Triply/linkedmdb/id/film_cut/4184	8.170542664599509e-08	8.170851742358176e-08
+1998-12-25	8.265023008351044e-09	8.268866482712769e-09
+https://triplydb.com/Triply/linkedmdb/id/performance/19600	3.794000668285336e-08	3.794350087182558e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/19601	1.7714301574350406e-08	1.7717798479789245e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/173853	1.7713937880974413e-08	1.771743478481159e-08
+Mighty Joe Young	9.993600481367016e-07	9.998253827829351e-07
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/5652	7.624759397188904e-09	7.628302308364188e-09

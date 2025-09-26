@@ -1,0 +1,22 @@
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/7390	4.362323816434138e-09	1.057040740380463e-08
+https://triplydb.com/Triply/linkedmdb/id/producer/377	8.719359271521729e-09	2.1128427839100364e-08
+https://triplydb.com/Triply/linkedmdb/id/producer/13682	9.36860735360781e-09	2.2701705969501844e-08
+1995	4.0259448750024304e-05	9.755613341273e-05
+http://www.freebase.com/view/guid/9202a8c04000641f80000000004af166	4.356550847234733e-09	1.0556561113065272e-08
+The Incredibly True Adventure of Two Girls in Love	1.262432228357289e-08	3.029747931419307e-08
+https://triplydb.com/Triply/linkedmdb/id/film_subject/333	3.227952754693382e-06	7.821929836567653e-06
+https://triplydb.com/Triply/linkedmdb/id/film_subject/333	3.227952754693382e-06	7.821929836567653e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/32228	4.627621802337627e-09	1.0837033829253653e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/48861	4.62777440797989e-09	1.0837187803305935e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/32227	4.627677217516482e-09	1.0837089741471296e-08
+41006	4.363531541152291e-09	1.0573476357805053e-08
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.006349974700860906	0.015387169966809897
+1995	4.0259448750024304e-05	9.755613341273e-05
+The Incredibly True Adventure of Two Girls in Love	1.262432228357289e-08	3.029747931419307e-08
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5748	4.359165988478914e-09	1.0562897983544235e-08
+https://triplydb.com/Triply/linkedmdb/id/director/13110	4.361807138729775e-09	1.0569268420826717e-08
+https://triplydb.com/Triply/linkedmdb/id/director/13110	4.361807138729775e-09	1.0569268420826717e-08
+https://triplydb.com/Triply/linkedmdb/id/writer/19046	4.359602591775723e-09	1.0563955931562235e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/40960	4.438528222521319e-09	1.0657089403047732e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/46958	4.434976099429161e-09	1.0648560624347532e-08
+https://triplydb.com/Triply/linkedmdb/id/actor/38446	4.444758148777051e-09	1.0672047687039746e-08

@@ -1,0 +1,52 @@
+Byron Long (Actor)	-1.3033221365490263e-19	7.970291904414389e-18
+https://triplydb.com/Triply/linkedmdb/id/film/75102	-3.995117669129238e-17	8.87887062832588e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75105	-3.9904668689790755e-17	7.447695062449134e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75108	-3.988131761635325e-17	9.179431623893404e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75087	-4.012816697311869e-17	8.012576108626202e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75096	-3.9944928612943487e-17	8.787566643785899e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75092	-3.968151996471603e-17	9.594451738040072e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75093	-4.0091371424264996e-17	6.914972570784589e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75090	-3.988344585306273e-17	6.912270038724067e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75094	-3.9911617265551115e-17	1.0268369082904738e-16
+https://triplydb.com/Triply/linkedmdb/id/film/75088	-4.004665119520076e-17	1.0543265266226655e-16
+https://triplydb.com/Triply/linkedmdb/id/film/75091	-3.995644144101346e-17	7.864920328114813e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75099	-3.9982266739849925e-17	5.5000827284286934e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75103	-3.975378901812507e-17	1.0084213381745705e-16
+https://triplydb.com/Triply/linkedmdb/id/film/75106	-4.0046812545598896e-17	8.605465484297963e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75089	-4.016673445728021e-17	8.983054833888482e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75097	-3.9844003297018545e-17	9.621773750537025e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75104	-4.0003257824014474e-17	1.1308503249071273e-16
+https://triplydb.com/Triply/linkedmdb/id/film/75098	-4.010269528477514e-17	5.80437713908701e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75107	-4.028480948169775e-17	8.061668377048997e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75100	-3.96446644774669e-17	8.200844200119024e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75095	-4.0095003128365164e-17	6.009893510634305e-17
+https://triplydb.com/Triply/linkedmdb/id/film/75101	-4.001992598022997e-17	6.337057386745391e-17
+32500	-1.1587540002392595e-17	-1.2520514843743265e-16
+https://triplydb.com/Triply/linkedmdb/id/performance/152809	-3.989464434665876e-17	4.090232380171432e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152802	-3.966600073698612e-17	6.713913824782086e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152805	-3.9727567966278715e-17	6.204634340404167e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152811	-3.968736051198436e-17	7.763302060391657e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152810	-3.99526299305463e-17	4.8001605918622125e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152818	-3.9547137739173617e-17	9.956175047876304e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152819	-3.967900881342611e-17	6.078634327917958e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152822	-3.955754191825032e-17	7.889908921591662e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152812	-3.9739600358054546e-17	4.925823262705344e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152813	-3.983188314635318e-17	4.784142170751011e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152808	-3.9734502712318915e-17	5.764355082151626e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152817	-3.9641384581594214e-17	4.804041801733609e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152816	-3.962892603841737e-17	8.086297955714418e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152820	-3.9713329728108477e-17	6.942822632889858e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152803	-3.974163234643305e-17	7.099043350779226e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152815	-3.982942458387744e-17	6.708972834322619e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152801	-3.986473234703122e-17	6.374436045092795e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152814	-3.9335132058268625e-17	9.561449701470915e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152806	-3.963591279713925e-17	7.055024926893309e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152807	-3.9837270082005464e-17	6.297082593544553e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152804	-3.9757992183868974e-17	6.309684370370224e-17
+https://triplydb.com/Triply/linkedmdb/id/performance/152821	-3.998514611753527e-17	4.431755272481301e-17
+http://www.freebase.com/view/guid/9202a8c04000641f800000000026d739	-1.3033221365490263e-19	7.652771670571185e-18
+""	0.0
+Byron Long	6.963872963528632e-18	8.538609613754286e-18
+http://xmlns.com/foaf/0.1/Person	0.005836136661957215	0.020385619445175886
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	-0.0009622019897404483	-0.0003788012839643481
+""	0.0

@@ -1,0 +1,51 @@
+James Hong (Actor)	9.963832054415545e-07	9.948347366129113e-07
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/performance/67745	7.055931947690649e-08	7.055307949101063e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/4330	3.0251550327158595e-08	3.024530636252668e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/47271	4.0327030062647176e-08	4.032078755402582e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/72098	4.029868241031751e-08	4.029243989955158e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/113076	2.0199246584701665e-08	2.0193002412696145e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/133703	5.044201497580069e-08	5.043577330580812e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/53338	2.0198939662622057e-08	2.0192694443963795e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/108710	2.02023561790857e-08	2.0196111997883457e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/42430	2.0211627585032173e-08	2.0205382146898116e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/114086	2.020028508720862e-08	2.019404090968791e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/84785	1.2103274622897614e-07	1.2102651045023177e-07
+https://triplydb.com/Triply/linkedmdb/id/performance/169477	5.041567218847733e-08	5.040943051709119e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/76195	3.0252587948367526e-08	3.0246343976376604e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/174190	2.0197271664474195e-08	2.0191027486982817e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/21286	3.029306864731523e-08	3.028682530611191e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/103177	2.0260011068806122e-08	2.0253766894430226e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/178390	2.0197244538377672e-08	2.0191000358354542e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/182041	3.0236352470770814e-08	3.0230109126140866e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/114242	2.0199236770234164e-08	2.01929925880201e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/46588	2.0198939662531948e-08	2.0192694441424688e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/186592	2.0201456344898396e-08	2.0195210915289546e-08
+""	0.0
+https://triplydb.com/Triply/linkedmdb/id/film/284	4.995187327699183e-06	4.987424045857147e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38069	7.727780258104497e-09	7.715937938827416e-09
+https://triplydb.com/Triply/linkedmdb/id/film/87571	6.706314069818207e-09	6.696058778608888e-09
+https://triplydb.com/Triply/linkedmdb/id/film/2933	3.0025203112389066e-06	2.9978540044301074e-06
+https://triplydb.com/Triply/linkedmdb/id/film/87891	6.72049632216009e-09	6.710219360293839e-09
+https://triplydb.com/Triply/linkedmdb/id/film/18940	2.0006069184935274e-06	1.997497771227998e-06
+https://triplydb.com/Triply/linkedmdb/id/film/53144	6.901934732388469e-09	6.891375307528531e-09
+https://triplydb.com/Triply/linkedmdb/id/film/7150	1.006719096091764e-06	1.005154635596891e-06
+https://triplydb.com/Triply/linkedmdb/id/film/48683	6.871429029526546e-09	6.861022235105846e-09
+https://triplydb.com/Triply/linkedmdb/id/film/91405	6.703627243988151e-09	6.69337605712251e-09
+https://triplydb.com/Triply/linkedmdb/id/film/42553	7.209947284191956e-09	7.198909350799804e-09
+https://triplydb.com/Triply/linkedmdb/id/film/3162	2.9999109953187313e-06	2.995248743847047e-06
+https://triplydb.com/Triply/linkedmdb/id/film/54426	7.004800829404727e-09	6.994081592129395e-09
+https://triplydb.com/Triply/linkedmdb/id/film/22495	1.2920801492098888e-08	1.290088802605464e-08
+https://triplydb.com/Triply/linkedmdb/id/film/11392	9.994700691741667e-06	9.979167236358922e-06
+https://triplydb.com/Triply/linkedmdb/id/film/56456	1.0011012239219282e-06	9.995454941907141e-07
+https://triplydb.com/Triply/linkedmdb/id/film/39946	1.0023068694788279e-06	1.0007492660844697e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38232	1.0024096379149902e-06	1.0008518749206345e-06
+https://triplydb.com/Triply/linkedmdb/id/film/13832	1.999593307829763e-06	1.9964856612537883e-06
+https://triplydb.com/Triply/linkedmdb/id/film/4180	1.997799015876687e-06	1.994694232624153e-06
+https://triplydb.com/Triply/linkedmdb/id/film/54637	6.900962580334155e-09	6.8904046728837415e-09
+https://triplydb.com/Triply/linkedmdb/id/film/48681	6.871429029765152e-09	6.8610222397273315e-09
+http://www.freebase.com/view/guid/9202a8c04000641f80000000006b3a0f	3.3806041481842027e-09	3.375448845275586e-09
+http://xmlns.com/foaf/0.1/Person	-8.653318976891875e-11	1.3822656794847053e-10
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009907038256875424	0.009891640844811646
+James Hong	1.0045552560721397e-06	1.0029955098358558e-06
+38875	3.387378216503988e-09	3.3822125892438918e-09

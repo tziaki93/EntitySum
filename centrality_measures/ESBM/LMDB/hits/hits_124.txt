@@ -1,0 +1,50 @@
+""	0.0
+http://www.freebase.com/view/guid/9202a8c04000641f800000000012b866	4.912343018585433e-09	4.9139655804560324e-09
+https://triplydb.com/Triply/linkedmdb/id/film/2047	7.980692261273744e-06	7.983374879751551e-06
+https://triplydb.com/Triply/linkedmdb/id/film/247	4.006348954813239e-06	4.007695618024904e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38266	9.894213296044605e-09	9.897488974202035e-09
+https://triplydb.com/Triply/linkedmdb/id/film/2740	2.999318026423942e-06	3.000326181484716e-06
+https://triplydb.com/Triply/linkedmdb/id/film/42278	1.0015881327539174e-06	1.0019247613085926e-06
+https://triplydb.com/Triply/linkedmdb/id/film/16872	5.073960878915196e-06	5.075666413700343e-06
+https://triplydb.com/Triply/linkedmdb/id/film/9931	3.99029613024951e-06	3.99163739756779e-06
+https://triplydb.com/Triply/linkedmdb/id/film/87696	9.779985602793583e-09	9.7832229573464e-09
+https://triplydb.com/Triply/linkedmdb/id/film/43033	9.993510009754262e-09	9.996819065337627e-09
+https://triplydb.com/Triply/linkedmdb/id/film/42844	9.794703299161954e-09	9.797945527480181e-09
+https://triplydb.com/Triply/linkedmdb/id/film/9082	4.984793852092937e-06	4.9864694147034615e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38338	1.0310578195814213e-08	1.031399379157374e-08
+https://triplydb.com/Triply/linkedmdb/id/film/42707	1.0012921724755904e-06	1.0016287015370232e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38250	1.1798288463368525e-08	1.1802204145079448e-08
+https://triplydb.com/Triply/linkedmdb/id/film/40001	9.90399744757653e-09	9.907276363963287e-09
+https://triplydb.com/Triply/linkedmdb/id/film/18912	3.002830010649898e-06	3.003839346190349e-06
+https://triplydb.com/Triply/linkedmdb/id/film/41701	9.782923416737035e-09	9.786161743610566e-09
+https://triplydb.com/Triply/linkedmdb/id/film/38394	1.0702499968482516e-08	1.0706047302884637e-08
+https://triplydb.com/Triply/linkedmdb/id/film/8292	5.000244436818399e-06	5.0019251929133635e-06
+https://triplydb.com/Triply/linkedmdb/id/film/6550	6.9918216918676105e-06	6.9941719065035884e-06
+https://triplydb.com/Triply/linkedmdb/id/film/38512	1.1308949818476461e-08	1.1312701015079647e-08
+Elsa Lanchester (Actor)	9.988229776707426e-07	9.991586987600958e-07
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.009897149838111829	0.009900476721329066
+http://xmlns.com/foaf/0.1/Person	-9.640953619228577e-11	6.209955668574692e-11
+Elsa Lanchester	1.0103695947551164e-06	1.0107087467390647e-06
+https://triplydb.com/Triply/linkedmdb/id/performance/20716	2.423222715414353e-08	2.423421194342886e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/74576	5.4475488120552316e-08	5.447747279552325e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/169470	2.42300991315787e-08	2.4232083920630993e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/5261	2.4237855703356405e-08	2.423984068982602e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/39259	5.443999875996829e-08	5.444198343469679e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/53263	2.4231223739290266e-08	2.4233208527293606e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/19149	6.462272856904795e-08	6.46247134037509e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/98114	6.445404710597743e-08	6.445603174011941e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/28916	1.0477786417021931e-07	1.0477984865106308e-07
+https://triplydb.com/Triply/linkedmdb/id/performance/17410	2.423939165074967e-08	2.4241376440211185e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/174234	2.4230069444450888e-08	2.4232054230834993e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/34432	7.465979345663917e-08	7.466177805340192e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/39427	2.4245519957894148e-08	2.4247504746499252e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/61810	7.450366195354682e-08	7.450564655002448e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/31471	3.425250555733155e-08	3.425449030907133e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/94475	2.4230218169268665e-08	2.423220295771322e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/20360	2.423132260979438e-08	2.423330740072558e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/34274	2.4250464830801014e-08	2.4252449615764552e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/177204	7.540471406094057e-08	7.540669865977041e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/22297	9.478511291574507e-08	9.478709743499951e-08
+https://triplydb.com/Triply/linkedmdb/id/performance/63428	3.424951481453068e-08	3.4251499564213646e-08
+30569	4.917751991655017e-09	4.9193763394707776e-09
+""	0.0

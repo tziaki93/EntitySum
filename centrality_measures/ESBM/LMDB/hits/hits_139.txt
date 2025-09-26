@@ -1,0 +1,44 @@
+67878	-5.994751170487833e-20	1.6949503755952246e-18
+Devyn Foster (Actor)	1.2103794269643188e-19	2.2901321528953536e-18
+Devyn Foster	-1.208799019397585e-18	9.987361073146163e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190517	-8.455232963026342e-18	-3.864561719299881e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190522	-8.562903241805665e-18	-6.396797817927304e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190521	-8.360827843604931e-18	-3.188392867999835e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190519	-8.505031256807234e-18	-3.141160590794251e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190527	-8.491475316885476e-18	-1.883886056536732e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190508	-8.159701847578111e-18	-5.844619693868446e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190515	-8.302711697878433e-18	-3.1831429894663983e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190516	-8.54064076496446e-18	-4.163125712315027e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190518	-8.535936593588973e-18	1.0862585961387842e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190513	-8.451183782642656e-18	-4.688697207556344e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190514	-8.321266986675455e-18	-5.077686717726882e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190520	-8.365614180734215e-18	-3.1864868285750385e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190528	-8.263858138068981e-18	-2.6691137917703434e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190524	-8.18726277497597e-18	-5.166800802208358e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190525	-8.282577874043605e-18	9.206762417791542e-19
+https://triplydb.com/Triply/linkedmdb/id/performance/190526	-8.251211114798469e-18	-1.7836876355192403e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190523	-8.487130195962656e-18	-4.6395878060814165e-18
+https://triplydb.com/Triply/linkedmdb/id/performance/190534	-8.171846647001111e-18	-2.3392583648778654e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86571	-7.305884598641414e-20	8.021647033060615e-19
+https://triplydb.com/Triply/linkedmdb/id/film/86572	6.186637828581106e-19	-5.822696887767712e-19
+https://triplydb.com/Triply/linkedmdb/id/film/86568	1.7435332505744063e-19	2.14468791140656e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86574	-2.2367916568258835e-20	3.46664886080424e-18
+https://triplydb.com/Triply/linkedmdb/id/film/81568	4.397009283908113e-19	-2.2963583918151634e-18
+https://triplydb.com/Triply/linkedmdb/id/film/92131	4.439510812491381e-19	1.6946802483512225e-18
+https://triplydb.com/Triply/linkedmdb/id/film/91044	-6.281487421281574e-20	4.958372292063732e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86660	-4.717922625624913e-20	-2.539715994038141e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86573	-1.5360355930235467e-19	6.937531969965522e-19
+https://triplydb.com/Triply/linkedmdb/id/film/89760	2.108446803249311e-19	-2.8395388015793103e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86231	2.45341674520426e-19	3.070175028430732e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86575	3.015522889000402e-19	-1.1499588899861567e-19
+https://triplydb.com/Triply/linkedmdb/id/film/86219	5.233417316348899e-19	-5.063847265404012e-18
+https://triplydb.com/Triply/linkedmdb/id/film/89937	4.438973283753824e-19	1.5447591488684947e-18
+https://triplydb.com/Triply/linkedmdb/id/film/81675	-1.8942307619574648e-19	-5.406578259398427e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86336	4.0717932863367796e-19	3.1623967992042867e-18
+https://triplydb.com/Triply/linkedmdb/id/film/83551	2.3305049656506993e-19	2.507033037357633e-18
+https://triplydb.com/Triply/linkedmdb/id/film/86333	-1.313445127091414e-19	-2.2735480945384952e-18
+http://www.freebase.com/view/guid/9202a8c04000641f8000000012ca2cfe	1.2103794269643188e-19	2.2947927552624556e-18
+http://xmlns.com/foaf/0.1/Person	0.011479504066863815	0.00027209992302085613
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.019674150289813237	0.0028278458771941652
+""	0.0
+""	0.0
