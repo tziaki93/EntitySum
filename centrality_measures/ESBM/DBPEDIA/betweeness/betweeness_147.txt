@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/Sri_Lankan_Civil_War	0.04117561404332915
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	3.470445595457248e-07
+http://dbpedia.org/class/yago/PsychologicalFeature100023100	0.0
+http://schema.org/Event	0.0
+http://www.w3.org/2002/07/owl#Thing	3.470445595457248e-07
+http://dbpedia.org/class/yago/GroupAction101080366	0.536759029511783
+http://dbpedia.org/class/yago/Battle100953559	0.03135063187536249
+http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar	Key not found
+http://dbpedia.org/class/yago/Act100030358	0.0
+http://www.wikidata.org/entity/Q1656682	0.0
+http://dbpedia.org/class/yago/Conflict100958896	0.06394409121880112
+http://dbpedia.org/class/yago/Abstraction100002137	0.0
+http://dbpedia.org/class/yago/Event100029378	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://dbpedia.org/class/yago/MilitaryAction100952963	0.028424056368762267
+http://dbpedia.org/ontology/Event	0.0
+http://dbpedia.org/ontology/MilitaryConflict	0.40919027966078014
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.0
+http://dbpedia.org/class/yago/ConflictsIn2006	Key not found
+Sri Lankan Army victory	7.104146232340051e-11
+Battle of Sampur	0.0
+33 killed (SLA claim)	0.0
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg	3.923916153109024e-05
+2006-08-28	0.0016463777488526785
+http://dbpedia.org/resource/Sri_Lanka	0.4613085264480789
+http://dbpedia.org/resource/Sampur,_Trincomalee	0.0004266845239260869
+http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300	2.4233982369876577e-05
+18pxMilitary of Sri Lanka	7.671944143882434e-10
+Liberation Tigers of Tamil Eelam	1.117162445113447e-06
+http://dbpedia.org/resource/Category:Conflicts_in_2006	0.0003226849272818344
+http://dbpedia.org/resource/Category:2006_in_Sri_Lanka	8.363116920798387e-05
+http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV	5.726809241592234e-05
+Battle of Sampur	0.0

@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Eastern_European_Time	0.055618221205264155
+http://dbpedia.org/resource/Eastern_European_Summer_Time	0.10681064375317467
++3	0.20600365062830572
++2	0.7254839738613389
+http://dbpedia.org/resource/Bulgaria	0.36729913740233844
+Ayrovo	0.0
+Айрово	0.0
+Ayrovo	0.0
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/ontology/Place	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://dbpedia.org/ontology/Village	Key not found
+http://dbpedia.org/ontology/Settlement	0.0
+http://www.wikidata.org/entity/Q486972	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://www.wikidata.org/entity/Q532	Key not found
+http://schema.org/Place	0.0
+http://dbpedia.org/resource/Category:Villages_in_Kardzhali_Province	7.469794019127429e-05
+http://dbpedia.org/resource/Kardzhali_Municipality	0.004952931878292042
+http://dbpedia.org/resource/Kardzhali_Province	0.0021323252070129736

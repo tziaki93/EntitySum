@@ -1,0 +1,22 @@
+http://dbpedia.org/ontology/Event	0.0
+http://www.w3.org/2002/07/owl#Thing	0.0
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event	0.0
+http://dbpedia.org/ontology/SocietalEvent	0.0
+http://www.wikidata.org/entity/Q1656682	0.0
+http://dbpedia.org/ontology/MilitaryConflict	0.9816634492815308
+http://schema.org/Event	0.0
+Battle of Zacatecas	2.6913553626640064e-05
+http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution	0.00032445716313856104
+http://dbpedia.org/resource/Category:1914_in_Mexico	0.00019661873945206828
+http://dbpedia.org/resource/Zacatecas	0.07229983319306867
+http://dbpedia.org/resource/Zacatecas,_Zacatecas	0.0033577072626663172
+Battle of Zacatecas (1914)	0.0
+http://dbpedia.org/resource/Pancho_Villa	0.04454967164196007
+http://dbpedia.org/resource/Luís_Medina_Barrón	0.001388988203396819
+Decisive rebel victory	0.0
+7,000-15,000 (most likely 12,000)	0.0
+over 20,000 (estimate)	0.0
+1,000 (estimate)	0.0
+1914-06-23	0.0004844439652795212
+http://dbpedia.org/resource/Mexican_Revolution	0.137695474662132
+Villistas (followers ofPancho Villa)	Key not found

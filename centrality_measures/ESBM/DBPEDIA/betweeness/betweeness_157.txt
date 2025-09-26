@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/Animal	8.405535743851303e-05
+http://dbpedia.org/resource/Gonyosoma	0.0043817317902537295
+http://www.wikidata.org/entity/Q729	Key not found
+http://dbpedia.org/class/yago/Snake101726692	0.0006608370880851885
+http://dbpedia.org/class/yago/Chordate101466257	0.44437282205473144
+http://dbpedia.org/class/yago/Diapsid101661818	0.005583047899234145
+http://dbpedia.org/class/yago/LivingThing100004258	3.062857101161729e-06
+http://dbpedia.org/class/yago/Reptile101661091	0.02466470317270277
+http://www.wikidata.org/entity/Q19088	Key not found
+http://dbpedia.org/class/yago/ColubridSnake101727646	0.0007914373342618877
+http://www.w3.org/2002/07/owl#Thing	0.00029552944115425033
+http://dbpedia.org/class/yago/Colubrids	Key not found
+http://dbpedia.org/ontology/Eukaryote	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	3.062857101161729e-06
+http://dbpedia.org/class/yago/Whole100003553	3.062857101161729e-06
+http://dbpedia.org/ontology/Animal	4.607615188423351e-05
+http://dbpedia.org/class/yago/Object100002684	3.062857101161729e-06
+http://dbpedia.org/class/yago/Animal100015388	3.062857101161729e-06
+http://dbpedia.org/class/yago/Vertebrate101471682	0.44027807481724124
+http://dbpedia.org/ontology/Reptile	0.08133543230740302
+http://dbpedia.org/ontology/Species	Key not found
+http://dbpedia.org/class/yago/Organism100004475	3.062857101161729e-06
+http://dbpedia.org/resource/Squamata	0.03883482359834517
+http://dbpedia.org/resource/Snake	0.13038323788877063
+http://dbpedia.org/resource/Colubridae	0.04454588721711118
+http://dbpedia.org/resource/Chordate	0.06329862993208595
+http://dbpedia.org/resource/Category:Colubrids	0.005509969480308235
+http://dbpedia.org/resource/Reptile	0.10544512497148038
+Gonyosoma hodgsoni	0.0
+Gonyosoma hodgsoni	0.0
+Elaphe hodgsoni	Key not found

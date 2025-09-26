@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/Henlow_Camp_railway_station	0.035985030239203505
+52.03245 -0.28714	0.0
+SG16	0.002216471846213575
+http://dbpedia.org/resource/Category:Civil_parishes_in_Bedfordshire	0.009065896786201089
+http://dbpedia.org/resource/Category:Villages_in_Bedfordshire	0.0024466227781392304
+TL176385	0.0
+http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)	0.038400608779754646
+http://dbpedia.org/resource/Jim_Watts	0.038565514681146926
+http://dbpedia.org/ontology/Settlement	Key not found
+http://www.w3.org/2002/07/owl#Thing	0.0028976872581001124
+http://dbpedia.org/ontology/PopulatedPlace	0.0
+http://dbpedia.org/ontology/Location	0.0
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.0028976872581001124
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.0
+http://dbpedia.org/class/yago/GeographicalArea108574314	Key not found
+http://dbpedia.org/class/yago/Location100027167	0.0
+http://www.wikidata.org/entity/Q486972	Key not found
+http://dbpedia.org/class/yago/Region108630985	Key not found
+http://dbpedia.org/class/yago/YagoGeoEntity	0.0
+http://dbpedia.org/class/yago/Village108672738	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.0
+http://dbpedia.org/class/yago/Object100002684	0.0028976872581001124
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.002759923416101828
+http://dbpedia.org/class/yago/VillagesInBedfordshire	Key not found
+http://dbpedia.org/class/yago/Settlement108672562	Key not found
+http://dbpedia.org/ontology/Place	0.0
+http://schema.org/Place	0.0
+01462	0.00984163418271404
+-0.28714	Key not found
+52.03245	Key not found
+Henlow	0.0
+http://dbpedia.org/resource/Bedfordshire	0.9507691369881384
+http://dbpedia.org/resource/England	0.0
+http://dbpedia.org/resource/United_Kingdom	0.0
+Henlow	0.0
+3084	0.37379903171367646

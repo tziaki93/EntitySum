@@ -1,0 +1,32 @@
+Tchonoro	0.0
+1.2666667	Key not found
+http://dbpedia.org/ontology/PopulatedPlace	0.001865138462562507
+http://dbpedia.org/class/yago/YagoGeoEntity	0.001865138462562507
+http://dbpedia.org/class/yago/PhysicalEntity100001930	0.001865138462562507
+http://dbpedia.org/class/yago/Object100002684	0.001865138462562507
+http://dbpedia.org/class/yago/PopulatedPlacesInKaraRegion	Key not found
+http://dbpedia.org/class/yago/Region108630985	0.001865138462562507
+http://dbpedia.org/ontology/Place	0.0018162290703412616
+http://schema.org/Place	0.0018162290703412616
+http://dbpedia.org/class/yago/YagoLegalActorGeo	0.001865138462562507
+http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity	0.001865138462562507
+http://dbpedia.org/class/yago/GeographicalArea108574314	0.0
+http://dbpedia.org/class/yago/Location100027167	0.001865138462562507
+http://dbpedia.org/ontology/Settlement	0.0
+http://dbpedia.org/ontology/Location	0.0018162290703412616
+http://www.wikidata.org/entity/Q486972	0.0
+http://dbpedia.org/class/yago/Tract108673395	0.0
+http://dbpedia.org/class/yago/Site108651247	Key not found
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing	0.001865138462562507
+http://www.w3.org/2002/07/owl#Thing	0.03387317334336409
+Tchonoro	0.0
+http://dbpedia.org/resource/Coordinated_Universal_Time	0.6210195853543817
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Togo.svg	0.012281093861406939
+9.35	Key not found
+http://dbpedia.org/resource/Togo	0.6727635824624378
+http://dbpedia.org/resource/Assoli_Prefecture	0.012674606454674548
+http://dbpedia.org/resource/Kachin_State	0.27576638902892364
+http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Togo.svg?width=300	0.010566123285419405
+9.35 1.2666666666666666	7.856317375736117e-08
+http://dbpedia.org/resource/Category:Populated_places_in_Kara_Region	0.009598836550437143
+http://dbpedia.org/resource/Category:Assoli	Key not found

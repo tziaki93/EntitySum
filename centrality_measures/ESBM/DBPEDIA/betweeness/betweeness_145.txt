@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/Category:Musicians_from_Milan	0.07447605690264958
+http://dbpedia.org/resource/Category:Italian_classical_composers	0.10927035563575276
+http://dbpedia.org/resource/Category:1760_deaths	0.23084695338797198
+http://dbpedia.org/resource/Category:Italian_male_classical_composers	0.415496179305445
+http://dbpedia.org/resource/Category:18th-century_classical_composers	0.37254244321537644
+http://dbpedia.org/resource/Category:Italian_male_composers	0.2187448319517341
+http://dbpedia.org/resource/Category:1680s_births	0.11185718378738543
+http://dbpedia.org/resource/Category:Peruvian_composers	0.029173033235537573
+http://dbpedia.org/resource/Category:Baroque_composers	0.005074718351683947
+Roque Ceruti	0.0
+Roque	0.00015298154997360944
+Ceruti	1.2488289793764036e-06
+http://www.wikidata.org/entity/Q215627	Key not found
+http://xmlns.com/foaf/0.1/Person	Key not found
+http://dbpedia.org/ontology/Agent	Key not found
+http://www.wikidata.org/entity/Q5	Key not found
+http://schema.org/Person	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent	Key not found
+http://dbpedia.org/ontology/Person	Key not found
+http://www.w3.org/2002/07/owl#Thing	Key not found
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson	Key not found
+1683	0.0007792692831308759
+1760	0.16882814648512087
+Italian composer	0.0025095218340568824
+Italian composer	0.0025095218340568824
+Ceruti, Roque	Key not found
+Roque Ceruti	0.0
+1760	0.16882814648512087
+1683	0.0007792692831308759
