@@ -1,0 +1,35 @@
+32648	0.0002673119628163098
+https://triplydb.com/Triply/linkedmdb/id/film/12047	0.2222377549879144
+https://triplydb.com/Triply/linkedmdb/id/film/24490	0.00013303121566393474
+https://triplydb.com/Triply/linkedmdb/id/film/63080	0.000715757972971211
+https://triplydb.com/Triply/linkedmdb/id/film/60878	9.247987161168499e-05
+https://triplydb.com/Triply/linkedmdb/id/film/56333	0.00030079189702487356
+https://triplydb.com/Triply/linkedmdb/id/film/64477	0.0008196553655752196
+https://triplydb.com/Triply/linkedmdb/id/film/54902	0.00030114548427727605
+https://triplydb.com/Triply/linkedmdb/id/film/1531	0.00481823279655659
+https://triplydb.com/Triply/linkedmdb/id/film/62972	9.247987161168499e-05
+https://triplydb.com/Triply/linkedmdb/id/film/59061	9.646744213671935e-05
+https://triplydb.com/Triply/linkedmdb/id/film/62997	9.403764687903478e-05
+https://triplydb.com/Triply/linkedmdb/id/film/2473	0.00589196718605067
+https://triplydb.com/Triply/linkedmdb/id/film/61816	0.00010833850273032627
+https://triplydb.com/Triply/linkedmdb/id/film/49130	0.0006519132404067578
+https://triplydb.com/Triply/linkedmdb/id/performance/121912	0.0002423725019386806
+https://triplydb.com/Triply/linkedmdb/id/performance/132536	0.00018109583109732254
+https://triplydb.com/Triply/linkedmdb/id/performance/127572	0.0005647711487589766
+https://triplydb.com/Triply/linkedmdb/id/performance/129624	0.0005809682862451489
+https://triplydb.com/Triply/linkedmdb/id/performance/127454	0.00024557530789905835
+https://triplydb.com/Triply/linkedmdb/id/performance/127422	0.000240516168863568
+https://triplydb.com/Triply/linkedmdb/id/performance/21380	0.00017966380272509139
+https://triplydb.com/Triply/linkedmdb/id/performance/114399	0.0015178103396017786
+https://triplydb.com/Triply/linkedmdb/id/performance/125790	0.00025300064019951067
+https://triplydb.com/Triply/linkedmdb/id/performance/10267	0.002578959693874604
+https://triplydb.com/Triply/linkedmdb/id/performance/124479	0.000240516168863568
+https://triplydb.com/Triply/linkedmdb/id/performance/105895	0.00021065083200316103
+https://triplydb.com/Triply/linkedmdb/id/performance/68310	0.2182408749597197
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.32923729831188137
+http://xmlns.com/foaf/0.1/Person	0.10872808011377681
+""	0.3347668600883135
+Tomokazu Seki (Actor)	4.733859810141449e-06
+http://www.freebase.com/view/guid/9202a8c04000641f800000000028c1a8	0.0
+Tomokazu Seki	9.60746024899279e-05
+""	0.3347668600883135

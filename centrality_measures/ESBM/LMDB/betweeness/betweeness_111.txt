@@ -1,0 +1,27 @@
+https://triplydb.com/Triply/linkedmdb/id/film_format/56	0.02177558752185849
+https://triplydb.com/Triply/linkedmdb/id/writer/15593	0.0005893151294706981
+https://triplydb.com/Triply/linkedmdb/id/writer/16556	0.006193173463350021
+https://triplydb.com/Triply/linkedmdb/id/director/9077	0.007263351691059139
+https://triplydb.com/Triply/linkedmdb/id/film_art_director/2	0.02970652567536217
+Broken Lance	0.00045051684690904786
+1954	0.09425141767440502
+https://triplydb.com/Triply/linkedmdb/id/performance/5456	0.00031197676565366644
+https://triplydb.com/Triply/linkedmdb/id/performance/5458	0.00031387568570244684
+https://triplydb.com/Triply/linkedmdb/id/performance/5454	0.0002702138396888171
+https://triplydb.com/Triply/linkedmdb/id/performance/5457	0.0003098155575288331
+https://triplydb.com/Triply/linkedmdb/id/performance/5455	0.00043256995109233434
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.9888465696888266
+https://triplydb.com/Triply/linkedmdb/id/editor/1708	0.004886998942374192
+https://triplydb.com/Triply/linkedmdb/id/director/9077	0.007263351691059139
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000567f08	0.0
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/1166	0.0005366290493559389
+https://triplydb.com/Triply/linkedmdb/id/actor/33143	0.019088395647266602
+https://triplydb.com/Triply/linkedmdb/id/actor/32491	0.027206457708467646
+https://triplydb.com/Triply/linkedmdb/id/actor/35936	0.003432165796796375
+https://triplydb.com/Triply/linkedmdb/id/actor/30035	0.00520694523583274
+https://triplydb.com/Triply/linkedmdb/id/actor/29794	0.022012045798176935
+1954	0.09425141767440502
+41573	0.0011619592234841268
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5454	0.004905263941373258
+Broken Lance	0.00045051684690904786
+https://triplydb.com/Triply/linkedmdb/id/film_set_designer/2	0.05096201581391271

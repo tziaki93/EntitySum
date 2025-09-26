@@ -1,0 +1,32 @@
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.33245794827471575
+http://xmlns.com/foaf/0.1/Person	0.33245794827471575
+52869	0.00029918223522372184
+Sara Berner	0.000432152117545376
+https://triplydb.com/Triply/linkedmdb/id/performance/145337	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/197575	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/149931	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/168659	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/141962	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/147548	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/145366	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/145202	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/145694	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/145237	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/145767	0.00029918223522372184
+https://triplydb.com/Triply/linkedmdb/id/performance/149944	0.00029918223522372184
+Sara Berner (Actor)	3.3242470580413535e-05
+http://www.freebase.com/view/guid/9202a8c04000641f8000000006b4f1f3	3.3242470580413535e-05
+""	0.32926667109899604
+https://triplydb.com/Triply/linkedmdb/id/film/44517	0.0004653945881257895
+https://triplydb.com/Triply/linkedmdb/id/film/38388	0.0013961837643773685
+https://triplydb.com/Triply/linkedmdb/id/film/43693	0.0003989096469649624
+https://triplydb.com/Triply/linkedmdb/id/film/50896	0.00036566717638454886
+https://triplydb.com/Triply/linkedmdb/id/film/83088	0.00036566717638454886
+https://triplydb.com/Triply/linkedmdb/id/film/48308	0.00033242470580413535
+https://triplydb.com/Triply/linkedmdb/id/film/12950	0.000498637058706203
+https://triplydb.com/Triply/linkedmdb/id/film/1288	0.0005318795292866166
+https://triplydb.com/Triply/linkedmdb/id/film/14907	0.00023269729406289475
+https://triplydb.com/Triply/linkedmdb/id/film/12394	0.0005983644704474437
+https://triplydb.com/Triply/linkedmdb/id/film/40943	0.00036566717638454886
+https://triplydb.com/Triply/linkedmdb/id/film/15323	0.0007645768233495113
+""	0.32926667109899604

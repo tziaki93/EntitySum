@@ -1,0 +1,34 @@
+https://triplydb.com/Triply/linkedmdb/vocab/Actor	0.31685041266326514
+http://xmlns.com/foaf/0.1/Person	0.11267791224881361
+34577	0.00023846863416868798
+""	0.33368900164780685
+http://www.freebase.com/view/guid/9202a8c04000641f80000000003be85d	1.372781581978723e-07
+""	0.33368900164780685
+https://triplydb.com/Triply/linkedmdb/id/performance/43959	0.017438524151960774
+https://triplydb.com/Triply/linkedmdb/id/performance/22244	0.01761526374040163
+https://triplydb.com/Triply/linkedmdb/id/performance/40313	0.011658063996248767
+https://triplydb.com/Triply/linkedmdb/id/performance/64965	0.0403917122034449
+https://triplydb.com/Triply/linkedmdb/id/performance/40312	0.011700868424200147
+https://triplydb.com/Triply/linkedmdb/id/performance/40275	0.037482378365646433
+https://triplydb.com/Triply/linkedmdb/id/performance/124550	0.00585366104391295
+https://triplydb.com/Triply/linkedmdb/id/performance/178186	0.005923198083670204
+https://triplydb.com/Triply/linkedmdb/id/performance/40276	0.008289795733193535
+https://triplydb.com/Triply/linkedmdb/id/performance/119836	0.006530719504204315
+https://triplydb.com/Triply/linkedmdb/id/performance/120141	0.00585366104391295
+https://triplydb.com/Triply/linkedmdb/id/performance/48963	0.02443094068353423
+https://triplydb.com/Triply/linkedmdb/id/performance/40281	0.02962338247819617
+https://triplydb.com/Triply/linkedmdb/id/film/39205	0.0062158723633608465
+https://triplydb.com/Triply/linkedmdb/id/film/10004	0.006216626594941132
+https://triplydb.com/Triply/linkedmdb/id/film/5509	0.012491120370660717
+https://triplydb.com/Triply/linkedmdb/id/film/42370	0.004867679360595255
+https://triplydb.com/Triply/linkedmdb/id/film/1044	0.03592667000824668
+https://triplydb.com/Triply/linkedmdb/id/film/6563	0.03350645500027404
+https://triplydb.com/Triply/linkedmdb/id/film/15764	0.02562861021484092
+https://triplydb.com/Triply/linkedmdb/id/film/7238	0.01847779047006711
+https://triplydb.com/Triply/linkedmdb/id/film/57806	0.00010960558482891211
+https://triplydb.com/Triply/linkedmdb/id/film/6025	0.012222932186878359
+https://triplydb.com/Triply/linkedmdb/id/film/57576	0.001471844204258035
+https://triplydb.com/Triply/linkedmdb/id/film/87493	0.00023967938528455878
+https://triplydb.com/Triply/linkedmdb/id/film/60932	0.00010960558482891211
+James Naughton	0.07481923850328039
+James Naughton (Actor)	7.194331983088573e-05

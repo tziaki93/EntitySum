@@ -1,0 +1,35 @@
+https://triplydb.com/Triply/linkedmdb/id/director/9690	0.0007753816331475648
+https://triplydb.com/Triply/linkedmdb/id/film_film_distributor_relationship/10936	0.0003876908165737824
+https://triplydb.com/Triply/linkedmdb/id/performance/4347	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/performance/4346	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/performance/4344	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/performance/4343	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/performance/118676	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/performance/4345	0.0004361521686455052
+2002-01-11	0.0003876908165737824
+https://triplydb.com/Triply/linkedmdb/id/actor/47098	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/actor/34874	0.0009207656893627332
+https://triplydb.com/Triply/linkedmdb/id/actor/39434	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/actor/44171	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/actor/44189	0.0004361521686455052
+https://triplydb.com/Triply/linkedmdb/id/actor/29669	0.0014053792100799612
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/371	0.00033922946450205957
+https://triplydb.com/Triply/linkedmdb/id/producer/10869	0.00048461352071722797
+https://triplydb.com/Triply/linkedmdb/id/producer/1181	0.0002907681124303368
+https://triplydb.com/Triply/linkedmdb/id/editor/318	0.00033922946450205957
+https://triplydb.com/Triply/linkedmdb/id/editor/2398	0.0003876908165737824
+http://www.lingvoj.org/lingvo/en	0.48471044342137143
+https://triplydb.com/Triply/linkedmdb/id/production_company/86	0.005088441967530894
+https://triplydb.com/Triply/linkedmdb/id/film_cut/867	0.0002907681124303368
+http://www.rottentomatoes.com/alias?type=imdbid&s=0303356	9.69227041434456e-05
+http://www.imdb.com/title/tt0303356	0.0001453840562151684
+http://www.freebase.com/view/guid/9202a8c04000641f80000000005646e7	9.69227041434456e-05
+Biggie & Tupac	0.0006299975769323964
+https://triplydb.com/Triply/linkedmdb/id/interlink/136276	0.00033922946450205957
+2002-01-11	0.0003876908165737824
+2572	0.008626120668766658
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.4846619820692997
+https://triplydb.com/Triply/linkedmdb/id/director/9690	0.0007753816331475648
+108	0.05577901623455294
+https://triplydb.com/Triply/linkedmdb/id/cinematographer/183	0.00048461352071722797
+Biggie & Tupac	0.0006299975769323964

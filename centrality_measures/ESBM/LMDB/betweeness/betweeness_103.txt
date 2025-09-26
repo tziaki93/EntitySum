@@ -1,0 +1,26 @@
+https://triplydb.com/Triply/linkedmdb/id/director/2930	0.00020988542197755735
+Briana Loves Jenna	0.00021013159468250906
+http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna	5.9943897846885976e-05
+14299	0.001507335852484333
+2001,2001-11-27	9.924180583093606e-06
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.24652434080177604
+Briana Loves Jenna	0.00021013159468250906
+https://triplydb.com/Triply/linkedmdb/id/actor/30040	0.000869443887214608
+https://triplydb.com/Triply/linkedmdb/id/actor/39031	0.00030346837898471713
+https://triplydb.com/Triply/linkedmdb/id/actor/31497	0.00030346837898471713
+https://triplydb.com/Triply/linkedmdb/id/actor/32619	0.00020353904765241576
+https://triplydb.com/Triply/linkedmdb/id/performance/70953	0.0001855680415162484
+https://triplydb.com/Triply/linkedmdb/id/performance/72536	0.00019363392224245972
+https://triplydb.com/Triply/linkedmdb/id/performance/55464	0.0001936667888679041
+https://triplydb.com/Triply/linkedmdb/id/performance/72396	0.0001936667888679041
+2001,2001-11-27	9.924180583093606e-06
+http://www.lingvoj.org/lingvo/en	0.2533770322069249
+https://triplydb.com/Triply/linkedmdb/id/interlink/43285	0.0001833661900166273
+https://triplydb.com/Triply/linkedmdb/id/interlink/24752	0.00020829716874743817
+https://triplydb.com/Triply/linkedmdb/id/interlink/6219	0.00020829716874743817
+https://triplydb.com/Triply/linkedmdb/id/interlink/145197	0.006856176910777232
+https://triplydb.com/Triply/linkedmdb/id/interlink/74894	0.00024998519646106696
+https://triplydb.com/Triply/linkedmdb/id/director/2930	0.00020988542197755735
+https://triplydb.com/Triply/linkedmdb/id/producer/5952	0.00017481371314398132
+https://triplydb.com/Triply/linkedmdb/id/producer/9896	0.00016642377796529284
+http://www.freebase.com/view/guid/9202a8c04000641f80000000055827c2	9.924180583093606e-06

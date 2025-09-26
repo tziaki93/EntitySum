@@ -1,0 +1,24 @@
+41408	0.0012439000824824504
+https://triplydb.com/Triply/linkedmdb/id/director/8475	0.004674218060655338
+https://triplydb.com/Triply/linkedmdb/id/performance/35123	0.00032518045419570253
+https://triplydb.com/Triply/linkedmdb/id/performance/35120	0.00033068072520144867
+https://triplydb.com/Triply/linkedmdb/id/performance/35119	0.002323099277061434
+https://triplydb.com/Triply/linkedmdb/id/performance/35122	0.001733463527321906
+https://triplydb.com/Triply/linkedmdb/id/performance/35121	0.00032575456192607906
+https://triplydb.com/Triply/linkedmdb/id/music_contributor/5266	0.02144193195086443
+https://triplydb.com/Triply/linkedmdb/id/editor/29	0.004355382916377461
+https://triplydb.com/Triply/linkedmdb/id/producer/10319	0.008548154725029603
+The Spiral Staircase	0.00266954672496515
+1946-02-06	4.7893342662965314e-05
+https://triplydb.com/Triply/linkedmdb/vocab/Film	0.9977601960687185
+The Spiral Staircase	0.00266954672496515
+https://triplydb.com/Triply/linkedmdb/id/writer/1354	0.005227021241986008
+https://triplydb.com/Triply/linkedmdb/id/writer/16174	0.0006213886914604126
+https://triplydb.com/Triply/linkedmdb/id/director/8475	0.004674218060655338
+1946-02-06	4.7893342662965314e-05
+https://triplydb.com/Triply/linkedmdb/id/actor/33562	0.014282984710911346
+https://triplydb.com/Triply/linkedmdb/id/actor/30867	0.0035434879656179455
+https://triplydb.com/Triply/linkedmdb/id/actor/36329	0.007018544059765276
+https://triplydb.com/Triply/linkedmdb/id/actor/32009	0.008802255466589451
+https://triplydb.com/Triply/linkedmdb/id/actor/36306	0.09284960308426084
+http://www.freebase.com/view/guid/9202a8c04000641f8000000000527d33	0.0
