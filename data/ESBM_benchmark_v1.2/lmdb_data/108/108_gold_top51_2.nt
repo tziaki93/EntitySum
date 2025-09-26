@@ -1,0 +1,5 @@
+A Man, a Real One <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> film.
+A Man, a Real One <http://purl.org/dc/terms/date> 2003-05-28.
+A Man, a Real One <http://data.linkedmdb.org/resource/movie/producer> Philippe Martin (Producer).
+A Man, a Real One <http://data.linkedmdb.org/resource/movie/genre> Drama (Film Genre).
+A Man, a Real One <http://data.linkedmdb.org/resource/movie/country> France (Country).
