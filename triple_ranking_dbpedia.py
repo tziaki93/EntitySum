@@ -152,11 +152,11 @@ def triple_ranking_dbpedia(measure,prop_measure):
             
             if object_counts[object_uri1]>1:
                 for x in range(len(top_objects)):
-                    if object_uri1 == top_objects[x][0] and object_uri4!=top_predicates4[x][1]:#tsekarw an ta object einai idia
+                    if object_uri1 == top_objects[x][0] and object_uri4!=top_predicates4[x][1]:#check if object are the same
                         
                        # print( object_uri1,temp1, top_objects[x][1]+top_predicates4[x][1]) 
                         if temp1 < top_objects[x][1]+top_predicates4[x][1]:
-                            #print( object_uri1,temp1)#typwnw ta idia
+                            #print( object_uri1,temp1)#print the same
                             temp = 0.0
                          #   print(object_uri1,temp,temp1)
                         elif temp1 == top_objects[x][1]+top_predicates4[x][1]:
@@ -275,3 +275,4 @@ def triple_ranking_dbpedia(measure,prop_measure):
    # print('total NDCG(top10): ',total_ndcg10 / 125)
 
 #triple_ranking_dbpedia('radiality','InfrequentPropertiesContext')
+
