@@ -141,7 +141,7 @@ def triple_ranking_lmdb(measure,prop_measure):
                 for x in range(len(top_objects)):#ayto to ekana gia na mhn ksepernaw to +1
                 #        if x+1==len(top_objects):
                                # break
-                    if object_uri1 == top_objects[x][0] and object_uri4!=top_predicates4[x][1]:#tsekarw an ta object einai idia
+                    if object_uri1 == top_objects[x][0] and object_uri4!=top_predicates4[x][1]:#check if objects are the same
                        # print( object_uri1,temp1, top_objects[x][1]+top_predicates4[x][1]) 
                         if temp1 < top_objects[x][1]+top_predicates4[x][1]:
                         #    print( object_uri1,temp1)
@@ -263,5 +263,6 @@ def triple_ranking_lmdb(measure,prop_measure):
     #print('total F-measure:', total / 50)
   #  print('total MAP: ',total_map / 50)
   #  print('total NDCG(top10): ',total_ndcg10 / 50)
+
 
 #triple_ranking_lmdb('hits','InfrequentPropertiesContext')
